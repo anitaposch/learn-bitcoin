@@ -28,8 +28,8 @@
 710-wallet-navigator.md
 720-strategy.md
 800-Using-Bitcoin.md
-1300-earn-bitcoin.md
-1500-The-future.md
+810-earn-bitcoin.md
+820-The-future.md
 2000-backmatter.md
 2001-glossary.md
 3000-endnotes.md
