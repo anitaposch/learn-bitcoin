@@ -2,7 +2,7 @@
 > "Bitcoin is an opt-in system. You choose to use it. You choose what apps you're going to run. You choose who you're going to interact with. You choose the rules of the game by which you're going to interact. That's why bitcoin is going to win. It delivers innovation that consumers want and need." - **Andreas M. Antonopoulos**
 
 ### A paradigm shift
-I'm a digital native in a Gen X body. I can remember life without the internet, even without a VCR. We had one TV station in Austria, that was it. My parents got our first landline phone when I was 12. At 14 I used my first computer, in 1997 I installed my first internet connection and email at home. That same year there were only 1 million websites globally and Google and Amazon did not exist.
+I'm a digital native in a Gen X body. I can remember life without the internet, even without a VCR. We had one TV station in Austria, that was it. My parents got our first landline phone when I was 12. At 14 I used my first computer, in 1997 I installed my first internet connection and email at home. That same year there were only 1 million websites globally and Google and Amazon did not exist internationally.
 
 A lot of people dismissed the internet as a trend that will go away. In 1995, US astronomer and author Clifford Stoll wrote an article for Newsweek titled "The Internet? Bah!" 
 
