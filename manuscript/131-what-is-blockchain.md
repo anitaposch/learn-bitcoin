@@ -7,7 +7,7 @@ Since the word blockchain has become the commonly used term, I will follow suit 
 
 The Bitcoin blockchain data is transparent and public. If you make a transaction you can look it up in a Bitcoin explorer, which is like a search engine that crawls the database of transactions as opposed to web pages. You can see the value on a bitcoin address that is recorded on the blockchain. With your private keys, the blockchain equivalent of your password, you have access and can move the value on the blockchain to another address. 
 
-The Bitcoin blockchain belongs to no one, anyone can download it and store it on their own computer. With this "full node" you also contribute to the strengthening of the Bitcoin network. Why? With more live copies of the blockchain, the network becomes less susceptible to attacks.
+The Bitcoin blockchain belongs to no one, anyone can download it and store it on their own computer. With this "full node" you also contribute to the strengthening of the Bitcoin network. Why? By verifying your own copy of the blockchain, you are not trusting anyone else to be honest with you. The more people who do this, the more distributed and robust the Bitcoin network becomes.
 
 **Open and permissioned blockchains**
 

@@ -46,9 +46,9 @@ In case of a bear market, when the price of bitcoin inevitably goes down, you wi
 
 ### No recourse
   
-_If you send bitcoin to the wrong address or miss a digit while entering the address, they are lost. You can't get them back._
+_If you send bitcoin to the wrong address, they are lost. You can't get them back._
 
-Triple-check the address before you send bitcoin. You can't reverse a payment. As with fiat money, in case you bought something at an online store and return the product, it's the store's business responsibility to handle the bitcoin and send it back to you.
+Triple-check the address before you send bitcoin. You can't reverse a payment. As with fiat money, in case you bought something at an online store and return the product, it's the store's business responsibility to handle the bitcoin and send it back to you. However, a simple mistyping of an address should result in an error rather than lost funds, as addresses include integrity checks.
 
 ### No safety net
 

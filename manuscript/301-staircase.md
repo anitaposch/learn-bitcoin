@@ -25,7 +25,7 @@ Stephanie Murphy, Co-host of the "Speaking of Bitcoin" podcast, frames the finan
 
 ![3 steps to financial sovereignty](resources/_staircase-sovereignty-3-steps.png)
 
-**Groundfloor** You are a precoiner, since your read my book you are interested in Bitcoin, but do not own any. 
+**Groundfloor** You are a precoiner, since you read my book you are interested in Bitcoin, but do not own any. 
 
 **1st floor** You are getting to know BTC with a custodial solution on a centralized exchange, you don't control any of the keys. You have some independence because you're invested in a cryptocurrency and not solely fiat anymore. But it's not a lot of independence because you rely on a third party, which comes with the counter-party risks mentioned above. You are on the **"not your keys, not your coins" level**.
 

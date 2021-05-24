@@ -1,10 +1,10 @@
 # Praise
 
-> "Anita Posch is one of the most productive and insightful German voices in the bitcoin space. Her work makes bitcoin approachable, understandable and compelling to those who are new to bitcoin and helps them on their journey to become experts. In an environment filled with noise, her work is crystal clear and honest." - **Andreas M. Antonopoulos, author "Mastering Bitcoin" and "The Internet of Money"**
+> "Anita Posch is one of the most productive and insightful German voices in the Bitcoin space. Her work makes Bitcoin approachable, understandable and compelling to those who are new to Bitcoin and helps them on their journey to become experts. In an environment filled with noise, her work is crystal clear and honest." - **Andreas M. Antonopoulos, author "Mastering Bitcoin" and "The Internet of Money"**
 
-> "Anita has done tremendous work in the bitcoin community, including and especially the content she has produced about Bitcoin’s use in less-privileged regions of the world. Her book is a concise and approachable introduction to Bitcoin that covers all of the major topics for someone to get started." - **Lyn Alden, Investment Strategist**
+> "Anita has done tremendous work in the Bitcoin community, including and especially the content she has produced about Bitcoin’s use in less-privileged regions of the world. Her book is a concise and approachable introduction to Bitcoin that covers all of the major topics for someone to get started." - **Lyn Alden, Investment Strategist**
 
-> "Buying Bitcoin is easier than ever today. Storing your own bitcoin long-term and safely requires a minimum of technical and economic understanding. This book provides the necessary basics to keep you in control of your money. Wherever the Bitcoin journey takes us, investing in this book is a sure win." - **Johannes Grill, President Bitcoin Austria, NPO**
+> "Buying bitcoin is easier than ever today. Storing your own bitcoin long-term and safely requires a minimum of technical and economic understanding. This book provides the necessary basics to keep you in control of your money. Wherever the Bitcoin journey takes us, investing in this book is a sure win." - **Johannes Grill, President Bitcoin Austria, NPO**
 
 
 **more recommendations to come**

@@ -21,7 +21,7 @@ Use secure passwords for all online services. Your birthday, place of residence,
 
 Use a different password for each website on which you log in. Otherwise, a hacker with only one password can enter all the services you are registered with. Do not store these passwords in a Word file or anything like that on your computer. A Word document is easy for hackers to steal and read. 
 
-You can use software like 1Password, Bitwarden or KeePass (free and Open Source). These are encrypted password databases, where you can store all your passwords and you only need to remember one password to open it.
+You can use software like 1Password, Bitwarden or KeePass (free and Open Source). These are encrypted password databases, where you can generate and store all your passwords and you only need to remember one password to open it.
 
 ### PIN
 Setup a PIN for your wallet software so that no one can easily open your wallet on your device. 
@@ -30,9 +30,9 @@ Setup a PIN for your wallet software so that no one can easily open your wallet 
 Use a 2 factor authentication method to secure your accounts. Do not use SMS / text as the 2 factor authentication method because of SIM swapping attacks. Instead, install an authenticator app like andOTP or TOTP on your phone.
 
 ### SIM swapping
-SIM swapping is when someone hijacks your SIM and telephone number. Then they can use your phone number to login to all connected accounts where you activated 2 factor authentication with text/SMS. SIM swapping is an attack to get to your primary email address. If the attackers can access your primary email that is associated with 2FA to your phone number, they can find all Bitcoin exchange accounts you are using with 2FA and wipe them out.
+SIM swapping is when someone hijacks your SIM and telephone number. Then they can use your phone number to login to all connected accounts where you activated 2 factor authentication with text/SMS. SIM swapping is an attack to get into your primary email account. If the attackers can access your primary email that is associated with 2FA to your phone number, they can find all Bitcoin exchange accounts you are using with 2FA and wipe them out.
 
-The attack is started by calling customer service at your telecom provider (Verizon, Vodafone, AT & T, Magenta,...). They say something along the lines of "I am the owner of the phone number, I lost my phone please port my number to my new SIM". The customer service person will ask for a PIN or a security word. The attackers will then try a lot of tricks. They badger the support person, get a small information, hang up and call someone else and use that snippet of information to build to the next level, get more information and build so long until they have enough information so that they can persuade the last person that they are the account owner and get the SIM ported. 
+The attack is started by calling customer service at your telecom provider (Verizon, Vodafone, AT & T, Magenta,...). They say something along the lines of "I am the owner of the phone number, I lost my phone please port my number to my new SIM". The customer service person will ask for a personal information to verify your identity. The attackers will then try a lot of tricks. They badger the support person, get a small information, hang up and call someone else and use that snippet of information to build to the next level, get more information and build so long until they have enough information so that they can persuade the last person that they are the account owner and get the SIM ported. 
 
 They will go after all crypto exchanges where you might have set up an account with your email address and phone number.
 
