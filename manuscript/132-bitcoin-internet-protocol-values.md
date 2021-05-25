@@ -5,7 +5,7 @@ Bitcoin is more than a digital coin or an internet-native money. It is public in
 A protocol governs the exchange of information or procedures. Language is a protocol. When I speak and take a short break, my counterpart knows that she can speak now. Every word in a conversation has a meaning, every expression changes the tone of a conversation. The human language protocol regulates the communication between two or more people. Computers also talk to each other. For example, their protocols are SMTP for email transmission, FTP for sending files, or HTTPS for visiting web pages. The respective protocol determines the way in which data is exchanged with each other so that one computer can understand the other.
 
 ### Internet protocol stack
-The Bitcoin protocol can be compared to the structure of the internet protocol. 
+The Bitcoin protocol can be compared to the structure of the internet protocol stack. 
 
 ![Bitcoin is a common good](resources/Bitcoin-protocol.png)
 Source: Illustration Anita Posch, inspired by Melanie Swan: https://www.slideshare.net/lablogga/bitcoin-and-blockchain-explained-cryptocitizen-smartnetwork-trust

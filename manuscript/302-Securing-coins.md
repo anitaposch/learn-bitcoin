@@ -6,7 +6,7 @@ To buy, use and store bitcoin, you will need:
 
 * Bitcoin wallet = your digital money deposit box. A more precise analogy is a digital key-chain for your moneyboxes.
 * Bitcoin addresses = one or more unique addresses for your funds on the blockchain, your receiving addresses (more precisely an unspent transaction output UTXO) 
-* Seed = the recovery password for your Bitcoin wallet. 
+* Seed = the recovery data for your Bitcoin wallet. 
 
 ### Bitcoin Wallet
 Think of a wallet like a public lock-box with multiple sections. Anyone can deposit money in each of the sections. Only the owner of the private keys can unlock a section and move the money it holds. Your Bitcoin wallet consists of all the sections and holds all the private keys to unlock them. Private keys and Bitcoin addresses are generated from the seed. The seed is the root of all keys and addresses, it's like a bucket in which all your private keys are stored. 
