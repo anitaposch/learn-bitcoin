@@ -1,4 +1,4 @@
-# Invest in Bitcoin
+# How to Invest in Bitcoin
 In this chapter we will explore the different ways you can obtain bitcoin. In general this is through buying bitcoin by exchanging for fiat currency or by earning it. The methods differ by their level of self-sovereignty and privacy you can achieve. 
 
 ## Buying bitcoin - custodial
