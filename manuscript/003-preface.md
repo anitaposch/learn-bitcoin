@@ -15,7 +15,7 @@ Special thanks to Michael Parenti, Johannes Grill, my friends at "Bitcoin Austri
 Unless otherwise noted, the contents of this book are Copyright 2021 by Anita Posch and licensed [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Please give attribution by linking to the https://anitaposch.com website.
 
 
-# Preface
+# Foreword
 
 _**OPEN**_
 
