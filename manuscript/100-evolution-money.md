@@ -36,6 +36,8 @@ Rai stones were brought to Yap via boat and, due to their size and weight, Rai s
 
 This is particularly important, because it demonstrates a naturally occurring use of a ledger of transactions. This ledger was shared orally between the inhabitants, attributed ownership and delegated property without a single stone moving, because everyone agreed on it and formed a consensus. This is how we can compare the functions of the Bitcoin blockchain; it is a shared ledger of all transactions, stored simultaneously on thousands of computers (nodes) globally. [^^C1-2]
 
+Another similarity to Bitcoin is the creation of Rai stone, which was work intense and a form of Proof-of-Work. The stones were carved out with hand tools, quarried over sea and brought to the island via canoe. Once the Rai stones became easy to manufacture with modern techniques, they became less useful as money, because they were no longer a reliable signpost of energy spent. 
+
 Rai stones have been viewed by modern economists as a primitive form of money, and are often used as an example to support the thesis that the value of some form of money can be assigned purely through shared belief in said value.[^^C1-3] Today's money is not backed by anything too, it's in fact established and declared legal tender by government regulation and, because of that, it is the medium of account we use and therefore it has value. 
 
 
@@ -50,6 +52,8 @@ There are 180 currencies that are used in 195 countries around the world. A curr
 All 180 currencies such as the US Dollar, the Euro, the Yen and the Pound Sterling can be defined as being within the category named 'fiat money'. Since 1971, none of these fiat currencies are backed by gold or by any other tangible asset. Money has value because we believe in it. Money is a language to express how valuable something is socially. The word fiat stems from Latin and means "let it be done". Current money is created through an entry in a digital ledger, it is a number in an accounting system. There is no creation of real-world productivity behind it. 
 
 Who is in charge of the creation of money? It’s a mix of governments and central banks together with commercial banks. It’s a centralized, hierarchical system with gatekeepers. There is no agreement on a supply limit or emission rate.
+
+Fiat is "money by decree", it's coercively managed through the state's implicit threat of violence. The value is being maintained by the creation of an endless tax liability that you can only satisfy with fiat money and by state-administered security markets as well as legal tender laws and tax policy.
 
 * Money is created by central banks in the form of paper money and coins. 
 * Central banks buy assets and bonds from the open market, money flows into the system. 
@@ -81,7 +85,9 @@ Naomi Prins' book tapped into the psyche of Wall Street, revealing how the very 
 
 Let's take the US Dollar as an example for all fiat currencies. The more USD are available, the less value a single note has because of money supply inflation. Imagine a banknote as a commodity like copper. If there is more copper on the market than there is demand, the price of copper is falling; its value is decreasing. The same is true for your banknote. The value of fiat currencies is determined by supply and demand too. If you increase the supply and the demand stays the same, the value of one unit decreases. 
 
-The amount of currency in circulation in the US was **19.7 trillion USD** in February, 2021. [^^C1-6]
+M2 is the money supply that includes notes, coins and bills (a relatively small portion), bank reserves at the central bank, commercial bank deposits, money market securities, mutual funds and other time deposits. M2 is closely watched as an indicator of money supply and future inflation, and as a target of central bank monetary policy.
+
+The amount of M2 currency in circulation in the US was **19.7 trillion USD** in February, 2021. [^^C1-6] Look at the growth in 2020.
 
 ![M2 Money Stock Growth USA, 2021 ](resources/_M2-money-stock-US-2021.png)
 
@@ -91,7 +97,7 @@ Each individual unit of fiat currency has degraded about 99% in value or more ov
 
 Adding to money supply inflation is the fact that the population in the US and other western nations is not growing at the same rate as the money supply. "US population used to grow at maybe 1.5% per year, and now grows at more like 0.5% per year. That's pretty important. Meanwhile, broad money supply is up 25% year over year, and is on track to be up 75%+ over a rolling 5-year period in the future." [^^C1-8]
 
-Since the value of money has declined, the prices for goods went up as you can see in the Consumer Price Index of the US.
+Strictly speaking, inflation occurs when the money supply outstrips nominal GDP growth, which consists of population and productivity growth. The Consumer Price Index of the USA shows that the prices for goods went up since the value of money has declined.
 ![Consumer Price Index US 2020](resources/_Consumer-Price-index-US-2021.png) [^^C1-9]
 
 
