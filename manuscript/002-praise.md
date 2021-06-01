@@ -6,14 +6,18 @@
 
 > "What is Bitcoin?" To even begin to start answering this question, one must first ask "what is money?" Anita takes the reader through this journey of learning about money so that they can understand why Bitcoin is the next leap forward in financial technology. Once you know the "why?" then there is the issue of "how?" With great sovereignty comes great responsibility; in order to safely navigate this new system you’ll need the knowledge and tools that this book provides." - **Jameson Lopp, Co-founder & CTO, Casa**
 
+> "Anita is one of the preeminent Bitcoin educators, demonstrating an unmatched breadth of interest and curiosity. Her book is a fitting summary to her tireless work, and represents an invaluable contribution to the ever-growing and rich body of knowledge surrounding Bitcoin." - **Nic Carter, Partner, Castle Island Ventures**
+
+> "Anita has distilled what has taken most Bitcoiners years to learn (myself included) into a few hour read. The masterful organization and flow from one subject area to the next actually make Bitcoin seem simple to explain. It is hard to believe she is able to tackle the enormity of Bitcoin in so few pages. Anita handily dispels the ill-informed criticism in the west that Bitcoin is a solution in search of a problem. She gives numerous clear and understandable examples of how Bitcoin improves the lives of those who have been excluded and/or enslaved by the current financial system. This book is a must read for government official and non-profits who want to really understand why projects like Bitcoin Beach can bring economic empowerment instead of the economic dependence that often results from fiat-based development efforts." - **Michael Peterson, Bitcoin Beach**
+
+> "Anita Posch is one of the inspiring voices in the Bitcoin sphere. Her inclusive approach and engaging writing style will offer an easy start for a novice as well as experienced bitcoiners and crypto-folks. Great reading for anyone interested in all things crypto." - **Jukka Blomberg, Chief Marketing Officer, LocalBitcoins**
+
+> "It has been great to see Anita's journey over the past several years, speaking to and learning from the best in the industry, all around the world, and making it accessible to beginners. One of the hardest workers in the space, and a great person to learn from!" - **Hass McCook, Engineer and Bitcoin Evangelist**
+
+> "...." - Alena Vranova
+> "...." - Alyse Killeen
+> 
+
 > "Buying bitcoin is easier than ever today. Storing your own bitcoin long-term and safely requires a minimum of technical and economic understanding. This book provides the necessary basics to keep you in control of your money. Wherever the Bitcoin journey takes us, investing in this book is a sure win." - **Johannes Grill, President Bitcoin Austria, NPO**
-
-**more testimonials to come**
-Alena Vranova, Nic Carter, ...
-
-
-> "Cryptos and blockchain are among the disruptive technologies that have come to stay and that will turn things upside down in the future. If you want to understand why this is the case, you can't avoid a certain basic knowledge. This book has everything it takes and is easy to read. Amazing!" - **Daniela Schlicht, Editor**
-
-> "Enter the world of Bitcoin! Anita Posch's (L)earn Bitcoin is an ideal starting point for Bitcoin-interested people with and without prior knowledge."* -**Vitus Zeller, entrepreneur and initiator Team Satoshi**
 
 
