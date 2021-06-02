@@ -70,10 +70,22 @@ There are a variety of use cases for Liquid:
 
 Liquid shows that you can do anything with Bitcoin. You don't need a new blockchain or a new token. The native currency of Liquid is L-BTC, where you lock in your bitcoin and get the same amount of L-BTC for it. Therefore there will be only 21 million L-BTC ever. Liquid transactions are cheaper, faster and more private than bitcoin transactions. The third-parties that sign transactions are the trade-off. They can make Liquid vulnerable to censorship.
 
+#### RGB
+RGB is a smart contract system, working on Layer 2 and 3 on top of Bitcoin and the Lightning Network. It is designed with confidentiality and scalability in mind.
+
+Possible use cases are:
+-   Issue digital fungible assets, like stock, bonds and other forms of securities
+-   Create different forms of collectibles (non-fungible assets)
+-   Create and manage sovereign/decentralized identities
+-   Design and run other forms of arbitrary-complex smart contracts
+
+By their abilities RGB smart contracts go beyond what is possible with Ethereum-like smart contract systems, providing more layered, scalable, private and safe approach, where the ownership of the smart contract state is separated from the smart contract creation.
+
+
 ## NFTs
 The other category that I think is extremely interesting is NFTs, or non-fungible tokens. These are tokens that, instead of representing units of currency, represent unique objects, items, or properties in the form that is distinguishable from one another and are therefore non-fungible. So let's think of an art piece that is represented by a deeds document. That document could be a digital token that can be traded like bitcoin, or the deed to your house, or your car, or any other physical item or specific piece of land. It's basically taking things that exist in the real world or taking digital intellectual property - like a song or a brand - and tokenizing it so that it becomes something that can be digitally traded. We haven't even scratched the surface in that domain so far. 
 
-The first NFT platform on top of Bitcoin was Counterparty, founded even before Ethereum in 2014. In recent months more Bitcoin based NFT platforms are popping up.  Raretoshi, and Azool.art are NFT platforms based on the Liquid Network. On Watafan trading cards that have collective value are backed by Rootstock smart contracts. Sovryn and RGB are developing their NFT platforms.
+The first NFT platform on top of Bitcoin was Counterparty, founded even before Ethereum in 2014. In recent months more Bitcoin based NFT platforms are popping up.  Raretoshi, and Azool.art are NFT platforms based on the Liquid Network. On Watafan trading cards that have collective value are backed by Rootstock smart contracts. Sovryn and RGB are developing NFT platforms by the time of writing this book.
 
 ## Governance
 Finally, the third category that excites me for the future is the opportunity of applying this to the areas of identity and human governance. The ability to have tokenized human identities, where you do not have to reveal who you are but can choose to reveal various aspects at a time. I can prove that I have a degree from a University using a non-fungible token without telling you my name. I can prove that I am licensed to drive without giving you my entire history. I can prove that I am creditworthy, or trustworthy, vaccinated or whatever other characteristic you can think of. These various tokens that you can assign to individuals allow you to be in control of these things, no need for a government or a corporation like Facebook to do that. Then you can take those tokens and use them for governance purposes. The ability to vote in my homeowner's association, in my parent-teacher association, in my municipality, and all the way up into voting at the United Nations as one of 7 and 1/2 billion citizens of this planet with a digital voting token. Radical change towards direct democracy is possible with these technologies. 
