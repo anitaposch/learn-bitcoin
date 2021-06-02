@@ -14,6 +14,8 @@
 
 > "It has been great to see Anita's journey over the past several years, speaking to and learning from the best in the industry, all around the world, and making it accessible to beginners. One of the hardest workers in the space, and a great person to learn from!" - **Hass McCook, Engineer and Bitcoin Evangelist**
 
+> "The best teachers are students. Since the first day that Anita popped up on my radar, she has been a curious and insightful researcher and promoter of Bitcoin's revolutionary technology. Gleaning wheat from chaff, she writes with the simplicity, clarity, and precision necessary for a complex topic demanding expertise in multiple disciplines. Sovryn is proud to sponsor the publication of (L)earn Bitcoin as part of our mission to make Bitcoin unstoppable." - **exiledsurfer, Founder, Parallele Polis, Comms Lead at SovrynBTC**
+
 > "...." - Alena Vranova
 > "...." - Alyse Killeen
 > 
