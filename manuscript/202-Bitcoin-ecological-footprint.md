@@ -41,18 +41,6 @@ Proof-of-Work is anchoring the digital money in the real world. As Chaincode Lab
 
 Proof-of-Work is also the only mechanism that allows an equally distributed, decentralized creation of coin supply, whereas other methods require initial token drops and token generation events that allow centralized actors to take advantage of pre-mined coins (Proof-of-Stake).
 
-
-**Carbon emissions**
-Some research has tried to assess the carbon emission flows and sustainability of Bitcoin through estimating future demand on the basis of false assumptions. One paper for instance is claiming that: "the annual energy consumption of the Bitcoin blockchain in China is expected to peak in 2024 at 296.59 Twh and generate 130.50 million metric tons of carbon emission correspondingly." [^^C2-5]
-
-> "It’s an immediate red flag that the authors confidently declare Bitcoin’s future carbon outlay to two decimal places, when realistically the number can only be estimated to within an order of magnitude.", states **Nic Carter**. [^^C2-9]
-
-Based on the [work of Hass McCook](https://bitcoinmagazine.com/business/bitcoin-vs-financial-sector-energy-use) Bitcoin emits less than 5% of the legacy financial sector's carbon emissions. 
-
-![Annual Greenhouse Gas Emissions, Hass Mc Cook, May 2021](resources/_Annual_GHG-Emissions.png)
-
-Industry wide profit in the global financial and insurance sector was 10.55 trillion in 2019, while emitting 1,368 million tons of carbon dioxide. Bitcoin emits 61.2 million tons of carbon dioxide. In the scheme of global carbon dioxide equivalent emissions, this is only 0.12%.
-
 **Assumption #1: It takes X kilowatts to do a single transaction**
 This is faulty mathematics. The use of energy for bitcoin does not scale to the number of transactions. The number of transactions that happen on-chain and the number of transactions that happen off-chain - for instance, on second layer technologies like the Lightning Network or through custodial exchanges, that batch transactions - are not correlated at all to the cost of mining. Mining is driven to 80-90% by bitcoin's price and 10-20% by fees. The higher the possible profit for miners, the more miners are setting up new mining facilities and when the price crashes some have to stop their machines. In the long term, when all 21 million bitcoin have been mined, the transaction fees will drive mining. At that point, transaction intensity will be more correlated to energy usage. But not today, the last bitcoin will be mined in 2140. Mining is driven by competition in a free market where mining difficulty adjusts dynamically. It has nothing to do with how many transactions are being processed. Mining is a mechanism for security. It relates to how much security the market allocates to the system, so more energy equals more security and when the price of bitcoin goes up the amount of money allocated to protect it also increases naturally. Therefore usage and higher adoption drives additional financial motivation for miners to produce more security by consuming more energy. 
 
@@ -96,6 +84,15 @@ The question is not how much energy is required, but how is electricity produced
 Bitcoin uses a higher amount of electricity from renewables than the grid in China, USA and the World can deliver.
 ![Electricity Mix, Bitcoin vs. China vs. USA vs. The World, 2020](resources/_Bitcoin-electricity-sources.jpg) [Source: Hass McCook](https://bitcoinmagazine.com/business/what-elon-musk-gets-wrong-about-bitcoin) 
 
+**Carbon emissions**
+Some research has tried to assess the carbon emission flows and sustainability of Bitcoin through estimating future demand on the basis of false assumptions. One paper for instance is claiming that: "the annual energy consumption of the Bitcoin blockchain in China is expected to peak in 2024 at 296.59 Twh and generate 130.50 million metric tons of carbon emission correspondingly." [^^C2-5]
+
+> "It’s an immediate red flag that the authors confidently declare Bitcoin’s future carbon outlay to two decimal places, when realistically the number can only be estimated to within an order of magnitude.", states **Nic Carter**. [^^C2-9]
+
+Based on the [work of Hass McCook](https://bitcoinmagazine.com/business/bitcoin-vs-financial-sector-energy-use) Bitcoin emits less than 2% of the world's military-industrial complex and less than 5% of the legacy financial sector's carbon emissions. The annual global greenhouse gas emissions are approx. 50,000 million ton carbon dioxide equivalent. Bitcoin emits only 0.11% of those.
+
+![Annual Greenhouse Gas Emissions, Hass Mc Cook, June 2021](resources/_annual-GH-emission-2021.png)
+
 **Final assumption: Bitcoin isn't useful, therefore any use of energy for a bitcoin is wasteful**
 
 If you decide Bitcoin isn't useful, then this is a very subjective opinion. Bitcoin might not make sense to you, but it might make sense for many other people. If you are making this argument, you must agree that there are many other forms of energy use that are prima facie useless or even damaging in their use, and they don't receive the same amount of scrutiny. 
@@ -105,7 +102,7 @@ We can light up billions of Christmas lights every year for a display of Christm
 ![US military emits more CO2 than many nations](resources/_military-co2.png)
 [Source](https://www.statista.com/chart/18359/estimated-military-carbon-dioxide-emissions/)
 
-Which leads back to the chapter about the Petrodollar, the linkage between the US dollar and the OPEC, which makes the USA the globally dominant powerhouse and is secured by US military and wars in the Gulf region. 
+Which leads back to the chapter about the Petrodollar, the linkage between the US dollar and the OPEC, which makes the USA the globally dominant powerhouse and is secured by US military and wars in the Gulf region.  
 
 Is the war machine a useful thing to have in our society? Before you scream "Whataboutism!" and say that it's comparing two different things, we should reduce the use of the war machine as well as the use of bitcoin, do not forget there's a very important link that is missing. The war machine all around the world is funded directly by debt that is produced and paid off through inflation that is enabled through the uncontrolled central bank printing of money, which in the end you, the tax payer, are fronting the bill for. Bitcoin isn't just a solution for an open economy, it's a solution that constrains government from producing currency at rates and using inflation as a hidden form of taxation to fund the war machine that pollutes and damages more than anything else in existence. Bitcoin isn't simply a substitute for general economic activity, it's also a direct control on the war machine that pollutes and uses far more energy to kill people. So in my opinion those two things are very closely tied. But that's just Andreas M. Antonopoulos' and my opinion.
 
