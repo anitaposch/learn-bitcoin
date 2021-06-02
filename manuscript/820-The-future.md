@@ -15,7 +15,9 @@ Most DeFi applications are developed and run on the Ethereum (ETH) network - the
 
 DeFi platforms can utilise tokens from other chains through a process called wrapping. This involves sending an asset from another blockchain to a smart contract peg. Let's use 1 bitcoin as an example. This peg will hold (lock up) the bitcoin sent to it and mint the equivalent version of that bitcoin on the Ethereum network. Examples of this are wrapped bitcoin (WBTC) and Ren bitcoin (renBTC). These pegged tokens can be used on the DeFi application in place of the original asset and because the smart contract holds the original asset, there can be no issue of a 'double-spend'. When a user wishes to withdraw their assets back to their native chain, the smart contract will burn the token it minted and send the user their original asset on the native chain. This process enables DeFi to work for virtually any digital token.
 
-### DeFi on top of Bitcoin
+Bitcoin's development is slower and has a more conservative approach than many other blockchains like Ethereum. This for a good reason: security. But developers in the Bitcoin space haven't been sleeping, aside from the Lightning Network a lot of Bitcoin-native platforms and applications have been developed.
+
+### Bitcoin-native protocols and platforms
 
 #### Rootstock
 Rootstock (RSK) is a network that looks to bring smart contract capabilities to Bitcoin. It is merge-mined with Bitcoin, meaning between 40 and 75% of Bitcoin miners actually process the transactions of the RSK network. This means that RSK is secured by more hash power that any other blockchain in the world, excluding Bitcoin of course. Similarly to Ethereum solutions, RSK uses the wrapping process to introduce bitcoin to the network. However, since the network itself is merge-mined by Bitcoin miners it can be considered the most secure and trustless network to build DeFi on currently. It has the most appeal to Bitcoiners and those who long for DeFi solutions for Bitcoin, but do not wish to lose the decentralization, trustlessness and security offered by the Bitcoin network. 
