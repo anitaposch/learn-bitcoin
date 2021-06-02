@@ -9,7 +9,7 @@ Find a job or a client to earn Bitcoin for your work.
 * [Freelance For Coins](https://freelanceforcoins.com/projects)
 * [Working For Bitcoin](https://workingforbitcoins.com/)
 
-## Online tasks
+## Online Tasks
 Earn satoshis through finishing small tasks. 
 * [Stakwork](https://stakwork.com)
 * [Microlancer](https://microlancer.io/)
@@ -74,7 +74,7 @@ Be aware, there are a lot of mining scams out there. Even I fell for one some ye
 * [Compass](https://compassmining.io/) A service that helps to buy, install and host mining hardware
 * [Blockstream Mining](https://blockstream.com/mining/) host your mining rigs with Blockstream's enterprise-class mining facilities and management
 
-## Lending & borrowing
+## Lending & Borrowing
 * [DeFi Rate](https://defirate.com/) Overview of lending and borrowing rates
 
 **Custodial**
