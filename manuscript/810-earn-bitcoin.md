@@ -1,5 +1,5 @@
 # Earn Bitcoin
-Earning Bitcoin is actually the best way to acquire it: limited or no registration, limited or no KYC identity check, no trading fees. Many of these services are only available in the US or other specific regions of the world. Since the Bitcoin space is in rapid development, this chapter can only be a lookout for what is to come.  
+Earning Bitcoin is actually the best way to acquire it: limited or no registration, limited or no KYC identity check, no trading fees. Some of these services are only available in the US or other specific regions of the world. Since the Bitcoin space is in rapid development, this chapter can only be a lookout for what is to come.  
 
 ## Bitcoin job boards
 Find a job or a client to earn Bitcoin for your work.
