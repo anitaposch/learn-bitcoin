@@ -66,8 +66,9 @@ There are a variety of use cases for Liquid:
 * individuals can use L-BTC through the Green or Aqua wallet
 * Peer-to-Peer exchange HodlHodl uses L-BTC for its lending service
 * the decentralized exchange Bisq will integrate L-BTC as its base layer
+* anyone can issue new assets, including stablecoins like Tether USDt (already supported by Liquid) and security tokens, which can be traded freely within the network
 
-Liquid shows that you can do anything with Bitcoin. You don't need a new blockchain or a new token. The native currency of Liquid is L-BTC, where you lock in bitcoin and get the same amount of L-BTC for it. Therefore there will be only 21 million L-BTC ever. Liquid transactions are cheaper, faster and more private than bitcoin transactions. The third-parties that sign transactions are the trade-off. They can make Liquid vulnerable to censorship.
+Liquid shows that you can do anything with Bitcoin. You don't need a new blockchain or a new token. The native currency of Liquid is L-BTC, where you lock in your bitcoin and get the same amount of L-BTC for it. Therefore there will be only 21 million L-BTC ever. Liquid transactions are cheaper, faster and more private than bitcoin transactions. The third-parties that sign transactions are the trade-off. They can make Liquid vulnerable to censorship.
 
 ## NFTs
 The other category that I think is extremely interesting is NFTs, or non-fungible tokens. These are tokens that, instead of representing units of currency, represent unique objects, items, or properties in the form that is distinguishable from one another and are therefore non-fungible. So let's think of an art piece that is represented by a deeds document. That document could be a digital token that can be traded like bitcoin, or the deed to your house, or your car, or any other physical item or specific piece of land. It's basically taking things that exist in the real world or taking digital intellectual property - like a song or a brand - and tokenizing it so that it becomes something that can be digitally traded. We haven't even scratched the surface in that domain so far. 
