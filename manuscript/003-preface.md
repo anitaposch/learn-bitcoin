@@ -7,7 +7,7 @@ Editor: Mark Kersley
 Illustration, Cover design: TBD
 
 Thank you for contributions:
-Jameson Lopp, Nic Carter, Andreas M. Antonopoulos, Caitlin Long, Maya Zehavi, Lyn Alden, Alena Vranova, Max Hillebrand, Hass McCook, embarrassedOK, Erik24020105, Chris Chester.
+Jameson Lopp, Nic Carter, Andreas M. Antonopoulos, Caitlin Long, Maya Zehavi, Lyn Alden, Alena Vranova, Max Hillebrand, Hass McCook, Ryan Gentry, embarrassedOK, Erik24020105, Chris Chester.
 
 Special thanks to exiledsurfer, Johannes Grill, my friends at "Bitcoin Austria", Stephanie Jagl-Posch, the global community of Bitcoiners and, of course, to you my reader and supporters.
 
