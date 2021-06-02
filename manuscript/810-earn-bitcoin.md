@@ -36,6 +36,7 @@ With the advent of the Lightning Network, a truly groundbreaking new method of s
 * [Podstation](https://podstation.github.io/) browser extension for podcasts
 * [Sphinx Chat](https://sphinx.chat/) Chat and podcasting app for listeners and podcasters with own node
 * [Satoshis.stream](https://satoshis.stream/) easy setup for podcasters without own node
+* [LN Cast](https://lncast.com/) Lightning Network podcasts, pay a small amount of satoshis and donate to listen to your favourite podcast
 * [LN Pay](https://lnpay.co/) Setup paywalls for your content, payable with lightning
 * [WordPress Lightning Paywall](https://lightning-paywall.coincharge.io/) 
 * [Scarce.City](https://scarce.city/) Lightning auctions for Bitcoin goods and art - [Interview with founder Chris Tramount](https://anita.link/91)
