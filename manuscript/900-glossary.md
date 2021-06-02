@@ -29,6 +29,9 @@ The IMF is an international financial institution, headquartered in Washington, 
 **Lender of last resort**
 A lender of last resort (LOLR) is the institution in a financial system that acts as the provider of liquidity to a financial institution which finds itself unable to obtain sufficient liquidity in the inter-bank lending market and other facilities or sources have been exhausted. It is, in effect, a government guarantee of liquidity to financial institutions. [^^G-5]
 
+**M0 Monetary Base**
+The monetary base (M0) is the total amount of a currency in physical paper and coin that is either in circulation in the hands of the public or in the form of commercial bank deposits held in the central bank's reserves. [^^C1-17]
+
 **M1 Money Stock**
 M1 is a narrow measure of the money supply that includes physical currency, demand deposits, traveler’s checks, and other checkable deposits. M1 does not include financial assets, such as savings accounts and bonds.[^^G-6]
 
@@ -36,7 +39,6 @@ M1 is a narrow measure of the money supply that includes physical currency, dema
 M2 is a measure of the money supply that includes cash, checking deposits, and easily convertible near money as savings deposits, money market securities and mutual funds. These assets are less liquid than M1 and not as suitable as exchange mediums, but they can be quickly converted into cash or checking deposits. M2 is closely watched as an indicator of money supply and future inflation, and as a target of central bank monetary policy.[^^G-7]
 
 **Panopticon**
-
 The panopticon is a type of institutional building and a system of control designed by the English philosopher and social theorist Jeremy Bentham in the 18th century. The concept of the design is to allow all prisoners of an institution to be observed by a single security guard, without the inmates being able to tell whether they are being watched.[^^G-8]
 
 **Peer-to-Peer Network**
@@ -49,7 +51,6 @@ The action of a broker who pledges with a bank or other lender securities alread
 12-24 words that secure your funds on the blockchain. Anyone with the seed has control over the funds on the associated addresses.
 
 **Surveillance capitalism**
-
 A term coined by Shoshana Zuboff. It describes the systematic commodification of personal data by centralized monopolistic companies with the core purpose of profit-making.
 
 **Wallet**

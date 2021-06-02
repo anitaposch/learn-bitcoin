@@ -58,12 +58,14 @@ Fiat is "money by decree", it's coercively managed through the state's implicit 
 * Money is created by central banks in the form of paper money and coins. 
 * Central banks buy assets and bonds from the open market, money flows into the system. 
 * Money is created through government stimulus, through benefits, grants and bail outs. 
-* Money is created by commercial banks through loans
+* Money is created by commercial banks through loans.
 
 ### Money is created through debt
-The last point is the one we all know. It is how we take a loan for buying a house, starting a business or buying a car. The process is easy, but only for those who are already privileged. If you cannot put forward a security as collateral, you are a small business owner, you do not have a regular fixed income job, or you are a woman in a country where women are still forbidden to own any property, then you will not qualify for credit at your bank. If you get the loan, the bank edits its digital ledger and adds the credit sum to their account. Now you owe them the amount of the loan plus a rate of interest. Now you have to go out and work or sell something to be able to pay back the loan plus the interest rate. It's a great deal for the banks, they add nothing, but earn the fees for your loan agreement and the interest on your payback. On top of that, there is something called fractional-reserve banking, which means that banks are allowed to lend out up to 100% more money than they have in cash deposits or as balances in the bank's account at their central bank. If each of us were to go the bank today and request to withdraw our money, the banking system would fall apart because they do not have the full amount in their safes. 
+The last point is the one we all know. It is how we take a loan for buying a house, starting a business or buying a car. The process is easy, but only for those who are already privileged. If you cannot put forward a security as collateral, you are a small business owner, you do not have a regular fixed income job, or you are a woman in a country where women are still forbidden to own any property, then you will not qualify for credit at your bank. If you get the loan, the bank edits its digital ledger and adds the credit sum to their account. Now you owe them the amount of the loan plus a rate of interest. Now you have to go out and work or sell something to be able to pay back the loan plus the interest rate. It's a great deal for the banks, they add nothing, but earn the fees for your loan agreement and the interest on your payback. 
 
-In 2020 global debt rose by an incredible US$24 trillion to US$281 trillion, or 355% of global GDP. [^^C1-10]
+On top of that, there is something called fractional-reserve banking, which means that banks are allowed to lend out up to 90-100% more money than they have in cash deposits or as balances in the bank's account at their central bank. If each of us were to go the bank today and request to withdraw our money, the banking system would fall apart because they do not have the full amount in their safes. 
+
+In 2020 global debt rose by an incredible 24 trillion to 281 trillion USD, or 355% of global GDP. [^^C1-10]
 
 ![Debt-to-GDP ratios](resources/_Debt-to-GDP-ratio-2020.jpg)
 
@@ -80,12 +82,21 @@ Have you as an individual ever been bailed out? And if you have, would you do th
 
 Naomi Prins' book tapped into the psyche of Wall Street, revealing how the very structure of the financial system hinged on traders flocking to the next big bet, regardless of the stakes. In addition the _same_ people and families kept popping up, cycling through Wall Street and Washington. They influenced the economy beneath them from their loftier heights of status, private money, and public office, dismantling laws that stood in their way and finding loopholes through others. Private banks normalized market manipulation. Central banks made it an art form, with no limits." [^^C1-5] 
 
-
 ### Money supply inflation
 
 Let's take the US Dollar as an example for all fiat currencies. The more USD are available, the less value a single note has because of money supply inflation. Imagine a banknote as a commodity like copper. If there is more copper on the market than there is demand, the price of copper is falling; its value is decreasing. The same is true for your banknote. The value of fiat currencies is determined by supply and demand too. If you increase the supply and the demand stays the same, the value of one unit decreases. 
 
-M2 is the money supply that includes notes, coins and bills (a relatively small portion), bank reserves at the central bank, commercial bank deposits, money market securities, mutual funds and other time deposits. M2 is closely watched as an indicator of money supply and future inflation, and as a target of central bank monetary policy.
+The money supply consists of various types of money that are generally classified as Ms, such as M0 (base money), M1, M2 and M3. The definitions might slightly vary in different countries. 
+
+The monetary base (M0) is the total amount of a currency in physical paper and coin that is either in circulation in the hands of the public or in the form of commercial bank deposits held in the central bank's reserves. [^^C1-17] 
+
+As long as you hold cash, it is an asset like bitcoin, a property that you own. If you take your cash and store it at the bank, you have a claim, but don't own the money anymore. Similarly to bitcoin at an exchange.
+
+Any other fiat money supply (M1, M2, M3) is comprised of claims on base money. 
+
+M1 includes M0, demand deposits, traveler’s checks, and other checkable deposits, that are easily convertible to cash.
+
+M2 includes M0, M1, money market securities, mutual funds and other time deposits. These assets are less liquid than M1 and not as suitable as exchange mediums, but they can be quickly converted into cash or checking deposits. M2 is closely watched as an indicator of money supply and future inflation, and as a target of central bank monetary policy.
 
 The amount of M2 currency in circulation in the US was **19.7 trillion USD** in February, 2021. [^^C1-6] Look at the growth in 2020.
 
@@ -99,7 +110,6 @@ Adding to money supply inflation is the fact that the population in the US and o
 
 Strictly speaking, inflation occurs when the money supply outstrips nominal GDP growth, which consists of population and productivity growth. The Consumer Price Index of the USA shows that the prices for goods went up since the value of money has declined.
 ![Consumer Price Index US 2020](resources/_Consumer-Price-index-US-2021.png) [^^C1-9]
-
 
 ### Ponzi Scheme
 
