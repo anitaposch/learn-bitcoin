@@ -51,6 +51,6 @@ Cryptocom Visa, Binance, Bitpanda Visa, Coinbase Visa, Wirex Visa, BlockCard, Cr
 Following are tools and services that enable you to spend and receive BTC in your daily life.
 * [Bity](https://bity.com/products/crypto-online-bill-pay/) pay bills online with bitcoin
 * [Cash App](https://cash.app/bitcoin) buy and sell BTC straight from your Cash App balance
-* [Strike](https://global.strike.me/) send and receive instant international payments, instant remittances and full access to the Bitcoin network
-* [Piixpay](https://www.piixpay.com/?lang=en) pay anyone in EURO using your Crypto
+* [Strike](https://global.strike.me/) send and receive instant international payments, instant remittances and with full access to the Bitcoin network
+* [Piixpay](https://www.piixpay.com/?lang=en) pay anyone in EURO using your crypto
 * [Bitrefill](https://www.bitrefill.com/?hl=en) buy giftcards and phone refills
