@@ -92,7 +92,7 @@ The monetary base (M0) is the total amount of a currency in physical paper and c
 
 As long as you hold cash, it is an asset like bitcoin, a property that you own. If you take your cash and store it at the bank, you have a claim, but don't own the money anymore. Similarly to bitcoin at an exchange.
 
-Any other fiat money supply (M1, M2, M3) is comprised of claims on base money. 
+Any other fiat money supply (M1, M2, M3) is comprised of claims on base money. [^^C1-18]
 
 M1 includes M0, demand deposits, traveler’s checks, and other checkable deposits, that are easily convertible to cash.
 

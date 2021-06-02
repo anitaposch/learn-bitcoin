@@ -16,6 +16,7 @@
 [^^C1-15]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 1.
 [^^C1-16]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 247.
 [^^C1-17]: [Monetary Base](https://www.investopedia.com/terms/m/monetarybase.asp)
+[^^C1-18]: [Global Monetary Base, Crypto Voices](https://cryptovoices.com/basemoney)
 
 [^^C2-1]: [Clifford Stoll](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
 [^^C2-2]: [Ryan Walker](https://www.coindesk.com/origins-money-darwin-evolution-cryptocurrency)
