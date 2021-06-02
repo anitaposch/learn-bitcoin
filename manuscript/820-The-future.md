@@ -1,5 +1,7 @@
 # The Future is now
 
+_This part was co-authored by Mark Kersley with parts taken from: [Andreas M. Antonopoulos' talk about Bitcoin, Layer 2 Solutions, and the Wild West of Crypto](https://youtu.be/TsbIMg-YHQk)_
+
 > "The future is a construction site." - Anita Posch
 
 Now that you have a deeper understanding of Bitcoin and how to use it, we can dip our toes into future developments that I think will have enormous impact. 
@@ -56,12 +58,24 @@ Lastly, the MoC protocol also includes a governance token, conveniently named th
 
 To conclude, Money on Chain is a self-contained Bitcoin ecosystem, on RSK, which looks to provide multiple decentralized and non-custodial use cases specifically for Bitcoiners.
 
+#### Liquid Network
+The Liquid Network is a federated sidechain-based settlement network for individuals and exchanges, enabling faster, more confidential Bitcoin transactions and the issuance of digital assets. It's a separate blockchain that extends the funcionalities of bitcoin with layered technologies. Liquid does not use Proof-of-Work, blocks are signed on a per minute base by 15 functionaries. It enhances privacy through confidential transactions and assets, where the amount and type of the asset that is being sent is hidden, while it is still cryptographically guaranteed that no more coins can be spent than are available.
+
+There are a variety of use cases for Liquid: 
+* fast transactions between exchanges
+* individuals can use L-BTC through the Green or Aqua wallet
+* Peer-to-Peer exchange HodlHodl uses L-BTC for its lending service
+* the decentralized exchange Bisq will integrate L-BTC as its base layer
+
+Liquid shows that you can do anything with Bitcoin. You don't need a new blockchain or a new token. The native currency of Liquid is L-BTC, where you lock in bitcoin and get the same amount of L-BTC for it. Therefore there will be only 21 million L-BTC ever. Liquid transactions are cheaper, faster and more private than bitcoin transactions. The third-parties that sign transactions are the trade-off. They can make Liquid vulnerable to censorship.
+
 ## NFTs
 The other category that I think is extremely interesting is NFTs, or non-fungible tokens. These are tokens that, instead of representing units of currency, represent unique objects, items, or properties in the form that is distinguishable from one another and are therefore non-fungible. So let's think of an art piece that is represented by a deeds document. That document could be a digital token that can be traded like bitcoin, or the deed to your house, or your car, or any other physical item or specific piece of land. It's basically taking things that exist in the real world or taking digital intellectual property - like a song or a brand - and tokenizing it so that it becomes something that can be digitally traded. We haven't even scratched the surface in that domain so far. 
+
+The first NFT platform on top of Bitcoin was Counterparty, founded even before Ethereum in 2014. In recent months more Bitcoin based NFT platforms are popping up.  Raretoshi based on the Liquid Network was announced in May 2021. On Watafan trading cards that have collective value are backed by Rootstock smart contracts. Sovryn and RGB are developing their NFT platforms.
 
 ## Governance
 Finally, the third category that excites me for the future is the opportunity of applying this to the areas of identity and human governance. The ability to have tokenized human identities, where you do not have to reveal who you are but can choose to reveal various aspects at a time. I can prove that I have a degree from a University using a non-fungible token without telling you my name. I can prove that I am licensed to drive without giving you my entire history. I can prove that I am creditworthy, or trustworthy, vaccinated or whatever other characteristic you can think of. These various tokens that you can assign to individuals allow you to be in control of these things, no need for a government or a corporation like Facebook to do that. Then you can take those tokens and use them for governance purposes. The ability to vote in my homeowner's association, in my parent-teacher association, in my municipality, and all the way up into voting at the United Nations as one of 7 and 1/2 billion citizens of this planet with a digital voting token. Radical change towards direct democracy is possible with these technologies. 
 
 These are things we're talking about 10, 15, 20, 25 years into the future. But if you understand how this technology works, and you see the seeds we're planting today, you can see these as natural developments that come out of this technology.
 
-Parts taken from: [Andreas M. Antonopoulos, # Bitcoin, Layer 2 Solutions, and the Wild West of Crypto, real Vision](https://youtu.be/TsbIMg-YHQk)
