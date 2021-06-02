@@ -28,7 +28,7 @@ As an alternative, you can use a company called Casa and their industry leading 
 
 **Mobile Wallets**
 For iOS and Android
-* [Blockstream Green](https://blockstream.com/green/)
+* [Blockstream Green](https://blockstream.com/green/) (Bitcoin, Liquid)
 * [Hexa wallet](https://hexawallet.io/)
 * If you want to use Bitcoin and micro-payments on the Lightning Network:
 	* [Blue Wallet](https://bluewallet.io/)
@@ -54,7 +54,6 @@ The following manufacturers and devices have established themselves in the hardw
 * Ledger Nano S, Nano X https://anita.link/ledger - Ledger
 * Coldcard (for tech-savvy users) https://anita.link/coldcard - Coinkite
 				 
-
 The Coldcard is different to the other models because it is an air-gapped device, it can be used without ever being connected to a computer. That's why some people refer to it as cold-cold storage, being even more secure. For novices I recommend one of the first three company's devices.
 
 Some hardware wallets (none of the above) use Bluetooth as a connection method. I advise against this because Bluetooth technology is considered relatively unsafe. It is better to connect the hardware wallet with the supplied USB cable.
