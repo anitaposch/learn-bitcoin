@@ -1,6 +1,6 @@
 # Credits
 
-**Get current information about the book online at learnbitcoin.link**
+**Get current information about the book online at https://learnbitcoin.link**
 
 Author: Anita Posch
 Editor: Mark Kersley
@@ -14,7 +14,7 @@ Special thanks to exiledsurfer, Johannes Grill, my friends at "Bitcoin Austria",
 **Copyright**
 All rights reserved, Copyright 2021 by Anita Posch.
 
-You are welcome to share parts of the book in media articles, on your personal website, in a non-commercial article or blog post (e.g., Medium), and/or on a personal social media account for non-commercial purposes, provided that you include attribution to "Anita Posch" and link back to the https://anitaposch.com URL. You are not permitted to copy the book and sell it in any format.
+You are welcome to share parts of the book in media articles, on your personal website, in a commercial article or blog post (e.g., Medium), and/or on a personal social media account, provided that you include attribution to "Anita Posch" and link back to the https://anitaposch.com URL. You are not permitted to copy the book and sell it in any format.
 
 # Donate
 I'm an independent one-woman business, I have no staff, no assistance, sometimes I hire freelancers to help me out. If you want to support my work to bring education about Bitcoin to as many people as possible under a free creative commons license, please contribute financially at https://anita.link/donate
