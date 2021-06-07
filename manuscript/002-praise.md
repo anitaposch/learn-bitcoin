@@ -16,10 +16,6 @@
 
 > "The best teachers are students. Since the first day that Anita popped up on my radar, she has been a curious and insightful researcher and promoter of Bitcoin's revolutionary technology. Gleaning wheat from chaff, she writes with the simplicity, clarity, and precision necessary for a complex topic demanding expertise in multiple disciplines. Sovryn is proud to sponsor the publication of (L)earn Bitcoin as part of our mission to make Bitcoin unstoppable." - **exiledsurfer, Founder, Parallele Polis, Comms Lead at SovrynBTC**
 
-> "...." - Alena Vranova
-> "...." - Alyse Killeen
-> 
-
-> "Buying bitcoin is easier than ever today. Storing your own bitcoin long-term and safely requires a minimum of technical and economic understanding. This book provides the necessary basics to keep you in control of your money. Wherever the Bitcoin journey takes us, investing in this book is a sure win." - **Johannes Grill, President Bitcoin Austria, NPO**
+> "Buying bitcoin is easier than ever today. Storing your own bitcoin long-term and safely requires a minimum of technical and economic understanding. This book provides the necessary basics to keep you in control of your money. Wherever the Bitcoin journey takes us, investing in this book is a sure win." - **Johannes Grill, President Bitcoin Austria**
 
 
