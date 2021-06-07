@@ -16,17 +16,17 @@ View bitcoin as a long term investment, it has been the best performing store of
 
 There is of course no guarantee that this performance will continue forever.
 
-At the time of writing (April 2021) bitcoin was in a bull run. Meaning the price appreciated for a period of weeks and months with little setbacks in between. The last bull run started in 2017 and ended at the beginning of 2018. Since then the price moved sideways - as it is called in traders terms, meaning no particular large up or downwards movement in price. 
+At the time of writing bitcoin was in a bull run, which started in the last quarter of 2020. Meaning the price appreciated for a period of weeks and months with little setbacks in between. In May 2021 a significant drop occured, which many interpreted as a healthy setback in an overheated market. The last bull run started in 2017 and ended at the beginning of 2018. Since then the price moved sideways - as it is called in traders terms, meaning no particular large up or downwards movement in price. 
 
-![Bitcoin price development](resources/_Bitcoin-price.png)[^^C2-2]
-[Source](https://www.coingecko.com/en/coins/bitcoin/usd), Mar 19, 2021
+![Bitcoin price development](_Bitcoin-price.png)[^^C2-2]
+[Source](https://www.coingecko.com/en/coins/bitcoin/usd), June 7, 2021
 
-The bitcoin price development is following the halving cycles. As you have read in chapter **....reference HALVING ......**, approximately every 4 years the amount of minted bitcoin is reduced by 50%. This means that the growth of available bitcoin on the market is shrinking. Even if the demand for bitcoin only remains at the same level, the price will increase. 
+The bitcoin price development is following the halving cycles. Approximately every 4 years the amount of minted bitcoin is reduced by 50%. This means that the growth of available bitcoin on the market is shrinking. Even if the demand for bitcoin only remains at the same level, the price will increase. 
 
 ### Digital Scarcity
-As laid out in **... reference Chapter....**, the total bitcoin supply is limited to 21 million, 18 million of which are already on the market. Every four years (exactly 210,000 blocks), the amount of bitcoin that are minted is reduced by half. Currently, the mining process generates 6.25 bitcoin every 10 minutes, which is 900 bitcoin per day and 328,500 per year. From 2024, there will be only 450 bitcoin minted per day, as only 3.125 bitcoin will be issued for each block generated. This means that the amount available every day decreases and supply becomes scarcer. If interest increases at the same time, the price rises.
+The total bitcoin supply is limited to 21 million, 18 million of which are already on the market. Every four years (exactly 210,000 blocks), the amount of bitcoin that are minted is reduced by half. Currently, the mining process generates 6.25 bitcoin every 10 minutes, which is 900 bitcoin per day and 328,500 per year. From 2024, there will be only 450 bitcoin minted per day, as only 3.125 bitcoin will be issued for each block generated. This means that the amount available every day decreases and supply becomes scarcer. If interest increases at the same time, the price rises.
 
-As of April 2021, around 50 million USD (number of daily minted bitcoin * price) have to flow into the Bitcoin market every day to keep the current price of 56,000 USD stable. Whenever the price drops, fewer bitcoin were exchanged than were available on that day and vice versa. 
+As of May 2021, around 36 million USD (number of daily minted bitcoin * price) have to flow into the Bitcoin market every day to keep the current price of 40,000 USD stable. Whenever the price drops, fewer bitcoin were exchanged than were available on that day and vice versa. 
 
 The dates of these halvings are annotated in the chart below. The price follows similar patterns before and after each halving. In this chart the top of bitcoin is predicted to be in September 2021, after which the price is expected to fall again as you can see on the "Low" marked grid-lines. Of course, this is just a prediction based on a few historic events and numbers, we cannot take this as a given occurrence in the future. 
 
@@ -36,7 +36,7 @@ The dates of these halvings are annotated in the chart below. The price follows 
 Since Bitcoin's launch in 2009, there have been several price crashes. Be prepared that this will happen again. The question is how low will it go because on a logarithmic scale you can see that, over time, bitcoin has only gained value in the long term.
 
 ![Bitcoin price logarithmic scale](resources/_Bitcoin-price-log.png)
-[Source](https://www.coingecko.com/en/coins/bitcoin/usd), Mar 19, 2021
+[Source](https://www.coingecko.com/en/coins/bitcoin/usd), June 7, 2021
 
 >Don't try to outsmart the market, don't trade. Just hold your bitcoin. At least for five years. 
 
@@ -63,18 +63,18 @@ _I can't buy one bitcoin, it's too expensive._
 
 That's ok, you don't have to. There is no minimum budget you need to use bitcoin. A bitcoin is divisible into extremely small units, much smaller than a cent. You can buy a fraction of a bitcoin and start to play around with 20 USD or less.
 
-You can also earn bitcoin, more about that later **(in chapter....)**
+You can also earn bitcoin, more about that in chapter 10.
 
 ### Bitcoin will fail like the first internet companies
 
 _Bitcoin is new technology. It is the first of its kind. When we compare this with the first computer companies in the 1980s or the internet platforms of the dot com boom, almost none survived. Bitcoin was the first blockchain on the market, it might go the same route._
     
-Bitcoin has been the world's most widely used cryptocurrency since its origin in 2009. I agree, there are no assurances that it will continue that way. The market dominance of Bitcoin was over 80% until 2017. Meaning of all the thousands of  cryptocurrencies on the market, over 80% of all investments were held in Bitcoin. This changed in 2017-18 while there was a "war" between different ideas around how Bitcoin as a technology should go forward. The block-size debate ended with a hard-fork, where the Bitcoin blockchain split into two forks: Bitcoin (BTC) and Bitcoin Cash (BCH). At that time, other crypto projects like Ethereum gained importance. Four years later, Bitcoin is with over 60% the by far most dominant cryptocurrency on the market again - BCH has steadily declined into insignificance compared to BTC. 
+Bitcoin has been the world's most widely used cryptocurrency since its origin in 2009. I agree, there are no assurances that it will continue that way. The market dominance of Bitcoin was over 80% until 2017. Meaning of all the thousands of cryptocurrencies on the market, over 80% of all investments were held in Bitcoin. This changed in 2017-18 while there was a "war" between different ideas around how Bitcoin as a technology should go forward. The block-size debate ended with a hard-fork, where the Bitcoin blockchain split into two forks: Bitcoin (BTC) and Bitcoin Cash (BCH). At that time, other crypto projects like Ethereum gained importance. Four years later, BCH has steadily declined into insignificance compared to BTC. Bitcoin held its dominance with over 60% until the current bull run, where it dropped to 40% by the time of writing. A bull run results in more mainstream attention, which leads to many uninformed media articles and when certain billionaires add rumors Altcoins are lifted into the focus. 
 
 ![Percentage of total market capitalization](resources/_Market-dominance.png)
-[Source](https://coinmarketcap.com/charts/)
+[Source](https://coinmarketcap.com/charts/) June 7, 2021
 
-This resurgence of Bitcoin's dominance after the critical time of the hard-fork was a sign of strength for many experts like macro-economist Lyn Alden and US-investor Michael Saylor, which led them to believe in the future potential of Bitcoin as the winner-take-all cryptocurrency. And even if there were technological innovations in Altcoins that would propel them in front of Bitcoin, there is no doubt that the Bitcoin developers would not implement them too.
+The resurgence of Bitcoin's dominance after the critical time of the hard-fork in 2017 was a sign of strength for many experts like macro-economist Lyn Alden and US-investor Michael Saylor, which led them to believe in the future potential of Bitcoin as the winner-take-all cryptocurrency. And even if there were technological innovations in Altcoins that would propel them in front of Bitcoin, there is no doubt that the Bitcoin developers would not implement them too.
 
 ### Bitcoin has failed
 
@@ -99,7 +99,7 @@ Want to know more about Bitcoin in Nigeria, open your browser and go to: anita.l
 ### Bitcoin's transaction limit
 _The Bitcoin network is only capable to process seven transactions per second. That is far too little for the demand of a global payment network. If all people were using Bitcoin, the network would be overburdened.__
 
-The Lightning Network has been in development since the beginning of 2018. This is a protocol that is located one level above the Bitcoin blockchain - **See chapter "Internet protocol stack" on page...**. The Lightning Network is expected to handle thousands of micro payments per second in a few years time. The Bitcoin blockchain will be used as the base settlement layer for large transactions, while small payments for a coffee, for instance, will take place on the Lightning Network. As user, you do not need to know how this works. Most of us also do not know how Netflix or sending an email works and yet we do it everyday.
+The Lightning Network has been in development since the beginning of 2018. This is a protocol that is located one level above the Bitcoin blockchain. The Lightning Network is expected to handle thousands of micro payments per second in a few years time. The Bitcoin blockchain will be used as the base settlement layer for large transactions, while small payments for a coffee, for instance, will take place on the Lightning Network. As user, you do not need to know how this works. Most of us also do not know how Netflix or sending an email works and yet we do it everyday.
 
 ### Mining pool concentration
 A mining pool is a structure that "pools" together computational resources provided by connected hashers (pool contributors) in order to increase the likelihood and frequency of finding a new block, which results in smoother pay-outs. 

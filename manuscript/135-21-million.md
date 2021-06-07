@@ -15,7 +15,7 @@ Satoshi Nakamoto coded these halvings into the Bitcoin Core software. The output
 This algorithm tends to zero such that there will be a maximum of 21 million bitcoin. There are currently around 18 million in circulation. In 2140 all 21 million bitcoin will have been generated. Mining will continue and the miners will be rewarded solely with transaction fees. By that point, it is expected that Bitcoin as a network will have such high adoption that transaction fees alone will adequately facilitate fair reward for miners.
 
 ![Total bitcoin supply over time](resources/_Total_bitcoins_over_time.png)
-[Source: Insti](https://en.bitcoin.it/wiki/File:Total_bitcoins_over_time_graph.png)
+[Source: Insti](https://commons.wikimedia.org/wiki/File:Total_bitcoins_over_time.png)
 
 ### Why 21 million?
 Why did Satoshi Nakamoto choose 21 million for the supply cap? There are many theories, but here is Satoshi's answer:

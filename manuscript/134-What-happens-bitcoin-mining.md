@@ -24,7 +24,7 @@ The payee, in fact their full node, receives the block and validates it again an
 
 The time-span that your transaction needs to be settled depends on the transaction fee you are selecting and paying. The higher the fee, the faster the miners will insert your transaction in a block, because they earn these fees in addition to the block reward of 6.25 bitcoin.
 
-Why this mathematical puzzle? Proof-of-work is resource-intensive as computers require large amounts of power. This fact leads to criticism of Bitcoin in light of the climate changes that we humans have created in recent decades. Chapter [11.3] [Bitcoin's Energy Consumption] deals with this question in more detail.
+Why this mathematical puzzle? Proof-of-work is resource-intensive as computers require large amounts of power. This fact leads to criticism of Bitcoin in light of the climate changes that we humans have created in recent decades. Chapter "Bitcoin's ecological footprint" deals with this question in more detail.
 
 Why do we need to spend so much electricity? The answer is: security and decentralization. The need to put effort and energy into mining protects the data in the blockchain from manipulation and makes it immutable and uncensorable. No state nor organization can change the blockchain. 
 
