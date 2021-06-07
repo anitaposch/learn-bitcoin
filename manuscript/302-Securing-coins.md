@@ -50,7 +50,6 @@ The order of words is IMPORTANT! You must write down the words exactly in the or
 
 > Example seed: cruise item paper slim vocal power like video snap museum mirror sun  
 
-Write the seed by hand on a piece of paper and store it safely. Do not take a screenshot, do not store it on your phone or computer that is connected to the internet as all those places can get hacked. 
-More about security in chapter 5, keep coins safe. **Reference...**
+Write the seed by hand on a piece of paper and store it safely. Do not take a screenshot, do not store it on your phone or computer that is connected to the internet as all those places can get hacked. More about security in chapter 6.
 
 Since your funds are not inside your wallet, but stored on the blockchain you can move globally and take your bitcoin funds wherever you go. You just need to remember the 12-24 seed words in the correct order. After passing customs without a mobile phone, you get yourself a new wallet and import the seed. Magic.
