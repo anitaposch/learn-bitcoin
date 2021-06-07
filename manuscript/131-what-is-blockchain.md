@@ -11,7 +11,7 @@ The Bitcoin blockchain belongs to no one, anyone can download it and store it on
 
 **Open and permissioned blockchains**
 
-Please note the difference between Bitcoin or Ethereum, which are open blockchains and for instance "Diem" the money project by Facebook or the Chinese governments E-Yuan CBDC which are closed, centralized blockchains. 
+Please note the difference between Bitcoin, which is an open blockchain and for instance "Diem" the money project by Facebook or the Chinese governments E-Yuan CBDC which are closed, centralized blockchains. 
 
 An open blockchain is accessible to all people, it is decentralized, transparent, uncensorable and neutral. Making it the revolutionary money it is. A global, internet native system that is open for everyone regardless of age, color, privilege, gender or nation. Bitcoin can even be used by machines. And no one can keep you from sending it peer-to-peer around the world. 
 
