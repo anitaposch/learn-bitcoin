@@ -1,7 +1,6 @@
 # Glossary
 
 **Cantillon Effect**
-
 French economist Richard Cantillon suggested that inflation occurs gradually and that the new supply of money has a localized effect on inflation, effectively originating the concept of non-neutral money. Furthermore, he posited that the original recipients of new money enjoy higher standards of living at the expense of later recipients.[^^G-1]
 
 **Central bank**
