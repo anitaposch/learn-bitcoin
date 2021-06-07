@@ -65,12 +65,12 @@ The Liquid Network is a federated sidechain-based settlement network for individ
 
 There are a variety of use cases for Liquid: 
 * fast transactions between exchanges
-* individuals can use L-BTC through the Green or Aqua wallet
+* individuals can use L-BTC through the Blockstream Green, Aqua, Elements, or Sideswap wallets
 * Peer-to-Peer exchange HodlHodl uses L-BTC for its lending service
 * the decentralized exchange Bisq will integrate L-BTC as its base layer
 * anyone can issue new assets, including stablecoins like Tether USDt (already supported by Liquid) and security tokens, which can be traded freely within the network
 
-Liquid shows that you can do anything with Bitcoin. You don't need a new blockchain or a new token. The native currency of Liquid is L-BTC, where you lock in your bitcoin and get the same amount of L-BTC for it. Therefore there will be only 21 million L-BTC ever. Liquid transactions are cheaper, faster and more private than bitcoin transactions. The third-parties that sign transactions are the trade-off. They can make Liquid vulnerable to censorship.
+Liquid shows that you can do anything with Bitcoin. You don't need a new blockchain or a new token. The native currency of Liquid is L-BTC, where you lock in your bitcoin and get the same amount of L-BTC for it. Therefore there will be only 21 million L-BTC ever. Liquid transactions are cheaper, faster and more private than bitcoin transactions. Although it's a federated sidechain transactions cannot be censored. The functionaries are black boxes, which can only be turned off by the operators. The trade-off is that Bitcoin peg-out transactions must be done through a Liquid member.
 
 #### RGB
 RGB is a smart contract system, working on Layer 2 and 3 on top of Bitcoin and the Lightning Network. It is designed with confidentiality and scalability in mind.
