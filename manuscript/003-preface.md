@@ -12,7 +12,9 @@ Jameson Lopp, Nic Carter, Andreas M. Antonopoulos, Caitlin Long, Maya Zehavi, Ly
 Special thanks to exiledsurfer, Johannes Grill, my friends at "Bitcoin Austria", Stephanie Jagl-Posch, the global community of Bitcoiners and, of course, to you my reader and supporters.
 
 **Copyright**
-Unless otherwise noted, the contents of this book are Copyright 2021 by Anita Posch and licensed [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Please give attribution by linking to the https://anitaposch.com website.
+All rights reserved, Copyright 2021 by Anita Posch.
+
+You are welcome to share parts of the book in media articles, on your personal website, in a non-commercial article or blog post (e.g., Medium), and/or on a personal social media account for non-commercial purposes, provided that you include attribution to "Anita Posch" and link back to the https://anitaposch.com URL. You are not permitted to copy the book and sell it in any format.
 
 # Donate
 I'm an independent one-woman business, I have no staff, no assistance, sometimes I hire freelancers to help me out. If you want to support my work to bring education about Bitcoin to as many people as possible under a free creative commons license, please contribute financially at https://anita.link/donate
