@@ -4,7 +4,7 @@
 
 As you have read in the previous chapters, Bitcoin's primary strength is its uncensorability, which gives you financial sovereignty. That is - beside the fixed 21 million supply - the main differentiator to all other forms of money. It protects you from bail-ins like in Cyprus 2014 and from devaluing your funds through inflation. It ends the enforced financialization of your money through banking and financial products. It gives you full control over your funds, enables you to move globally while bringing your money with you. It's an alternative, an opt-out of the fiat system - all you need are 12 English words: your seed phrase.
 
->"Bitcoin is uncensorable and non-inflatable. These are it's most important properties." - **Anita Posch**
+>"Bitcoin is uncensorable and non-inflatable. These are its most important properties." - **Anita Posch**
 
 If you do not have those seed phrase words, you do not have the privileges and the freedom stated above. 
 
