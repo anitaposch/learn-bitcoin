@@ -38,7 +38,6 @@ They will go after all crypto exchanges where you might have set up an account w
 
 When they know your email, they will try to change your account password with the "forgot password" functionality. Good sites will not tell them if the account exists. The attackers will try to do a password reset or try to get a text message verification.
 																																																				 
-
 **What you can do - Gmail example**
 Lock down your primary email account and remove your phone number from your email account such as a Gmail account. Here is how it's done: anita.link/removegmail. Use a different password for every account on every website or service. As a Gmail user, you can enroll in the Google Advanced Protection Program, which defends against targeted online attacks.
 
