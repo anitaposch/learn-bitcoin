@@ -33,11 +33,11 @@ Bitcoin mining’s estimated dollar cost per Gigajoule expended is 40 times more
 [Source](https://ark-invest.com/articles/analyst-research/bitcoin-myths/)
 
 **Why does Bitcoin need this amount of electricity?**
-The Proof-of-Work mining mechanism is a fundamental feature which secures the independence, neutrality and automated integrity of the network. It's state of the art and the most secure way to prevent attacks on assets worth $ 1 trillion USD locked in the network. (BTC marketcap, April 2021)
+The proof-of-work mining mechanism is a fundamental feature which secures the independence, neutrality and automated integrity of the network. It's state of the art and the most secure way to prevent attacks on assets worth $ 1 trillion USD locked in the network. (BTC marketcap, April 2021)
 
 Bitcoin can settle transactions without intermediaries because specialized, dedicated hardware proves transparently that the computer has executed a costly computation.
 
-Proof-of-Work is anchoring the digital money in the real world. As Chaincode Labs resident Hugo Nguyen explains, "Under the hood, proof-of-work mining converts kinetic energy (electricity) into a ledger block. By attaching energy to a block, one gives it ‘form’, allowing it to have real weight and consequences in the physical world." [^^C2-3]
+Proof-of-work is anchoring the digital money in the real world. As Chaincode Labs resident Hugo Nguyen explains, "Under the hood, proof-of-work mining converts kinetic energy (electricity) into a ledger block. By attaching energy to a block, one gives it ‘form’, allowing it to have real weight and consequences in the physical world." [^^C2-3]
 
 Proof-of-Work is also the only mechanism that allows an equally distributed, decentralized creation of coin supply, whereas other methods require initial token drops and token generation events that allow centralized actors to take advantage of pre-mined coins (Proof-of-Stake).
 

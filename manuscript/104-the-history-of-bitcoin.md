@@ -34,7 +34,7 @@ A short time later, Nick Szabo published a paper on "BitGold", the first digital
 ### Solving the double-spending problem
 These predecessor money technologies had a major unresolved problem. The "double spending" problem, which means that already spent digital money could be used a second time. Imagine a PDF file that you can copy, modify and send endlessly at zero cost, claiming that each copy is the original. Such a digital file would be worthless as money. 
 
-Satoshi Nakamoto's ingenious idea was to add a ledger to the system with blocks that contain transactions. These blocks are chained together - therefore it is called block chain - through "Proof-of-work" mining. This chaining of transactions in the correct timely order makes bitcoin unforgeable and immutable. 
+Satoshi Nakamoto's ingenious idea was to add a ledger to the system with blocks that contain transactions. These blocks are chained together - therefore it is called block chain - through "proof-of-work" mining. This chaining of transactions in the correct timely order makes bitcoin unforgeable and immutable. 
 
 As soon as an actor in the Bitcoin network cheats, the network will detect and ban it temporarily. This means you don't need to trust anyone, there is no need for an intermediary like a bank or PayPal. This doesn't mean that there are no scammers out there or that you can stop verifying what is true or false or learning about how to use Bitcoin and people. Knowledge is power.
 

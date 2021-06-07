@@ -61,7 +61,7 @@ Lastly, the MoC protocol also includes a governance token, conveniently named th
 To conclude, Money on Chain is a self-contained Bitcoin ecosystem, on RSK, which looks to provide multiple decentralized and non-custodial use cases specifically for Bitcoiners.
 
 #### Liquid Network
-The Liquid Network is a federated sidechain-based settlement network for individuals and exchanges, enabling faster, more confidential Bitcoin transactions and the issuance of digital assets. It's a separate blockchain that extends the funcionalities of bitcoin with layered technologies. Liquid does not use Proof-of-Work, blocks are signed on a per minute base by 15 functionaries. It enhances privacy through confidential transactions and assets, where the amount and type of the asset that is being sent is hidden, while it is still cryptographically guaranteed that no more coins can be spent than are available.
+The Liquid Network is a federated sidechain-based settlement network for individuals and exchanges, enabling faster, more confidential Bitcoin transactions and the issuance of digital assets. It's a separate blockchain that extends the funcionalities of bitcoin with layered technologies. Liquid does not use proof-of-work, blocks are signed on a per minute base by 15 functionaries. It enhances privacy through confidential transactions and assets, where the amount and type of the asset that is being sent is hidden, while it is still cryptographically guaranteed that no more coins can be spent than are available.
 
 There are a variety of use cases for Liquid: 
 * fast transactions between exchanges
