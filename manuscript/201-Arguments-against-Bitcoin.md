@@ -18,7 +18,7 @@ There is of course no guarantee that this performance will continue forever.
 
 At the time of writing bitcoin was in a bull run, which started in the last quarter of 2020. Meaning the price appreciated for a period of weeks and months with little setbacks in between. In May 2021 a significant drop occured, which many interpreted as a healthy setback in an overheated market. The last bull run started in 2017 and ended at the beginning of 2018. Since then the price moved sideways - as it is called in traders terms, meaning no particular large up or downwards movement in price. 
 
-![Bitcoin price development](_Bitcoin-price.png)[^^C2-2]
+![Bitcoin price development](resources/_Bitcoin-price.png)[^^C2-2]
 [Source](https://www.coingecko.com/en/coins/bitcoin/usd), June 7, 2021
 
 The bitcoin price development is following the halving cycles. Approximately every 4 years the amount of minted bitcoin is reduced by 50%. This means that the growth of available bitcoin on the market is shrinking. Even if the demand for bitcoin only remains at the same level, the price will increase. 
