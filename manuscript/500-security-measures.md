@@ -42,7 +42,7 @@ When they know your email, they will try to change your account password with th
 Lock down your primary email account and remove your phone number from your email account such as a Gmail account. Here is how it's done: anita.link/removegmail. Use a different password for every account on every website or service. As a Gmail user, you can enroll in the Google Advanced Protection Program, which defends against targeted online attacks.
 
 ## Phishing attacks
-In 2020, the marketing database of the French hardware manufacturer Ledger was hacked. The devices are safe, but thousands of email addresses, phone numbers and even home addresses of customers were leaked and can be found by anyone on the internet. This is an absolute disaster because chances are high that people ordering a hardware wallet own bitcoin too. In the worst case you will be "visited" at home. Most likely are threats via email and phishing attacks.
+In 2020, the marketing database of the French hardware manufacturer Ledger was hacked. The devices are safe, but thousands of email addresses, phone numbers and even home addresses of customers were leaked and can be found by anyone on the internet. This is an absolute disaster because chances are high that people ordering a hardware wallet own bitcoin too. In the worst case you will be "visited" at home. Most likely are threats via email and phishing attacks. To prevent this, keep in mind that you may never need to use your physical address for delivery of a Bitcoin related product like a hardware wallet. You could organize yourself a postbox. In the US there are services that can receive mail for you (CMRAs). If possible, do not even use your real name when ordering. Get yourself a second phone number and use this in case the vendor requests one. Give them a disposable email address that you only use for this specific order.
 
 Phishing attacks are attempts to scare or manipulate you so that you enter your seed words on the attackers website. For instance, you could receive an email saying: "Your ledger device has been corrupted or deactivated, visit this link and enter your 12 seed words to save your funds." or "We have detected a large withdrawal from your Ledger. You have 24 hours to respond to make this transaction valid. We are sorry, we can not reach your Ledger it seems to be corrupted. We are going to authorize the withdrawal unless you start the recovery process, give us your 24 seed words." or "you have received an airdrop. Money is coming into your account, all we need is a verification, please start your recovery process and give us your 24 seed words."
 ![Phishing mail](resources/_phishing-mail-ledger.png)
@@ -50,29 +50,29 @@ The attackers try to make you act fast without thinking. If you receive such a m
 
 Never trust email! Especially: never click on the links attached. 
 
-Bookmark the real websites of official sites of Ledger, Shift Crypto, Trezor etc. or type the domain name yourself in the browser address bar, look up the SSL authentication certificate. The attackers will send you to a fake website that looks the same as the real one. They only difference is the URL. One of the new tricks is to use domains with Unicode characters that look the same as the real domain. For instance, can you notice a difference in the following two addresses?
+Bookmark the real websites of official sites of Ledger, Shift Crypto, Trezor etc. or type the domain name yourself in the browser address bar, look up the SSL authentication certificate. The attackers will send you to a fake website that looks the same as the real one. The only difference is the URL. One of the new tricks is to use domains with Unicode characters that look the same as the real domain. For instance, can you notice the stain underneath the l of electrum? If you open that URL you see electrum.org, but are visiting xn--eectrum-9hb.org instead. 
 
->www.bitcoin.org
->www.bItcoin.org
+![](resources/_phishing.png)
 
-To prevent this, keep in mind that you may never need to use your physical address for delivery of a Bitcoin related product like a hardware wallet. You could organize yourself a postbox. In the US there are services that can receive mail for you (CMRAs). If possible, do not even use your real name when ordering. Get yourself a second phone number and use this in case the vendor requests one. Give them a disposable email address that you only use for this specific order.
+Browsers like Opera and Chrome will warn you, but Firefox doesn't by default. You can change that by enabling "punycode" in Firefox, see [anita.link/puny](https://anita.link/puny).
+
 
 ## 3-2-1 rule for storing your seed
 The seed consists of 12 - 24 English words. Nowadays, more wallets use 12 words instead of 24 because they provide a high enough level of security and are easier to remember and store.
 
 Write the seed on a piece of paper by hand when you first initialize your wallet. Make sure that the order is correct and check the written words multiple times. Note the vendor, model and the wallet software too. You might need this information in case you want to recover your funds.
 
-After that, it is advisable to take the following security measures to prevent you from losing your seed. When people lose access to their funds it's often because they lost their seed and not because their devices have been hacked.
+If you set up a hardware wallet you should send a small amount of bitcoin to it to test if everything works. After receiving the small amount, delete the software from the device and restore it with the words you have written down before. This is an important step that you should not skip.
+
+After that, it is advisable to take the following security measures to prevent you from losing your seed. When people lose access to their funds it's more often because they lost their seed or made a mistake writing it down and not because their devices have been hacked.
 
 **3**: Write down the seed three times
 
-**2**: On at least two different media (laminated paper, engraved or stamped on steel) and store it in a safe place for protection against fire, loss and theft.
+**2**: On at least two different media (laminated paper, engraved or stamped on steel) and store it in a safe place for protection against fire, loss and theft. 
 
 **1**: additionally, store a backup in a different location, preferably at least 100 kilometres away.
 
-Jameson Lopp, one of my podcast guests, is testing steel plates that can be used to secure the seed for long term. He exposes them to fire and pressure to check longevity. Not all products are made of steel or titanium, which is why they melt in fire.
-
-The tests can be found here: [anita.link/metalseed](https://anita.link/metalseed)
+Jameson Lopp, one of my podcast guests, is testing steel plates that can be used to secure the seed for long term. He exposes them to fire and pressure to check longevity. Not all products are made of steel or titanium, which is why they melt in fire. The tests can be found here: [anita.link/metalseed](https://anita.link/metalseed)
 
 Don't get creative! Dividing the words into two or more parts and storing them in different locations is a common mistake. You only need to lose one part and you will no longer be able to access your coins.
 
@@ -81,7 +81,7 @@ Don't get creative! Dividing the words into two or more parts and storing them i
 * The seed is not required to send or receive bitcoin. 
 * No credible individual or entity would ask for your seed.
 * Check the storage locations of your seed words regularly!
-* Set up an inheritance plan - worst cases do happen and if you do not instruct your beneficiaries correctly, your bitcoin are lost. I recommend Pamela Morgan's book on Cryptoasset Inheritance Planning https://anita.link/inheritance
+* Set up an inheritance plan - worst cases do happen and if you do not instruct your beneficiaries correctly, your bitcoin are lost. I recommend Pamela Morgan's book on Cryptoasset Inheritance Planning [anita.link/inheritance](https://anita.link/inheritance)
 
 ### Passphrase
 A passphrase is an additional way to secure your funds on top of the seed. If you add a passphrase, the software creates an additional wallet that you can use to protect yourself from physical attacks. If someone gets hold of your seed, they still can not access your funds because they do not have the passphrase.
