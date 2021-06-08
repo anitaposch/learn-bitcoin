@@ -74,7 +74,7 @@ Bitcoin has been the world's most widely used cryptocurrency since its origin in
 ![Percentage of total market capitalization](resources/_Market-dominance.png)
 [Source](https://coinmarketcap.com/charts/) June 7, 2021
 
-The resurgence of Bitcoin's dominance after the critical time of the hard-fork in 2017 was a sign of strength for many experts like macro-economist Lyn Alden and US-investor Michael Saylor, which led them to believe in the future potential of Bitcoin as the winner-take-all cryptocurrency. And even if there were technological innovations in Altcoins that would propel them in front of Bitcoin, there is no doubt that the Bitcoin developers would not implement them too.
+The resurgence of Bitcoin's dominance after the critical time of the hard-fork in 2017 was a sign of strength for many experts like macro-economist Lyn Alden and US-investor Michael Saylor, which led them to believe in the future potential of Bitcoin as the winner-take-all cryptocurrency. And even if there were technological innovations in Altcoins that would propel them in front of Bitcoin, there is no doubt that the Bitcoin developers will implement them too.
 
 ### Bitcoin has failed
 
