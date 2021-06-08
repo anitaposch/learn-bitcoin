@@ -8,7 +8,7 @@ Author: Anita Posch
 Publisher: PoshMedia e.U., Seilerstaette 24, 4. Stock, 1010 Wien
 
 Editor: Mark Kersley
-Design: TBD
+Design: Sovryn
 
 Copyright 2021 by Anita Posch, all rights reserved.
 
