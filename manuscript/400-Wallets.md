@@ -31,15 +31,15 @@ For iOS and Android
 * [Blockstream Green](https://blockstream.com/green/) (Bitcoin, Liquid)
 * [Hexa wallet](https://hexawallet.io/)
 * If you want to use Bitcoin and micro-payments on the Lightning Network:
-	* [Blue Wallet](https://bluewallet.io/)
 	* [Muun Wallet](https://muun.com/)
+	* [Breez Wallet](https://breez.technology/)
 	* [Electrum](https://electrum.org)
 
 **Desktop Wallets**
 Because of the security risks stated above I am not using software wallets on my computer, except for the use in combination with hardware wallets. For this I use Electrum or the hardware manufacturers native software.
 
 * Blockstream Green (Bitcoin, Liquid) https://blockstream.com/green/ 
-* Blue Wallet (Bitcoin and Lightning) https://bluewallet.io/
+* Blue Wallet (Bitcoin non-custodial and Lightning custodial) https://bluewallet.io/
 * Electrum (Bitcoin and Lightning, for more tech-savvy users) https://electrum.org
 
 ### Cold Storage
