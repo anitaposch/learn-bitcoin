@@ -6,10 +6,10 @@ Author: Anita Posch
 Editor: Mark Kersley
 Illustration, Cover design: TBD
 
-Thank you for contributions:
-Jameson Lopp, Nic Carter, Andreas M. Antonopoulos, Caitlin Long, Maya Zehavi, Lyn Alden, Alena Vranova, Samson Mow, Max Hillebrand, Hass McCook, Ryan Gentry, embarrassedOK, Erik24020105, Chris Chester.
+**Special thanks to Sovryn** for contributing to the creation of this book (editing, typesetting, design, translations). 
 
-Special thanks to exiledsurfer, Johannes Grill, my friends at "Bitcoin Austria", Stephanie Jagl-Posch, the global community of Bitcoiners and, of course, to you my reader and supporters.
+**Thanks for input and knowledge**
+Exiledsurfer, Jameson Lopp, Nic Carter, Andreas M. Antonopoulos, Caitlin Long, Maya Zehavi, Lyn Alden, Alena Vranova, Samson Mow, Thomas Voegtlin, Max Hillebrand, Hass McCook, Ryan Gentry, embarrassedOK, Erik24020105, Chris Chester, Johannes Grill, Stephanie Jagl-Posch.
 
 Copyright 2021 by Anita Posch, all rights reserved.
 
