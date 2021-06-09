@@ -3,7 +3,7 @@
 > "Writing a description for this thing for general audiences is bloody hard. There's nothing to relate it to." - **Satoshi Nakamoto**
 
 _June 9, 2021_
-_A few hours ago I was live on Twitter spaces together with 20,000 Bitcoiners and the President of El Salvador when the country's Congress voted for the adoption of bitcoin as legal tender, making it the world's first country to do so. Also today I am finishing this book manuscript. What a coincidence, it's an incredible time to be alive and I'm humbled to be able to contribute to this movement through my Bitcoin education. Thank you for picking up, buying and giving this book to your friends._
+_A few hours ago I was live on Twitter Spaces together with 20,000 Bitcoiners and the President of El Salvador when the country's congress voted to adopt bitcoin as legal tender, making it the world's first country to do so. Coincidentally I am also finishing the manuscript of this book today. What an incredible time to be alive and I'm humbled to be able to contribute to this movement through my Bitcoin education. By picking up this book and sharing it with your friends we are hastening the monetary revolution towards more individual freedom and sovereignty._
 
 (L)earn Bitcoin is the best guide to decide why and how you should enter the world of Bitcoin. It presents Bitcoin in all its facets from technical, economical, political and social implications to how it relates to the current monetary landscape. It provides a step-by-step roadmap to navigate this new financial world and sets you up with concrete recommendations on how to safely acquire, earn and store bitcoin. Ascending the staircase of financial sovereignty will gain you personal freedom and control over your money. 
 
