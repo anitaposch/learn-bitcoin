@@ -7,6 +7,8 @@ On October 31, 2008, in the advent of the biggest financial crises the world has
 
 On Jan 3, 2009 the first public block of Bitcoin, the so called genesis block, was mined. Satoshi left a message in it: "Chancellor on brink of second bailout for banks", which was the headline of the daily newspaper, The Times, in the UK on that same day. It's a timestamp that marks the beginning of Bitcoin and shows the relation to the fact that it should be an alternative to the current banking and financial system, in which you needed to trust intermediaries when you want to process electronic payments. 
 
+On June 9, 2021 bitcoin became legal tender in El Salvador.
+
 Since the 1990s computer experts, mathematicians and cryptographers - including some women - have been working on concepts of creating digital money. Bitcoin could be created because it was built on the key technologies of its predecessors.
 
 ### Cryptocurrency projects before Bitcoin
