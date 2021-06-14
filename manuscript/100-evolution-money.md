@@ -21,7 +21,7 @@ In a traditional payment there are up to seven intermediaries until the payment 
 
 Bitcoin is the people's money. Bitcoin is the evolution of money, the continuation of a perpetual process of discovering money in the history of mankind. Over the millennia, various new forms of money have been found and used, from exchange between people to a credit system and a gold standard to fiat currency to today's current non-backed inflationary system. The banking and monetary system as we know it today has existed and evolved for about 300 years. It is only natural that with the emergence of a new form of communication via the internet, a new form of economy and a new type of money, namely a native internet money, has arisen.
 
-![History of money](_money-history.png) [^^C0-2]
+![History of money](resources/_money-history.png) [^^C0-2]
 
 Programmable cryptographic money or the "Internet of Money" - as Andreas M. Antonopoulos puts it - is unstoppable. We are at the beginning of a new era in the history of mankind. 
 
