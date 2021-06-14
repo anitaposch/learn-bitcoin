@@ -1,4 +1,7 @@
 
+[^^C0-1]: [Illustration NetGuardians retrieved April 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)
+[^^C0-2]: Author illustration, credits: University of Nicosia, MOOC in Digital Currency, “A brief history of money” with image: Lotus Head, CC BY-SA 3.0, wikimedia.org
+
 [^^C1-1]: Image: "Stone Money of Uap, Western Caroline Islands." - Dr. Caroline Furness Jayne took this photograph during a 1903 stay on Yap, Public domain, via Wikimedia Commons
 [^^C1-2]: [Wikipedia Rai stones](https://en.wikipedia.org/wiki/Rai_stones)
 [^^C1-3]: [University of Nicosia, Introduction to Digital Currencies, Session 1, p. 15]
@@ -17,6 +20,12 @@
 [^^C1-16]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 247.
 [^^C1-17]: [Monetary Base](https://www.investopedia.com/terms/m/monetarybase.asp)
 [^^C1-18]: [Global Monetary Base, Crypto Voices](https://cryptovoices.com/basemoney)
+[^^C1-19]: Author illustration
+[^^C1-20]: Author illustration, Source [The Merkle](https://themerkle.com/top-4-cryptocurrency-projects-created-ahead-of-bitcoin/), [Hashcash.org](http://www.hashcash.org/bitcoin/)
+[^^C1-21]: Author illustration inspired by [Melanie Swan](https://www.slideshare.net/lablogga/bitcoin-and-blockchain-explained-cryptocitizen-smartnetwork-trust)
+[^^C1-22]: [Source Andreas M. Antonopoulos](https://twitter.com/aantonop/status/1257366095515848716?s=20)
+[^^C1-23]: [Source: Insti](https://commons.wikimedia.org/wiki/File:Total_bitcoins_over_time.png)
+[^^C1-24]: [Source plan99.net](https://plan99.net/~mike/satoshi-emails/thread1.html)
 
 [^^C2-1]: [Clifford Stoll](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
 [^^C2-2]: [Ryan Walker](https://www.coindesk.com/origins-money-darwin-evolution-cryptocurrency)
@@ -31,7 +40,7 @@
 [^^C2-11]: [Andreas M. Antonopoulos, MOOC 15, Session 2, Thursday 11 Feb 2021](https://youtu.be/BZr40NshRzI?t=761)
 [^^C2-12]: [Caitlin Long](https://twitter.com/CaitlinLong\_/status/1384925713648734212?s=20)
 [^^C2-13]: [ARK Invest Bitcoin myths](https://ark-invest.com/articles/analyst-research/bitcoin-myths/)
-[^^C2-14]: [International Monetary Fund](https://www.imf.org/external/datamapper/PCPIPCH@WEO/OEMDC/ADVEC/WEOWORLD), requested on April 26th, 2021
+[^^C2-14]: [International Monetary Fund, Inflation rate](https://www.imf.org/external/datamapper/PCPIPCH@WEO/OEMDC/ADVEC/WEOWORLD), requested on April 26th, 2021
 [^^C2-15]: [Trading volume on P2P Bitcoin exchanges in Sub-Saharan countries from May 2020 to April 2021](https://www.usefultulips.org/combined_Sub%20Saharan%20Africa_Page.html), requested on April 26th, 2021
 [^^C2-16]: [World Bank, Sending money from South Africa to Zimbabwe](https://remittanceprices.worldbank.org/en/corridor/South-Africa/Zimbabwe), requested on April 26th, 2021
 [^^C2-17]: [Wikipedia, Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index)
@@ -40,6 +49,34 @@
 [^^C2-20]: [BNY Mellon Supports Global Push for Financial Gender Equality](https://www.bnymellon.com/us/en/about-us/newsroom/company-news/bny_mellon_supports_a_global_push_for_financial_gender_equality.html)
 [^^C2-21]:[Georgetown Journal of International Law](https://www.law.georgetown.edu/international-law-journal/wp-content/uploads/sites/21/2018/08/4-Kenya-Report-508.pdf)
 [^^C2-22]:[World Bank, The Global Findex Database Measuring Financial Inclusion and the Fintech Revolution 2017](https://www.notion.so/Financial-Inclusion-feb3e3913cb042b9bc0ef525ad0f8272#f24c9e8d868e49fe9052c61ead55e080)
+[^^C2-23]: [Source Charlie Bilello](https://twitter.com/charliebilello/status/1370722188739891202/photo/1)
+[^^C2-24]: [Source CoinGecko](https://www.coingecko.com/en/coins/bitcoin/usd), June 7, 2021
+[^^C2-25]: [Source Pladizow](https://twitter.com/Pladizow/status/1358545292782497792/photo/1)
+[^^C2-26]: [Source CoinGecko](https://www.coingecko.com/en/coins/bitcoin/usd), June 7, 2021
+[^^C2-27]: [Source CoinMarketCap](https://coinmarketcap.com/charts/) June 7, 2021
+[^^C2-28]: [Source Statista](https://www.statista.com/statistics/1202503/global-cryptocurrency-user-base/)
+[^^C2-29]: [Source Statista](https://www.statista.com/chart/18345/crypto-currency-adoption/)
+[^^C2-30]: [Source CoinShares, Bitcoin Mining, Dec. 2019](https://coinshares.com/de/research/bitcoin-mining-network-december-2019)
+[^^C2-31]: [Source Newsweek, 12/11/2017](https://www.newsweek.com/bitcoin-mining-track-consume-worlds-energy-2020-744036)
+[^^C2-32]: [Source Cambridge Center for Alternative Finance, March 2021](https://cbeci.org/cbeci/comparisons/)
+[^^C2-33]: [Source Energy Flow Chart, Lawrence Livermore National Laboratory](https://flowcharts.llnl.gov/)
+[^^C2-34]: [Source, ARK Invest, Bitcoin myths](https://ark-invest.com/articles/analyst-research/bitcoin-myths/)
+[^^C2-35]: [Source Statista](https://www.statista.com/statistics/881541/bitcoin-energy-consumption-transaction-comparison-visa/)
+[^^C2-36]: [Source Statista](https://www.statista.com/statistics/279308/average-credit-card-transaction-value-worldwide/)
+[^^C2-37]: [Source BitInfoCharts](https://bitinfocharts.com/comparison/bitcoin-transactionvalue.html#1y)
+[^^C2-38]: [Source The Federal Reserve Services](https://frbservices.org/resources/financial-services/wires/volume-value-stats/monthly-stats.html)
+[^^C2-39]: Author illustration
+[^^C2-40]: [Source: Hass McCook](https://bitcoinmagazine.com/business/what-elon-musk-gets-wrong-about-bitcoin) 
+[^^C2-41]: Source Annual Greenhouse Gas Emissions, Hass McCook, June 2021
+[^^C2-42]: [Source Statista](https://www.statista.com/chart/18359/estimated-military-carbon-dioxide-emissions/)
+
+[^^C3-1]: Author illustration
+[^^C3-2]: Author illustration
+
+[^^C7-1]: Author illustration
+[^^C7-2]: [Source BitcoinTalk](https://bitcointalk.org/index.php?topic=170725.0)
+
+[^^C8-1]: Screenshots by author, retrieved March 2021, Breez wallet
 
 [^^G-1]: [Cantillon Effect on Wikipedia](https://en.wikipedia.org/wiki/Richard_Cantillon)
 [^^G-2]: [Central bank on Wikipedia](https://en.wikipedia.org/wiki/Central_bank)

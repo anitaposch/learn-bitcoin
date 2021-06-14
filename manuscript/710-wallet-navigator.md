@@ -20,4 +20,4 @@ Write down the mnemonic seed - 12 to 24 English words, the name, type and softwa
 ### Step 3 - Buy Bitcoin
 Most wallets include the possibility to buy bitcoin directly in their interface. Wallet manufacturers are cooperating with exchanges, which in return pay them a commission. If I need to use an exchange I prefer selecting one prior and externally from the wallet. That way I stay independent of the wallet type, can use this one exchange to send bitcoin to all my different wallets, and only have to leave my KYC data there reducing the risk of data breaches. Using non-custodial, non-KYC methods (see Chapter 8.3) is even better.
 
-![How to get bitcoin](resources/_Buying-methods.png)
+![How to get bitcoin](resources/_Buying-methods.png) [^^C7-1]

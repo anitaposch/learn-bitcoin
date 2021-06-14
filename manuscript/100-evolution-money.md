@@ -10,7 +10,7 @@ This self-regulating system has the following characteristics:
 -   Bitcoin transactions are highly secure without intermediaries like a bank.
 -   Bitcoin transactions are transparent, publicly visible and can be audited by anybody.
 
-![A PayPal payment vs. Bitcoin](resources/_paypal-bitcoin-intermediaries.PNG)
+![A PayPal payment vs. Bitcoin](resources/_paypal-bitcoin-intermediaries.PNG) [^^C0-1]
 In a traditional payment there are up to seven intermediaries until the payment reaches the recipient. Bitcoin has none.
 
 -   Bitcoin is a neutral network, it does not moralize or distinguish between "good" and "bad" payments.
@@ -21,7 +21,7 @@ In a traditional payment there are up to seven intermediaries until the payment 
 
 Bitcoin is the people's money. Bitcoin is the evolution of money, the continuation of a perpetual process of discovering money in the history of mankind. Over the millennia, various new forms of money have been found and used, from exchange between people to a credit system and a gold standard to fiat currency to today's current non-backed inflationary system. The banking and monetary system as we know it today has existed and evolved for about 300 years. It is only natural that with the emergence of a new form of communication via the internet, a new form of economy and a new type of money, namely a native internet money, has arisen.
 
-![History of money](resources/_history-money.PNG)
+![History of money](_money-history.png) [^^C0-2]
 
 Programmable cryptographic money or the "Internet of Money" - as Andreas M. Antonopoulos puts it - is unstoppable. We are at the beginning of a new era in the history of mankind. 
 
@@ -190,6 +190,6 @@ In the early 1970’s, there were a variety of geopolitical conflicts including 
 
 We have been in currency wars for many decades. Which currency is stronger, which country can gain more benefits from manipulating its currency – the Euro, the US Dollar, the Chinese Yuan? Or even Facebook's Diem? Corporation money is the new, strong player on the market. To retain their powers Central Banks started to work on their own digital currencies (CBDCs). 
 
-![New forms of money emerge](resources/_new-forms-money.png)
+![New forms of money emerge](resources/_new-forms-money.png) [^^C1-19]
 
 Bitcoin is our alternative to this system. Protecting our privacy in this digital age, voting against the abuse of monopolistic power in the current system, and giving people living in authoritarian states with corrupt rulers the same opportunities to participate in the economic system. Bitcoin is a defense strategy, a tool with which we can preserve the human right to transaction freedom and privacy.
