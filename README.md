@@ -2,7 +2,6 @@ This is the manuscript for (L)earn Bitcoin Become Financially Sovryn 1st Edition
 
 The book will be released as an ebook and in print on July 24th. 
 
-
 Author: Anita Posch
 
 Publisher: PoshMedia e.U., Seilerstaette 24, 4. Stock, 1010 Wien
@@ -18,4 +17,4 @@ ISBN (epub): 978-3-9504591-4-2
 
 Get current information about the book online at https://learnbitcoin.link
 
-If you want to contribute financially to this book and further projects, feel free to visit https://anita.link/donate
+I'm an independent one-woman business, I have no staff, no assistant, sometimes I hire freelancers to help me out. If you want to support my work bringing education about Bitcoin to as many people as possible, you can contribute at https://anita.link/donate.
