@@ -20,7 +20,7 @@ People in developed nations with functioning democratic systems often dismiss Bi
  
 The world's population is 7.8 billion people. Only 8.4% of those live in full democracies, 41% in flawed democracies, 15% in hybrid regimes and 35,6% in authoritarian regimes. 
 
-Over 50% of the world's population are living in nations far from free and fair democracies! 1.7 billion people do not have a bank account and never will. Bitcoin is for them. [^^C-17] 
+Over 50% of the world's population are living in nations far from free and fair democracies! 1.7 billion people do not have a bank account and never will. Bitcoin is for them. [^^C2-17] 
 
 Its people in regions like Africa and South America who will drive Bitcoin adoption forward. The main use-cases there are:
  

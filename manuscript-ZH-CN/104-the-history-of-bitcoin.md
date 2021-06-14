@@ -14,7 +14,7 @@ Since the 1990s computer experts, mathematicians and cryptographers - including 
 ### Cryptocurrency projects before Bitcoin
 Parts of the following concepts were incorporated into Satoshi Nakamoto's Bitcoin white paper. 
 
-![Cryptocurrency projects before Bitcoin](resources/_History-of-Bitcoin.png)
+![Cryptocurrency projects before Bitcoin](resources/_History-of-Bitcoin.png)[^^C1-20]
 
 **Public and private key pairs**
 In 1990 David Chaum was concerned with the public nature and open access to online payments and personal information. He founded "Digicash", a corporation and electronic money of the same name, which used cryptographic protocols as well as  private and public keys to anonymize transactions. The use of signatures, public and private key pairs became essential in the further development of electronic money and Bitcoin.

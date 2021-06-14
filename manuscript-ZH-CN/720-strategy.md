@@ -30,8 +30,7 @@ However, you might be tempted to give it a try. Use the website [If you had boug
 ### If I had only...I'm too late
 If you had only bought Bitcoin in 2011, you would be very rich by now. That is true and I would congratulate without envy, because then you were one of the few people who already believed in Bitcoin and were ready to put your hard earned money into a risky experiment. None of the early adopters knew that Bitcoin will rise like it has done. It was very difficult to secure your keys back then, many bitcoin were lost or stolen. So if you had made it through and preserved your coins, you might have sold it all in 2014, maybe 2017? It is idle to ponder about, what if. We are still in the early days. If you are starting to educate and use Bitcoin now, you're still leagues ahead of the masses. It's never too late to learn about Bitcoin. 
 
-![Here is someone thinking to be too late in 2013](resources/_too-late.png)
-[Source](https://bitcointalk.org/index.php?topic=170725.0)
+![Here is someone thinking to be too late in 2013](resources/_too-late.png) [^^C7-2]
 
 ### Taxes
 I'm not a tax advisor, but what I can say is, learn about the regulations and tax requirements in your jurisdiction. The Bitcoin blockchain is transparent and more and more tax authorities will require exchanges to hand them their trading data. Keep proofs of your purchases in case authorities start investigating. 

@@ -81,7 +81,7 @@ Don't get creative! Dividing the words into two or more parts and storing them i
 * The seed is not required to send or receive bitcoin. 
 * No credible individual or entity would ask for your seed.
 * Check the storage locations of your seed words regularly!
-* Set up an inheritance plan - worst cases do happen and if you do not instruct your beneficiaries correctly, your bitcoin are lost. I recommend Pamela Morgan's book on Cryptoasset Inheritance Planning [anita.link/inheritance](https://anita.link/inheritance)
+* Set up an inheritance plan - worst cases do happen and if you do not instruct your beneficiaries correctly, your bitcoin are lost. I recommend [Pamela Morgan's book on Cryptoasset Inheritance Planning](https://anita.link/inheritance)
 
 ### Passphrase
 A passphrase is an additional way to secure your funds on top of the seed. If you add a passphrase, the software creates an additional wallet that you can use to protect yourself from physical attacks. If someone gets hold of your seed, they still can not access your funds because they do not have the passphrase.
@@ -103,7 +103,7 @@ Some wallets use different mechanisms for the backup. For instance, the Muun wal
 ## Learning by doing
 It can be intimidating to start using Bitcoin because it's real money. That is why it is a good practice to start with very small amounts. 
 
-For your first attempts, install a wallet on your phone, search for a Bitcoin ATM https://anita.link/atm close to you or attend a local Bitcoin meet-up and exchange a small amount. Get a wallet for your computer and send bitcoin in between your two wallets to different addresses. 
+For your first attempts, install a wallet on your phone, search for a [Bitcoin ATM](https://anita.link/atm) close to you or attend a local Bitcoin meet-up and exchange a small amount. Get a wallet for your computer and send bitcoin in between your two wallets to different addresses. 
 
 The best time to do this is usually on the weekend, when the Mempool is not packed with transactions and the fees are lower. 
 
