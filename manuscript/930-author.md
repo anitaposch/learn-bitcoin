@@ -1,18 +1,20 @@
 
 # Author
 
-Anita Posch is the host of [the Anita Posch show](https://anita.link/show), a **Bitcoin advocate** and **solopreneur**. She is a member of the board at [Bitcoin Austria](https://bitcoin-austria.at/) - an educational non-profit organization. 
+Anita Posch is a Bitcoin advocate, author, solopreneur and host of the Anita Posch show. She is a member of the board of Bitcoin Austria - an educational non-profit organization. 
 
-Anita translated two volumes of [The Internet of Money](https://amzn.to/2W9yC7P) by Andreas M. Antonopoulos to German. Her research and activities around Bitcoin are discussed in media all over the world: Bitcoin Magazine, CoinDesk, Bayern2, Deutschlandfunk, Radio FM4, and ARD television, among others.
+Before she started her educational Bitcoin work in 2017, Anita gained over 20 years of experience in web development, e-commerce, and online business. Disillusioned by the centralized nature of the internet, consumerism and surveillance capitalism she spent 2016 in Berlin on a mission to make a change.
 
-> "Bitcoin might be our only tool to secure the human right to privacy and freedom of transaction. It’s a medium of liberation for billions of people and a defense mechanism for privacy in our ever more digital lives." – **Anita Posch**
+In early 2017 she attended a talk about Bitcoin and open blockchain technology and the positive impact it could have on society. She realized that a technology which is permissionless, inflation-proof and a global internet money could free billions of people, disenfranchised by current financial power dynamics. Bitcoin is unstoppable money that can be used by anyone regardless of who they are. It's neutral, not controlled by any company or government, while at the same time being an internet protocol, financial rails that is built for a common good.
 
-In her podcast, Anita discusses use-cases and the ideas behind Bitcoin with industry leaders and people with interest in open blockchain technologies. The main topics are about Bitcoin in the context of financial inclusion, human rights, and privacy.
+Anita's goal is to bring Bitcoin to billions through her educational work. She has developed a Bitcoin podcast, a YouTube channel and wrote the book (L)earn Bitcoin, which will be translated into a variety of languages. She has also interviewed people from all around the world including some from developing countries like Nigeria, South Africa, Venezuela, and Afghanistan about the effects of Bitcoin on people's freedom.
 
-Her guests include Andreas M. Antonopoulos (world-renowned Bitcoin educator, author and speaker), Adam Back (CEO Blockstream and cited in the Bitcoin and Tor whitepaper), Tuur Demeester (Adamant Capital), Jameson Lopp (CTO Casa), Alena Vranova (former Trezor and Casa), Caitlin Long (CEO AvantiBT, Wyoming Blockchain Committee), Dan Held (growth Kraken), Max Keiser and Stacy Herbert (Orange Pill and the Keiser Report), Elena Tonoyan (COO LocalBitcoins), Ray Youssef (CEO and Founder of Paxful), Nic Carter (Castle Island Ventures), Lyn Alden (strategic investor), Edan Yago (Sovryn contributor and "figurehead") and many more.
+In early 2020 she was the first Bitcoiner to visit Zimbabwe to research the country's monetary situation as well as the adoption rate of Bitcoin and to report on the results in her podcast. The goal was, through interviews, to build a bridge between people who live under flawed democracies or authoritarian regimes to the rest of the world and to show how Bitcoin could improve their living conditions and financial freedom.
 
-Anita Posch has a strong background in web development, e-commerce, and online business. In 1999 Anita started her entrepreneurial career as a web designer and co-founded an online platform for office sharing in 2006. In 2009 Anita launched an online marketplace for handmade goods in Austria. Both platforms were sold in 2012. After working on e-commerce projects with motorcycle manufacturer KTM and wholesaler Windhager, Anita started her Bitcoin advocacy and educational work in 2017.
+Bitcoin is money from the people, for the people. It's mathematical rules can't be corrupted - neither by governments nor by billionaires. This guarantees a level of fairness which cannot be achieved in traditional human driven systems. It gives underprivileged individuals, such as people from developing nations, women, and oppressed minority groups, the chance to participate globally in a free and private manner with each other. This freedom to exchange value, unleashing people's creativity and innovation, is what drives Anita Posch. 
+
+Anita translated two volumes of [The Internet of Money](https://anita.link/idg2) by Andreas M. Antonopoulos into German. Her research and activities around Bitcoin are discussed in media all over the world: Bitcoin Magazine, CoinDesk, What Bitcoin Did, Bayern2, Deutschlandfunk, Radio FM4, and ARD television, among others.
 
 Anita Posch regularly tweets on [https://twitter.com/anitaposch](https://twitter.com/anitaposch).
   
-You can find her website on [https://anitaposch.com](https://anitaposch.com) and The Anita Posch Show on [https://anita.link/show](https://anita.link/show).
+You can find more about Anita on her website on [https://anitaposch.com](https://anitaposch.com), the Anita Posch show on [https://anita.link/show](https://anita.link/show) and information about this book on [https://learnbitcoin.link](https://learnbitcoin.link).
