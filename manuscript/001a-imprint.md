@@ -1,6 +1,6 @@
 
 (L)earn Bitcoin
-Become Financially Sovereign
+Become Financially Sovryn
 1st Edition, June 2021
 
 Author: Anita Posch
@@ -8,8 +8,11 @@ Author: Anita Posch
 Publisher: PoshMedia e.U., Seilerstaette 24, 4. Stock, 1010 Wien
 
 Editor: Mark Kersley
-Typesetting:
-Design: Sovryn
+Typesetting: Dan Prescott, Couper Street Type Co.
+Cover Design/Art Direction: tzu jan | 自然 
+Illustration Concept Sketch: @danubastidas 
+Illustration: Maleek 
+Illustration Hand Lettering: Mila Masina
 
 Copyright 2021 by Anita Posch, all rights reserved.
 
