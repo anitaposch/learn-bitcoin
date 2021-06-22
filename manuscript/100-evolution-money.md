@@ -25,7 +25,7 @@ Bitcoin is the people's money. Bitcoin is the evolution of money, the continuati
 
 Programmable cryptographic money or the "Internet of Money" - as Andreas M. Antonopoulos puts it - is unstoppable. We are at the beginning of a new era in the history of mankind. 
 
-## Rai stones of Yap
+## Rai Stones of Yap
 If Bitcoin sounds mind-boggling and you can't grasp the concept of a blockchain as a shared ledger of truth, the Rai of the Isle of Yap is a good example to introduce some overlapping concepts.
 
 Rai are large stone disks used on Yap island in the Western Pacific (Micronesia). They were "minted" from the limestone deposits of the island of Palau and used as a currency until the 20th century. 
@@ -60,7 +60,7 @@ Fiat is "money by decree", it's coercively managed through the state's implicit 
 * Money is created through government stimulus, through benefits, grants and bail outs. 
 * Money is created by commercial banks through loans.
 
-### Money is created through debt
+### Money Is Created Through Debt
 The last point is the one we all know. It is how we take a loan for buying a house, starting a business or buying a car. The process is easy, but only for those who are already privileged. If you cannot put forward a security as collateral, you are a small business owner, you do not have a regular fixed income job, or you are a woman in a country where women are still forbidden to own any property, then you will not qualify for credit at your bank. If you get the loan, the bank edits its digital ledger and adds the credit sum to their account. You owe them the amount of the loan plus a rate of interest. Now you have to go out and work or sell something to be able to pay back the loan plus the interest rate. It's a great deal for the banks, they add nothing, but earn the fees for your loan agreement and the interest on your payback. 
 
 On top of that, there is something called fractional-reserve banking, which allows banks to lend out more money than they hold in reserves or as balances in their account at the central bank. The minimum amount that banks must hold in liquid assets, called the "reserve ratio" is determined by the central bank. This rate varies from country to country. In the Euro area banks have to hold a minimum of 1% at the time of writing. In March 2020 the FED abolished this minimum reserve requirement due to the pandemic. Canada, the UK, New Zealand, Australia, Sweden and Hong Kong have no reserve requirements. If each of us were to go the bank today and request to withdraw our money, the banking system would fall apart because they lent it all out and cannot give you the money. 
@@ -69,7 +69,7 @@ In 2020 global debt rose by an incredible 24 trillion to 281 trillion USD, or 35
 
 ![Debt-to-GDP ratios](resources/_Debt-to-GDP-ratio-2020.jpg)
 
-### Central banks as lenders of last resort
+### Central Banks as Lenders of Last Resort
 Commercial banks can and have called for the help of the central bank as lender of last resort. In 2008/2009 the banks, who were responsible for the global financial crisis, received their bail-out money. They were rescued because they were "too big to fail". And what did they do with the money? They bought back the shares of their own companies. Nothing "trickled down" down into the economy. The gap between rich and poor inevitably became bigger and bigger. 
 
 Central banks are called lenders of last resort. The objective is to prevent economic disruption as a result of financial panics and bank runs spreading from one bank to the next from a lack of liquidity. Financial actors like banks know that the central banks will have to bail them out, which leads to moral hazard - excessive risk-taking by both bankers and investors.
@@ -82,7 +82,7 @@ Have you as an individual ever been bailed out? And if you have, would you do th
 
 Naomi Prins' book tapped into the psyche of Wall Street, revealing how the very structure of the financial system hinged on traders flocking to the next big bet, regardless of the stakes. In addition the _same_ people and families kept popping up, cycling through Wall Street and Washington. They influenced the economy beneath them from their loftier heights of status, private money, and public office, dismantling laws that stood in their way and finding loopholes through others. Private banks normalized market manipulation. Central banks made it an art form, with no limits." [^^C1-5] 
 
-### Money supply inflation
+### Money Supply Inflation
 
 Let's take the US Dollar as an example for all fiat currencies. The more USD are available, the less value a single note has because of money supply inflation. Imagine a banknote as a commodity like copper. If there is more copper on the market than there is demand, the price of copper is falling; its value is decreasing. The same is true for your banknote. The value of fiat currencies is determined by supply and demand too. If you increase the supply and the demand stays the same, the value of one unit decreases. 
 
@@ -127,8 +127,8 @@ If you want to know more, [listen to my podcast episode about the life and story
 * Ponzi schemes are not auditable or transparent, nobody except the creator knows what happens to the funds. 
 * A Ponzi scheme issues money until it breaks, there is no supply limit. 
 * Difficulty in repaying investors: the more money flows into the scheme, the more money has to be paid back, the more difficult it gets for the creator to stop the machine. 
-* the system has to break one day, there is no way out.
-* the scammers earn money for lending out funds with no real contribution to the economic performance of a country.
+* The system has to break one day, there is no way out.
+* The scammers earn money for lending out funds with no real contribution to the economic performance of a country.
 * Greed is driving the Ponzi scheme. Retail investors who get in early, earn interest and tell others, who also want to get rich quick.
 
 Let's compare these characteristics to today's system of money creation.
@@ -145,9 +145,9 @@ Let's compare these characteristics to today's system of money creation.
 
 ### The Real Ponzi Scheme
 
-* The only similarity between Bitcoin and a Ponzi scheme is the network effect of greed. But unlike a Ponzi you can hold the keys to your bitcoin yourself. There is **no bank or centralized actor controlling your bitcoin**.
+* The only similarity between Bitcoin and a Ponzi scheme is the network effect of greed. But unlike a Ponzi you can hold the keys to your bitcoin yourself. There is no bank or centralized actor controlling your bitcoin.
 
-* Bitcoin has a limited supply. Only 21 million will ever be created. Bitcoin is finite, fiat currency is infinite. **There can be no money supply based inflation in Bitcoin.**
+* Bitcoin has a limited supply. Only 21 million will ever be created. Bitcoin is finite, fiat currency is infinite. There can be no money supply based inflation in Bitcoin.
 
 * Bitcoin's issuance is predetermined by an algorithm that all actors in Bitcoin have agreed upon and secure via operating nodes. It can not be altered without the consent of the global Bitcoin community. Since the 21 million limit is one of the most important features of Bitcoin, an agreement for changing it will be very hard or even impossible to achieve.
 
@@ -158,7 +158,7 @@ Let's compare these characteristics to today's system of money creation.
 > "The Fed's crisis and post-crisis monetary policies, adopted by other major central banks, was supposed to "trickle down" to the masses. That didn't happen. The global elites knew this then, and they are more aware of it now. In January 2017, the World Economic Forum admitted that rising inequality threatens the world economy. These colluders provoke inequality because it benefits them and the preservation of their global power hierarchies to the detriment of everything and everyone else." - **Nomi Prins** [^^C1-11]
 
 
-### The End of this kind of growth
+### The End of This Kind of Growth
 
 The wealth inequality has been rising in the last centuries along with the commodification and monetization of natural resources. Nothing is left to be consumed. We are living through a fight for resources, for equal opportunities against the establishment and elites enriching themselves through corruption and financial advantages.
 
@@ -166,7 +166,7 @@ The wealth inequality has been rising in the last centuries along with the commo
 
 The growing divide between rich and poor is based on our current monetary system, which is the real Ponzi scheme. Central bankers are not democratically elected, yet they decide on the financial fate of the world. Bankers and their friends are profiting from this system. It is time for an alternative. A decentralized, open, neutral, transparent, immutable, non-inflatable and collaborative form of money for the people: Bitcoin.
 
-### Today's Petrodollar system
+### Today's Petrodollar System
 
 Now that we discussed how money is created, let's dive into the world of currency wars and how this system of national currencies is exclusive and has been dominated by different empires.
 
