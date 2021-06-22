@@ -1,4 +1,4 @@
-# What is a blockchain?
+# What Is a Blockchain?
 The Bitcoin blockchain is a public, immutable database where all Bitcoin transactions are stored. Thus, "the blockchain" itself is not the revolutionary technological breakthrough as it is usually described in the media. As you have learned in the chapter "The History of Bitcoin", adding a blockchain was the final element that solved the problem of double-spending and enabled the decentralized issuance of money on a secured decentralized network. Bitcoin has a lot of other preceding technology in it.
 
 In fact Satoshi Nakamoto never mentioned the word blockchain. Instead, Nakamoto used the term time chain, because the ledger's main use is to store all transactions in the correct timely order. 
@@ -9,7 +9,7 @@ The Bitcoin blockchain data is transparent and public. If you make a transaction
 
 The Bitcoin blockchain belongs to no one, anyone can download it and store it on their own computer. With this "full node" you also contribute to the strengthening of the Bitcoin network. Why? By verifying your own copy of the blockchain, you are not trusting anyone else to be honest with you. The more people who do this, the more distributed and robust the Bitcoin network becomes.
 
-**Open and permissioned blockchains**
+**Open and Permissioned Blockchains**
 
 Please note the difference between Bitcoin, which is an open blockchain and for instance "Diem" the money project by Facebook or the Chinese governments E-Yuan CBDC which are closed, centralized blockchains. 
 

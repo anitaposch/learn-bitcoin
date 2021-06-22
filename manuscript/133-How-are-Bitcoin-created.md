@@ -1,4 +1,4 @@
-## How are bitcoin created?
+## How Are Bitcoin Created?
 
 We were talking about protocols and mathematical rules that regulate how Bitcoin is working. A set of rules define how bitcoin are created and circulated. These rules can only be changed in a majority consensus of all parties involved in the Bitcoin network. Individuals, institutions or governments cannot change the Bitcoin rules unilaterally.
 

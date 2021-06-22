@@ -1,4 +1,4 @@
-## Arguments against Bitcoin
+## Arguments Against Bitcoin
 
 ### Volatility
 
@@ -6,7 +6,7 @@ _Bitcoin is volatile, you can not use it as a medium of exchange._
 
 Yes, bitcoin is volatile, it can lose or gain a lot in a single day. If you want to pay for something in bitcoin, you can still do so. Just exchange the same amount you have spent from fiat back to bitcoin at the same day. No volatility, no loss or gain.
 
-### Price development
+### Price Development
 _Bitcoin is not a store of value, due to its price changes._
 
 View bitcoin as a long term investment, it has been the best performing store of value of all asset classes over the last decade. 
@@ -40,28 +40,28 @@ In case of a bear market, when the price of bitcoin inevitably goes down, you wi
 
 >Only put as much money into bitcoin as you are willing to lose. If you can't sleep in times of depreciation, then you might hold too much of a risky asset like bitcoin. 
 
-### No recourse
+### No Recourse
   
 _If you send bitcoin to the wrong address, they are lost. You can't get them back._
 
 Triple-check the address before you send bitcoin. You can't reverse a payment. As with fiat money, in case you bought something at an online store and return the product, it's the store's business responsibility to handle the bitcoin and send it back to you. However, a simple mistyping of an address should result in an error rather than lost funds, as addresses include integrity checks.
 
-### No safety net
+### No Safety Net
 
 _In developed regions of the world, bank account deposits (in Europe up to 100,000 euro) are insured. This is not the case with bitcoin._
 
 That's correct. If you self-custody your bitcoin, then you are solely responsible. There is no insurance. But be aware that, in case of a big financial crisis, these fiat insurances might not be able to pay you back anyhow. During the financial crisis in Cyprus in 2013, 47.5% of all bank deposits above 100,000 euro were seized. If you self-custody - nobody can seize your bitcoin.
 
-If we open our eyes and think of the rest of the world, where 2 billion people are unbanked and 80% of the world's population live in authoritarian states, the case for an uncensorable money such as bitcoin, where you are in control and not a bank, makes logical sense again. In those countries, you have no safety net at all, quite the opposite to the Bitcoin network. 
+If we open our eyes and think of the rest of the world, where 2 billion people are unbanked and 80% of the world's population live in authoritarian states, the case for an uncensorable money such as bitcoin, where you are in control and not a bank, makes logical sense again. In those countries, where people have no safety net at all, the Bitcoin network can give security. 
 
-### I can't afford to invest
+###  I Can't Afford to Invest
 _I can't buy one bitcoin, it's too expensive._
 
 That's ok, you don't have to. There is no minimum budget you need to use bitcoin. A bitcoin is divisible into extremely small units, much smaller than a cent. You can buy a fraction of a bitcoin and start to play around with 20 USD or less.
 
 You can also earn bitcoin, more about that in chapter 10.
 
-### Bitcoin will fail like the first internet companies
+### Bitcoin Will Fail Like the First Internet Companies
 
 _Bitcoin is new technology. It is the first of its kind. When we compare this with the first computer companies in the 1980s or the internet platforms of the dot com boom, almost none survived. Bitcoin was the first blockchain on the market, it might go the same route._
     
@@ -71,7 +71,7 @@ Bitcoin has been the world's most widely used cryptocurrency since its origin in
 
 The resurgence of Bitcoin's dominance after the critical time of the hard-fork in 2017 was a sign of strength for many experts like macro-economist Lyn Alden and US-investor Michael Saylor, which led them to believe in the future potential of Bitcoin as the winner-take-all cryptocurrency. And even if there were technological innovations in Altcoins that would propel them in front of Bitcoin, there is no doubt that the Bitcoin developers will implement them too.
 
-### Bitcoin has failed
+### Bitcoin Has Failed
 
 _There are only a few Bitcoin users. After 12 years of existence many more people should use Bitcoin. Bitcoin has failed. __
     
@@ -89,12 +89,12 @@ This is the result of a survey in selected countries showing that 32% of the Nig
 
 Want to know more about Bitcoin in Nigeria, open your browser and go to: anita.link/88, anita.link/66 and anita.link/63
 
-### Bitcoin's transaction limit
+### Bitcoin's Transaction Limit
 _The Bitcoin network is only capable to process seven transactions per second. That is far too little for the demand of a global payment network. If all people were using Bitcoin, the network would be overburdened.__
 
 The Lightning Network has been in development since the beginning of 2018. This is a protocol that is located one level above the Bitcoin blockchain. The Lightning Network is expected to handle thousands of micro payments per second in a few years time. The Bitcoin blockchain will be used as the base settlement layer for large transactions, while small payments for a coffee, for instance, will take place on the Lightning Network. As user, you do not need to know how this works. Most of us also do not know how Netflix or sending an email works and yet we do it everyday.
 
-### Mining pool concentration
+### Mining Pool Concentration
 A mining pool is a structure that "pools" together computational resources provided by connected hashers (pool contributors) in order to increase the likelihood and frequency of finding a new block, which results in smoother pay-outs. 
 
 While it is true that the majority of mining pools are currently concentrated in China, they still have less influence than you may first think. Firstly, mining pools consist of thousands of individual miners, just because a mining pool is located in China does not mean that the individual miner has to be located in China. Hashers want to ensure that the pool they contribute to is engaging in behavior that is aligned to the Bitcoin philosophy. In an event of disagreement, miners are free to switch pools. In 2013, the Bitcoin mining pool GHash.io reached more than 50% of the total Bitcoin hashrate for a short period, which prompted hashers to proactively point their hashpower to other pools in order to avoid potential harmful concentration. The low costs for switching pools acts as a checks and balances system on the self-regulating behavior of miners. [^^C2-6]

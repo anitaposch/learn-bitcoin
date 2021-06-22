@@ -5,7 +5,7 @@
 
 On October 31, 2008, in the advent of the biggest financial crises the world has ever seen, someone going by the pseudonym Satoshi Nakamoto published a white paper called "Bitcoin: A Peer-to-Peer Electronic Cash System" on the domain bitcoin.org and proposed a new digital form of money. 
 
-On Jan 3, 2009 the first public block of Bitcoin, the so called genesis block, was mined. Satoshi left a message in it: "Chancellor on brink of second bailout for banks", which was the headline of the daily newspaper, The Times, in the UK on that same day. It's a timestamp that marks the beginning of Bitcoin and shows the relation to the fact that it should be an alternative to the current banking and financial system, in which you needed to trust intermediaries when you want to process electronic payments. 
+On Jan 3, 2009 the first public block of Bitcoin, the so called Genesis Block, was mined. Satoshi left a message in it: "Chancellor on brink of second bailout for banks", which was the headline of the daily newspaper, The Times, in the UK on that same day. It's a timestamp that marks the beginning of Bitcoin and shows the relation to the fact that it should be an alternative to the current banking and financial system, in which you needed to trust intermediaries when you want to process electronic payments. 
 
 On June 9, 2021 bitcoin became legal tender in El Salvador.
 

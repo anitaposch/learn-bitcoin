@@ -17,18 +17,18 @@ This algorithm tends to zero such that there will be a maximum of 21 million bit
 ![Total bitcoin supply over time](resources/_Total_bitcoins_over_time.png) [^^C1-23]
 
 
-### Why 21 million?
+### Why 21 Million?
 Why did Satoshi Nakamoto choose 21 million for the supply cap? There are many theories, but here is Satoshi's answer:
 
 ![Satoshi Nakamoto's explanation for the 21 million supply cap](resources/Why-21-million.png) [^^C1-24]
 
 
-### Bitcoin units
+### Bitcoin Units
 The smallest denomination unit of a bitcoin is a satoshi. 1 bitcoin is comprised of 100,000,000 satoshis; 1 satoshi is one hundred millionth of 1 bitcoin (0.00000001).
 
 You do not have to buy or sell 1 bitcoin at a time, you can start small and transact a minuscule fraction of it.
 
-### Bitcoin or bitcoin, but never BitCoin
+### Bitcoin or bitcoin, but Never BitCoin
 
 Bitcoin with a capital B is used referring to the Bitcoin network, the blockchain, the community and the general idea, while bitcoin with a lowercase b is used to reference the currency, the bitcoin token. 
 

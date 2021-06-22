@@ -1,14 +1,14 @@
-## What is Bitcoin Mining
+## What Is Bitcoin Mining?
 You don't need to understand how Bitcoin mining works to use Bitcoin! But if you are interested in the details, what miners do and how bitcoin come into existence, read on.
 
-###  Mining in easy words
+###  Mining in Easy Words
 Imagine you want to fill a museum with artwork made of jigsaw puzzles, where each puzzle will contribute to the visitor's museum experience. There are clear rules. Only puzzles that are assembled correctly and have won a competition can be placed in the museum. You will select and give a reward to the child that finishes the difficult puzzle first. You don't want the child to be able to cheat with others or know in advance which puzzle will win. Now you send 10,000 children all over the world the same jigsaw puzzle and they start putting it together piece by piece at the same time. The child who finishes putting together the pieces first wins the prize. They have proven that they put the work in and the completed puzzle is the proof. 
 
 The process of building the puzzle can not be corrupted, wrong puzzle pieces can not be inserted and the child who wins can not be artificially selected. The fastest child wins the prize. These are the rules. You can only change the rules if the parents, the children, the puzzle designer and the museum - all participants in the puzzle's network - decide collectively to do so. Here, when we talk about the prize, we are metaphorically speaking about the creation of bitcoin.
 
 That is more or less what proof-of-work is about. Thousands of computers worldwide solving mathematical riddles at the same time, showing that they put an amount of effort in and at the same time decentralizing the reward earnings, so that no one can collude or predict which mining computer will be the next to add a block to the chain. The effort the miners put in to validate the transactions and form blocks not only proves their work, but also secures the blockchain. You can not change the past - historical transactions - in the Bitcoin blockchain without spending a lot of money on infrastructure and electricity to re-write the blockchain. That is why attacks on the Bitcoin network are possible in theory, but very, very expensive in reality.
 
-### Mining in detail
+### Mining in Detail
 
 Imagine you're already using Bitcoin and have a Bitcoin wallet installed on your smartphone. You order a product on the internet choosing bitcoin as payment. The site will show you its Bitcoin address and using your mobile wallet you'll send the required amount. Then the following happens:
 
