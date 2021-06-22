@@ -1,6 +1,6 @@
 
 [^^C0-1]: [Illustration NetGuardians retrieved April 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)
-[^^C0-2]: Author illustration, credits: University of Nicosia, MOOC in Digital Currency, “A brief history of money” with image: Lotus Head, CC BY-SA 3.0, wikimedia.org
+[^^C0-2]: Anita Posch, credits: University of Nicosia, MOOC in Digital Currency, “A brief history of money” with image: Lotus Head, CC BY-SA 3.0, wikimedia.org
 
 [^^C1-1]: Image: "Stone Money of Uap, Western Caroline Islands." - Dr. Caroline Furness Jayne took this photograph during a 1903 stay on Yap, Public domain, via Wikimedia Commons
 [^^C1-2]: [Wikipedia Rai stones](https://en.wikipedia.org/wiki/Rai_stones)
@@ -20,9 +20,9 @@
 [^^C1-16]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 247.
 [^^C1-17]: [Monetary Base](https://www.investopedia.com/terms/m/monetarybase.asp)
 [^^C1-18]: [Global Monetary Base, Crypto Voices](https://cryptovoices.com/basemoney)
-[^^C1-19]: Author illustration
-[^^C1-20]: Author illustration, Source [The Merkle](https://themerkle.com/top-4-cryptocurrency-projects-created-ahead-of-bitcoin/), [Hashcash.org](http://www.hashcash.org/bitcoin/)
-[^^C1-21]: Author illustration inspired by [Melanie Swan](https://www.slideshare.net/lablogga/bitcoin-and-blockchain-explained-cryptocitizen-smartnetwork-trust)
+[^^C1-19]: Anita Posch
+[^^C1-20]: Anita Posch, Source [The Merkle](https://themerkle.com/top-4-cryptocurrency-projects-created-ahead-of-bitcoin/), [Hashcash.org](http://www.hashcash.org/bitcoin/)
+[^^C1-21]: Anita Posch inspired by [Melanie Swan](https://www.slideshare.net/lablogga/bitcoin-and-blockchain-explained-cryptocitizen-smartnetwork-trust)
 [^^C1-22]: [Source Andreas M. Antonopoulos](https://twitter.com/aantonop/status/1257366095515848716?s=20)
 [^^C1-23]: [Source: Insti](https://commons.wikimedia.org/wiki/File:Total_bitcoins_over_time.png)
 [^^C1-24]: [Source plan99.net](https://plan99.net/~mike/satoshi-emails/thread1.html)
@@ -65,18 +65,18 @@
 [^^C2-36]: [Source Statista](https://www.statista.com/statistics/279308/average-credit-card-transaction-value-worldwide/)
 [^^C2-37]: [Source BitInfoCharts](https://bitinfocharts.com/comparison/bitcoin-transactionvalue.html#1y)
 [^^C2-38]: [Source The Federal Reserve Services](https://frbservices.org/resources/financial-services/wires/volume-value-stats/monthly-stats.html)
-[^^C2-39]: Author illustration
+[^^C2-39]: Anita Posch
 [^^C2-40]: [Source: Hass McCook](https://bitcoinmagazine.com/business/what-elon-musk-gets-wrong-about-bitcoin) 
 [^^C2-41]: Source Annual Greenhouse Gas Emissions, Hass McCook, June 2021
 [^^C2-42]: [Source Statista](https://www.statista.com/chart/18359/estimated-military-carbon-dioxide-emissions/)
 
-[^^C3-1]: Author illustration
-[^^C3-2]: Author illustration
+[^^C3-1]: Anita Posch
+[^^C3-2]: Anita Posch
 
-[^^C7-1]: Author illustration
+[^^C7-1]: Anita Posch
 [^^C7-2]: [Source BitcoinTalk](https://bitcointalk.org/index.php?topic=170725.0)
 
-[^^C8-1]: Screenshots by author, retrieved March 2021, Breez wallet
+[^^C8-1]: Screenshots by Anita Posch, retrieved March 2021, Breez wallet
 
 [^^G-1]: [Cantillon Effect on Wikipedia](https://en.wikipedia.org/wiki/Richard_Cantillon)
 [^^G-2]: [Central bank on Wikipedia](https://en.wikipedia.org/wiki/Central_bank)
