@@ -11,12 +11,12 @@ On June 9, 2021 bitcoin became legal tender in El Salvador.
 
 Since the 1990s computer experts, mathematicians and cryptographers - including some women - have been working on concepts of creating digital money. Bitcoin could be created because it was built on the key technologies of its predecessors.
 
-### Cryptocurrency projects before Bitcoin
+### Cryptocurrency Projects Before Bitcoin
 Parts of the following concepts were incorporated into Satoshi Nakamoto's Bitcoin white paper. 
 
 ![Cryptocurrency projects before Bitcoin](resources/_History-of-Bitcoin.png)[^^C1-20]
 
-**Public and private key pairs**
+**Public and Private Key Pairs**
 In 1990 David Chaum was concerned with the public nature and open access to online payments and personal information. He founded "Digicash", a corporation and electronic money of the same name, which used cryptographic protocols as well as  private and public keys to anonymize transactions. The use of signatures, public and private key pairs became essential in the further development of electronic money and Bitcoin.
 
 **Proof-of-Work**
@@ -29,11 +29,11 @@ In 1997 Adam Back proposed a similar idea called "Hashcash". Satoshi Nakamoto im
 The term "proof-of-work" was first coined and formalized in a 1999 paper by Markus Jakobsson and Ari Juels.
 
 **Decentralization**
-Hashcash was followed by "B-Money" by Wei Dai in 1998. His concept was the first being based on a decentralized network of computers. This is baked into Bitcoin's peer-to-peer network with computers running the Bitcoin software as full nodes or miners. Peer-to-Peer means a system of equally privileged, equipotent participants without a hierarchy on the network. 
+Hashcash was followed by "B-Money" by Wei Dai in 1998. His concept was the first being based on a decentralized network of computers. This is baked into Bitcoin's peer-to-peer network with computers running the Bitcoin software as full nodes or miners. Peer-to-peer means a system of equally privileged, equipotent participants without a hierarchy on the network. 
 
 A short time later, Nick Szabo published a paper on "BitGold", the first digital money system that was able to run without a central entity issuing the money. He is also the first person to present a paper on "Smart Contracts".
 
-### Solving the double-spending problem
+### Solving the Double-Spending Problem
 These predecessor money technologies had a major unresolved problem. The "double spending" problem, which means that already spent digital money could be used a second time. Imagine a PDF file that you can copy, modify and send endlessly at zero cost, claiming that each copy is the original. Such a digital file would be worthless as money. 
 
 Satoshi Nakamoto's ingenious idea was to add a ledger to the system with blocks that contain transactions. These blocks are chained together - therefore it is called block chain - through "proof-of-work" mining. This chaining of transactions in the correct timely order makes bitcoin unforgeable and immutable. 
@@ -42,6 +42,6 @@ As soon as an actor in the Bitcoin network cheats, the network will detect and b
 
 Bitcoin's motto is "Don't trust, verify." This was a little bit confusing to me at the beginning. On the one hand, you learn that you don't have to trust an intermediary and on the other you should verify your transactions. What it means is: if you want to verify bitcoin transactions yourself, you can do so. You even should, if you have the technical knowledge to set up your own full node. 
 
-This is revolutionary - as soon as you start to verify your own bitcoin transactions, you are essentially a bank because this is what banks do - they verify your transactions in their ledgers. However, you need to trust them to do a good job. That might be working very well in developed countries, but for the most parts of the world, the banking experience is much worse. Now imagine you do not have a reliable banking situation and no ID, but you have a mobile phone and internet. There is only one option for you to store and use money. It's either mobile money like M-Pesa or EasyCash in Africa or cryptocurrencies, where you do not need to identify yourself.
+This is revolutionary - as soon as you start to verify your own bitcoin transactions, you are essentially a bank because this is what banks do - they verify your transactions in their ledgers. However, you need to trust them to do a good job. That might be working very well in developed countries, but for the most parts of the world, the banking experience is much worse. Now imagine you do not have a reliable banking situation and no ID, but you have a mobile phone and internet. There is only one option for you to store and use money. It's either mobile money like M-Pesa or EcoCash in Africa or cryptocurrencies, where you do not need to identify yourself.
 
 All people worldwide with an internet-enabled mobile phone have access to Bitcoin. The banks as we know them are not required for the use of Bitcoin. You don't have to ask anyone for permission to own or use Bitcoin. All you need to start is a smartphone, an internet connection and a bitcoin wallet app.
