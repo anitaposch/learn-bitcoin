@@ -1,6 +1,6 @@
-## Strategic notes
+## Strategic Notes
 
-### Words of warning
+### Words of Warning
 
 **Before you get into buying Bitcoin, please read these important notes:**
 
@@ -12,15 +12,15 @@ Bitcoin is a common good, without trademark rights. If you were to start a compa
 
 The use of Bitcoin is legal in most countries of the world. A state ban could come into force at any time, theoretically preventing the use of Bitcoin by individuals. In any case, a ban could result in a loss of value and switching your bitcoin back into fiat currencies could be difficult. Since the core Bitcoin community are highly committed users, even if your country bans bitcoin, you will always find someone who will happily exchange your bitcoin to fiat.
     
-The price of Bitcoin is determined by supply and demand. It is possible at any time - and has also happened several times - that the price drops sharply in a short time and you cannot withdraw or exchange your bitcoin as quickly as desired.
+The price of bitcoin is determined by supply and demand. It is possible at any time - and has also happened several times - that the price drops sharply in a short time and you cannot withdraw or exchange your bitcoin as quickly as desired.
 
 Use only as much money as you can lose without getting into financial problems. You are responsible for the safe custody of your capital. In case of loss or theft, there is no recovery option.
     
-In addition to Bitcoin, there are more than 4,000 other crypto assets to date, all of which have different objectives and uses. Learn more about the intentions, the team and the technology behind it before you invest, if at all.
+In addition to bitcoin, there are more than 4,000 other crypto assets to date, all of which have different objectives and uses. Learn more about the intentions, the team and the technology behind it before you invest, if at all.
     
-The emergence of these other assets can affect the price of Bitcoin. Another currency could become the leading digital currency, although currently most of the acceptance and growth is within Bitcoin (BTC).
+The emergence of these other assets can affect the price of bitcoin. Another currency could become the leading digital currency, although currently most of the acceptance and growth is within Bitcoin (BTC).
 
-Don't get carried away with quick promotions because someone is giving you a "get rich quick" offer and promises to buy and manage coins for you. Unfortunately, there are many people who play nasty games and stage multi-level marketing offers, or [Ponzi schemes](https://anita.link/ponzi) .
+Don't get carried away with quick promotions because someone is giving you a "get rich quick" offer and promises to buy and manage coins for you. Unfortunately, there are many people who play nasty games and stage multi-level marketing offers, or [Ponzi schemes](https://anita.link/ponzi).
 
 If someone offers you to "join" Bitcoin or is writing "BitCoin", be aware. You don't need to join anything to use Bitcoin, there is no need to buy a entry package or something like that - these are most likely scams. 
 

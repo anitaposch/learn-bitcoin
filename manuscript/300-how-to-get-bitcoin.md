@@ -1,4 +1,4 @@
-## How do I get bitcoin
+## How Do I Get Bitcoin
 
 You can acquire bitcoin in three ways:
 * you exchange fiat for it

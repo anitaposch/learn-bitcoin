@@ -1,6 +1,6 @@
 # Using Bitcoin
 
-## Transaction fees
+## Transaction Fees
 A fee has to be paid for every bitcoin transaction. These mining fees are required to operate the Bitcoin network. The work of the miners is rewarded with these fees and newly minted bitcoin (see Chapter 3.3). Mining is an essential factor in the Bitcoin protocol. After a block of transactions has been mined, it is attached to the blockchain. This is the way to ensure the security of the network. Since Bitcoin has a fixed supply limit of 21 million coins, the miners would no longer receive any remuneration for their performance after reaching this maximum and would no longer be interested in processing transactions and thus maintaining the blockchain. Therefore, Satoshi Nakamoto introduced transaction fees. According to the white paper, the aim is to keep these fees lower than the comparable fees and costs of the traditional banking system. However, it is not the case that transfers are free of charge simply because, in theory, there is no need for intermediaries or banks.
 
 When you're buying bitcoin via an exchange, the transaction fee (mining fee) is usually not adjustable and is fixed by the provider.
@@ -15,23 +15,23 @@ Below you can see the settings in the Edge wallet. You can choose one of the ran
 
 ![Transaction fee settings in Edge wallet](resources/_transaction-fee-setting.png)
 
-**Pending transaction**
+**Pending Transaction**
 Since new blocks are mined every 10 minutes, it will take on average at least 10 minutes until your transaction is confirmed. If you set the transaction fee too low, then your transaction might be pending for a longer period as the Mempool gets cleared and miners include transactions with lower fees. Here you see one of my transactions that has been sticking in the Mempool for a month. 
 ![Pending transaction](resources/_Pending-transaction-edge.png)
 You can look up the status of your transaction in a [Blockchain explorer](https://blockchair.com). As you can see below my transaction is 4,717 ranks away from being mined with a total of 41,610 transactions in the Mempool. I chose a fee of 5 sat per vbyte.
 ![Transaction status as shown in blockexplorer](resources/_Pending-transaction-explorer.png)
 
-You do not need to follow these steps to get your original transaction confirmed. Most low-fee transactions remain valid for days and will eventually confirm. There are two ways to solve the problem of the stuck transaction and get it confirmed sooner. 
+You do not need to follow below steps to get your original transaction confirmed. Most low-fee transactions remain valid for days and will eventually confirm. There are two ways to solve the problem of the stuck transaction and get it confirmed sooner. 
 
-**A sent transaction is stuck**
+**A Sent Transaction Is Stuck**
 * Replace-by-fee (RBF): some wallets allow you to set this option to yes before you send a transaction. In this case, if the original transaction gets stuck, you can set a higher fee and resend the transaction.
 
-**An incoming transaction is stuck**
+**An Incoming Transaction Is Stuck**
 * Child pays for parent (CPFP): you can think of it as a parent having insufficient money for their expenses, and then their child pays the difference on the parent’s behalf. CPFP is a technique through which you can bump your slowly confirming incoming transactions by making a new transaction with higher fees (child transaction) using the outputs (funds) from the previous transaction (parent transaction) that is stuck.
 
 Please look up the documentation of the wallet you are using for detailed instructions.
 
-## Buy something with bitcoin
+## Buy Something With Bitcoin
 Here are some directories with shops, where you can spend bitcoin.
 * [Accepted here](https://www.acceptedhere.io)
 * [B2B services accepting BTC](https://cryptwerk.com/companies/b2b/btc/)
@@ -47,7 +47,7 @@ You will need to deposit your bitcoin at the debt card company, which means you 
 A short list of cards that are available at the moment:
 Cryptocom Visa, Binance, Bitpanda Visa, Coinbase Visa, Wirex Visa, BlockCard, Cryptopay, Nexo, Bitwala Visa, BitPay Visa, Cash App
 
-## Spending and receiving
+## Spending and Receiving
 Following are tools and services that enable you to spend and receive BTC in your daily life.
 * [Bity](https://bity.com/products/crypto-online-bill-pay/) pay bills online with bitcoin
 * [Cash App](https://cash.app/bitcoin) buy and sell BTC straight from your Cash App balance

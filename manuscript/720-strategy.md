@@ -1,9 +1,9 @@
 ## Strategy
 
-### How to defy volatility
+### How to Defy Volatility
 There is a very good way to avoid bitcoin volatility when using it as a payment. When you spend bitcoin on something, you replenish your wallet immediately by buying back those bitcoin with fiat money after the transaction. That way, you don't lose any money, because the price of bitcoin remains almost the same in such a short span of time.
 
-### Create a savings plan
+### Create a Savings Plan
 Procure a small sum of bitcoin periodically - every day/week/month. This is also known as dollar cost averaging (DCA) - or fiat cost averaging (FCA). By spacing out your purchases you balance out the volatility of bitcoin's price over a longer period of time. 
 
 On websites like [Bitcoin Dollar Cost Average](https://www.bitcoindollarcostaverage.com/) you can calculate the differences in returns for several purchasing strategies. 
@@ -27,7 +27,7 @@ Altcoins is the abbreviation for alternative coins. These are all crypto assets 
 
 However, you might be tempted to give it a try. Use the website [If you had bought crypto](https://ifyouhadboughtcrypto.com/) to compare your earnings in recent years if you had invested in Bitcoin or Ethereum, Dash, Ripple, Cardano, Dogecoin, Litecoin or Bitcoin Cash.
 
-### If I had only...I'm too late
+### If I Had Only...I'm Too Late
 If you had only bought Bitcoin in 2011, you would be very rich by now. That is true and I would congratulate without envy, because then you were one of the few people who already believed in Bitcoin and were ready to put your hard earned money into a risky experiment. None of the early adopters knew that Bitcoin will rise like it has done. It was very difficult to secure your keys back then, many bitcoin were lost or stolen. So if you had made it through and preserved your coins, you might have sold it all in 2014, maybe 2017? It is idle to ponder about, what if. We are still in the early days. If you are starting to educate and use Bitcoin now, you're still leagues ahead of the masses. It's never too late to learn about Bitcoin. 
 
 ![Here is someone thinking to be too late in 2013](resources/_too-late.png) [^^C7-2]

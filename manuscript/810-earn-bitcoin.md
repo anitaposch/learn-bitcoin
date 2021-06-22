@@ -1,7 +1,7 @@
 # Earn Bitcoin
 Earning Bitcoin is actually the best way to acquire it: limited or no registration, limited or no KYC identity check, no trading fees. Some of these services are only available in the US or other specific regions of the world. Since the Bitcoin space is in rapid development, this chapter can only be a lookout for what is to come.  
 
-## Bitcoin job boards
+## Bitcoin Job Boards
 Find a job or a client to earn Bitcoin for your work.
 * [BitGigs](https://bitgigs.com/)
 * [Coinality](https://coinality.com/)
@@ -9,23 +9,23 @@ Find a job or a client to earn Bitcoin for your work.
 * [Freelance For Coins](https://freelanceforcoins.com/projects)
 * [Working For Bitcoin](https://workingforbitcoins.com/)
 
-## Online tasks
+## Online Tasks
 Earn satoshis through finishing small tasks. 
 * [Stakwork](https://stakwork.com)
 * [Microlancer](https://microlancer.io/)
 * [Sats 4 Likes](https://kriptode.com/satsforlikes/index.html)
 
-## Convert your wage
+## Convert Your Wage
 * [Bitwage](https://www.bitwage.com/) as an employee or freelancer, you can earn your wage in bitcoin instead of fiat. Employers can use this service to pay their team in bitcoin too. [Interview with founder Jonathan Chester](https://anita.link/106).
 
-## Receiving donations or payments
+## Receiving Donations or Payments
 As a nonprofit organization, a blogger or podcaster you can easily receive tips in bitcoin or satoshis with these services:
 
 * [Tippin.me](https://tippin.me/) let's you receive lightning bitcoin tips on your website and Twitter without fees
 * [Tallyco.in](https://tallyco.in/) is a crowdfunding platform built on top of the Bitcoin blockchain. You can receive payments in BTC and micro-payments through Lightning at zero fees
 * [Lightning Gifts](https://lightning.gifts/) create fee-less bitcoin gift vouchers to share with friends & family, and your audience
 
-## Content creators and Podcasting 2.0
+## Content Creators and Podcasting 2.0
 With the advent of the Lightning Network, a truly groundbreaking new method of sending value and paying for content on the internet has been invented. Streaming money, a term coined by Andreas M. Antonopoulos, enables musicians, video creators and podcasters to earn money in real time, without intermediaries. You only need a wallet that has podcasts integrated, a little bit of bitcoin and you can start listening while paying for the minute. The goal of Podcasting 2.0 and streaming money is to free content creators and the audience from ads, censorship and surveillance. Paying is voluntary, no subscription fees, no prepayment. Be aware by the time of writing these are all services in constant development. More about the [background of podcasting 2.0 in an interview](https://anita.link/pod2) with me.
 
 ![](resources/_breez-podcast.png)
@@ -49,7 +49,7 @@ With the advent of the Lightning Network, a truly groundbreaking new method of s
 * [Globee](https://globee.com/) accept bitcoin with GloBee, they offer open source plugins for all major e-commerce platforms for a commission (custodial).
 * [OpenNode](https://www.opennode.com/) bitcoin payments and payouts for businesses, ecommerce plugins, hosted payment pages (custodial).
 
-## Cashback and faucets
+## Cashback and Faucets
 * [Fold](https://foldapp.com/) earn bitcoin on every purchase with your VISA card
 * [Lolli](https://www.lolli.com/) earn bitcoin when you shop at over 1,000 stores
 * [Pei](https://getpei.com/) link almost any debit or credit card
@@ -64,7 +64,7 @@ With the advent of the Lightning Network, a truly groundbreaking new method of s
 * [Bitcoin Bounty Hunt](https://bitcoinbountyhunt.com/) a shooter game, where you can earn satoshis
 * [Satoshis Games](https://satoshis.games/) gaming platforms and an NFT marketplace for artists
 
-## Earn through investing
+## Earn Through Investing
 * [SunExchange](https://thesunexchange.com/) offset your carbon footprint, buy solar cells and earn bitcoin - [Interview with founder Abe Cambridge](https://anita.link/104)
 * [Blockstream Mining Note, STOKR](https://blockstream.com/finance/bmn/) participate in Bitcoin mining through purchasing the STOKR security token
 
@@ -74,7 +74,7 @@ Be aware, there are a lot of mining scams out there. Even I fell for one some ye
 * [Compass](https://compassmining.io/) A service that helps to buy, install and host mining hardware
 * [Blockstream Mining](https://blockstream.com/mining/) host your mining rigs with Blockstream's enterprise-class mining facilities and management
 
-## Lending & borrowing
+## Lending & Borrowing
 * [DeFi Rate](https://defirate.com/) Overview of lending and borrowing rates
 
 **Custodial**
@@ -86,7 +86,7 @@ Be aware, there are a lot of mining scams out there. Even I fell for one some ye
 * [Nexo](https://nexo.io/borrow)
 * [SpectroCoin](https://spectrocoin.com/)
 
-**Non-custodial**
+**Non-Custodial**
 * [LEND at Hodl Hodl](https://lend.hodlhodl.com/)  Global P2P Bitcoin-backed non-custodial lending platform
 * [Sovryn](https://sovryn.app) is a non-custodial and permissionless smart contract based system for Bitcoin lending, borrowing and margin trading.
 

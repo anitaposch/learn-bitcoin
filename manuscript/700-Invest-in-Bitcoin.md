@@ -1,7 +1,7 @@
 # How to Invest in Bitcoin
 In this chapter we will explore the different ways you can obtain bitcoin. In general this is through buying bitcoin by exchanging for fiat currency or by earning it. The methods differ by their level of self-sovereignty and privacy you can achieve. 
 
-## Buying bitcoin - custodial
+## Buying Bitcoin - Custodial
 In many cases people's first interaction with cryptocurrencies is through custodial exchanges like Kraken, Coinbase, Binance, Bitpanda and Bitfinex just to name a few. 
 
 They are called custodial because they posses the keys to your bitcoin. You get a wallet on their platform, but it's more like a bank account, leading to counter-party risks such as hacking, seizure or confiscation by governments. 
@@ -12,7 +12,7 @@ To get bitcoin in a custodial fashion, you need to open an account, comply to KY
 
 As mentioned in Chapter 5 "The staircase to self-sovereignty", to mitigate the counter-party risks of custodial wallets you should either send your funds to your own wallet or skip these exchanges and go non-custodial immediately.
 
-## Buying bitcoin - non-custodial
+## Buying Bitcoin - Non-Custodial
 Holding bitcoin in a non-custodial (self-hosted) manner is the desired outcome. It makes your transactions uncensorable and provides maximal freedom over your funds. You can achieve this by buying bitcoin in the right place to begin with. 
 
 ### Bitcoin Broker
@@ -25,10 +25,10 @@ Just to name a few examples for Bitcoin brokers:
 * [Coinfinity](https://coinfinity.co/start-en/)
 * [Coinnexus](https://coinnexus.ch/en) works without verification up to CHF 1,000 per year. 
 
-### Peer-to-Peer purchase in person
+###  Peer-to-Peer Purchase in Person
 You can visit one of the many Bitcoin meet-ups around the world, connect with fellow Bitcoiners and ask them to sell you some bitcoin for cash. In many countries people meet in Telegram or Facebook groups to find peers to exchange in person. 
 
-### Peer-to-Peer online purchase
+### Peer-to-Peer Online Purchase
 The world's leading P2P exchanges
 * [LocalBitcoins](https://localbitcoins.com)
 * [Paxful](https://paxful.com/)
@@ -40,7 +40,7 @@ A Bitcoin ATM is a machine similar to an ATM, where you can buy bitcoin and othe
 * [Bitrawr ATMs](https://www.bitrawr.com/bitcoin-atms)
 * [CoinATM Radar](https://coinatmradar.com/)
 
-### Bitcoin gift cards and vouchers
+### Bitcoin Gift Cards and Vouchers
 In Austria for example, it is possible to buy ‘Bitcoinbon’ gift cards at petrol stations as well as in kiosks. These gift cards are often found in the display stands where charging cards for the mobile phone or Amazon etc. are also sold. You can buy bitcoin gift cards without setting up a wallet and without registration. If you want to convert the value of the cards into coins, you set up a wallet and redeem the coins.
 
 * [Azteco](https://azte.co/)
@@ -74,7 +74,7 @@ Executive order 6102, signed on April 5 1933 by US President Franklin D. Rooseve
 
 For more information on how the current financial system is unfair to billions of people around the world, listen to my [podcast interview with Zachary Kelman,](https://anita.link/80) an attorney specializing in political, legal, and regulatory issues in and around Bitcoin.
 
-### Getting no-kyc bitcoin
+### Getting No-KYC Bitcoin
 
 To buy bitcoin without user identification you can:
 
@@ -94,7 +94,7 @@ To buy bitcoin without user identification you can:
 
 Exchange sources: https://kycnot.me/, https://github.com/cointastical/P2P-Trading-Exchanges/, https://bitcoiner.guide/nokyconly/
 
-## Costs for buying bitcoin
+## Costs for Buying Bitcoin
 When you buy cryptocurrencies, you have to pay fees for the service provider, just like when you exchange to a foreign currency when you travel to a different country. The price at which you exchange is determined by the service provider (see Chapter Bitcoin price). Usually this is the market price plus a surcharge for the service. Since each exchange has its own bitcoin price and different fee structures, there are big differences in the trading costs between them. You can save money when you compare the trading fees while choosing a specific platform.
 
 There are three points that determine the costs for buying bitcoin, each service provider has its own: 

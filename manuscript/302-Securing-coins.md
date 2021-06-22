@@ -1,4 +1,4 @@
-## Securing your funds
+## Securing Your Funds
 
 As mentioned in the previous chapter, our goal is to reach the "Your keys, your coins" level. 
 
@@ -17,22 +17,22 @@ The wallet is an app on your phone or software on your computer, which handles a
 
 Bitcoin wallets contain keys, not coins. Each user has a wallet containing keys. Wallets are really key-chains containing pairs of private/public keys. Your funds are recorded on the Bitcoin blockchain.
 
-### Bitcoin address
+### Bitcoin Address
 To receive bitcoin, you need a Bitcoin address to which someone can send you bitcoin. The Bitcoin address consists of a long series of digits and letters.
 
-An example of a bitcoin address: 346n4apJCQPg2XAXU3bfNQTogz4PyTkrEf
+An example of a Bitcoin address: 346n4apJCQPg2XAXU3bfNQTogz4PyTkrEf
 
 Typing 34 digits is of course very impractical, therefore QR codes of the addresses are used that are created automatically by your wallet.
 
 ![BTC address as QR code](resources/_address-book.PNG)
 
-Bitcoin is pseudonymous, meaning there is no requirement for you to connect your email address or personal identification with a wallet. However, the Bitcoin blockchain is transparent, which means that your Bitcoin addresses are publicly viewable on the internet. For example, you can search for it at Blockcypher and see all current transactions and values. Here is an example link: [https://live.blockcypher.com/btc/address/1BbKXjaFvZ3aaVCSmkvN3stv2tc5uB79W4/](https://live.blockcypher.com/btc/address/1BbKXjaFvZ3aaVCSmkvN3stv2tc5uB79W4/)
+Bitcoin is pseudonymous, meaning there is no requirement for you to connect your email address or personal identification with a wallet. However, the Bitcoin blockchain is transparent, which means that your Bitcoin addresses are publicly viewable on the internet. For example, you can search for it at Blockcypher and see all current transactions and values. Here is an example link: [https://anita.link/explorer](https://anita.link/explorer)
 
 Therefore, do not share your Bitcoin addresses in connection with your identity on the internet for privacy reasons. Privacy is also the reason why you should not re-use addresses. Most Bitcoin wallets provide you with fresh addresses for each transaction automatically. 
 
 Let's get to the most important part to secure your bitcoin: the seed.
 
-### Seed and private keys
+### Seed and Private Keys
 
 Since the seed is the root of all private keys, no one else must have access to it. The person who knows the seed has ultimate control over the funds.
 
