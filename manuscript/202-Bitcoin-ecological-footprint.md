@@ -88,7 +88,7 @@ Some research has tried to assess the carbon emission flows and sustainability o
 
 Based on the [work of Hass McCook](https://bitcoinmagazine.com/business/bitcoin-vs-financial-sector-energy-use) Bitcoin emits less than 2% of the world's military-industrial complex and less than 5% of the legacy financial sector's carbon emissions. The annual global greenhouse gas emissions are approx. 50,000 million ton carbon dioxide equivalent. Bitcoin emits only 0.11% of those.
 
-![Annual Greenhouse Gas Emissions, Hass McCook, June 2021](resources/_annual-GH-emission-2021.png) [^^C2-41]
+![Annual Greenhouse Gas Emissions, Hass McCook, June 2021](resources/_annual-GHG-emissions2021.png.png) [^^C2-41]
 
 **Final Assumption: Bitcoin Isn't Useful, Therefore Any Use of Energy for a Bitcoin Is Wasteful**
 

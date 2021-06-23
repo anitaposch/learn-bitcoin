@@ -10,8 +10,8 @@
 [^^C1-6]: [FRED, M2 Money Stock](https://fred.stlouisfed.org/series/M2SL)
 [^^C1-7]: [Lyn Alden, Ponzi scheme](https://www.lynalden.com/bitcoin-ponzi-scheme/)
 [^^C1-8]: [Lyn Alden](https://twitter.com/LynAldenContact/status/1362912907659522049?s=20)
-[^^C1-9]: [Consumer Price Index](https://fred.stlouisfed.org/series/CPIAUCSL)
-[^^C1-10]: [Debt to GDP ratio](https://twitter.com/jsblokland/status/1362138620665221122?s=20)
+[^^C1-9]: [US Consumer Price Index](https://fred.stlouisfed.org/series/CPIAUCSL)
+[^^C1-10]: [Debt to GDP ratio, JS Blokland](https://twitter.com/jsblokland/status/1362138620665221122?s=20)
 [^^C1-11]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 253.
 [^^C1-12]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 249.
 [^^C1-13]: [Lyn Alden, The Structure of the Global Monetary System](https://www.lynalden.com/fraying-petrodollar-system/)
@@ -34,7 +34,7 @@
 [^^C2-5]: [Nature communications](https://www.nature.com/articles/s41467-021-22256-3)
 [^^C2-6]: [2nd global cryptoasset benchmarking study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study/)
 [^^C2-7]: [Conner Brown, Bitcoin: a bold american future](https://journal.bitcoinreserve.com/bitcoin-a-bold-american-future/)
-[^^C2-8]: [Cambridge Center for Alternative Finance](https://cbeci.org/cbeci/comparisons/)
+[^^C2-8]: [Cambridge Center for Alternative Finance, March 2021](https://cbeci.org/cbeci/comparisons/)
 [^^C2-9]: [Nic Carter, On Bitcoin, the Gray Lady Embraces Climate Lysenkoism](https://medium.com/@nic__carter/on-bitcoin-the-gray-lady-embraces-climate-lysenkoism-a2d31e465ec0)
 [^^C2-10]:[CoinShares, Bitcoin Mining Whitepaper 2019](https://coinshares.com/research/bitcoin-mining-network-december-2019)
 [^^C2-11]: [Andreas M. Antonopoulos, MOOC 15, Session 2, Thursday 11 Feb 2021](https://youtu.be/BZr40NshRzI?t=761)
@@ -67,16 +67,21 @@
 [^^C2-38]: [Source The Federal Reserve Services](https://frbservices.org/resources/financial-services/wires/volume-value-stats/monthly-stats.html)
 [^^C2-39]: Anita Posch
 [^^C2-40]: [Source: Hass McCook](https://bitcoinmagazine.com/business/what-elon-musk-gets-wrong-about-bitcoin) 
-[^^C2-41]: Source Annual Greenhouse Gas Emissions, Hass McCook, June 2021
+[^^C2-41]: [Source Annual Greenhouse Gas Emissions, Hass McCook, June 2021](https://bitcoinmagazine.com/culture/bitcoin-vs-world-military-emissions)
 [^^C2-42]: [Source Statista](https://www.statista.com/chart/18359/estimated-military-carbon-dioxide-emissions/)
 
 [^^C3-1]: Anita Posch
-[^^C3-2]: Anita Posch
+[^^C3-2]: Anita Posch, inspired by Andreas M. Antonopoulos
 
 [^^C7-1]: Anita Posch
 [^^C7-2]: [Source BitcoinTalk](https://bitcointalk.org/index.php?topic=170725.0)
+[^^C7-3]: [Source @ElectrumWallet](https://twitter.com/ElectrumWallet/status/1144678604523147265?s=20)
 
-[^^C8-1]: Screenshots by Anita Posch, retrieved March 2021, Breez wallet
+[^^C8-1]: [Screenshot by Anita Posch](https://mempool.space)
+[^^C8-2]: Screenshot by Anita Posch, Edge wallet
+[^^C8-3]: Screenshot by Anita Posch, Edge wallet
+[^^C8-4]: Screenshot by Anita Posch, Blockchair
+[^^C8-5]: Screenshots by Anita Posch, retrieved March 2021, Breez wallet
 
 [^^G-1]: [Cantillon Effect on Wikipedia](https://en.wikipedia.org/wiki/Richard_Cantillon)
 [^^G-2]: [Central bank on Wikipedia](https://en.wikipedia.org/wiki/Central_bank)
