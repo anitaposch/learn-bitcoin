@@ -44,7 +44,7 @@
 [^^C2-15]: [Trading volume on P2P Bitcoin exchanges in Sub-Saharan countries from May 2020 to April 2021](https://www.usefultulips.org/combined_Sub%20Saharan%20Africa_Page.html), requested on April 26th, 2021
 [^^C2-16]: [World Bank, Sending money from South Africa to Zimbabwe](https://remittanceprices.worldbank.org/en/corridor/South-Africa/Zimbabwe), requested on April 26th, 2021
 [^^C2-17]: [Wikipedia, Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index)
-[^^C2-18]: [World Bank, Global ID Coverage, Barriers, and Use by the Numbers : An In-Depth Look at the 2017 ID4D-Findex Survey](https://globalfindex.worldbank.org/sites/globalfindex/files/chapters/2017%20Findex%20full%20report_chapter2.pdf))
+[^^C2-18]: [World Bank, Global ID Coverage, Barriers, and Use by the Numbers : An In-Depth Look at the 2017 ID4D-Findex Survey](https://globalfindex.worldbank.org/sites/globalfindex/files/chapters/2017%20Findex%20full%20report_chapter2.pdf)
 [^^C2-19]: [World Bank, The Little Data Book on Financial Inclusion 2018](https://openknowledge.worldbank.org/bitstream/handle/10986/29654/LDB-FinInclusion2018.pdf)
 [^^C2-20]: [BNY Mellon Supports Global Push for Financial Gender Equality](https://www.bnymellon.com/us/en/about-us/newsroom/company-news/bny_mellon_supports_a_global_push_for_financial_gender_equality.html)
 [^^C2-21]:[Georgetown Journal of International Law](https://www.law.georgetown.edu/international-law-journal/wp-content/uploads/sites/21/2018/08/4-Kenya-Report-508.pdf)
