@@ -73,7 +73,7 @@ The resurgence of Bitcoin's dominance after the critical time of the hard-fork i
 
 ### Bitcoin Has Failed
 
-_There are only a few Bitcoin users. After 12 years of existence many more people should use Bitcoin. Bitcoin has failed. __
+_There are only a few Bitcoin users. After 12 years of existence many more people should use Bitcoin. Bitcoin has failed. _
     
 Since the use of Bitcoin is, in principle, not tied to identities, it is not statistically possible to know how many people really use Bitcoin. Also, the number of Bitcoin addresses gives us no idea how many people use it. One person can have millions of addresses, or in the case of bitcoin on centralized exchanges, thousands of people can be behind one address only.
 
