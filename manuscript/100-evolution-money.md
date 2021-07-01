@@ -10,7 +10,7 @@ This self-regulating system has the following characteristics:
 -   Bitcoin transactions are highly secure without intermediaries like a bank.
 -   Bitcoin transactions are transparent, publicly visible and can be audited by anybody.
 
-![A PayPal payment vs. Bitcoin](resources/_paypal-bitcoin-intermediaries.PNG) [^1]
+![A PayPal payment vs. Bitcoin](resources/_paypal-bitcoin-intermediaries.PNG) [1]
 In a traditional payment there are up to seven intermediaries until the payment reaches the recipient. Bitcoin has none.
 
 -   Bitcoin is a neutral network, it does not moralize or distinguish between "good" and "bad" payments.
