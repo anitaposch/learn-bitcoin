@@ -10,7 +10,7 @@ This self-regulating system has the following characteristics:
 -   Bitcoin transactions are highly secure without intermediaries like a bank.
 -   Bitcoin transactions are transparent, publicly visible and can be audited by anybody.
 
-![A PayPal payment vs. Bitcoin](resources/_paypal-bitcoin-intermediaries.PNG) [1]
+![A PayPal payment vs. Bitcoin](resources/_paypal-bitcoin-intermediaries.PNG) [^1]
 In a traditional payment there are up to seven intermediaries until the payment reaches the recipient. Bitcoin has none.
 
 -   Bitcoin is a neutral network, it does not moralize or distinguish between "good" and "bad" payments.
@@ -194,4 +194,4 @@ We have been in currency wars for many decades. Which currency is stronger, whic
 
 Bitcoin is our alternative to this system. Protecting our privacy in this digital age, voting against the abuse of monopolistic power in the current system, and giving people living in authoritarian states with corrupt rulers the same opportunities to participate in the economic system. Bitcoin is a defense strategy, a tool with which we can preserve the human right to transaction freedom and privacy.
 
-[1]: [Illustration NetGuardians retrieved April 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)
+[^1]: [Illustration NetGuardians retrieved April 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)
