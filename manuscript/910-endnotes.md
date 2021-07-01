@@ -54,7 +54,7 @@
 [^^C2-25]: [Source Pladizow](https://twitter.com/Pladizow/status/1358545292782497792/photo/1)
 [^^C2-26]: [Source CoinGecko](https://www.coingecko.com/en/coins/bitcoin/usd), June 7, 2021
 [^^C2-27]: [Source CoinMarketCap](https://coinmarketcap.com/charts/) June 7, 2021
-[^^C2-28]: [Source Cambridge Center for Alternative Finance, 3rd Global Cryptoasset Benchmarking Study, Fig. 34, Author illustration](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/3rd-global-cryptoasset-benchmarking-study)
+[^^C2-28]: [Source Cambridge Center for Alternative Finance, 3rd Global Cryptoasset Benchmarking Study, Fig. 34, Illustration: Anita Posch](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/3rd-global-cryptoasset-benchmarking-study)
 [^^C2-29]: [Source Statista](https://www.statista.com/chart/18345/crypto-currency-adoption/)
 [^^C2-30]: [Source CoinShares, Bitcoin Mining, Dec. 2019](https://coinshares.com/de/research/bitcoin-mining-network-december-2019)
 [^^C2-31]: [Source Newsweek, 12/11/2017](https://www.newsweek.com/bitcoin-mining-track-consume-worlds-energy-2020-744036)
