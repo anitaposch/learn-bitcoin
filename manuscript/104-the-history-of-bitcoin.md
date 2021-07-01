@@ -1,7 +1,7 @@
 ## The History of Bitcoin
->"The 2007-2008 US financial crisis was the consequence of a loosely regulated banking system in which power was concentrated in the hands of too limited a cast of speculators." [^^C1-15]
+>"The 2007-2008 US financial crisis was the consequence of a loosely regulated banking system in which power was concentrated in the hands of too limited a cast of speculators." [^20]
 
->"The 2007-2008 financial crisis that ravaged the global economy was ignited by a rapacious banking system in the United States. In response, herded by the Fed, the central banks of the G7 nations careened down an endless money-manufacturing trail - in broad day light." [^^C1-16]
+>"The 2007-2008 financial crisis that ravaged the global economy was ignited by a rapacious banking system in the United States. In response, herded by the Fed, the central banks of the G7 nations careened down an endless money-manufacturing trail - in broad day light." [^21]
 
 On October 31, 2008, in the advent of the biggest financial crises the world has ever seen, someone going by the pseudonym Satoshi Nakamoto published a white paper called "Bitcoin: A Peer-to-Peer Electronic Cash System" on the domain bitcoin.org and proposed a new digital form of money. 
 
@@ -14,7 +14,7 @@ Since the 1990s computer experts, mathematicians and cryptographers - including 
 ### Cryptocurrency Projects Before Bitcoin
 Parts of the following concepts were incorporated into Satoshi Nakamoto's Bitcoin white paper. 
 
-![Cryptocurrency projects before Bitcoin](resources/_History-of-Bitcoin.png)[^^C1-20]
+![Cryptocurrency projects before Bitcoin](resources/_History-of-Bitcoin.png)[^22]
 
 **Public and Private Key Pairs**
 In 1990 David Chaum was concerned with the public nature and open access to online payments and personal information. He founded "Digicash", a corporation and electronic money of the same name, which used cryptographic protocols as well as  private and public keys to anonymize transactions. The use of signatures, public and private key pairs became essential in the further development of electronic money and Bitcoin.
@@ -24,7 +24,7 @@ In 1990 David Chaum was concerned with the public nature and open access to onli
 
 With the advent of the internet and email the problem of spam came along. To combat the growing problem of spam Cynthia Dwork and Moni Naor proposed the  idea "...to require a user to compute a moderately hard, but not intractable function..." before they are technically able to send out emails in their 1992 paper "Pricing via Processing or Combatting Junk Mail". It meant that, if someone wants to send a big number of emails at the same time, the computer would need to solve a mathematical problem. This process takes time and effort and kept the spammers from sending messages in quick succession.
 
-In 1997 Adam Back proposed a similar idea called "Hashcash". Satoshi Nakamoto implemented Hashcash as the proof-of-work system used in Bitcoin. Adam Back's work is cited in the Bitcoin white paper. Listen to my interview with Adam Back from 2019 where we discuss his idea for Hashcash and the evolution of his work up to Bitcoin. Find it at anita.link/12
+In 1997 Adam Back proposed a similar idea called "Hashcash". Satoshi Nakamoto implemented Hashcash as the proof-of-work system used in Bitcoin. Adam Back's work is cited in the Bitcoin white paper. Listen to my interview with Adam Back from 2019 where we discuss his idea for Hashcash and the evolution of his work up to Bitcoin. Find it at https://anita.link/12
 
 The term "proof-of-work" was first coined and formalized in a 1999 paper by Markus Jakobsson and Ari Juels.
 
@@ -45,3 +45,7 @@ Bitcoin's motto is "Don't trust, verify." This was a little bit confusing to me 
 This is revolutionary - as soon as you start to verify your own bitcoin transactions, you are essentially a bank because this is what banks do - they verify your transactions in their ledgers. However, you need to trust them to do a good job. That might be working very well in developed countries, but for the most parts of the world, the banking experience is much worse. Now imagine you do not have a reliable banking situation and no ID, but you have a mobile phone and internet. There is only one option for you to store and use money. It's either mobile money like M-Pesa or EcoCash in Africa or cryptocurrencies, where you do not need to identify yourself.
 
 All people worldwide with an internet-enabled mobile phone have access to Bitcoin. The banks as we know them are not required for the use of Bitcoin. You don't have to ask anyone for permission to own or use Bitcoin. All you need to start is a smartphone, an internet connection and a bitcoin wallet app.
+
+[^20]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 1.
+[^21]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 247.
+[^22]: Anita Posch, Source [The Merkle](https://themerkle.com/top-4-cryptocurrency-projects-created-ahead-of-bitcoin/), [Hashcash.org](http://www.hashcash.org/bitcoin/)

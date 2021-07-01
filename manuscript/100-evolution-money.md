@@ -21,7 +21,7 @@ In a traditional payment there are up to seven intermediaries until the payment 
 
 Bitcoin is the people's money. Bitcoin is the evolution of money, the continuation of a perpetual process of discovering money in the history of mankind. Over the millennia, various new forms of money have been found and used, from exchange between people to a credit system and a gold standard to fiat currency to today's current non-backed inflationary system. The banking and monetary system as we know it today has existed and evolved for about 300 years. It is only natural that with the emergence of a new form of communication via the internet, a new form of economy and a new type of money, namely a native internet money, has arisen.
 
-![History of money](resources/_money-history.png) [^^C0-2]
+![History of money](resources/_money-history.png) [^2]
 
 Programmable cryptographic money or the "Internet of Money" - as Andreas M. Antonopoulos puts it - is unstoppable. We are at the beginning of a new era in the history of mankind. 
 
@@ -30,15 +30,15 @@ If Bitcoin sounds mind-boggling and you can't grasp the concept of a blockchain 
 
 Rai are large stone disks used on Yap island in the Western Pacific (Micronesia). They were "minted" from the limestone deposits of the island of Palau and used as a currency until the 20th century. 
 
-![Rai stones with carrying logs, 1903](resources/_Stone_Money_of_Uap_1903_Jayne,_String_Figures_p160.jpg) [^^C1-1] 
+![Rai stones with carrying logs, 1903](resources/_Stone_Money_of_Uap_1903_Jayne,_String_Figures_p160.jpg) [^3] 
 
 Rai stones were brought to Yap via boat and, due to their size and weight, Rai stones were not moved when spent, but simply changed owners. Every transaction was 'recorded' orally within the small community, with the stone's ownership history becoming common knowledge. Eventually, the transaction "history"/"ledger" became the only part that mattered. A stone was once dropped by the canoe transferring it to Yap and sank. The stone was deemed to still be money, since it still exists, even though no one has seen it since, or had access to it. 
 
-This is particularly important, because it demonstrates a naturally occurring use of a ledger of transactions. This ledger was shared orally between the inhabitants, attributed ownership and delegated property without a single stone moving, because everyone agreed on it and formed a consensus. This is how we can compare the functions of the Bitcoin blockchain; it is a shared ledger of all transactions, stored simultaneously on thousands of computers (nodes) globally. [^^C1-2]
+This is particularly important, because it demonstrates a naturally occurring use of a ledger of transactions. This ledger was shared orally between the inhabitants, attributed ownership and delegated property without a single stone moving, because everyone agreed on it and formed a consensus. This is how we can compare the functions of the Bitcoin blockchain; it is a shared ledger of all transactions, stored simultaneously on thousands of computers (nodes) globally. [^4]
 
 Another similarity to Bitcoin is the creation of Rai stone, which was work intense and a form of proof-of-work. The stones were carved out with hand tools, quarried over sea and brought to the island via canoe. Once the Rai stones became easy to manufacture with modern techniques, they became less useful as money, because they were no longer a reliable signpost of energy spent. 
 
-Rai stones have been viewed by modern economists as a primitive form of money, and are often used as an example to support the thesis that the value of some form of money can be assigned purely through shared belief in said value.[^^C1-3] Today's money is not backed by anything too, it's in fact established and declared legal tender by government regulation and, because of that, it is the medium of account we use and therefore it has value. 
+Rai stones have been viewed by modern economists as a primitive form of money, and are often used as an example to support the thesis that the value of some form of money can be assigned purely through shared belief in said value.[^5] Today's money is not backed by anything too, it's in fact established and declared legal tender by government regulation and, because of that, it is the medium of account we use and therefore it has value. 
 
 
 ## How Money Is Created
@@ -65,7 +65,7 @@ The last point is the one we all know. It is how we take a loan for buying a hou
 
 On top of that, there is something called fractional-reserve banking, which allows banks to lend out more money than they hold in reserves or as balances in their account at the central bank. The minimum amount that banks must hold in liquid assets, called the "reserve ratio" is determined by the central bank. This rate varies from country to country. In the Euro area banks have to hold a minimum of 1% at the time of writing. In March 2020 the FED abolished this minimum reserve requirement due to the pandemic. Canada, the UK, New Zealand, Australia, Sweden and Hong Kong have no reserve requirements. If each of us were to go the bank today and request to withdraw our money, the banking system would fall apart because they lent it all out and cannot give you the money. 
 
-In 2020 global debt rose by an incredible 24 trillion to 281 trillion USD, or 355% of global GDP. [^^C1-10]
+In 2020 global debt rose by an incredible 24 trillion to 281 trillion USD, or 355% of global GDP. [^6]
 
 ![Debt-to-GDP ratios](resources/_Debt-to-GDP-ratio-2020.jpg)
 
@@ -78,9 +78,9 @@ The creation of artificial money through central banks overshadowed the distorti
 
 Have you as an individual ever been bailed out? And if you have, would you do the same thing over and over again, rigging the system knowing that there is a last resort, which will always bail you out? This is exactly what banks, Wall Street, Hedge Funds and their lobbying lawyers do consistently, assisted by central banks all over the world. 
 
-"Classically, central banks hold reserves in case of emergencies, set interest rates, and allocate funds to stimulate or slow economies after disruptive events like panics or wars. The more recent role they have assumed is one of securing the entire financial system and influencing the economic trajectory of entire sovereign nations. This is the antithesis of democratic rule. Such a monetary oligarchy operates beyond democratic norms and limits." [^^C1-4]
+"Classically, central banks hold reserves in case of emergencies, set interest rates, and allocate funds to stimulate or slow economies after disruptive events like panics or wars. The more recent role they have assumed is one of securing the entire financial system and influencing the economic trajectory of entire sovereign nations. This is the antithesis of democratic rule. Such a monetary oligarchy operates beyond democratic norms and limits." [^7]
 
-Naomi Prins' book tapped into the psyche of Wall Street, revealing how the very structure of the financial system hinged on traders flocking to the next big bet, regardless of the stakes. In addition the _same_ people and families kept popping up, cycling through Wall Street and Washington. They influenced the economy beneath them from their loftier heights of status, private money, and public office, dismantling laws that stood in their way and finding loopholes through others. Private banks normalized market manipulation. Central banks made it an art form, with no limits." [^^C1-5] 
+Naomi Prins' book tapped into the psyche of Wall Street, revealing how the very structure of the financial system hinged on traders flocking to the next big bet, regardless of the stakes. In addition the _same_ people and families kept popping up, cycling through Wall Street and Washington. They influenced the economy beneath them from their loftier heights of status, private money, and public office, dismantling laws that stood in their way and finding loopholes through others. Private banks normalized market manipulation. Central banks made it an art form, with no limits." [^8] 
 
 ### Money Supply Inflation
 
@@ -88,28 +88,28 @@ Let's take the US Dollar as an example for all fiat currencies. The more USD are
 
 The money supply consists of various types of money that are generally classified as Ms, such as M0 (base money), M1, M2 and M3. The definitions might slightly vary in different countries. 
 
-The monetary base (M0) is the total amount of a currency in physical paper and coin that is either in circulation in the hands of the public or in the form of commercial bank deposits held in the central bank's reserves. [^^C1-17] 
+The monetary base (M0) is the total amount of a currency in physical paper and coin that is either in circulation in the hands of the public or in the form of commercial bank deposits held in the central bank's reserves. [^9] 
 
 As long as you hold cash, it is an asset like bitcoin, a property that you own. If you take your cash and store it at the bank, you have a claim, but don't own the money anymore. Similarly to bitcoin at an exchange.
 
-Any other fiat money supply (M1, M2, M3) is comprised of claims on base money. [^^C1-18]
+Any other fiat money supply (M1, M2, M3) is comprised of claims on base money. [^10]
 
 M1 includes M0, demand deposits, traveler’s checks, and other checkable deposits, that are easily convertible to cash.
 
 M2 includes M0, M1, money market securities, mutual funds and other time deposits. These assets are less liquid than M1 and not as suitable as exchange mediums, but they can be quickly converted into cash or checking deposits. M2 is closely watched as an indicator of money supply and future inflation, and as a target of central bank monetary policy.
 
-The amount of M2 currency in circulation in the US was **19.7 trillion USD** in February, 2021. [^^C1-6] Look at the growth in 2020.
+The amount of M2 currency in circulation in the US was **19.7 trillion USD** in February, 2021. [^11] Look at the growth in 2020.
 
 ![M2 Money Stock Growth USA, 2021 ](resources/_M2-money-stock-US-2021.png)
 
 "We accept this as normal, because we assume it will never end. The fractional reserve banking system has functioned around the world for hundreds of years (first gold-backed, and then totally fiat-based), albeit with occasional inflationary events along the way to partially reset things.
 
-Each individual unit of fiat currency has degraded about 99% in value or more over a multi-decade timeline. This means that investors either need to earn a rate of interest that exceeds the real inflation rate (which is not currently happening), or they need to buy investments instead, which inflates the value of stocks and real estate compared to their cash flows and pushes up the prices of scarce objects like fine art." [^^C1-7]
+Each individual unit of fiat currency has degraded about 99% in value or more over a multi-decade timeline. This means that investors either need to earn a rate of interest that exceeds the real inflation rate (which is not currently happening), or they need to buy investments instead, which inflates the value of stocks and real estate compared to their cash flows and pushes up the prices of scarce objects like fine art." [^12]
 
-Adding to money supply inflation is the fact that the population in the US and other western nations is not growing at the same rate as the money supply. "US population used to grow at maybe 1.5% per year, and now grows at more like 0.5% per year. That's pretty important. Meanwhile, broad money supply is up 25% year over year, and is on track to be up 75%+ over a rolling 5-year period in the future." [^^C1-8]
+Adding to money supply inflation is the fact that the population in the US and other western nations is not growing at the same rate as the money supply. "US population used to grow at maybe 1.5% per year, and now grows at more like 0.5% per year. That's pretty important. Meanwhile, broad money supply is up 25% year over year, and is on track to be up 75%+ over a rolling 5-year period in the future." [^13]
 
 Strictly speaking, inflation occurs when the money supply outstrips nominal GDP growth, which consists of population and productivity growth. The Consumer Price Index of the USA shows that the prices for goods went up since the value of money has declined.
-![Consumer Price Index US 2020](resources/_Consumer-Price-index-US-2021.png) [^^C1-9]
+![Consumer Price Index US 2020](resources/_Consumer-Price-index-US-2021.png) [^14]
 
 ### Ponzi Scheme
 
@@ -155,14 +155,14 @@ Let's compare these characteristics to today's system of money creation.
 
 * The Cantillon effect was described by Irish-French economist Richard Cantillon around 1730. He suggested that inflation occurs gradually and that the new supply of money created by the banks has a localised effect on inflation. Rewarding the bankers and close actors by artificially creating money, benefiting those closest to the origin of money. 
 
-> "The Fed's crisis and post-crisis monetary policies, adopted by other major central banks, was supposed to "trickle down" to the masses. That didn't happen. The global elites knew this then, and they are more aware of it now. In January 2017, the World Economic Forum admitted that rising inequality threatens the world economy. These colluders provoke inequality because it benefits them and the preservation of their global power hierarchies to the detriment of everything and everyone else." - **Nomi Prins** [^^C1-11]
+> "The Fed's crisis and post-crisis monetary policies, adopted by other major central banks, was supposed to "trickle down" to the masses. That didn't happen. The global elites knew this then, and they are more aware of it now. In January 2017, the World Economic Forum admitted that rising inequality threatens the world economy. These colluders provoke inequality because it benefits them and the preservation of their global power hierarchies to the detriment of everything and everyone else." - **Nomi Prins** [^15]
 
 
 ### The End of This Kind of Growth
 
 The wealth inequality has been rising in the last centuries along with the commodification and monetization of natural resources. Nothing is left to be consumed. We are living through a fight for resources, for equal opportunities against the establishment and elites enriching themselves through corruption and financial advantages.
 
-"Another by-product of the financial crisis and central bank collusion was the rise in economic anxiety that spawned a swing towards nationalism, from Brazil to Great Britain to the United States. The shock of Brexit in the United Kingdom reverberated around the world as voters turned away from the incumbent leadership and its failed economic policies. In the United States, the election victory of Donald Trump, the billionaire 'antiestablishment' president, was another manifestation of this trend. These landmark votes were not caused by central banking policy directly but were the effects." [^^C1-12]
+"Another by-product of the financial crisis and central bank collusion was the rise in economic anxiety that spawned a swing towards nationalism, from Brazil to Great Britain to the United States. The shock of Brexit in the United Kingdom reverberated around the world as voters turned away from the incumbent leadership and its failed economic policies. In the United States, the election victory of Donald Trump, the billionaire 'antiestablishment' president, was another manifestation of this trend. These landmark votes were not caused by central banking policy directly but were the effects." [^16]
 
 The growing divide between rich and poor is based on our current monetary system, which is the real Ponzi scheme. Central bankers are not democratically elected, yet they decide on the financial fate of the world. Bankers and their friends are profiting from this system. It is time for an alternative. A decentralized, open, neutral, transparent, immutable, non-inflatable and collaborative form of money for the people: Bitcoin.
 
@@ -170,7 +170,7 @@ The growing divide between rich and poor is based on our current monetary system
 
 Now that we discussed how money is created, let's dive into the world of currency wars and how this system of national currencies is exclusive and has been dominated by different empires.
 
-The history of currency wars is long. "Over the past century the world went from a gold standard system, to the Bretton Woods system, to the Petrodollar system. Each system mostly unraveled from within rather than being brought down externally, and each time one system transitioned to another, a significant and widespread currency devaluation occurred."[^^C1-13] 
+The history of currency wars is long. "Over the past century the world went from a gold standard system, to the Bretton Woods system, to the Petrodollar system. Each system mostly unraveled from within rather than being brought down externally, and each time one system transitioned to another, a significant and widespread currency devaluation occurred."[^17] 
 
 The British monetary hegemony lasted from 1871 to World War I. Back then a nation's currency was pegged to gold. After the interwar period, where the monetary power began to decentralize, the United States emerged as central money and power house after the allied victory in the Second World War. The Bretton Woods system, founded in 1944, was the first example of a fully negotiated monetary order intended to govern monetary relations among independent states. It was setting up a system of rules, institutions, and procedures to regulate the international monetary system, like the International Monetary Fund (IMF). The United States, which controlled two-thirds of the world's gold, insisted that the Bretton Woods system rests on both gold and the US dollar. Soviet representatives attended the conference but later declined to ratify the final agreements, charging that the institutions they had created were "branches of Wall Street". This can be interpreted as the starting point of the Cold War.
 
@@ -186,12 +186,30 @@ A country can enforce the usage of a fiat currency as a medium of exchange and u
 
 A fiat currency can face particular problems when trying to be used outside of its home country. Why should businesses and governments in other countries accept pieces of paper, which can be printed endlessly by a foreign government and have no firm backing, as a form of payment for their valuable goods and services? Without a real backing, what is it worth? Why would you sell oil to foreigners for paper?
 
-In the early 1970’s, there were a variety of geopolitical conflicts including the Yom Kippur War and the OPEC oil embargo. In 1974, however, the United States and Saudi Arabia reached an agreement, and from there, the world was set on the petrodollar system; a clever way to make a global fiat currency system work decently enough....With the petrodollar system, Saudi Arabia (and other countries in OPEC) sell their oil exclusively in dollars in exchange for US protection and cooperation. Even if France wants to buy oil from Saudi Arabia, for example, they do so in dollars....In return, the United States uses its unrivaled blue-water navy to protect global shipping lanes, and preserve the geopolitical status quo with military action or the threat thereof as needed....Some of us, particularly near the top of the income ladder, directly or indirectly benefit from this system. Americans who work around finance, government, healthcare, and technology get many of the benefits of living in the hegemonic power, without the drawbacks. On the other hand, Americans who make physical products tend not to benefit, because they lost their jobs or had their incomes suppressed, and thus haven’t benefited from the gains. And outside of the United States, exporting countries benefit from the system, while countries that don’t like how the global monetary system is structured don’t have much recourse to do anything about it, unless they get big enough like Russia and China."[^^C1-14] 
+In the early 1970’s, there were a variety of geopolitical conflicts including the Yom Kippur War and the OPEC oil embargo. In 1974, however, the United States and Saudi Arabia reached an agreement, and from there, the world was set on the petrodollar system; a clever way to make a global fiat currency system work decently enough....With the petrodollar system, Saudi Arabia (and other countries in OPEC) sell their oil exclusively in dollars in exchange for US protection and cooperation. Even if France wants to buy oil from Saudi Arabia, for example, they do so in dollars....In return, the United States uses its unrivaled blue-water navy to protect global shipping lanes, and preserve the geopolitical status quo with military action or the threat thereof as needed....Some of us, particularly near the top of the income ladder, directly or indirectly benefit from this system. Americans who work around finance, government, healthcare, and technology get many of the benefits of living in the hegemonic power, without the drawbacks. On the other hand, Americans who make physical products tend not to benefit, because they lost their jobs or had their incomes suppressed, and thus haven’t benefited from the gains. And outside of the United States, exporting countries benefit from the system, while countries that don’t like how the global monetary system is structured don’t have much recourse to do anything about it, unless they get big enough like Russia and China."[^18] 
 
 We have been in currency wars for many decades. Which currency is stronger, which country can gain more benefits from manipulating its currency – the Euro, the US Dollar, the Chinese Yuan? Or even Facebook's Diem? Corporation money is the new, strong player on the market. To retain their powers central banks started to work on their own digital currencies (CBDCs). 
 
-![New forms of money emerge](resources/_new-forms-money.png) [^^C1-19]
+![New forms of money emerge](resources/_new-forms-money.png) [^19]
 
 Bitcoin is our alternative to this system. Protecting our privacy in this digital age, voting against the abuse of monopolistic power in the current system, and giving people living in authoritarian states with corrupt rulers the same opportunities to participate in the economic system. Bitcoin is a defense strategy, a tool with which we can preserve the human right to transaction freedom and privacy.
 
 [^1]: [Illustration NetGuardians retrieved April 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)
+[^2]: Anita Posch, credits: University of Nicosia, MOOC in Digital Currency, “A brief history of money” with image: Lotus Head, CC BY-SA 3.0, wikimedia.org
+[^3]: Image: "Stone Money of Uap, Western Caroline Islands." - Dr. Caroline Furness Jayne took this photograph during a 1903 stay on Yap, Public domain, via Wikimedia Commons
+[^4]: [Wikipedia Rai stones](https://en.wikipedia.org/wiki/Rai_stones)
+[^5]: [University of Nicosia, Introduction to Digital Currencies, Session 1, p. 15]
+[^6]: [Debt to GDP ratio, JS Blokland](https://twitter.com/jsblokland/status/1362138620665221122?s=20)
+[^7]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 7.
+[^8]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. xvii
+[^9]: [Monetary Base](https://www.investopedia.com/terms/m/monetarybase.asp)
+[^10]: [Global Monetary Base, Crypto Voices](https://cryptovoices.com/basemoney)
+[^11]: [FRED, M2 Money Stock](https://fred.stlouisfed.org/series/M2SL)
+[^12]: [Lyn Alden, Ponzi scheme](https://www.lynalden.com/bitcoin-ponzi-scheme/)
+[^13]: [Lyn Alden](https://twitter.com/LynAldenContact/status/1362912907659522049?s=20)
+[^14]: [US Consumer Price Index](https://fred.stlouisfed.org/series/CPIAUCSL)
+[^15]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 253.
+[^16]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 249.
+[^17]: [Lyn Alden, The Structure of the Global Monetary System](https://www.lynalden.com/fraying-petrodollar-system/)
+[^18]: [Lyn Alden, Petrodollar System (1974-Present)](https://www.lynalden.com/fraying-petrodollar-system/)
+[^19]: Anita Posch

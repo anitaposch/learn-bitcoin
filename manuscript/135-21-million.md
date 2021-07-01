@@ -10,17 +10,17 @@ Satoshi Nakamoto coded these halvings into the Bitcoin Core software. The output
 
 ![The halving interval code in the Bitcoin Core software in C++](resources/_halving-interval.jpg)
 
-![Explanation by Andreas M. Antonopoulos](resources/_aantonop-21-million.png) [^^C1-22]
+![Explanation by Andreas M. Antonopoulos](resources/_aantonop-21-million.png) [^24]
 
 This algorithm tends to zero such that there will be a maximum of 21 million bitcoin. There are currently around 18 million in circulation. In 2140 all 21 million bitcoin will have been generated. Mining will continue and the miners will be rewarded solely with transaction fees. By that point, it is expected that Bitcoin as a network will have such high adoption that transaction fees alone will adequately facilitate fair reward for miners.
 
-![Total bitcoin supply over time](resources/_Total_bitcoins_over_time.png) [^^C1-23]
+![Total bitcoin supply over time](resources/_Total_bitcoins_over_time.png) [^25]
 
 
 ### Why 21 Million?
 Why did Satoshi Nakamoto choose 21 million for the supply cap? There are many theories, but here is Satoshi's answer:
 
-![Satoshi Nakamoto's explanation for the 21 million supply cap](resources/Why-21-million.png) [^^C1-24]
+![Satoshi Nakamoto's explanation for the 21 million supply cap](resources/Why-21-million.png) [^26]
 
 
 ### Bitcoin Units
@@ -35,3 +35,7 @@ Bitcoin with a capital B is used referring to the Bitcoin network, the blockchai
 In fact, coin is the wrong term to describe the digital asset, it is a little bit misleading. In technical terms it is called UTXO - unspent transaction output. A UTXO defines the amount of value that is stored on the blockchain at a specific Bitcoin address. Therefore there are diverging opinions if there is a plural for bitcoin, the unit, because its fluid and there are no coins. But since Satoshi Nakamoto spoke of bitcoins, we as a community name it that way too. There is no plural for Bitcoin, as there is only one blockchain and network.
 
 Scams like the BitClub network referred to it as BitCoin and this is often mistakenly used by Bitcoin beginners too.
+
+[^24]: [Source Andreas M. Antonopoulos](https://twitter.com/aantonop/status/1257366095515848716?s=20)
+[^25]: [Source: Insti](https://commons.wikimedia.org/wiki/File:Total_bitcoins_over_time.png)
+[^26]: [Source plan99.net](https://plan99.net/~mike/satoshi-emails/thread1.html)

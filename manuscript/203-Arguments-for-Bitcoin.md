@@ -6,7 +6,7 @@ I'm a digital native in a Gen X body. I can remember life without the internet, 
 
 A lot of people dismissed the internet as a trend that will go away. In 1995, US astronomer and author Clifford Stoll wrote an article for Newsweek titled "The Internet? Bah!" 
 
->"Then there's cyberbusiness. We're promised instant catalog shopping - just point and click for great deals. We'll order airline tickets over the network, make restaurant reservations and negotiate sales contracts. Stores will become obsolete. So how come my local mall does more business in an afternoon than the entire Internet handles in a month? Even if there were a trustworthy way to send money over the Internet - which there isn't - the network is missing a most essential ingredient of capitalism: salespeople." - **Clifford Stoll**[^^c2-1]
+>"Then there's cyberbusiness. We're promised instant catalog shopping - just point and click for great deals. We'll order airline tickets over the network, make restaurant reservations and negotiate sales contracts. Stores will become obsolete. So how come my local mall does more business in an afternoon than the entire Internet handles in a month? Even if there were a trustworthy way to send money over the Internet - which there isn't - the network is missing a most essential ingredient of capitalism: salespeople." - **Clifford Stoll** [^56]
 
 Fast forward to 2019 and Amazon is in the top ten biggest companies in the world, Google and YouTube are the biggest search engines and there are 1.8 billion active websites. My first contact with Bitcoin and blockchains was in April 2017 when I heard a talk by Shermin Voshmgir. It clicked immediately. 20 years after I changed my career from being an urban planner to becoming an internet entrepreneur, I understood that Bitcoin is as massive as the dawn of the internet in 1997.  
  
@@ -20,13 +20,13 @@ People in developed nations with functioning democratic systems often dismiss Bi
  
 The world's population is 7.8 billion people. Only 8.4% of those live in full democracies, 41% in flawed democracies, 15% in hybrid regimes and 35,6% in authoritarian regimes. 
 
-Over 50% of the world's population are living in nations far from free and fair democracies! 1.7 billion people do not have a bank account and never will. Bitcoin is for them. [^^C2-17] 
+Over 50% of the world's population are living in nations far from free and fair democracies! 1.7 billion people do not have a bank account and never will. Bitcoin is for them. [^57] 
 
 It's people in regions like Africa and South America who will drive Bitcoin adoption forward. The main use-cases there are:
  
  **Hedge Against Inflation**
  This table by the International Monetary Fund shows the annual change of consumer prices in percent. 
- ![Inflation rate, average consumer prices, annual change in %](resources/_inflation-2021.png) [^^C2-14]
+ ![Inflation rate, average consumer prices, annual change in %](resources/_inflation-2021.png) [^58]
  
  * Venezuela saw prices increases by 5,500%. The suffering of the people is simply incomprehensible. 
  * In Sudan the prices increased 200% in 2021 alone.
@@ -37,7 +37,7 @@ It's people in regions like Africa and South America who will drive Bitcoin adop
 
 From May 2020 to April 2021 the bitcoin trading volume in Nigeria increased 40% from $287 million to $399. A 2020 survey shows that 32% of Nigerians interviewed used or owned cryptocurrencies. Meanwhile, in developed democratic countries like Germany and the USA, only 5-6% have used or own cryptocurrencies.
 
-![Trading volume on P2P Bitcoin exchanges in Sub-Saharan countries from May 2020 to April 2021](resources/_Nigeria-trading-volume-BTC.png) [^^C2-15]
+![Trading volume on P2P Bitcoin exchanges in Sub-Saharan countries from May 2020 to April 2021](resources/_Nigeria-trading-volume-BTC.png) [^59]
 
 Given these annual inflation rates, people know that they need to store their wealth in harder money like USD, and better still, Bitcoin. If you explain the differences of Bitcoin to local currencies in these countries, everybody understands immediately how and why Bitcoin can support them.
 
@@ -55,7 +55,7 @@ Countries with weak economies and flawed democracies use foreign exchange contro
 
 **Remittances**
 * If you receive money from abroad through the traditional banking system it will be converted to Argentina pesos at the official bank rate, which basically is a confiscation of 30% of the value.
-* In 2020 as much as 1 billion USD has been sent as remittances to Zimbabwe. Over one third of the population is relying on remittances from relatives abroad. A lot of Zimbabweans live in South Africa, from the money they send up to 20-30% are lost through banking fees and official exchange rates. [^^C2-16]
+* In 2020 as much as 1 billion USD has been sent as remittances to Zimbabwe. Over one third of the population is relying on remittances from relatives abroad. A lot of Zimbabweans live in South Africa, from the money they send up to 20-30% are lost through banking fees and official exchange rates. [^60]
 
 **Barriers for Women**
 
@@ -63,17 +63,17 @@ Using a basic bank account is beyond the reach of almost one billion women world
 
 Other hurdles that prevent women from accessing financial services are the need to travel long distances, the risk of being robbed while accessing money, and privacy that allows them to protect their savings from others.
 
-"Over 80 percent of the small business conducted in the Pacific by women is in little marketplaces," said Dr. Sharman Stone, Australia's Ambassador for Women. "When they only had cash it was extremely dangerous for them to get that cash home, and to retain that cash once they got home." [^^C2-20] With Bitcoin and cryptocurrencies they are physically more safe, can circumvent inflation and hold their own money.
+"Over 80 percent of the small business conducted in the Pacific by women is in little marketplaces," said Dr. Sharman Stone, Australia's Ambassador for Women. "When they only had cash it was extremely dangerous for them to get that cash home, and to retain that cash once they got home." [^61] With Bitcoin and cryptocurrencies they are physically more safe, can circumvent inflation and hold their own money.
 
-> Women are the majority of Kenya's population; they perform 70% of the agricultural labor, but they own less than 1% of the land, and control very little of the income produced by their labor. [^^C2-21]
+> Women are the majority of Kenya's population; they perform 70% of the agricultural labor, but they own less than 1% of the land, and control very little of the income produced by their labor. [^62]
 
-56% of all unbanked adults globally are women. Women are overrepresented among the unbanked in most economies. This is true even in economies that have successfully increased account ownership and have a relatively small share of adults who are unbanked. [^^C2-18] In the United States, Middle East and North Africa two-thirds of the unbanked are women.[^^C2-19]
+56% of all unbanked adults globally are women. Women are overrepresented among the unbanked in most economies. This is true even in economies that have successfully increased account ownership and have a relatively small share of adults who are unbanked. [^63] In the United States, Middle East and North Africa two-thirds of the unbanked are women.[^64]
 
 A study in Kenya found that access to mobile money services delivered big benefits, especially for women. It enabled women-headed households to increase their savings by more than a fifth; allowed 185,000 women to leave farming and develop business or retail activities; and helped reduce extreme poverty among women-headed households by 22 percent.
 
 Mobile money services like M-Pesa in Kenya or EcoCash in Zimbabwe have increased access to financial instruments. The problem: these are services by centralized, private companies. The government can interfere, transactions can be censored or accounts can be closed. As an example in July 2020 the Zimbabwean government blocked pay-outs from EcoCash mobile money accounts to bank accounts or cash. 
 
-Financial services can also help people accumulate savings and increase spending on necessities. After being provided with savings accounts, market vendors in Kenya, primarily women, saved at a higher rate and invested 60 percent more in their businesses. Women-headed households in Nepal spent 15 percent more on nutritious foods (meat and fish) and 20 percent more on education after receiving free savings accounts. And farmers in Malawi who had their earnings deposited into savings accounts spent 13 percent more on farming equipment and increased their crop values by 15 percent. [^^C2-22]
+Financial services can also help people accumulate savings and increase spending on necessities. After being provided with savings accounts, market vendors in Kenya, primarily women, saved at a higher rate and invested 60 percent more in their businesses. Women-headed households in Nepal spent 15 percent more on nutritious foods (meat and fish) and 20 percent more on education after receiving free savings accounts. And farmers in Malawi who had their earnings deposited into savings accounts spent 13 percent more on farming equipment and increased their crop values by 15 percent. [^65]
 
 Bitcoin can lower the cost of receiving payments. Leaving people with more of their money. While traditional financial instruments require an ID and proof of address using Bitcoin is open to everyone. Therefore Bitcoin can support women in gaining more freedom and self-sovereignty.
 
@@ -103,7 +103,7 @@ Bitcoin is ideal for long-term saving. If you believe that the value is going to
 You don't have to buy a whole bitcoin. A bitcoin is divisible in a hundred million units. The smallest unit is called a "Satoshi" - after the pseudonymous founding figure, Satoshi Nakamoto. You can buy parts of a bitcoin and start with as little as 25 euros, for example.  
 
 ### Bitcoin and the Functions of Money
-Many textbook economists are insisting on the fact that Bitcoin is not money because it does not fulfill the three basic functions that money must have. These functions were defined by [William Stanley Jevons'](https://en.wikipedia.org/wiki/William_Stanley_Jevons "William Stanley Jevons") in 1875, his analyze became widely popular in macroeconomic textbooks ever since. 
+Many textbook economists are insisting on the fact that Bitcoin is not money because it does not fulfill the three basic functions that money must have. These functions were defined by William Stanley Jevons[^66] in 1875, his analyze became widely popular in macroeconomic textbooks ever since. 
 
 According to Jevons, Bitcoin is only money if it fulfills these functions:
 1. Store of value - the value must remain stable over time
@@ -130,7 +130,20 @@ In 2014 Ryan Walker took the learning's of Darwin's natural selection to compare
 
 > "The arrival of cryptographic-based currencies has enabled key new traits previously not possible with traditional forms of money. Furthermore, the realization of such traits will likely have a dramatic impact on the environment in which these currencies compete. Row 10 and 11 include the specie of cryptocurrency when rated against the traditional and newly realized traits of money."  - **Ryan Walker**
 
-![The traits of money](resources/_table-characteristics-money.PNG)[^^C2-2]
+![The traits of money](resources/_table-characteristics-money.PNG)[^67]
 The degree to which gold, fiat, and cryptographic currencies fulfill the traditionally recognized traits of currency as well as the new traits made possible by the discovery of Bitcoin.
 
 As you can see, Bitcoin goes beyond the traditional framework of what money is. It's evolving into a completely new dimension of what money can do and which applications will be built upon in the future.
+
+[^56]: [Clifford Stoll](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
+[^57]: [Wikipedia, Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index)
+[^58]: [International Monetary Fund, Inflation rate](https://www.imf.org/external/datamapper/PCPIPCH@WEO/OEMDC/ADVEC/WEOWORLD), requested on April 26th, 2021
+[^59]: [Trading volume on P2P Bitcoin exchanges in Sub-Saharan countries from May 2020 to April 2021](https://www.usefultulips.org/combined_Sub%20Saharan%20Africa_Page.html), requested on April 26th, 2021
+[^60]: [World Bank, Sending money from South Africa to Zimbabwe](https://remittanceprices.worldbank.org/en/corridor/South-Africa/Zimbabwe), requested on April 26th, 2021
+[^61]: [BNY Mellon Supports Global Push for Financial Gender Equality](https://www.bnymellon.com/us/en/about-us/newsroom/company-news/bny_mellon_supports_a_global_push_for_financial_gender_equality.html)
+[^62]:[Georgetown Journal of International Law](https://www.law.georgetown.edu/international-law-journal/wp-content/uploads/sites/21/2018/08/4-Kenya-Report-508.pdf)
+[^63]: [World Bank, Global ID Coverage, Barriers, and Use by the Numbers : An In-Depth Look at the 2017 ID4D-Findex Survey](https://globalfindex.worldbank.org/sites/globalfindex/files/chapters/2017%20Findex%20full%20report_chapter2.pdf)
+[^64]: [World Bank, The Little Data Book on Financial Inclusion 2018](https://openknowledge.worldbank.org/bitstream/handle/10986/29654/LDB-FinInclusion2018.pdf)
+[^65]: [World Bank, The Global Findex Database Measuring Financial Inclusion and the Fintech Revolution 2017](https://www.notion.so/Financial-Inclusion-feb3e3913cb042b9bc0ef525ad0f8272#f24c9e8d868e49fe9052c61ead55e080)
+[^66]: [William Stanley Jevons](https://en.wikipedia.org/wiki/William_Stanley_Jevons)
+[^67]: [Ryan Walker](https://www.coindesk.com/origins-money-darwin-evolution-cryptocurrency)

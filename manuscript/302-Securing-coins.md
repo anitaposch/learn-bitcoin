@@ -11,7 +11,7 @@ To buy, use and store bitcoin, you will need:
 ### Bitcoin Wallet
 Think of a wallet like a public lock-box with multiple sections. Anyone can deposit money in each of the sections. Only the owner of the private keys can unlock a section and move the money it holds. Your Bitcoin wallet consists of all the sections and holds all the private keys to unlock them. Private keys and Bitcoin addresses are generated from the seed. The seed is the root of all keys and addresses, it's like a bucket in which all your private keys are stored. 
 
-![Defining terms](resources/_seed-postbox.png) [^^C3-2]
+![Defining terms](resources/_seed-postbox.png) [^69]
 
 The wallet is an app on your phone or software on your computer, which handles all of that in the background. Your private keys, your addresses, sending and receiving bitcoin. 
 
@@ -53,3 +53,5 @@ The order of words is IMPORTANT! You must write down the words exactly in the or
 Write the seed by hand on a piece of paper and store it safely. Do not take a screenshot, do not store it on your phone or computer that is connected to the internet as all those places can get hacked. More about security in chapter 6.
 
 Since your funds are not inside your wallet, but stored on the blockchain you can move globally and take your bitcoin funds wherever you go. You just need to remember the 12-24 seed words in the correct order. After passing customs without a mobile phone, you get yourself a new wallet and import the seed. Magic.
+
+[^69]: Anita Posch, inspired by Andreas M. Antonopoulos
