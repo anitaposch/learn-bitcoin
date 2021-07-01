@@ -1,4 +1,5 @@
 # Bitcoin's Price
+
 ## Price Discovery
 There is no one official price for bitcoin. It is determined in real time separately on exchanges like Kraken, Bitstamp, Coinbase, Binance etc. There are sites like CoinMarketCap, CoinGecko and BitcoinAverage https://anita.link/average which show you a global average of the prices of several exchanges. Or you can go directly to the website of one of the exchanges and look it up. 
 
