@@ -1,17 +1,17 @@
 # The Staircase of Financial Sovereignty
 
->; "Not your keys, not your coins." - **Andreas M. Antonopoulos**
+> "Not your keys, not your coins." - **Andreas M. Antonopoulos**
 
 As you have read in the previous chapters, Bitcoin's primary strength is its uncensorability, which gives you financial sovereignty. That is - besides the fixed 21 million supply - the main differentiator to all other forms of money. It protects you from bail-ins like in Cyprus in 2014 and from devaluing your funds through inflation. It ends the enforced financialization of your money through banking and financial products. It gives you full control over your funds, enables you to move globally while bringing your money with you. It's an alternative, an opt-out of the fiat system - all you need are 12 English words: your seed phrase.
 
->;"Bitcoin is uncensorable and non-inflatable. These are its most important properties." - **Anita Posch**
+> "Bitcoin is uncensorable and non-inflatable. These are its most important properties." - **Anita Posch**
 
 If you do not have those seed phrase words, you do not have the privileges and the freedom stated above.
 
 ## Risks of Custodial Wallets
 It's important to note that there is a big difference between custodial wallets and non-custodial wallets. You only get control of the seed phrase when you use a non-custodial (self-hosted) wallet. Exchanges like Coinbase, Kraken, Binance, Bitpanda, etc., do not give you the private keys to your own wallets. While it might be more convenient to hold bitcoin in a wallet on a centralized exchange, it's no different to a bank. You do not own the bitcoin in your exchange account, which can be a big problem in case the exchange gets hacked, which has already happened many times. For instance, I remind you of Mt. Gox, the biggest hack to date that happened in 2014. No day goes by without cases of frozen accounts, or flagging of tainted coins and, sometimes, the regulatory halting of trading. On top of that, those exchanges need you to register and fulfill all KYC identification requirements (know-your-customer and anti-money laundering regulations), which is a hurdle for billions of people, excluding them from banking and now from using crypto exchanges too. On top of that, these KYC regulations are intruding on your privacy. Luckily, Bitcoin is built for everyone. To mitigate the counter-party risks of custodial wallets you should skip these exchanges and use a non-custodial wallet from the start.
 
->;"This illusion that money in the bank is safer than money under the mattress is very much a position of privilege." - **Andreas M. Antonopoulos**
+> "This illusion that money in the bank is safer than money under the mattress is very much a position of privilege." - **Andreas M. Antonopoulos**
 
 For people outside of the "western developed world", there is no such thing as a secure bank account. This is a privilege. You might think you would rather leave your money on the exchange because you don't want to have the hassle and responsibility of holding your own money. You can do that, but it's not what Satoshi Nakamoto intended and it makes you vulnerable.
 
