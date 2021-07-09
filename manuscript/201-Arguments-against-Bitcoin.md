@@ -73,7 +73,7 @@ The resurgence of Bitcoin's dominance after the critical time of the hard-fork i
 
 ### Bitcoin Has Failed
 
-_There are only a few Bitcoin users. After 12 years of existence, many more people should use Bitcoin. Bitcoin has failed. _
+_There are only a few Bitcoin users. After 12 years of existence, many more people should use Bitcoin. Bitcoin has failed._
 
 Since the use of Bitcoin is, in principle, not tied to identities, it is not statistically possible to know how many people really use Bitcoin. Also, the number of Bitcoin addresses gives us no idea how many people use it. One person can have millions of addresses, or in the case of bitcoin on centralized exchanges, thousands of people can be managed by one large custodial address only.
 
@@ -90,7 +90,7 @@ This is the result of a survey in selected countries showing that 32% of the Nig
 Want to know more about Bitcoin in Nigeria, open your browser and go to: anita.link/88, anita.link/66 and anita.link/63
 
 ### Bitcoin's Transaction Limit
-_The Bitcoin network is only capable of processing seven transactions per second. That is not enough to maintain a global payment network. If all people were using Bitcoin, the network would be overburdened.__
+_The Bitcoin network is only capable of processing seven transactions per second. That is not enough to maintain a global payment network. If all people were using Bitcoin, the network would be overburdened._
 
 The Lightning Network has been in development since the beginning of 2018. This is a protocol that is located one level above the Bitcoin blockchain. The Lightning Network is expected to handle thousands of micro-payments per second in a few years and has already shown a good degree of success for instant cross-continent payments. The Bitcoin blockchain will be used as the base settlement layer for large transactions, while small payments for a coffee, for instance, will take place on the Lightning Network. As the user, you do not need to know how this works. Most of us also do not know how Netflix or sending an email works and yet we do it every day.
 
