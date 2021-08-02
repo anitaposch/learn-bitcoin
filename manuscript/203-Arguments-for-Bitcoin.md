@@ -112,7 +112,7 @@ According to Jevons, Bitcoin is only money if it fulfills these functions:
 Source: https://en.wikipedia.org/wiki/Money
 
 **1. Store of Value**
-Critics say bitcoin is not a store of value due to its volatility and potential for short-term losses. Well, as I laid out in Chapter 4.1, in the long-term that is not really the case. Further, I question the definition of "stable over time". What is the time frame? Inflation in fiat money in Austria has been 20% over the last decade. All other fiat currencies like the Euro are similarly unreliable stores of value for this very reason.
+Critics say bitcoin is not a store of value due to its volatility and potential for short-term losses. Well, as I laid out in chapter 3.1, in the long-term that is not really the case. Further, I question the definition of "stable over time". What is the time frame? Inflation in fiat money in Austria has been 20% over the last decade. All other fiat currencies like the Euro are similarly unreliable stores of value for this very reason.
 
 **2. Medium of Exchange**
 You can use bitcoin as a medium of exchange if you want to. Yes, there is only a small number of companies, services and restaurants that accept bitcoin as a payment at the time of writing. But, to do this, you could use different tools and services that you can fill with bitcoin and spend in fiat. On top of that, there are a lot of companies inside the space that already accept and pay wages in bitcoin too.

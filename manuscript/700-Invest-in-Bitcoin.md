@@ -10,7 +10,7 @@ Trading on these exchanges is done off-chain, meaning that transactions are not 
 
 To acquire bitcoin in a custodial fashion, you need to open an account, comply with a KYC and AML registration process and then deposit fiat money into the platform's account. After your money's arrival you can trade it for bitcoin or other cryptocurrencies.
 
-As mentioned in Chapter 4 "The staircase to self-sovereignty", to mitigate the counter-party risks of custodial wallets you should either send your funds to your own wallet or skip these exchanges and go non-custodial immediately.
+As mentioned in chapter 4 "The Staircase of Financial Sovereignty", to mitigate the counter-party risks of custodial wallets you should either send your funds to your own wallet or skip these exchanges and go non-custodial immediately.
 
 ## Buying Bitcoin - Non-Custodial
 Holding bitcoin in a non-custodial (self-hosted) manner is the desired outcome. It makes your transactions uncensorable and provides maximal freedom over your funds. You can achieve this by buying bitcoin in the right place to begin with.
@@ -95,7 +95,7 @@ To buy bitcoin without user identification you can:
 Exchange sources: https://kycnot.me/, https://github.com/cointastical/P2P-Trading-Exchanges/, https://bitcoiner.guide/nokyconly/
 
 ## Costs for Buying Bitcoin
-When you buy cryptocurrencies you have to pay fees for the service provider, just like when you exchange to a foreign currency when you travel to a different country. The price at which you exchange is determined by the service provider (see Chapter Bitcoin price). Usually, this is the market price plus a surcharge for the service. Since each exchange has its own bitcoin price and different fee structures, there are big differences in the trading costs between them. You can save money by comparing the trading fees when choosing a specific platform.
+When you buy cryptocurrencies you have to pay fees for the service provider, just like when you exchange to a foreign currency when you travel to a different country. The price at which you exchange is determined by the service provider (see chapter Bitcoin price). Usually, this is the market price plus a surcharge for the service. Since each exchange has its own bitcoin price and different fee structures, there are big differences in the trading costs between them. You can save money by comparing the trading fees when choosing a specific platform.
 
 There are three points that determine the costs for buying bitcoin, each service provider has its own:
 * Bitcoin market price
