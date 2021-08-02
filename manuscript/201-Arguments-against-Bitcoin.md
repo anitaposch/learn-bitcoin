@@ -4,7 +4,7 @@
 
 _Bitcoin is volatile, you cannot use it as a medium of exchange._
 
-Yes, bitcoin price is volatile, it can lose or gain a lot of value in a single day. If you want to pay for something in bitcoin, you can still do so. Just exchange the same amount you have spent from fiat back to bitcoin at the same day. No volatility, no loss or gain.
+Yes, bitcoin price is volatile, it can lose or gain a lot of value in a single day. If you want to pay for something in bitcoin, you can still do so. Just exchange the same amount you have spent from fiat back to bitcoin on the same day. No volatility, no loss or gain.
 
 ### Price Development
 _Bitcoin is not a store of value due to its price changes._
@@ -15,18 +15,18 @@ View bitcoin as a long term investment, it has been the best performing store of
 
 There is of course no guarantee that this performance will continue forever.
 
-At the time of writing bitcoin was in a bull run, which started in the last quarter of 2020. Meaning the price appreciated for a period of weeks and months with little setbacks in between. In May 2021 a significant drop occurred, which many interpreted as a healthy setback in an overheated market. The last bull run started in 2017 and ended at the beginning of 2018. Since then the price moved relatively sideways - as it is called in traders terms, meaning no particular large up or downwards movement in price. 
+At the time of writing bitcoin was in a bull run, which started in the last quarter of 2020. This means that the price appreciated for a period of weeks and months with little setbacks in between. In May 2021 a significant drop occurred, which many interpreted as a healthy setback in an overheated market. The last bull run started in 2017 and ended at the beginning of 2018. Since then the price has moved relatively sideways - as it is called in traders terms - meaning that no particular large up or downwards movement in price. 
 
 ![Bitcoin price development](resources/_Bitcoin-price.png)[^28]
 
-The bitcoin price development is following the halving cycles. Approximately every 4 years the amount of minted bitcoin is reduced by 50%. This means that the growth of available bitcoin on the market is shrinking. Even if the demand for bitcoin only remains at the same level, the price will increase. 
+Bitcoin price development is following the halving cycles. Approximately every 4 years the amount of minted bitcoin is reduced by 50%. This means that the growth of available bitcoin on the market is shrinking. Even if the demand for bitcoin only remains at the same level, the price will increase. 
 
 ### Digital Scarcity
-The total bitcoin supply is limited to 21 million, 18.7 million of which are already on the market. Every four years (exactly 210,000 blocks), the amount of bitcoin that is minted is reduced by half. Currently, the mining process generates 6.25 bitcoin every 10 minutes, which is 900 bitcoin per day and 328,500 per year. From 2024, there will be only 450 bitcoin minted per day, as only 3.125 bitcoin will be issued for each block generated. This means that the amount available every day decreases and supply becomes scarcer. If interest increases at the same time, the price rises exponentially.
+The total bitcoin supply is limited to 21 million, 18.7 million of which are already on the market. Every four years (exactly 210,000 blocks), the amount of bitcoin that is minted is reduced by half. Currently, the mining process generates 6.25 bitcoin every 10 minutes, which is 900 bitcoin per day and 328,500 per year. From 2024, there will only be 450 bitcoin minted per day, as only 3.125 bitcoin will be issued for each block generated. This means that the amount available every day decreases and supply becomes scarcer. If interest increases at the same time, the price rises exponentially.
 
 As of May 2021, around 36 million USD (number of daily minted bitcoin * price) must flow into the Bitcoin market every day to keep the current price of 40,000 USD stable. Whenever the price drops, fewer bitcoin were exchanged than were available on that day and vice versa.
 
-The dates of these halvings are annotated in the chart below. The price follows similar patterns before and after each halving. In this chart, the top of bitcoin is predicted to be in September 2021, after which the price is expected to fall again as you can see on the "Low" marked grid lines. Of course, this is just a prediction based on a few historic events and numbers, we cannot take this as a given occurrence in the future. 
+The dates of these halvings are annotated in the chart below. The price follows similar patterns before and after each halving. In this chart, the top of bitcoin is predicted to be in September 2021, after which the price is expected to fall again as you can see on the "Low" marked grid lines. Of course, this is just a prediction based on a few historic events and numbers. We cannot take this as a given occurrence in the future. 
 
 ![Halving price cycles](resources/_Halving-Price-cycles-by-Pladizow.png) [^29]
 
@@ -44,7 +44,7 @@ In the case of a bear market, when the price of bitcoin inevitably goes down, yo
   
 _If you send bitcoin to the wrong address, they are lost. You can't get them back._
 
-Triple-check the address before you send bitcoin. You can't reverse a payment. As with fiat money, in case you bought something at an online store and return the product, it's the store's business responsibility to handle the bitcoin and send it back to you. However, a simple mistyping of an address should result in an error rather than lost funds, as addresses include integrity checks.
+Triple-check the address before you send bitcoin. You can't reverse a payment. As with fiat money, if you buy something at an online store and return the product, it's the store's business responsibility to handle the bitcoin and send it back to you. However, a simple mistyping of an address should result in an error rather than lost funds, as addresses include integrity checks.
 
 ### No Safety Net
 
@@ -59,17 +59,17 @@ _I can't buy one bitcoin, it's too expensive._
 
 That's ok, you don't have to. There is no minimum budget you need to use bitcoin. A bitcoin is divisible into extremely small units, much smaller than a cent. You can buy a fraction of a bitcoin and start to play around with 20 USD or less.
 
-You can also earn bitcoin, more about that in chapter 10.
+You can also earn bitcoin, but more about that in chapter 9 "Earn Bitcoin".
 
 ### Bitcoin Will Fail Like the First Internet Companies
 
-_Bitcoin is new technology. It is the first of its kind. When we compare this with the first computer companies in the 1980s or the internet platforms of the dot com boom, almost none survived. Bitcoin was the first blockchain on the market, it might go the same route._
+_Bitcoin is a new technology. It is the first of its kind. When we compare this with the first computer companies in the 1980s or the internet platforms of the dot com boom, almost none survived. Bitcoin was the first blockchain on the market, it might go the same route._
     
-Bitcoin has been the world's most widely used cryptocurrency since its origin in 2009. I agree, there are no assurances that it will continue that way. The market dominance of Bitcoin was over 80% until 2017. Meaning of all the thousands of cryptocurrencies on the market, over 80% of all investments were held in Bitcoin. This changed in 2017-18 when there was a "war" between different ideas around how Bitcoin as a technology should go forward. The block-size debate ended with a hard-fork, where the Bitcoin blockchain split into two forks: Bitcoin (BTC) and Bitcoin Cash (BCH). At that time, other crypto projects like Ethereum gained importance. Four years later, BCH has steadily declined into insignificance compared to BTC. Bitcoin held its dominance with over 60% until the current bull run, where it dropped to 40% by the time of writing. A bull run results in more mainstream attention, which leads to many uninformed media articles and, when certain billionaires add rumors and speculation to the mix, Altcoins are lifted into focus. 
+Bitcoin has been the world's most widely used cryptocurrency since it originated in 2009. I agree, there are no assurances that it will continue that way. The market dominance of Bitcoin was over 80% until 2017. Meaning that, of all the thousands of cryptocurrencies on the market, over 80% of all investments were held in Bitcoin. This changed in 2017-18 when there was a "war" between different ideas around how Bitcoin as a technology should go forward. The block-size debate ended with a hard-fork, where the Bitcoin blockchain split into two forks: Bitcoin (BTC) and Bitcoin Cash (BCH). At that time, other crypto projects like Ethereum gained importance. Four years later, BCH has steadily declined into insignificance compared to BTC. Bitcoin held its dominance with over 60% until the current bull run, where it dropped to 40% by the time of writing. A bull run results in more mainstream attention, which leads to many uninformed media articles and, when certain billionaires add rumors and speculation to the mix, Altcoins are lifted into focus. 
 
 ![Percentage of total market capitalization](resources/_Market-dominance.png) [^31]
 
-The resurgence of Bitcoin's dominance after the critical time of the hard-fork in 2017 was a sign of strength for many experts like macro-economist Lyn Alden and US investor Michael Saylor, which led them to believe in the future potential of Bitcoin as the winner-take-all cryptocurrency. And even if there were technological innovations in Altcoins that would propel them in front of Bitcoin, there is no doubt that the Bitcoin developers will implement them too.
+The resurgence of Bitcoin's dominance after the critical time of the hard-fork in 2017 was a sign of strength for many experts like macro-economist Lyn Alden and US investor Michael Saylor, which led them to believe in the future potential of Bitcoin as the winner-takes-all cryptocurrency. And even if there were technological innovations in Altcoins that would propel them in front of Bitcoin, there is no doubt that the Bitcoin developers would implement them too.
 
 ### Bitcoin Has Failed
 
@@ -92,12 +92,12 @@ Want to know more about Bitcoin in Nigeria, open your browser and go to: anita.l
 ### Bitcoin's Transaction Limit
 _The Bitcoin network is only capable of processing seven transactions per second. That is not enough to maintain a global payment network. If all people were using Bitcoin, the network would be overburdened._
 
-The Lightning Network has been in development since the beginning of 2018. This is a protocol that is located one level above the Bitcoin blockchain. The Lightning Network is expected to handle thousands of micro-payments per second in a few years and has already shown a good degree of success for instant cross-continent payments. The Bitcoin blockchain will be used as the base settlement layer for large transactions, while small payments for a coffee, for instance, will take place on the Lightning Network. As the user, you do not need to know how this works. Most of us also do not know how Netflix or sending an email works and yet we do it every day.
+The Lightning Network has been in development since the beginning of 2018. This is a protocol that is located one level above the Bitcoin blockchain. The Lightning Network is expected to handle thousands of micro-payments per second in a few years and has already shown a good degree of success for instant cross-continent payments. The Bitcoin blockchain will be used as the base settlement layer for large transactions, while small payments for a coffee, for instance, will take place on the Lightning Network. As the user, you do not need to know how this works. Most of us do not know how Netflix or sending an email works and yet we do it every day.
 
 ### Mining Pool Concentration
 A mining pool is a structure that "pools" together computational resources provided by connected hashers (pool contributors) to increase the likelihood of finding a new block, which results in more bitcoin reward pay-outs.
 
-While it is true that mining pools can become concentrated in specific areas or jurisdictions, like in China before their authoritarian government outlawed Bitcoin mining in June 2021, they still have less influence than you may first think. Firstly, mining pools consist of thousands of individual miners, just because a mining pool is located in China does not mean that the individual miner has to be located in China. Hashers want to ensure that the pool they contribute to is engaging in behavior that is aligned to the Bitcoin philosophy. In an event of disagreement, miners are free to switch pools. In 2013, the Bitcoin mining pool GHash.io reached more than 50% of the total Bitcoin hashrate for a short period, which prompted hashers to proactively point their hashpower to other pools in order to avoid potentially harmful concentration. The low cost of switching pools acts as a checks and balances system on the self-regulating behavior of miners. [^^C2-6]
+While it is true that mining pools can become concentrated in specific areas or jurisdictions, like in China before their authoritarian government outlawed Bitcoin mining in June 2021, they still have less influence than you may first think. Firstly, mining pools consist of thousands of individual miners. Just because a mining pool is located in China does not mean that the individual miner has to be located in China. Hashers want to ensure that the pool they contribute to is engaging in behavior that is aligned to the Bitcoin philosophy. In an event of disagreement, miners are free to switch pools. In 2013, the Bitcoin mining pool GHash.io reached more than 50% of the total Bitcoin hashrate for a short period, which prompted hashers to proactively point their hashpower to other pools in order to avoid potentially harmful concentration. The low cost of switching pools acts as a system of checks and balances on the self-regulating behavior of miners. [^^C2-6]
 
 ![Global Overview of Bitcoin Mining Regions. Regions With Large Relevant Regions Shown in Teal, Sichuan in Blue and Remaining Minor Regions in Black](resources/_mining-locations.png) [^34]
 

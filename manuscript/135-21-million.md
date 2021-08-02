@@ -32,7 +32,7 @@ You do not have to buy or sell 1 bitcoin at a time, you can start small and tran
 
 Bitcoin with a capital B is used when referring to the Bitcoin network, the blockchain, the community and the concept as a whole, whereas bitcoin with a lowercase b is used to reference the currency, the bitcoin token. 
 
-In fact, coin is the wrong term to describe the digital asset, it is a little bit misleading. In technical terms it is called UTXO - unspent transaction output. A UTXO defines the amount of value that is stored on the blockchain at a specific Bitcoin address. Therefore there are diverging opinions if there is a plural for bitcoin, the unit, because it's fluid and there are no set individual coins. But since Satoshi Nakamoto spoke of bitcoins, we as a community name it that way too. There is no plural for Bitcoin, as there is only one blockchain and network.
+In fact, coin is the wrong term to describe the digital asset, it is a little bit misleading. In technical terms it is called UTXO - unspent transaction output. A UTXO defines the amount of value that is stored on the blockchain at a specific Bitcoin address. Therefore there are diverging opinions as to if there is a plural for bitcoin, the unit, because it's fluid and there are no set individual coins. But since Satoshi Nakamoto spoke of bitcoins, we as a community name it that way too. There is no plural for Bitcoin, as there is only one blockchain and network.
 
 Scams like the BitClub network referred to it as BitCoin and this is often mistakenly used by Bitcoin beginners too.
 
