@@ -1,6 +1,7 @@
-This is the manuscript for (L)earn Bitcoin - Become Financially Sovryn 1st Edition, June 2021
+This is the manuscript for (L)earn Bitcoin - Become Financially Sovryn
+1st Edition, June 2021
 
-The book will be released as an ebook and in print on July 24th. 
+The book was released July 23, 2021. 
 
 Author: Anita Posch
 
