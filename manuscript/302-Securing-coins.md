@@ -13,7 +13,7 @@ Think of a wallet like a public lock-box with multiple sections. Anyone can depo
 
 ![Defining terms](resources/_seed-postbox.png) [^69]
 
-The wallet is an app on your phone or software on your computer, which handles all of that in the background. Your private keys, your addresses, sending and receiving bitcoin.
+The wallet is an app on your phone or software on your computer, which handles everything in the background - your private keys, your addresses, and sending and receiving bitcoin.
 
 Bitcoin wallets contain keys, not coins. Each user has a wallet containing keys. Wallets are really just key-chains containing pairs of private/public keys. Your funds are recorded on the Bitcoin blockchain.
 
@@ -28,9 +28,9 @@ Typing 34 digits is of course very impractical, therefore QR codes of the addres
 
 Bitcoin is pseudonymous, meaning there is no requirement for you to connect your email address or personal identification with a wallet. However, the Bitcoin blockchain is transparent, which means that your Bitcoin addresses are publicly viewable on the internet. For example, you can search for it at Blockcypher and see all current transactions and values. Here is an example link: [https://anita.link/explorer](https://anita.link/explorer)
 
-Therefore, do not share your Bitcoin addresses in connection with your identity on the internet for privacy reasons. Privacy is also the reason why you should not re-use addresses. Most Bitcoin wallets provide you with fresh addresses for each transaction automatically.
+Therefore, for privacy reasons, do not share your Bitcoin addresses in connection with your identity on the internet. Privacy is also the reason why you should not re-use addresses. Most Bitcoin wallets automatically provide you with fresh addresses for each transaction.
 
-Let's get to the most important part to secure your bitcoin: the seed.
+Let's get to the most important part of securing your bitcoin: the seed.
 
 ### Seed and Private Keys
 
@@ -38,9 +38,9 @@ Since the seed is the root of all private keys, no one else must have access to 
 
 The seed (sometimes called mnemonic phrase or backup phrase) is a sequence of 12 or 24 English words that gives you access to the private keys of your wallet addresses, and therefore access to your coins. This means that this order of words must remain secret. Anyone who knows the seed can access and take over your coins. Why?
 
-Your coins are not inside your digital wallet as they are inside your regular physical wallet, instead, they are recorded on the blockchain. Compare this to an email and a letter. You can access your email account from anywhere in the world because your emails are stored online, while your letterbox is stationary. This applies similarly to Bitcoin.
+Your coins are not inside your digital wallet as they are inside your regular physical wallet. Instead, they are recorded on the blockchain. Compare this to an email and a letter. You can access your email account from anywhere in the world because your emails are stored online, while your letterbox is stationary. This applies similarly to Bitcoin.
 
-Worldwide access to your assets is always possible with the seed, regardless of your wallet manufacturer. When selecting your wallet, pay attention to the designation HD wallet (hierarchical determination), in between those you can transfer the seed.
+Worldwide access to your assets is always possible with the seed, regardless of your wallet manufacturer. When selecting your wallet, look out for the term "HD wallet" (Hierarchical Deterministic). HD wallets allow you to switch to another manufacturer's HD wallet, take the seed and restore your coins.
 
 Suppose your smartphone gets corrupted, you can't access your Bitcoin wallet app anymore and need to switch to a new phone. You install a fresh version of your Bitcoin wallet and import the seed from your first wallet. Access to your funds is restored.
 
@@ -50,7 +50,7 @@ The order of words is IMPORTANT! You must write down the words exactly in the or
 
 > Example seed: cruise item paper slim vocal power like video snap museum mirror sun
 
-Write the seed by hand on a piece of paper and store it safely. Do not take a screenshot, do not store it on your phone or computer that is connected to the internet as all those places can get hacked. More about security in chapter 6.
+Write the seed by hand on a piece of paper and store it safely. Do not take a screenshot, do not store it on your phone or computer that is connected to the internet as all those places can get hacked. There is more information about security in chapter 5.
 
 Since your funds are not inside your wallet but stored on the blockchain, you can move globally and take your bitcoin funds wherever you go. You just need to remember the 12-24 seed words in the correct order. After passing customs without a mobile phone, you get yourself a new wallet and import the seed. Magic.
 

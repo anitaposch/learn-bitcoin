@@ -6,7 +6,7 @@ All databases can get hacked. Search your email on https://haveibeenpwned.com/ -
 ### Hardware and Software Setup
 You can use popular browsers such as Firefox, Opera, Brave or Chrome. Browser extensions that block Javascript and Cookies are recommended. Ghostery, NoScript and ScriptSafe are the kind of extensions you can add to your browser. "HTTPS everywhere" enforces an SSL connection to all websites, including those that do not yet offer SSL.
 
-Be aware that some online stores do not work properly with those extensions turned on, then you have to disable them manually.
+Be aware that some online stores do not work properly with those extensions turned on, so you have to disable them manually.
 
 It is important that you keep your devices safe.
 
@@ -24,25 +24,25 @@ Use a different password for each website on which you log in. Otherwise, a hack
 You can use software like 1Password, Bitwarden or KeePass (free and open source). These are encrypted password databases, where you can generate and store all your passwords and you only need to remember one password to open it.
 
 ### PIN
-Setup a PIN for your wallet software so that no one can easily open your wallet on your device.
+Set up a PIN for your wallet software so that no one can easily open your wallet on your device.
 
 ### 2FA
 Use a 2 factor authentication method to secure your accounts. Do not use SMS / text as the 2 factor authentication method because of SIM swapping attacks. Instead, install an authenticator app like and OTP or TOTP on your phone.
 
 ### SIM Swapping
-SIM swapping is when someone hijacks your SIM and telephone number. Then they can use your phone number to login to all connected accounts where you activated 2 factor authentication with text/SMS. SIM swapping is an attack to get into your primary email account. If the attackers can access your primary email that is associated with 2FA to your phone number, they can find all Bitcoin exchange accounts you are using with 2FA and wipe them out.
+SIM swapping is when someone hijacks your SIM and telephone number. They can then use your phone number to login to all connected accounts where you activated 2 factor authentication with text/SMS. SIM swapping is an attack to get into your primary email account. If the attackers can access the primary email account that is associated with 2FA to your phone number, they can find all the Bitcoin exchange accounts you are using with 2FA and wipe them out.
 
-The attack is started by calling customer service at your telecom provider (Verizon, Vodafone, AT & T, Magenta,...). They say something along the lines of "I am the owner of the phone number, I lost my phone please port my number to my new SIM". The customer service person will ask for a piece of personal information to verify your identity. The attackers will then try a lot of tricks. They badger the support person to get small bits of information from them, hang up and call someone else and use that snippet of information to build to the next level. They then get more information and keep building until they have enough information so that they can persuade the last person that they are the account owner and get the SIM ported.
+The attack is often started by calling customer services at your telecom provider (Verizon, Vodafone, AT & T, Magenta,...). They say something along the lines of "I am the owner of the phone number, I lost my phone please transfer my number to my new SIM". The customer services person will ask for a piece of personal information to verify your identity. The attackers will then try a lot of tricks. They badger the support person to get small bits of information from them, hang up and call someone else and use that snippet of information to build to the next level. They then get more information and keep building until they have enough information to persuade the last person that they are the account owner and get the SIM transferred.
 
 They will go after all crypto exchanges where you might have set up an account with your email address and phone number.
 
 When they know your email, they will try to change your account password with the "forgot password" functionality. Good sites will not tell them if the account exists. The attackers will try to do a password reset or try to get a text message verification.
 
 **What You Can Do - Gmail Example**
-Lock down your primary email account and remove your phone number from your email account such as a Gmail account. Here is how it's done: [https://anita.link/removegmail](https://anita.link/removegmail). Use a different password for every account on every website or service. As a Gmail user, you can enroll in the Google Advanced Protection Program, which defends against targeted online attacks.
+Lock down your primary email account and remove your phone number from your email account (such as a Gmail account). Here is how it's done: [https://anita.link/removegmail](https://anita.link/removegmail). Use a different password for every account on every website or service. As a Gmail user, you can enroll in the Google Advanced Protection Program, which defends against targeted online attacks.
 
 ## Phishing Attacks
-In 2020, the marketing database of the French hardware manufacturer Ledger was hacked. The devices are safe, but thousands of email addresses, phone numbers and even home addresses of customers were leaked and can be found by anyone on the internet. This is an absolute disaster because chances are high that people ordering a hardware wallet own bitcoin too. In the worst case, you will be "visited" at home. Most likely are threats via email and phishing attacks. To prevent this, keep in mind that you may never need to use your physical address for delivery of a Bitcoin related product like a hardware wallet. You could organize yourself a postbox. In the US there are services that can receive mail for you (CMRAs). If possible, do not even use your real name when ordering. Get yourself a second phone number and use this in case the vendor requests one. Give them a disposable email address that you only use for this specific order.
+In 2020, the marketing database of the French hardware manufacturer Ledger was hacked. The devices are safe, but thousands of email addresses, phone numbers and even home addresses of customers were leaked and can be found by anyone on the internet. This is an absolute disaster because there's a high chance that people ordering a hardware wallet own bitcoin too. In the worst case, you will be "visited" at home. Most likely are threats via email and phishing attacks. To prevent this, keep in mind that you may never need to use your physical address for delivery of a Bitcoin related product such as a hardware wallet. You could organize a postbox for yourself. In the US there are services that can receive mail for you (CMRAs). If possible, do not even use your real name when ordering. Get yourself a second phone number and use this in case the vendor requests one. Give them a disposable email address that you only use for this specific order.
 
 Phishing attacks are attempts to scare or manipulate you so that you enter your seed words on the attacker's website. For instance, you could receive an email saying: "Your ledger device has been corrupted or deactivated, visit this link and enter your 12 seed words to save your funds." or "We have detected a large withdrawal from your Ledger. You have 24 hours to respond to make this transaction valid. We are sorry, we can not reach your Ledger it seems to be corrupted. We are going to authorize the withdrawal unless you start the recovery process, give us your 24 seed words." or "you have received an airdrop. Money is coming into your account, all we need is a verification, please start your recovery process and give us your 24 seed words."
 ![Phishing mail](resources/_phishing-mail-ledger.png) [^70]
@@ -54,16 +54,16 @@ Bookmark the real websites of official sites of Ledger, Shift Crypto, Trezor etc
 
 ![](resources/_phishing.png) [^71]
 
-Browsers like Opera and Chrome will warn you, but Firefox doesn't by default. You can change that by enabling "punycode" in Firefox, see [anita.link/puny](https://anita.link/puny).
+Browsers like Opera and Chrome will warn you, but Firefox doesn't do this by default. You can change that by enabling "punycode" in Firefox, see [anita.link/puny](https://anita.link/puny).
 
 ## 3-2-1 Rule for Storing Your Seed
 The seed consists of 12 - 24 English words. Nowadays, more wallets use 12 words instead of 24 because they provide a high enough level of security and are easier to remember and store.
 
 Write the seed on a piece of paper by hand when you first initialize your wallet. Make sure that the order is correct and check the written words multiple times. Note the vendor, model and the wallet software too. You might need this information in case you want to recover your funds.
 
-If you set up a hardware wallet you should send a small amount of bitcoin to it to test if everything works. After receiving the small amount, delete the software from the device and restore it with the words you have written down before. This is an important step that you should not skip.
+If you set up a hardware wallet you should send a small amount of bitcoin to it to make sure that everything works. After receiving the small amount, delete the software from the device and restore it with the words you have written down previously. This is an important step that you should not skip.
 
-After that, it is advisable to take the following security measures to prevent you from losing your seed. When people lose access to their funds it's more often because they lost their seed or made a mistake writing it down and not because their devices have been hacked.
+After that, it is advisable to take the following security measures to prevent you from losing your seed. When people lose access to their funds it's more often because they have lost their seed or made a mistake writing it down and not because their devices have been hacked.
 
 **3**: Write down the seed three times
 
@@ -117,7 +117,7 @@ Before you save large amounts on a new hardware wallet, you should check the fun
 
 When you set up the device initially, it creates the seed for you that you write down by hand (additionally the vendor, model and software version). Afterwards, you use the vendor software (or another software such as Electrum) and create the first Bitcoin address in your hardware wallet by clicking on "Receive". Then send a small amount to it from your previously installed smartphone wallet. If the amount on the hardware wallet has arrived as confirmed, the first test was successful.
 
-Also, try sending from your hardware wallet to another wallet. For example, you can send a small amount to your smartphone wallet or another address of your hardware wallet. It doesn't particularly matter. The main thing is you are testing a payment from the hardware wallet too. To do this you must check the receiving address on the hardware wallet and confirm sending with one or more clicks directly on the hardware wallet. This manual confirmation on the device makes hardware wallets secure as only you can press the buttons and no one can hit the buttons virtually over the internet.
+Also, try sending from your hardware wallet to another wallet. For example, you can send a small amount to your smartphone wallet or another address of your hardware wallet. It doesn't particularly matter. The main thing is that you are testing a payment from the hardware wallet too. To do this you must check the receiving address on the hardware wallet and confirm sending with one or more clicks directly on the hardware wallet. This manual confirmation on the device makes hardware wallets secure as only you can press the buttons and no one can hit the buttons virtually over the internet.
 
 **Restore Your Wallet**
 Then make sure that you have your backup/seed! Afterwards, delete all data on your hardware wallet. Some vendors call it "factory reset", "wipe" or "reset the device". Your wallet is empty. Now restore your funds and wallet with the seed. This is called "Restore from recovery word", "Restore wallet", or "Import seed". Then enter your seed phrase on the hardware device. If everything is correct, the wallet is restored and you can see your previous transactions and balance.
@@ -129,11 +129,11 @@ Don't just lock the device away. You should look for updates to the software or 
 
 ### Loss, Theft, or Malfunctioning of Your Device
 
-If your device gets stolen, remember that your bitcoin are still listed on the blockchain under your private key. Since you set an access PIN for the wallet, the thief can not open it. However, they will still try to find a way to crack your PIN.
+If your device gets stolen, remember that your bitcoin are still listed on the blockchain under your private key. Since you set an access PIN for the wallet, the thief cannot open it. However, they will still try to find a way to crack your PIN.
 
 You should immediately install a new wallet and import the seed that you kept safe to regain access to your funds (see "restore your wallet"). Then, move the coins from your stolen wallet to a new Bitcoin address in your new wallet as soon as you can, repeating the same security setup procedures for the new wallet.
 
-If your device got corrupted, you follow the same steps, but there is no need for rushing to move the coins. Just restore the software wallet and you're done.
+If your device gets corrupted, you follow the same steps, but there is no need to rush to move the coins. Just restore the software wallet and you're done.
 
 [^70]: Anita Posch
 [^71]: [Source @ElectrumWallet](https://twitter.com/ElectrumWallet/status/1144678604523147265?s=20)

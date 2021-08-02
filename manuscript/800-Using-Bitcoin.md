@@ -1,7 +1,7 @@
 # Using Bitcoin
 
 ## Transaction Fees
-A mining fee has to be paid for every bitcoin transaction and these fees are required for the operation of the Bitcoin network to continue. The work of miners is rewarded with these fees and newly minted bitcoin (see Chapter 3.3). Mining is an essential factor in the Bitcoin protocol. After a block of transactions has been mined, it is attached to the blockchain. This is the way to ensure the security of the network. Since Bitcoin has a fixed supply limit of 21 million coins, the miners would no longer receive any remuneration for their performance after reaching this maximum supply, and would no longer be interested in processing transactions and thus maintaining the blockchain. Therefore, Satoshi Nakamoto introduced transaction fees. According to the white paper, the aim is to keep these fees lower than the comparable fees and costs of the traditional banking system. However, it is not the case that transfers are free of charge simply because, in theory, there is no need for intermediaries or banks.
+A mining fee has to be paid for every bitcoin transaction and these fees are required for the operation of the Bitcoin network to continue. The work of miners is rewarded with these fees and newly minted bitcoin (see Chapter 2.3). Mining is an essential factor in the Bitcoin protocol. After a block of transactions has been mined, it is attached to the blockchain. This is the way to ensure the security of the network. Since Bitcoin has a fixed supply limit of 21 million coins, the miners would no longer receive any remuneration for their performance after reaching this maximum supply, and would no longer be interested in processing transactions and thus maintaining the blockchain. Therefore, Satoshi Nakamoto introduced transaction fees. According to the white paper, the aim is to keep these fees lower than the comparable fees and costs of the traditional banking system. However, it is not the case that transfers are free of charge simply because, in theory, there is no need for intermediaries or banks.
 
 When you're buying bitcoin via an exchange, the transaction fee (mining fee) is usually not adjustable and is fixed by the provider.
 
@@ -27,7 +27,7 @@ You do not need to follow the below steps to get your original transaction confi
 * Replace-by-fee (RBF): some wallets allow you to set this option to yes before you send a transaction. In this case, if the original transaction gets stuck, you can set a higher fee and resend the transaction.
 
 **An Incoming Transaction Is Stuck**
-* Child pays for parent (CPFP): you can think of it as a parent having insufficient money for their expenses, and then their child pays the difference on the parent’s behalf. CPFP is a technique through which you can bump your slowly confirming incoming transactions by making a new transaction with higher fees (child transaction) using the outputs (funds) from the previous transaction (parent transaction) that is stuck.
+* Child pays for parent (CPFP): you can think of this as a parent having insufficient money for their expenses, so their child pays the difference on the parent’s behalf. CPFP is a technique through which you can bump your slowly confirming incoming transactions by making a new transaction with higher fees (child transaction) using the outputs (funds) from the previous transaction (parent transaction) that is stuck.
 
 Please look up the documentation of the wallet you are using for detailed instructions.
 

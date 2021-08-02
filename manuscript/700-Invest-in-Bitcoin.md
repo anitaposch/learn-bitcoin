@@ -4,13 +4,13 @@ In this chapter, we will explore the different ways you can obtain bitcoin. In g
 ## Buying Bitcoin - Custodial
 In many cases, people's first interaction with cryptocurrencies is through custodial exchanges like Kraken, Coinbase, Binance, Bitpanda and Bitfinex just to name a few.
 
-They are called custodial because they possess the keys to your bitcoin. You get a wallet on their platform, but it's more like a bank account, leading to counter-party risks such as hacking, seizure or confiscation by governments.
+They are called custodial because they possess the keys to your bitcoin. You do get a wallet on these platforms, but it's more like a bank account, leading to counter-party risks such as hacking, seizure or confiscation by governments.
 
-Trading on these exchanges is done off-chain, meaning transactions are not settled on the blockchain but are only managed inside the platform's databases. This increases the speed of transactions, but at the same time leads to a lack of transparency and security.
+Trading on these exchanges is done off-chain, meaning that transactions are not settled on the blockchain but are only managed inside the platform's databases. This increases the speed of transactions, but at the same time leads to a lack of transparency and security.
 
-To get bitcoin in a custodial fashion, you need to open an account, comply with a KYC and AML registration process and then deposit fiat money into the platform's account. After your money's arrival you can trade it for bitcoin or other cryptocurrencies.
+To acquire bitcoin in a custodial fashion, you need to open an account, comply with a KYC and AML registration process and then deposit fiat money into the platform's account. After your money's arrival you can trade it for bitcoin or other cryptocurrencies.
 
-As mentioned in Chapter 5 "The staircase to self-sovereignty", to mitigate the counter-party risks of custodial wallets you should either send your funds to your own wallet or skip these exchanges and go non-custodial immediately.
+As mentioned in Chapter 4 "The staircase to self-sovereignty", to mitigate the counter-party risks of custodial wallets you should either send your funds to your own wallet or skip these exchanges and go non-custodial immediately.
 
 ## Buying Bitcoin - Non-Custodial
 Holding bitcoin in a non-custodial (self-hosted) manner is the desired outcome. It makes your transactions uncensorable and provides maximal freedom over your funds. You can achieve this by buying bitcoin in the right place to begin with.
@@ -34,7 +34,7 @@ The world's leading P2P exchanges
 * [Paxful](https://paxful.com/)
 
 ### Bitcoin ATMs
-A Bitcoin ATM is a machine similar to an ATM, where you can buy bitcoin and other cryptocurrencies with cash. The advantage of Bitcoin ATMs is that you get your bitcoin instantly and in many places, up to a certain threshold, without KYC/AML identification. But be careful as some ATM operators charge fees above average.
+A Bitcoin ATM is a machine similar to an ATM, where you can buy bitcoin and other cryptocurrencies with cash. The advantage of Bitcoin ATMs is that you get your bitcoin instantly and in many places, up to a certain threshold, without KYC/AML identification. But be careful as some ATM operators charge above average fees.
 
 * [Bitcoin ATM Map](https://bitcoinatmmap.com/)
 * [Bitrawr ATMs](https://www.bitrawr.com/bitcoin-atms)
@@ -52,7 +52,7 @@ In Austria for example, it is possible to buy ‘Bitcoinbon’ gift cards at pet
 ## Non-KYC Bitcoin
 
 ### KYC/AML
-KYC and AML stands for "Know Your Customer" and "Anti-Money Laundering" regulations. Every bank and registered exchange has to comply with these national laws by recording customer information like:
+KYC and AML stands for "Know Your Customer" and "Anti-Money Laundering" regulations. Every bank and registered exchange has to comply with these national laws by recording customer information such as:
 
 - Name
 - Address
@@ -62,13 +62,13 @@ KYC and AML stands for "Know Your Customer" and "Anti-Money Laundering" regulati
 - A selfie holding a piece of paper with the name of the exchange and the date
 - A video call with the exchange
 
-Now, one could argue that we need to find criminals, terrorists, money launderers etc. and therefore these regulations make sense. The problem is that the banks often over-regulate; they demand more data than required and track every single transaction, which in combination with digital money turns into a surveillance machine worse than George Orwell ever imagined. While we point at and criticize China's central bank digital currency and their overreaching social credit program, we are building similar systems that massively intrude on people's privacy.
+Now, one could argue that we need to find criminals, terrorists, money launderers etc. and therefore these regulations make sense. The problem is that the banks often over-regulate; they demand more data than required and track every single transaction which, in combination with digital money, turns into a surveillance machine worse than George Orwell ever imagined. While we point at and criticize China's central bank digital currency and their overreaching social credit program, we are building similar systems that massively intrude on people's privacy.
 
-KYC / AML has not kept Deutsche Bank, HSBC and many other big players from laundering money, but it prevents billions of people without ID from participating in economical activities. It requires massive bureaucracy, high costs and puts your privacy at risk because of data leaks. The exchanges know how much you bought, when you bought, your banking information and the addresses you withdraw to.
+KYC / AML has not kept Deutsche Bank, HSBC and many other big players from laundering money, but it prevents billions of people without ID from participating in economical activities. It requires massive bureaucracy, high costs and puts your privacy at risk because of data leaks. The exchanges know how much you bought, when you bought it, your banking information and the addresses you withdraw to.
 
 With KYC/AML and holding your bitcoin on an exchange, you also break the censorship resistance of Bitcoin. Many exchanges work together with blockchain surveillance companies, which cooperate in many cases directly with the government. Through the Bitcoin blockchain's transparency, any chain analysis company can follow your activity. The exchanges can freeze your account or block your withdrawal.
 
-While I don't think governments will be able to effectively ban Bitcoin from being used - it would be like banning people from thinking as they only have to remember their seed - they could try to confiscate it as the USA did with gold. If in that case, you have left your money on an exchange - then it's as good as gone.
+While I don't think governments will be able to effectively ban Bitcoin from being used - it would be like banning people from thinking as they only have to remember their seed - they could try to confiscate it, just as the USA did with gold. If something like this happened, and you have left your money on an exchange - then it's as good as gone.
 
 Executive order 6102, signed on April 5 1933 by US President Franklin D. Roosevelt forbade the hoarding of gold. In 1975, Americans could legally own gold again. Satoshi Nakamoto listed their birthday as April 5, 1975. That's of course no coincidence. It shows Satoshi's intentions, that Bitcoin is about financial freedom.
 
@@ -95,7 +95,7 @@ To buy bitcoin without user identification you can:
 Exchange sources: https://kycnot.me/, https://github.com/cointastical/P2P-Trading-Exchanges/, https://bitcoiner.guide/nokyconly/
 
 ## Costs for Buying Bitcoin
-When you buy cryptocurrencies you have to pay fees for the service provider, just like when you exchange to a foreign currency when you travel to a different country. The price at which you exchange is determined by the service provider (see Chapter Bitcoin price). Usually, this is the market price plus a surcharge for the service. Since each exchange has its own bitcoin price and different fee structures, there are big differences in the trading costs between them. You can save money when you compare the trading fees while choosing a specific platform.
+When you buy cryptocurrencies you have to pay fees for the service provider, just like when you exchange to a foreign currency when you travel to a different country. The price at which you exchange is determined by the service provider (see Chapter Bitcoin price). Usually, this is the market price plus a surcharge for the service. Since each exchange has its own bitcoin price and different fee structures, there are big differences in the trading costs between them. You can save money by comparing the trading fees when choosing a specific platform.
 
 There are three points that determine the costs for buying bitcoin, each service provider has its own:
 * Bitcoin market price
