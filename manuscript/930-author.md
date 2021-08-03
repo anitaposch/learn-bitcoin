@@ -15,7 +15,7 @@ Before she started her educational Bitcoin work in 2017, Anita gained over 20 ye
 
 In early 2017 she attended a talk about Bitcoin and open blockchain technology and the positive impact it could have on society. She realized that a technology that is permissionless, inflation-proof and a global internet money could free billions of people, disenfranchised by current financial power dynamics. Bitcoin is unstoppable money that can be used by anyone regardless of who they are. It's neutral, not controlled by any company or government, while at the same time being an internet protocol, financial rails that are built for a common good.
 
-Anita translated two volumes of [The Internet of Money](https://anita.link/idg2) by Andreas M. Antonopoulos into German. Her research and activities around Bitcoin are discussed in media all over the world: Bitcoin Magazine, CoinDesk, What Bitcoin Did, Bayern2, Deutschlandfunk, Radio FM4, and ARD television, among others.
+Anita translated two volumes of "The Internet of Money" by Andreas M. Antonopoulos into German. Her research and activities around Bitcoin are discussed in media all over the world: Bitcoin Magazine, CoinDesk, What Bitcoin Did, Bayern2, Deutschlandfunk, Radio FM4, and ARD television, among others.
 
 Anita Posch regularly tweets on [https://twitter.com/anitaposch](https://twitter.com/anitaposch).
 
