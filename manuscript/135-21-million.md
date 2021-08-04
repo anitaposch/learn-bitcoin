@@ -20,7 +20,7 @@ This algorithm tends to zero such that there will be a maximum of 21 million bit
 ### Why 21 Million?
 Why did Satoshi Nakamoto choose 21 million for the supply cap? There are many theories, but here is Satoshi's answer:
 
-![Satoshi Nakamoto's explanation for the 21 million supply cap](resources/Why-21-million.png) [^26]
+![Satoshi Nakamoto's explanation for the 21 million supply cap](resources/_Why-21-million.png) [^26]
 
 
 ### Bitcoin Units
