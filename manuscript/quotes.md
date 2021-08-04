@@ -21,7 +21,7 @@ Don't trust, verify
 > Bitcoin is insurance against politicians. **Naval Ravikant**
 
 
->"Bitcoin is the most accessible way to store and self-custody value that has existed in the history of humanity." - **Anita Posch**
+>"" - **Anita Posch**
 
 >"Bitcoin has not top, because fiat has no bottom." - **Max Keiser**
 

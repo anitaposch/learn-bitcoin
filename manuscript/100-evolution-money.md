@@ -10,7 +10,7 @@ This self-regulating system has the following characteristics:
 -   Bitcoin transactions are highly secure without intermediaries, like a bank.
 -   Bitcoin transactions are transparent, publicly visible and can be audited by anybody.
 
-![A PayPal payment vs. Bitcoin](resources/_paypal-bitcoin-intermediaries.PNG) [^1]
+![A PayPal payment vs. Bitcoin](assets/_paypal-bitcoin-intermediaries.PNG) [^1]
 In a traditional payment there are up to seven intermediaries until the payment reaches the recipient. Bitcoin has none.
 
 -   Bitcoin is a neutral network: it does not moralize or distinguish between "good" and "bad" payments.
@@ -21,7 +21,7 @@ In a traditional payment there are up to seven intermediaries until the payment 
 
 Bitcoin is people's money. Bitcoin is the evolution of money. It is a continuation of the perpetual process of discovering new money that has always been a part of the history of mankind. Over the millennia, various new forms of money have been found and used, from a direct exchange between people to a credit system in a gold standard, to fiat currency to today's current non-backed inflationary system. The banking and monetary system as we know it today has existed and evolved for about 300 years. It is only natural that, with the emergence of a new form of communication via the internet, a new form of economy and a new type of money, namely internet-native money, should arise.
 
-![History of money](resources/_money-history.png) [^2]
+![History of money](assets/_money-history.png) [^2]
 
 Programmable cryptographic money or the "Internet of Money" - as Andreas M. Antonopoulos puts it - is unstoppable. We are at the beginning of a new era in the history of mankind. 
 
@@ -30,7 +30,7 @@ If Bitcoin sounds mind-boggling and you can't grasp the concept of a blockchain 
 
 Rai are large stone disks used on Yap island in the Western Pacific (Micronesia). They were "minted" from the limestone deposits of the island of Palau and used as a currency until the 20th century. 
 
-![Rai stones with carrying logs, 1903](resources/_Stone_Money_of_Uap_1903_Jayne,_String_Figures_p160.jpg) [^3] 
+![Rai stones with carrying logs, 1903](assets/_Stone_Money_of_Uap_1903_Jayne,_String_Figures_p160.jpg) [^3] 
 
 Rai stones were brought to Yap via boat and, due to their size and weight, were not moved when spent, but simply changed owners. Every transaction was "recorded" orally within the small community, with the stone's ownership history becoming common knowledge. Eventually, the transaction "history"/"ledger" became the only part that mattered. A stone was once dropped by the canoe transferring it to Yap and sank. The stone was deemed to still be money, since it still existed, even though no one has seen or had access to it since. 
 
@@ -67,7 +67,7 @@ On top of that, there is something called fractional-reserve banking. This allow
 
 In 2020 global debt rose by an incredible 24 trillion to 281 trillion USD, or 355% of global GDP. [^6]
 
-![Debt-to-GDP ratios](resources/_Debt-to-GDP-ratio-2020.jpg)
+![Debt-to-GDP ratios](assets/_Debt-to-GDP-ratio-2020.jpg)
 
 ### Central Banks as Lenders of Last Resort
 Commercial banks can and have called for the help of the central bank as lenders of last resort. In 2008/2009 the banks, who were responsible for the global financial crisis, received their bail-out money. They were rescued because they were "too big to fail". And what did they do with the money? They bought back shares in their own companies. Nothing "trickled down" down into the economy. The gap between rich and poor inevitably became bigger and bigger.
@@ -100,7 +100,7 @@ M2 includes M0, M1, money market securities, mutual funds and other time deposit
 
 The amount of M2 currency in circulation in the US was **19.7 trillion USD** in February 2021. [^11] Look at the growth in 2020.
 
-![M2 Money Stock Growth USA, 2021 ](resources/_M2-money-stock-US-2021.png)
+![M2 Money Stock Growth USA, 2021 ](assets/_M2-money-stock-US-2021.png)
 
 "We accept this as normal because we assume it will never end. The fractional reserve banking system has functioned around the world for hundreds of years (first gold-backed, and then totally fiat-based), albeit with occasional inflationary events along the way to partially reset things.
 
@@ -109,7 +109,7 @@ Each individual unit of fiat currency has degraded about 99% in value or more ov
 Adding to money supply inflation is the fact that the population in the US and other western nations is not growing at the same rate as the money supply. "US population used to grow at maybe 1.5% per year, and now grows closer to 0.5% per year. That's pretty important. Meanwhile, broad money supply is up 25% year over year, and is on track to be up 75%+ over a rolling 5-year period in the future." [^13]
 
 Strictly speaking, inflation occurs when the money supply outstrips nominal GDP growth, which consists of population and productivity growth. The Consumer Price Index of the USA shows that the prices for goods went up since the value of money has declined.
-![Consumer Price Index US 2020](resources/_Consumer-Price-index-US-2021.png) [^14]
+![Consumer Price Index US 2020](assets/_Consumer-Price-index-US-2021.png) [^14]
 
 ### Ponzi Scheme
 
@@ -190,7 +190,7 @@ In the early 1970’s, there were a variety of geopolitical conflicts including 
 
 We have been in currency wars for many decades. Which currency is stronger? Which country can gain more benefits from manipulating its currency? The Euro, the US Dollar, the Chinese Yuan? Or even Facebook's Diem? Corporation money is the new, strong player on the market. To retain their powers central banks started to work on their own digital currencies (CBDCs).
 
-![New forms of money emerge](resources/_new-forms-money.png) [^19]
+![New forms of money emerge](assets/_new-forms-money.png) [^19]
 
 Bitcoin is our alternative to this system. Protecting our privacy in this digital age, voting against the abuse of monopolistic power in the current system, and giving people living in authoritarian states with corrupt rulers the same opportunities to participate in the economic system. Bitcoin is a defence strategy, a tool with which we can preserve the human right to transactional freedom and privacy.
 

@@ -7,7 +7,7 @@ A protocol governs the exchange of information or procedures. Language is a prot
 ### Internet Protocol Stack
 The Bitcoin protocol can be compared to the structure of the internet protocol stack.
 
-![Bitcoin is a common good](resources/_Bitcoin-protocol.png) [^23]
+![Bitcoin is a common good](assets/_Bitcoin-protocol.png) [^23]
 
 The Bitcoin blockchain is a new internet protocol comparable to the TCP/IP protocol, which is the basis of the internet. On top of the Bitcoin blockchain, the Bitcoin protocol transfers bitcoin values similar to the SMTP protocol for sending emails. On top of that, there is bitcoin as an application comparable to email software such as Gmail or Outlook. This is called the base layer of Bitcoin.
 
