@@ -53,128 +53,139 @@ In 195 Ländern der Welt werden 180 verschiedene Währungen verwendet. Eine Wäh
 
 Alle diese 180 Währungen – beispielsweise US-Dollar, Euro, Yen und das Pfund Sterling – fallen unter die Definition von Fiat-Geld. Seit 1971 ist keine dieser Währungen durch Gold oder irgendeinen anderen materiellen Vermögenswert gedeckt. Geld hat seinen Wert, weil wir daran glauben. Geld ist eine Sprache, die es uns ermöglicht im sozialen Kontext einer Sache Wert zuzuschreiben. Das Wort Fiat stammt aus dem Lateinischen und bedeutet "es geschehe". Unser Geld wird durch einen Eintrag in eine Datenbank erzeugt. Es ist eine Ziffer in einem Buchhaltungssystem. Es steht keine geschaffene Produktivität oder Wert dahinter. 
 
-Who is in charge of the creation of money? It’s a mix of governments and central banks, together with commercial banks. It’s a centralized, hierarchical system with gatekeepers. There is no agreement on a supply limit or emission rate.
+Wer ist für die Schaffung des Geldes zuständig? Es sind Zentralbanken, Regierungen und das Bankensystem gemeinsam. Es ist ein zentralisiertes, hierarchisches System mit Eintrittsbarrieren. Es gibt keine Vereinbarung über eine maximale Geldmenge oder die Emissionsrate.
 
-Fiat is "money by decree"; it's coercively managed through the state's implicit threat of violence. Value is being maintained by the creation of an endless tax liability that you can only satisfy with fiat money and by state-administered security markets, as well as legal tender laws and tax policy.
+Fiat ist "Geld per Verordung". Es wird uns durch die implizite Androhung von Gewalt durch den Staat aufgezwängt. Der Wert des Geldes wird durch lebenslange Steuerschuld, die ausschließlich in Fiat-Geld bezahlt werden kann, durch staatliche Wertpapiermärkte als auch gesetzliche Bestimmungen und Steuerpolitik erhalten.
 
-* Money is created by central banks in the form of paper money and coins. 
-* Central banks buy assets and bonds from the open market, money flows into the system. 
-* Money is created through government stimulus, through benefits, grants and bail outs. 
-* Money is created by commercial banks through loans.
+* Geld wird von den Zentralbanken in Form von Banknoten und Münzen erzeugt.
+* Zentralbanken kaufen Vermögenswerte und Anleihen auf dem freien Markt, Geld fließt ins System. 
+* Geld wird durch staatliche Anreize wie Förderungen, Zuschüsse und Rettungsmaßnahmen ("Bail-out") geschaffen. 
+* Geld wird von den Banken durch Kredite geschaffen.
 
-### Money Is Created Through Debt
-The last point is one we all know. It is how we take out a loan to buy a house, start a business or buy a car. The process is easy, but only for those who are already privileged. If you cannot put forward some security as collateral, you are a small business owner, you do not have a regular fixed income job, or you are a woman in a country where women are still forbidden to own any property, then you will probably not qualify for credit at your bank. If you do get the loan, the bank edits its digital ledger and adds the credit sum to its account. You then owe them the loan plus the rate of interest. You must now go out and work or sell something in order to be able to pay back the loan plus the interest rate. It's a great deal for the banks. They add nothing, but earn the fees for your loan agreement and the interest on your payback.
+### Geld entsteht durch Schulden
+Den letztgenannten Punkt kennen wir Alle. Mittels Krediten finanzieren wir Wohnungseigentum, Unternehmensgründungen oder kaufen ein Auto. Der Prozess ist einfach für jene, die privilegiert sind. Wer keine Sicherheiten vorweisen kann, ein Kleinunternehmen startet, kein fixes Einkommen hat oder eine Frau in einem Land ist, in dem Frauen kein Recht auf Eigentum besitzen, wird aller Voraussicht nach keinen Kredit erhalten.
 
-On top of that, there is something called fractional-reserve banking. This allows banks to lend out more money than they hold in reserves or as balances in their account at the central bank. The minimum amount that banks must hold in liquid assets, called the "reserve ratio", is determined by the central bank. This rate varies from country to country. In the Euro area, banks have to hold a minimum of 1% at the time of writing. In March 2020 the FED abolished this minimum reserve requirement due to the COVID-19 pandemic. Canada, the UK, New Zealand, Australia, Sweden and Hong Kong all have no reserve requirements. If each of us were to go to the bank today and request to withdraw our money, the banking system would fall apart. Because the banks have lent out more money than they own, they would be unable to give you back your own money. 
+Angenommen Ihnen wird ein Kredit gewährt. Die Bank fügt einen Eintrag in ihrem System hinzu und addiert die Kreditsumme zu ihrem Kontenbuch. Sie schulden der Bank die Kreditsumme plus Zinsen. Sie müssen jetzt das Geld erwirtschaften und samt Zinsen zurückzahlen. Das ist ein großartiges Geschäft für die Bank. Sie leistet nichts, außer einem Eintrag in einer Datenbank, verdient aber an den Zinsen und Gebühren, die Sie für das Kreditgeschäft zahlen mussten. 
 
-In 2020 global debt rose by an incredible 24 trillion to 281 trillion USD, or 355% of global GDP. [^6]
+Dazu kommt das sogenannte Mindestreserve-System der Banken. Es erlaubt den Banken mehr Geld zu verleihen als sie selbst und bei der Zentralbank in Reserve hält. Die Minimalmenge, der Mindestreserve-Satz, den die Banken in flüssigen Mitteln halten müssen, wird von der Zentralbank des jeweiligen Landes festgelegt. Diese Rate variiert von Land zu Land. In der Eurozone müssen Banken derzeit mindestens 1% der verliehenen Geldmenge in Reserve halten. Im März 2020 hob die FED (die US-Zentralbank) diese Mindestreservepflicht aufgrund der COVID-19-Pandemie auf. Kanada, Großbritannien, Neuseeland, Australien, Schweden und Hong Kong schreiben gar keine Mindestreserven vor.
 
-![Debt-to-GDP ratios](assets/_Debt-to-GDP-ratio-2020.jpg)
+Wenn wir alle beschließen am selben Tag unsere Bankguthaben abzuheben, würde das Bankensystem platzen. Die Banken verleihen viel mehr Geld als sie selbst besitzen, weshalb sie nicht in der Lage wären uns unser Geld zurückzugeben.
 
-### Central Banks as Lenders of Last Resort
-Commercial banks can and have called for the help of the central bank as lenders of last resort. In 2008/2009 the banks, who were responsible for the global financial crisis, received their bail-out money. They were rescued because they were "too big to fail". And what did they do with the money? They bought back shares in their own companies. Nothing "trickled down" down into the economy. The gap between rich and poor inevitably became bigger and bigger.
+Im Jahr 2020 stieg die weltweite Verschuldung um unglaubliche 24 Billionen auf 281 Billionen USD oder 355 % des weltweiten BIP (Bruttoinlandsprodukt). [^6]
 
-Central banks are called lenders of last resort. The objective is to prevent economic disruption as a result of financial panics, and bank runs spreading from one bank to the next due to a lack of liquidity. Financial actors like banks know that the central banks will have to bail them out, which leads to moral hazard - excessive risk-taking by both bankers and investors.
+![Verhältnis der Schulden zum BIP](assets/_Debt-to-GDP-ratio-2020.jpg)
 
-The creation of artificial money through central banks overshadowed the distortion in the market. Because of the flooding and manipulation of the monetary system with cheap money, there is no rational price finding mechanism anymore. Usually, supply and demand determine the value of goods and commodities but, in a distorted and manipulated market, there is no room for fair price discovery. The global middle class is paying for the financial elites' greed which, in turn, is being fed by a corrupted system of money creation.
+### Zentralbanken als Kreditgeber der letzten Instanz
+Banken können um die Hilfe der Zentralbank als letzte Refinanzierungsstelle bitten. 2008/2009 haben die Bankinstitute, die für die globale Finanzkrise verantwortlich waren, Rettungsgelder in Milliardenhöhe erhalten. Sie wurden gerettet, weil sie "too big to fail" waren; also zu groß, um zu scheitern. Was taten die Banken mit diesem Geld? Sie kauften Anteile an ihren eigenen Unternehmen zurück. Nichts sickerte hinab in die Realwirtschaft. Die Kluft zwischen Arm und Reich wurde zwangsläufig immer größer.
 
-Have you, as an individual, ever been bailed out? And if you have, would you do the same thing over and over again, rigging the system knowing that there is a last resort, which will always bail you out? This is exactly what banks, Wall Street, Hedge Funds and their lobbying lawyers do constantly, assisted by central banks all over the world.
+Zentralbanken werden als Kreditgeber der letzten Instanz bezeichnet. Sie sind das Rettungsboot der Banken. Ihr Ziel ist es, wirtschaftliche Zusammenbrüche als Folge von Finanzpaniken und einen Sturm auf die Banken aufgrund mangelnder Zahlungsfähigkeit, zu verhindern. Große Finanzakteure wissen, dass die Zentralbank sie retten muss. Dies kann zu fahrlässigem Verhalten und übermäßiger Risikobereitschaft bei Bankern und Investoren führen. 
 
-"Classically, central banks hold reserves in case of emergencies, set interest rates, and allocate funds to stimulate or slow economies after disruptive events like panics or wars. The more recent role they have assumed is one of securing the entire financial system and influencing the economic trajectory of entire sovereign nations. This is the antithesis of democratic rule. Such a monetary oligarchy operates beyond democratic norms and limits." [^7]
+Die Schöpfung von zusätzlichem Geld durch die Zentralbanken überdeckte die Marktstörungen. Durch die Überflutung und Manipulation des Geldsystems mit billigem Geld existiert kein rationaler Preisfindungsmechanismus mehr. Üblicherweise bestimmen Angebot und Nachfrage den Wert von Waren und Gütern, aber auf einem verzerrten und manipulierten Markt gibt es keinen Raum für eine faire Preisfindung. Die globale Mittelschicht zahlt für die Gier der Finanzeliten, die erst durch das korrupte System der Geldschaffung möglich ist.
 
-Naomi Prins' book tapped into the psyche of Wall Street, revealing how the very structure of the financial system hinged on traders flocking to the next big bet, regardless of the stakes. In addition, the _same_ people and families kept popping up, cycling through Wall Street and Washington. They influenced the economy beneath them from their loftier heights of status, private money and public office, dismantling laws that stood in their way and finding loopholes through others. Private banks normalized market manipulation. Central banks made it an art form, with no limits." [^8] 
+Wurden Sie als Individuum jemals für Ihr gescheitertes finanzielles Abenteuer "gerettet"? Falls doch, würden Sie wieder und wieder dasselbe Risiko eingehen, um das System auszunützen, weil Sie wissen, dass es keine Alternative zu Ihrer Rettung gibt?
+Das ist genau das, was Banken, Wall Street, Hedge Funds und ihre Lobbying-Industrie permanent machen, assistiert von den Zentralbanken aller Länder. 
 
-### Money Supply Inflation
+"Klassischerweise halten die Zentralbanken Reserven für Notfälle, sie bestimmen Zinssätze und stellen Mittel bereit, um die Wirtschaft nach Disruptionen wie Paniken und Krieg anzukurbeln. Neuerdings haben sie die Rolle übernommen, das gesamte Finanzsystem sichern zu wollen und die ökonomische Entwicklung ganzer souveräner Staaten zu beeinflussen. Das ist das Gegenteil von demokratischer Führung. Eine solche monetäre Oligarchie agiert jenseits demokratischer Normen und Grenzen." [^7]
 
-Let's take the US Dollar as an example for all fiat currencies. Because of money supply inflation, the more USD are available, the less value a single note has. Imagine a banknote as a commodity like copper. If there is more copper on the market than there is demand, the price of copper is falling; its value is decreasing. The same is true for your banknote. The value of fiat currencies is determined by supply and demand too. If you increase the supply and the demand stays the same, the value of one unit decreases. 
+Naomi Prins' Buch "Collusion" ergründet die Psyche der Wall Street. Sie zeigt auf, wie die Struktur des Finanzsystems davon abhängt, dass die Börsenhändler ohne Rücksicht auf Verluste auf die nächste große Wette setzen.
 
-The money supply consists of various types of money that are generally classified as Ms, such as M0 (base money), M1, M2 and M3. The definitions might vary slightly in different countries. 
+"Außerdem tauchten immer wieder die _gleichen_ Personen und Familien auf, sie rotierten durch die Wall Street und Washington. Von ihrem hohen Status, ihrem Geld und ihren öffentlichen Ämtern aus, beeinflussten sie die Wirtschaft unterhalb von ihnen, durch die Abschaffung von Gesetzen, die ihnen im Weg standen und die Suche nach Schlupflöchern in anderen. Die Banken haben die Marktmanipulation normalisiert. Die Zentralbanken haben sie zu einer Kunstform gemacht, die keine Grenzen kennt." [^8] 
 
-The monetary base (M0) is the total amount of a currency in physical paper and coin that is either in circulation in the hands of the public or in the form of commercial bank deposits held in the central bank's reserves. [^9] 
+### Geldmengeninflation
 
-As long as you hold cash, it is an asset like bitcoin, a property that you own. If you take your cash and store it at the bank, you have a claim, but don't own the money anymore. Similar to bitcoin at an exchange.
+Nehmen wir den US-Dollar als Beispiel für alle Fiat-Währungen. Aufgrund der Geldmengeninflation, die mehr US-Dollar auf den Markt spült, sinkt der Wert des US-Dollars. Stellen Sie sich eine Banknote wie ein Gut wie Kupfer vor. Existiert mehr Kupfer am Markt als Bedarf besteht, sinkt der Preis von Kupfer, sein Wert fällt. Dasselbe gilt für Ihre Banknote. Der Wert des Fiat-Geldes wird ebenfalls durch Angebot und Nachfrage bestimmt. Wird die Menge erhöht, während der Bedarf gleich bleibt, sinkt der Wert einer einzelnen Banknote. 
 
-Any other fiat money supply (M1, M2, M3) is comprised of claims on base money. [^10]
+Die Geldmenge besteht aus verschiedenen Arten von Geld, die generell als "M" klassifiziert werden. Beispielsweise steht M0 für die Geldbasis, weiters gibt es M1, M2 und M3. Die folgenden Definitionen können sich je nach Land unterscheiden.
 
-M1 includes M0, demand deposits, traveler’s checks, and other checkable deposits, that are easily convertible to cash.
+Die Geldbasis (M0) ist die gesamte Menge einer Währung in Form physischer Banknoten und Münzen, die sich in öffentlichem Umlauf befinden oder von Geschäftsbankeinlagen in den Reserven der Zentralbank gehalten werden. [^9] 
 
-M2 includes M0, M1, money market securities, mutual funds and other time deposits. These assets are less liquid than M1 and not as suitable as exchange mediums, but they can be quickly converted into cash or checking deposits. M2 is closely watched as an indicator of money supply and future inflation, and as a target for central bank monetary policy.
+Solange Sie Bargeld halten, ist es ein Asset wie Bitcoin, ein Eigentum, das Sie besitzen. Sobald Sie Ihr Bargeld zur Bank tragen und auf Ihr Konto einzahlen, wird es zu einem Anspruch, den Sie gegenüber der Bank haben. Aber Sie besitzen das Geld nicht mehr. Ähnlich verhält es sich, wenn Sie ihre Bitcoin bei einer Exchange halten. 
 
-The amount of M2 currency in circulation in the US was **19.7 trillion USD** in February 2021. [^11] Look at the growth in 2020.
+Jede andere Fiat-Geldmenge (M1, M2, M3) besteht aus Ansprüchen auf die Geldbasis. [^10]
 
-![M2 Money Stock Growth USA, 2021 ](assets/_M2-money-stock-US-2021.png)
+M1 inkludiert M0, Sichteinlagen, Reiseschecks und andere überprüfbare Einlagen, die leicht in Bargeld umgewandelt werden können.
 
-"We accept this as normal because we assume it will never end. The fractional reserve banking system has functioned around the world for hundreds of years (first gold-backed, and then totally fiat-based), albeit with occasional inflationary events along the way to partially reset things.
+M2 includiert M0, M1, Geldmarktpapiere, Investmentfonds und sonstige Termineinlagen. Diese Vermögenswerte sind weniger schnell verfügbar als M1 und eignen sich nicht so gut als Tauschmittel, können aber schnell in Bargeld oder Geldeinlagen umgewandelt werden. M2 wird als Indikator für die Geldmenge und die künftige Inflation sowie als Zielgröße für die Geldpolitik der Zentralbank herangezogen.
 
-Each individual unit of fiat currency has degraded about 99% in value or more over a multi-decade timeline. This means that investors either need to earn a rate of interest that exceeds the real inflation rate (which is not currently happening), or they need to buy investments instead, which inflates the value of stocks and real estate compared to their cash flows and pushes up the prices of scarce objects like fine art." [^12]
+Die im Umlauf befindliche Menge an M2 Währung in den USA betrug im Februar 2021  **19,7 Billionen USD**. [^11] Sehen Sie sich das Wachstum im Jahr 2020 an.
 
-Adding to money supply inflation is the fact that the population in the US and other western nations is not growing at the same rate as the money supply. "US population used to grow at maybe 1.5% per year, and now grows closer to 0.5% per year. That's pretty important. Meanwhile, broad money supply is up 25% year over year, and is on track to be up 75%+ over a rolling 5-year period in the future." [^13]
+![M2 Geldmengenwachstum USA, 2021 ](assets/_M2-money-stock-US-2021.png)
 
-Strictly speaking, inflation occurs when the money supply outstrips nominal GDP growth, which consists of population and productivity growth. The Consumer Price Index of the USA shows that the prices for goods went up since the value of money has declined.
-![Consumer Price Index US 2020](assets/_Consumer-Price-index-US-2021.png) [^14]
+"Wir akzeptieren das als Normal, weil wir davon ausgehen, dass es niemals enden wird. Das Mindestreserve-System hat ein paar hundert Jahre weltweit funktioniert (zuerst durch Gold gedeckt und dann komplett Fiat-basierend), wenngleich gelegentliche inflationäre Ereignisse, die Situation teilweise rücksetzten. 
 
-### Ponzi Scheme
+Jede einzelne Fiat-Währungseinheit hat im Laufe der Jahrzehnte etwa 99% ihres Wertes eingebüßt. Das bedeutet, dass Investoren entweder Zinsen, die höher sind als die reale Inflation erhalten müssen (was derzeit nicht passiert) oder sie müssen ihr Geld in Investments anlegen, was den Wert von Aktien und Immobilien im Vergleich zu ihren Cashflows aufbläht und die Preise für knappe Güter wie Kunst in die Höhe treibt." [^12]
 
-> Ponzi scheme: "A form of fraud in which belief in the success of a fictive enterprise is fostered by payment of quick returns to first investors from money invested by others." - **Oxford English Dictionary**
+Zur Geldmengeninflation kommt hinzu, dass die Einwohnerzahlen in den USA und anderen westlichen Nationen nicht im selben Verhältnis wachsen wie die Geldmenge.
+"Die US-Bevölkerung wuchs etwa 1,5% pro Jahr, jetzt sind es eher 0,5%. Das ist sehr bedeutend. Inzwischen ist die Geldmenge im Jahresvergleich um 25 % gestiegen und ist dabei über einen rollierenden 5-Jahres-Zeitraum um mehr als 75 % in der Zukunft zu steigen." [^13]
 
-Bitcoin enemies call it a Ponzi scheme. I say, they either do not understand Bitcoin or what the real Ponzi system is, or they have a vested interest in Bitcoin not succeeding. Charles Ponzi was arrested in the US in 1920 for taking $20 million dollars from tens of thousands of victims. His promise was to double their money within three months. In return for cash, investors received promissory notes that guaranteed the original investment plus 50 percent interest. These notes bore Ponzi's ink-stamped signature. Many referred to them as "Ponzi notes".
+Genau gesagt, entsteht Inflation, wenn die Geldmenge das nominale BIP-Wachstum übersteigt, das sich aus dem Bevölkerungs- und Produktivitätswachstum zusammensetzt. Der Verbraucherpreisindex der USA zeigt, dass die Preise für Waren gestiegen sind, da der Wert des Geldes gesunken ist.
+![Verbraucherpreisindex der USA, 2020](assets/_Consumer-Price-index-US-2021.png) [^14]
 
-> "My business was simple. It was the old game of robbing Peter to pay Paul. You would give me one hundred dollars and I would give you a note to pay you one-hundred-and-fifty dollars in three months…My notes became more valuable than American money…Then came trouble. The whole thing was broken." - **Charles Ponzi**
+### Ponzi-System
 
-If you want to know more, [listen to my podcast episode about the life and story of Italian-born Charles Ponzi](https://anita.link/ponzi). You can find it at https://anita.link/ponzi.
+> Ponzi-System: "Eine Betrugsform, bei der der Glaube an den Erfolg eines fiktiven Unternehmens durch schnelle Gewinne der Erstinvestoren aus den Investitionen der Nachfolgenden geschürt wird." - **Oxford English Dictionary**
 
-**Characteristics of a Ponzi Scheme**
+Feinde von Bitcoin nennen es ein Ponzi-System. Ich behaupte, entweder sie verstehen Bitcoin oder das wirkliche Ponzi-System nicht oder sie haben ein persönliches Interesse daran, dass Bitcoin nicht erfolgreich ist. Charles Ponzi wurde 1920 in den USA festgenommen, nachdem er zehntausende Opfer um 20 Millionen Dollar erleichtert hatte. Sein Versprechen war, dass er ihr Geld innerhalb von drei Monaten verdoppeln würde. Für das eingelegte Geld erhielten die "Investoren" Schuldscheine, die das ursprüngliche Investment plus 50 Prozent Zinsen garantierten. Diese Schuldscheine wurden "Ponzi-Noten" genannt, da sie Charles Ponzi's Stempel trugen.
 
-* A Ponzi scheme has a centralized actor, leader or organization that collects investments and runs off in the end. 
-* Ponzi schemes are not auditable or transparent. Nobody except the creator knows what happens to the funds. 
-* A Ponzi scheme issues money until it breaks - there is no supply limit. 
-* Difficulty in repaying investors: the more money that flows into the scheme, the more money has to be paid back, and the more difficult it gets for the creator to stop the machine. 
-* The system has to break one day, there is no way out.
-* The scammers earn money for lending out funds with no real contribution to the economic performance of a country.
-* Greed is driving the Ponzi scheme. Retail investors who get in early, earn interest and tell others, who also want to get rich quick.
+> "Mein Geschäft war simpel. Es war das alte Spiel, ein Loch aufzureissen und ein anderes damit zu stopfen. Sie geben mir 100 Dollar und ich gebe Ihnen einen Schuldschein, der garantiert, dass ich Ihnen in drei Monaten 150 Dollar zurückzahle.…Meine Noten wurden wertvoller als das amerikanische Geld.…Dann kamen die Probleme. Die ganze Sache war kaputt." - **Charles Ponzi**
 
-Let's compare these characteristics to today's system of money creation.
+Falls Sie mehr darüber erfahren möchten, hören Sie sich meinen Podcast über das Leben und die Geschichte von Charles Ponzi an. Sie finden es unter https://anita.link/ponzi (Englisch).
 
-**Characteristics of Fiat Money Creation**
+**Eigenschaften eines Ponzi-Systems**
 
-* Centralized actors like governments, central banks and commercial banks create money.
-* The monetary system is not auditable or transparent.
-* There is no money supply limit.
-* Difficulty in repaying investors: due to the fractional-reserve banking system, if only 20% of a banks customers where to request a payout at the same time the bank gets into trouble and will say "no" to your withdrawal. This happens regularly around the world and happened to some US banks in early 2020 during the pandemic shutdown.
-* The system has to break one day, there is no way out.
-* Banks earn money for lending out funds with no real contribution to the economic performance of a country.
-* Greed is driving the fiat system. Financial elites receive cheap loans because they own securities to buy more securities and grow their wealth and power.
+* Ein Ponzi-System hat einen zentralen Akteur, einen Anführer oder eine Organisation, die bekannt ist, Geld einsammelt und sich letztlich mit dem Geld absetzt.
+* Ponzi-Systeme sind nicht überprüfbar oder transparent. Niemand ausser der Erfinder weiß, was mit dem eingesammelten Geld passiert. 
+* Bei einem Ponzi-System werden solange Schuldscheine ausgegeben bis es platzt - es gibt keine maximale Ausgabemenge.
+* Die Schwierigkeit, die Investoren auszubezahlen: je mehr Geld in das System fließt, desto schwieriger wird es, das Geld zurückzuzahlen und für den Erfinder die Maschine zu stoppen.  
+* Das System muss eines Tages zusammenbrechen, es gibt keinen Ausweg.
+* Die Betrüger verdienen Geld für das Verleihen von Vermögen, ohne etwas real zur wirtschaftlichen Leistung eines Landes beizutragen. 
+* Gier ist der Motor des Ponzi-Systems. Privatanleger, die früh in das System einsteigen, erhalten Gewinne und erzählen es anderen, die auch schnell reich werden wollen. 
 
-### The Real Ponzi Scheme
+Vergleichen wir dieses System mit der heutigen Schaffung von Geld. 
 
-* The only similarity between Bitcoin and a Ponzi scheme is the network effect of greed. But unlike a Ponzi, you can hold the keys to your bitcoin yourself. There is no bank or centralized actor controlling your bitcoin.
+**Eigenschaften der Schaffung von Fiat-Geld**
 
-* Bitcoin has a limited supply. Only 21 million will ever be created. Bitcoin is finite, fiat currency is infinite. There can be no money supply based inflation in Bitcoin.
+* Zentrale Akteure wie Regierungen, Nationalbanken und Geschäftsbanken schaffen Geld. 
+* Das Geldsystem ist weder überprüfbar noch transparent.
+* Es gibt keine Geldmengenbegrenzung.
+* Die Schwierigkeit, die Investoren auszubezahlen: durch das Mindestreserve-System würde eine Bank in große Schwierigkeiten geraten, wenn nur 20% der Kunden gleichzeitig ihr Guthaben verlangen. Die Bank würde die Herausgabe verweigern. Das passiert weltweit laufend. Manch US-Bank konnte im Frühjahr 2020 während der Pandemie keine Auszahlungen tätigen. 
+* Das System muss eines Tages zusammenbrechen, es gibt keinen Ausweg.
+* Die Banken verdienen Geld für das Verleihen von Vermögen, ohne etwas real zur wirtschaftlichen Leistung eines Landes beizutragen. 
+* Gier ist der Motor des Fiat-Systems. Die Finanzelite erhält billige Kredite, weil sie genug Sicherheit besitzt, um mehr Sicherheiten zu kaufen, die ihren Reichtum und Macht wieder vergrössern. 
 
-* Bitcoin's issuance is predetermined by an algorithm that all actors in Bitcoin have agreed upon and secure via operating nodes. It can not be altered without the consent of the global Bitcoin community. Since the 21 million bitcoin limit is one of the most important features of Bitcoin, an agreement for changing it will be very hard or even impossible to achieve.
+### Das wirkliche Ponzi-System
 
-* Central bankers are determining the financial fate of all countries around the world. They are not elected, but they act as governments trying to control the entire financial market. 
+* Die einzige Gemeinsamkeit zwischen Bitcoin und einem Ponzi-System ist der Netzwerkeffekt durch Gier. Im Unterschied zum Ponzi, können Sie Bitcoin mittels ihrer privaten Schlüssel aber selbst besitzen. Es gibt keine Bank und keinen zentralen Akteur, der Ihre Bitcoin kontrollieren kann. 
 
-* The Cantillon effect was described by Irish-French economist Richard Cantillon around 1730. He suggested that inflation occurs gradually and that the new supply of money created by the banks has a localised effect on inflation, rewarding the bankers and close actors by artificially creating money, benefiting those closest to the origin of money. 
+* Bitcoin's Menge ist beschränkt. Es wird nur 21 Millionen geben. Bitcoin ist endlich, Fiat-Währung ist unendlich. Es kann keine Geldmengeninflation bei Bitcoin geben.
 
-> "The Fed's crisis and post-crisis monetary policies, adopted by other major central banks, was supposed to "trickle down" to the masses. That didn't happen. The global elites knew this then, and they are more aware of it now. In January 2017, the World Economic Forum admitted that rising inequality threatens the world economy. These colluders provoke inequality because it benefits them and the preservation of their global power hierarchies to the detriment of everything and everyone else." - **Nomi Prins** [^15]
+* Bitcoin's Ausgaberate ist durch einen Algorithmus vorbestimmt, auf den sich alle Akteure im Bitcoin-Netzwerk geeinigt haben und der von ihnen auch via Netzwerknoten überwacht wird. Die Rate kann ohne den Konsens aller Beteiligten in der globalen Bitcoin-Gemeinschaft nicht geändert werden. Nachdem das 21 Millionen Limit eine der wichtigsten Eigenschaften Bitcoin's ist, ist eine Änderung sehr schwierig bis unmöglich.
+
+* Die Zentralbanker bestimmen das finanzielle Schicksal aller Länder der Welt. Sie wurden nicht gewählt, dennoch agieren sie wie Regierungen, die den gesamten Finanzmarkt zu kontrollieren versuchen.
+
+* Der Cantillon-Effekt wurde vom irisch-französischen Ökonomen Richard Cantillon etwa im Jahr 1730 beschrieben. Er zeigte auf, dass sich Inflation nicht gleichmäßig unter der Bevölkerung ausbreitet. Durch das von den Banken neu geschaffene Geld profitieren zuerst die Banker und die ihnen nahestehenden Firmen oder politisch begünstigte Gruppen, während der Rest der Volkswirtschaft später oder gar nicht folgt. Sie sind die Verlierer in diesem Prozess, da wegen der kreditschöpfungsbedingten Inflation in der Zeit bis bei Ihnen das Geld ankommt, die Preise gestiegen sind.
+
+> "Die Krisen- und post-Krisenpolitik der FED, die von anderen großen Zentralbanken übernommen wurde, sollte durch den "Trickle-Down" Effekt auch die Massen erreichen. Das ist nicht geschehen. Die globale Elite wusste das damals und sie weiß es jetzt. Im Januar 2017 gab das Weltwirtschaftsforum zu, dass die steigende Ungleichheit die Weltwirtschaft gefährdet. Die Drahtzieher fördern die Ungleichheit, weil sie ihnen und der Aufrechterhaltung ihrer globalen Machthierarchien zugute kommt, die zum Nachteil für alle anderen ist." - **Nomi Prins** [^15]
 
 
-### The End of This Kind of Growth
+### Das Ende dieser Art von Wachstum
 
-Wealth inequality has been rising in the last few centuries along with the commodification and monetization of natural resources. Nothing is left to be consumed. We are living through a fight for resources, for equal opportunities against the establishment and elites enriching themselves through corruption and financial advantages.
+Die Wohlstandsunterschiede haben in den letzten Jahrhunderten gleichzeitig mit der Kommerzialisierung und Monetarisierung der natürlichen Ressourcen zugenommen. Nichts kann mehr monetarisiert werden. Wir leben in einem Kampf um Ressourcen und Chancengleichheit gegen das Establishment und die Eliten, die sich durch Korruption und finanzielle Vorteile bereichern.
 
-"Another by-product of the financial crisis and central bank collusion was the rise in economic anxiety that spawned a swing towards nationalism, from Brazil to Great Britain to the United States. The shock of Brexit in the United Kingdom reverberated around the world as voters turned away from the incumbent leadership and its failed economic policies. In the United States, the election victory of Donald Trump, the billionaire 'antiestablishment' president, was another manifestation of this trend. These landmark votes were not caused by central banking policy directly but were the effects." [^16]
+"Ein weiteres Nebenprodukt der Finanzkrise und der geheimen Absprachen der Zentralbanken waren die zunehmenden wirtschaftlichen Ängste, die zu einer Hinwendung zum Nationalismus führten, von Brasilien über Großbritannien bis in die USA.  Der Schock des Brexit in Großbritannien hallte in der ganzen Welt nach, während sich die Wählenden von der amtierenden Regierungund ihrer gescheiterten Wirtschaftspolitik abwandten. Der Wahlsieg Donald Trump's, dem milliardenschweren "Anti-Establishment"-Präsidenten, in den USA war eine weitere Demonstration dieses Trends. Diese richtungsweisenden Wahlen wurden nicht direkt durch die Zentralbankpolitik verursacht, sondern waren die Auswirkungen." [^16]
 
-The growing divide between rich and poor is based on our current monetary system, which is the real Ponzi scheme. Central bankers are not democratically elected, yet they decide the financial fate of the world. Bankers and their friends are profiting from this system. It is time for an alternative: a decentralized, open, neutral, transparent, immutable, non-inflatable and collaborative form of money for the people: Bitcoin.
+Der wachsende Unterschied zwischen Reich und Arm basiert auf unserem aktuellen Geldsystem, welches das wirkliche Ponzi-System ist. Zentralbanker werden nicht demokratisch gewählt, dennoch entscheiden sie über das wirtschaftliche Schicksal der Welt. Banker und ihre Freunde profitieren von diesem System. Es ist Zeit für eine Alternative: eine dezentrale, für Alle offen stehende, neutrale, transparente, unveränderbare, nicht-inflationierbare, gemeinschaftlich organisierte Form des Geldes für die Menschen: Bitcoin.
 
-### Today's Petrodollar System
+### Das heutige Petrodollar-System
 
-Now that we have discussed how money is created, let's dive into the world of currency wars and how this system of national currencies is exclusive and has, historically, been dominated by different empires.
+Nachdem wir der Schaffung von Geld nachgegangen sind, tauchen wir ein in die Welt der Währungskriege und wie dieses exklusive System nationaler Währungen im Laufe der Geschichte von verschiedenen Imperien dominiert wurde. 
 
-The history of currency wars is long. "Over the past century the world went from a gold standard system, to the Bretton Woods system, to the Petrodollar system. Each system mostly unraveled from within rather than being brought down externally, and each time one system transitioned to another, a significant and widespread currency devaluation occurred."[^17] 
+Die Geschichte der Währungskriege ist lang. "Im Laufe des vergangenen Jahrhunderts wechselte die Welt vom Goldstandard über das Bretton Woods-System zum Petrodollar-System. Jedes dieser Systems wurde eher von innen heraus aufgelöst, als dass es von außen zu Fall gebracht wurde und jedes Mal, wenn ein System in ein anderes überging, kam es zu einer erheblichen und weit reichenden Währungsabwertung."[^17] 
 
-The British monetary hegemony lasted from 1871 to World War I. Back then a nation's currency was pegged to gold. After the interwar period, when monetary power began to decentralize, the United States emerged as the central money powerhouse after the allied victory in the Second World War. The Bretton Woods system, founded in 1944, was the first example of a fully negotiated monetary order, intended to govern monetary relations among independent states. It set a system of rules, institutions, and procedures to regulate the international monetary system, like the International Monetary Fund (IMF). The United States, which controlled two-thirds of the world's gold, insisted that the Bretton Woods system rests on both gold and the US dollar. Soviet representatives attended the conference but later declined to ratify the final agreements, insisting that the institutions they had created were "branches of Wall Street". This can be interpreted as the starting point of the Cold War.
+Die britische Währungsvorherrschaft dauerte von 1871 bis zum Ersten Weltkrieg. Damals waren nationale Währungen an Gold gebunden. In der Zwischenkriegszeit begann die  Geldmacht der Briten zu zerfallen. Nach dem Sieg der Alliierten im Zweiten Weltkrieg entwickelte sich die USA zur zentralen Finanzmacht. 
+
+**hier weiter**
+ The Bretton Woods system, founded in 1944, was the first example of a fully negotiated monetary order, intended to govern monetary relations among independent states. It set a system of rules, institutions, and procedures to regulate the international monetary system, like the International Monetary Fund (IMF). The United States, which controlled two-thirds of the world's gold, insisted that the Bretton Woods system rests on both gold and the US dollar. Soviet representatives attended the conference but later declined to ratify the final agreements, insisting that the institutions they had created were "branches of Wall Street". This can be interpreted as the starting point of the Cold War.
 
 On 15 August 1971, the United States, lead by President Richard Nixon, unilaterally terminated the convertibility of the US dollar to gold, effectively bringing the Bretton Woods system to an end and rendering the dollar a fiat currency. At the same time, many fixed currencies (such as the pound sterling) also became free-floating.
 
