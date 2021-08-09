@@ -135,7 +135,7 @@ Falls Sie mehr darüber erfahren möchten, hören Sie sich meinen Podcast über 
 
 * Ein Ponzi-System hat einen zentralen Akteur, einen Anführer oder eine Organisation, die bekannt ist, Geld einsammelt und sich letztlich mit dem Geld absetzt.
 * Ponzi-Systeme sind nicht überprüfbar oder transparent. Niemand ausser der Erfinder weiß, was mit dem eingesammelten Geld passiert. 
-* Bei einem Ponzi-System werden solange Schuldscheine ausgegeben bis es platzt - es gibt keine maximale Ausgabemenge.
+* Bei einem Ponzi-System werden solange Schuldscheine ausgegeben bis es zusammenstürzt - es gibt keine maximale Ausgabemenge.
 * Die Schwierigkeit, die Investoren auszubezahlen: je mehr Geld in das System fließt, desto schwieriger wird es, das Geld zurückzuzahlen und für den Erfinder die Maschine zu stoppen.  
 * Das System muss eines Tages zusammenbrechen, es gibt keinen Ausweg.
 * Die Betrüger verdienen Geld für das Verleihen von Vermögen, ohne etwas real zur wirtschaftlichen Leistung eines Landes beizutragen. 
@@ -180,49 +180,46 @@ Der wachsende Unterschied zwischen Reich und Arm basiert auf unserem aktuellen G
 
 Nachdem wir der Schaffung von Geld nachgegangen sind, tauchen wir ein in die Welt der Währungskriege und wie dieses exklusive System nationaler Währungen im Laufe der Geschichte von verschiedenen Imperien dominiert wurde. 
 
-Die Geschichte der Währungskriege ist lang. "Im Laufe des vergangenen Jahrhunderts wechselte die Welt vom Goldstandard über das Bretton Woods-System zum Petrodollar-System. Jedes dieser Systems wurde eher von innen heraus aufgelöst, als dass es von außen zu Fall gebracht wurde und jedes Mal, wenn ein System in ein anderes überging, kam es zu einer erheblichen und weit reichenden Währungsabwertung."[^17] 
+Die Geschichte der Währungskriege ist lang. "Im Laufe des vergangenen Jahrhunderts wechselte die Welt vom Goldstandard über das Bretton-Woods-System zum Petrodollar-System. Jedes dieser Systems wurde eher von innen heraus aufgelöst, als dass es von außen zu Fall gebracht wurde und jedes Mal, wenn ein System in ein anderes überging, kam es zu einer erheblichen und weit reichenden Währungsabwertung."[^17] 
 
-Die britische Währungsvorherrschaft dauerte von 1871 bis zum Ersten Weltkrieg. Damals waren nationale Währungen an Gold gebunden. In der Zwischenkriegszeit begann die  Geldmacht der Briten zu zerfallen. Nach dem Sieg der Alliierten im Zweiten Weltkrieg entwickelte sich die USA zur zentralen Finanzmacht. 
+Die britische Währungsvorherrschaft dauerte von 1871 bis zum Ersten Weltkrieg. Damals waren nationale Währungen an Gold gebunden. In der Zwischenkriegszeit begann die  Geldmacht der Briten zu zerfallen. Nach dem Sieg der Alliierten im Zweiten Weltkrieg entwickelte sich die USA zur zentralen Finanzmacht. Das 1944 in Kraft getretene Bretton-Woods-System war das erste Beispiel einer auf Verhandlungsbasis entstandenen Währungsordnung, mit dem Ziel, die monetären Beziehungen zwischen unabhängigen Staaten zu regeln. Es führte ein Bündel an Regeln, Verfahren und Institutionen zur Regulierung des internationalen Währungssystems ein, wie zum Beispiel den Internationalen Währungsfonds (IMF). Die USA, die zwei Drittel des Weltgoldes kontrollierten, bestanden darauf, dass das Bretton-Woods-System sowohl auf Gold als auch auf dem US-Dollar beruht. Vertreter der Sowjetunion nahmen an der Konferenz teil, lehnten es aber später ab, die endgültigen Vereinbarungen zu ratifizieren. Sie bezeichneten die neu geschaffenen Institutionen als "Filialen der Wall Street". Dies kann als Beginn des kalten Krieges interpretiert werden. 
 
-**hier weiter**
- The Bretton Woods system, founded in 1944, was the first example of a fully negotiated monetary order, intended to govern monetary relations among independent states. It set a system of rules, institutions, and procedures to regulate the international monetary system, like the International Monetary Fund (IMF). The United States, which controlled two-thirds of the world's gold, insisted that the Bretton Woods system rests on both gold and the US dollar. Soviet representatives attended the conference but later declined to ratify the final agreements, insisting that the institutions they had created were "branches of Wall Street". This can be interpreted as the starting point of the Cold War.
+Am 15. August 1971 hoben die USA unter Präsident Richard Nixon die Bindung des US-Dollars an Gold einseitig auf. Das Bretton-Woods-System war damit beendet und der US-Dollar wurde zur Fiat-Währung. Viele andere goldgebundenen Währungen (wie das Pfund Sterling) wurden ebenfalls auf einen freien Wechselkurs umgestellt. 
 
-On 15 August 1971, the United States, lead by President Richard Nixon, unilaterally terminated the convertibility of the US dollar to gold, effectively bringing the Bretton Woods system to an end and rendering the dollar a fiat currency. At the same time, many fixed currencies (such as the pound sterling) also became free-floating.
+Unser heutiges Währungssystem basiert auf dem Petrodollar. Lyn Alden beschreibt dies in Detail in ihrem Artikel "The Structure of the Global Monetary System":
 
-Today's monetary system is built on the Petrodollar. Lyn Alden describes this in her article "The Structure of the Global Monetary System":
+"Nach dem Zusammenbruch des Bretton-Woods-Systems 1971 wurden alle Währungen der Welt zu Fiat-Währungen und das globale Währungssystem wurde ungeordneter. Dies war das erste Mal in der Geschichte der Menschheit, dass alle Währungen der Welt gleichzeitig zu ungedecktem Papier wurden.
 
-"Beginning in 1971 after the breakdown of the Bretton Woods system, currencies around the world all became fiat currencies, and the global monetary system became less ordered. This was the first time in human history that this happened, where all currencies in the world at the same time were rendered into unbacked paper.
+Fiat-Währung ist ein Geldsystem, bei dem die Währung selbst keinen Wert hat; es ist nur Papier, billige Metallmünzen oder digitale Informationseinheiten. Es hat einen Wert, weil die Regierung erklärt, dass es einen Wert hat und dass es gesetzliches Zahlungsmittel ist, mit dem Alles, einschließlich Steuern, zu bezahlen ist. 
 
-Fiat currency is a monetary system whereby there is nothing of value in the currency itself; it’s just paper, cheap metal coins, or digital bits of information. It has value because the government declares it to have value and that it is legal tender to pay all things including taxes.
+Ein Land kann die Verwendung einer Fiat-Währung als Tauschmittel und Rechnungseinheit im eigenen Land durchsetzen, indem alle Steuern nur in dieser Währung zu zahlen sind, oder indem andere Gesetze erlassen werden, die andere Tauschmittel und Rechnungseinheiten erschweren oder in einigen Fällen sogar verbieten. Wenn diese Währung jedoch in großen Problemen steckt, wie es in vielen Schwellenländern der Fall ist, entwickelt sich ein Schwarzmarkt für andere Tauschmittel, wie Devisen oder harte Vermögenswerte.
 
-A country can enforce the usage of a fiat currency as a medium of exchange and unit of account within their country by making all taxes payable only in that currency, or by enacting other laws to add friction to, or in some cases outright ban, other mediums of exchange and units of account. If their currency has a big enough problem, though, as is the case for many emerging markets, a black market will develop for other mediums of exchange, such as foreign currency or hard assets.
+Eine ungedeckte Währung kann auf verschiedene Probleme stoßen, wenn sie außerhalb ihres Ursprungslandes verwendet werden soll. Wieso sollten Unternehmen und Regierungen anderer Länder Papier, als Zahlung für ihre wertvollen Güter und Dienstleistungen akzeptieren, das von einem anderen Land endlos gedruckt werden kann und keine sichere Deckung hat? Was ist es wert ohne Deckung? Wieso sollte jemand Öl gegen Papier an Ausländer verkaufen?
 
-A fiat currency can face particular problems when trying to be used outside of its home country. Why should businesses and governments in other countries accept pieces of paper, which can be printed endlessly by a foreign government and have no firm backing, as a form of payment for their valuable goods and services? Without a real backing, what is it worth? Why would you sell oil to foreigners for paper?
+In den frühen 1970er Jahren gab es eine Reihe geopolitischer Konflikte wie den Jom-Kippur-Krieg und das OPEC Öl-Embargo. 1974 erreichten die USA und Saudi Arabien eine Einigung. Von da an war die Welt auf das Petrodollar-System eingestellt. Ein kluger Weg, um ein globales Fiat-Währungssystem einigermaßen sinnvoll zu gestalten....Im Petrodollar-System verkaufen Saudi Arabien und andere OPEC-Länder ihr Öl ausschließlich gegen US-Dollar. Dafür erhalten sie Schutz und Kooperation der USA. Im Fall, dass beispielsweise Frankreich Öl von Saudi Arabien kaufen will, dann tun sie das ebenfalls in US-Dollar....Im Gegenzug setzen die USA ihre beispiellose Hochseekriegsflotte ein, um die weltweiten Schifffahrtswege zu schützen und den geopolitischen Status quo bei Bedarf durch militärische Maßnahmen oder die Androhung solcher Maßnahmen aufrechtzuerhalten.....Einige von uns, insbesondere die oberen Einkommensschichten, profitieren direkt oder indirekt von diesem System. Amerikaner, die im Finanzwesen, in der Regierung, im Gesundheitswesen und in der Technologiebranche arbeiten, genießen viele der Vorteile eines Lebens in der Hegemonialmacht, ohne die Nachteile. Andererseits haben die Amerikaner, die Sachgüter herstellen, in der Regel nicht davon profitiert, weil sie ihren Arbeitsplatz verloren haben oder ihr Einkommen unterdrückt wurde, so dass sie nicht von den Gewinnen profitiert haben. Und außerhalb der USA profitieren Exportländer von diesem System, während Länder, denen die Struktur des globalen Währungssystems nicht gefällt, kaum etwas dagegen unternehmen können, es sei denn, sie werden groß genug, wie Russland und China."[^18]
 
-In the early 1970’s, there were a variety of geopolitical conflicts including the Yom Kippur War and the OPEC oil embargo. In 1974, however, the United States and Saudi Arabia reached an agreement, and from there, the world was set on the petrodollar system; a clever way to make a global fiat currency system work decently enough....With the petrodollar system, Saudi Arabia (and other countries in OPEC) sell their oil exclusively in dollars in exchange for US protection and cooperation. Even if France wants to buy oil from Saudi Arabia, for example, they do so in dollars....In return, the United States uses its unrivaled blue-water navy to protect global shipping lanes, and preserve the geopolitical status quo with military action or the threat thereof as needed....Some of us, particularly near the top of the income ladder, directly or indirectly benefit from this system. Americans who work around finance, government, healthcare, and technology get many of the benefits of living in the hegemonic power, without the drawbacks. On the other hand, Americans who make physical products tend not to benefit, because they lost their jobs or had their incomes suppressed, and thus haven’t benefited from the gains. And outside of the United States, exporting countries benefit from the system, while countries that don’t like how the global monetary system is structured don’t have much recourse to do anything about it, unless they get big enough like Russia and China."[^18]
+Wir befinden uns seit vielen Jahrzehnten in Währungskriegen. Welche Währung dominiert? Welches Land zieht aus der Manipulation seiner Währung mehr Nutzen? Der Euro, der US-Dollar, der chinesische Yuan? Oder sogar Facebook's Diem? Von Unternehmen aufgelegtes Geld ist der neue, starke Player am Markt. Um ihre Macht zu erhalten, haben Zentralbanken begonnen an ihrer eigenen Variante, dem digitalen Zentralbankgeld, zu arbeiten (CBDCs).
 
-We have been in currency wars for many decades. Which currency is stronger? Which country can gain more benefits from manipulating its currency? The Euro, the US Dollar, the Chinese Yuan? Or even Facebook's Diem? Corporation money is the new, strong player on the market. To retain their powers central banks started to work on their own digital currencies (CBDCs).
+![Neue Formen des Geldes entstehen.](assets/_new-forms-money.png) [^19]
 
-![New forms of money emerge](assets/_new-forms-money.png) [^19]
+Bitcoin ist eine Alternative zu diesem System. Es schützt unsere Privatsphäre im digitalen Zeitalter. Es gibt uns eine Stimme gegen den Mißbrauch monopolistischer Macht des aktuellen Systems und ermöglicht Menschen, unter korrupten Machthabern  in autoritären Staaten, die Teilnahme am wirtschaftlichen Leben. Bitcoin ist digitale Verteidigung, ein Werkzeug mit dem wir das Recht auf Transaktionsfreiheit und Privatsphäre sichern können.
 
-Bitcoin is our alternative to this system. Protecting our privacy in this digital age, voting against the abuse of monopolistic power in the current system, and giving people living in authoritarian states with corrupt rulers the same opportunities to participate in the economic system. Bitcoin is a defence strategy, a tool with which we can preserve the human right to transactional freedom and privacy.
-
-[^1]: [Illustration NetGuardians retrieved April 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)
-[^2]: Anita Posch, credits: University of Nicosia, MOOC in Digital Currency, “A brief history of money” with image: Lotus Head, CC BY-SA 3.0, wikimedia.org
-[^3]: Image: "Stone Money of Uap, Western Caroline Islands." - Dr. Caroline Furness Jayne took this photograph during a 1903 stay on Yap, Public domain, via Wikimedia Commons
+[^1]: [Illustration von NetGuardians abgerufen im April 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)
+[^2]: Anita Posch, Quelle: University of Nicosia, MOOC Digital Currency, “A brief history of money” mit Bild: Lotus Head, CC BY-SA 3.0, wikimedia.org
+[^3]: Bild: "Stone Money of Uap, Western Caroline Islands." - Augenommen von Dr. Caroline Furness Jayne während eines Aufenthalts auf Yap 1903, Public domain, via Wikimedia Commons
 [^4]: [Wikipedia Rai stones](https://en.wikipedia.org/wiki/Rai_stones)
-[^5]: [University of Nicosia, Introduction to Digital Currencies, Session 1, p. 15]
-[^6]: [Debt to GDP ratio, JS Blokland](https://twitter.com/jsblokland/status/1362138620665221122?s=20)
-[^7]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 7.
-[^8]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. xvii
-[^9]: [Monetary Base](https://www.investopedia.com/terms/m/monetarybase.asp)
+[^5]: [University of Nicosia, Introduction to Digital Currencies, Session 1, S. 15]
+[^6]: [Verhältnis der Schulden zum BIP, JS Blokland](https://twitter.com/jsblokland/status/1362138620665221122?s=20)
+[^7]: Collusion, von Nomi Prins, Bold Type Books, 2019, S. 7.
+[^8]: Collusion, von Nomi Prins, Bold Type Books, 2019, S. xvii
+[^9]: [Geldbasis](https://www.investopedia.com/terms/m/monetarybase.asp)
 [^10]: [Global Monetary Base, Crypto Voices](https://cryptovoices.com/basemoney)
 [^11]: [FRED, M2 Money Stock](https://fred.stlouisfed.org/series/M2SL)
 [^12]: [Lyn Alden, Ponzi scheme](https://www.lynalden.com/bitcoin-ponzi-scheme/)
 [^13]: [Lyn Alden](https://twitter.com/LynAldenContact/status/1362912907659522049?s=20)
 [^14]: [US Consumer Price Index](https://fred.stlouisfed.org/series/CPIAUCSL)
-[^15]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 253.
-[^16]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 249.
+[^15]: Collusion, von Nomi Prins, Bold Type Books, 2019, S. 253.
+[^16]: Collusion, von Nomi Prins, Bold Type Books, 2019, S. 249.
 [^17]: [Lyn Alden, The Structure of the Global Monetary System](https://www.lynalden.com/fraying-petrodollar-system/)
 [^18]: [Lyn Alden, Petrodollar System (1974-Present)](https://www.lynalden.com/fraying-petrodollar-system/)
 [^19]: Anita Posch
