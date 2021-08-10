@@ -42,13 +42,10 @@ Bitcoins Motto ist: "Don't trust, verify.", was soviel bedeutet wie: "Traue nich
 
 Der Unterschied zum Bankkonto und den Kontoauszügen, die Sie auch überprüfen können ist, dass die Bank Ihnen die Auszüge zur Verfügung stellt. Sie wissen nicht, was im Hintergrund abgelaufen ist. Banken korrigieren täglich Einträge, Abzüge und fangen Betrugsversuche mit Kreditkarten ab. Bei Bitcoin sind solche Fälle nicht möglich und mit Ihrem eigenen Full Node können Sie die tatsächlichen Transaktionen direkt überprüfen. Das klingt nach Arbeit, macht die Software aber selbst.
 
-Das ist revolutionär. Sobald Sie beginnen Ihre eigenen Transaktionen zu überprüfen, sind Sie defacto eine Bank. Das ist was die Banken tun. Sie überprüfen die Ein- und Ausgänge auf Ihrem Konto. Sie müssen darauf vertrauen, dass Sie einen guten Job machen. Das klappt ganz gut in entwickelten Ländern, aber weltweit gesehen, funktioniert das Bankensystem weit schlechter. Stellen Sie sich vor Sie können sich nicht auf Ihre Bank verlassen oder besitzen keinen Identifikationsnachweis, aber Sie haben ein Handy und Internetzugang. Sie können entweder 
+Das ist revolutionär. Sobald Sie beginnen Ihre eigenen Transaktionen zu überprüfen, sind Sie defacto eine Bank. Das ist was die Banken tun. Sie überprüfen die Ein- und Ausgänge auf Ihrem Konto. Sie müssen darauf vertrauen, dass Sie einen guten Job machen. Das klappt ganz gut in entwickelten Ländern, aber weltweit gesehen, funktioniert das Bankensystem weit schlechter. Stellen Sie sich vor Sie können sich nicht auf Ihre Bank verlassen oder besitzen keinen Identifikationsnachweis, aber Sie haben ein Handy und Internetzugang. In afrikanischen Ländern können Sie mobiles Geld über Services wie M-Pesa und EcoCash nutzen oder eine Kryptowährung wie Bitcoin, die man ohne Registrierung verwenden kann. 
 
-**hier weiter**
-There is only one option for you to store and use money. It's either mobile money like M-Pesa or EcoCash in Africa or cryptocurrencies, where you do not need to identify yourself.
+Alle Menschen weltweit, die ein internetfähiges Mobiltelefon besitzen, haben Zugang zu Bitcoin. Banken wie wir sie kennen, sind nicht erforderlich. Sie müssen auch niemanden um Erlaubnis fragen, ob Sie Bitcoin besitzen und nutzen dürfen. Alles was Sie brauchen, ist ein Smartphone, eine Internet-Verbindung und eine Bitcoin Wallet.
 
-All people worldwide with an internet-enabled mobile phone have access to Bitcoin. The banks as we know them are not required for the use of Bitcoin. You don't have to ask anyone for permission to own or use Bitcoin. All you need to get started is a smartphone, an internet connection and a bitcoin wallet app.
-
-[^20]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 1.
-[^21]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 247.
-[^22]: Anita Posch, Source [The Merkle](https://themerkle.com/top-4-cryptocurrency-projects-created-ahead-of-bitcoin/), [Hashcash.org](http://www.hashcash.org/bitcoin/)
+[^20]: Collusion von Nomi Prins, Bold Type Books, 2019, S. 1.
+[^21]: Collusion von Nomi Prins, Bold Type Books, 2019, S. 247.
+[^22]: Anita Posch, Quellen: [The Merkle](https://themerkle.com/top-4-cryptocurrency-projects-created-ahead-of-bitcoin/), [Hashcash.org](http://www.hashcash.org/bitcoin/)
