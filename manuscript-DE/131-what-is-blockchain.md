@@ -9,10 +9,10 @@ Die Datenbank ist transparent und öffentlich einsehbar. Senden Sie eine Transak
 
 Die Bitcoin-Blockchain gehört niemandem, jeder und jede kann sie herunterladen und am eigenen Computer speichern. Mit diesem Full Node (Knoten) tragen Sie zur Stärkung des Bitcoin-Netzwerks bei. Wie? Durch die Verifizierung Ihrer eigenen Kopie der Blockchain, müssen Sie niemand anderem trauen. Je mehr Leute das tun, desto verteilter und robuster wird das Netzwerk.
 
-**Open and Permissioned Blockchains**
+**Öffentliche und genehmigungsbasierte Blockchains**
 
-Please note the difference between Bitcoin, which is an open blockchain and for instance "Diem" (Facebook's money project token) or the Chinese government's E-Yuan CBDC, which are closed and centralized blockchains.
+Bitte beachten Sie den Unterschied zwischen öffentlichen Blockchains wie Bitcoin, während zum Beispiel "Diem" (das Geldprojekt von Facebook) oder der digitale Yuan Chinas und der digitale Euro geschlossene und zentralisierte Blockchains sind. 
 
-An open blockchain is accessible to all people, it is decentralized, transparent, uncensorable and neutral, making it the revolutionary money it is: a global, internet-native system that is open to everyone regardless of age, color, privilege, gender or nation. Bitcoin can even be used by machines. No one can keep you from sending it peer-to-peer around the world.
+Eine offene Blockchain ist inklusiv. Sie ist für alle Menschen nutzbar, sie ist dezentral, transparent, unzensurierbar und neutral. Erst dadurch wird Bitcoin zum revolutionären Geld, das es ist: ein globales, internet-natives System, offen für alle unabhängig von Alter, Hautfarbe, Status, Geschlecht oder Nation. Bitcoin kann sogar von Maschinen genutzt werden. Niemand kann Sie davon abhalten, Bitcoin von Mensch zu Mensch weltweit, zu senden.
 
-A permission-based, private blockchain, is closed, non-transparent, hierarchically organized and centrally stored. The company or government running the system can exclude and censor your transactions. They can close your account and keep you from spending your money. You're already familiar with this system because it's how the current traditional banking system works.
+Eine genehmigungbasierte, private Blockchain ist geschlossen, untransparent, hierarchisch organisiert und wird zentral gespeichert. Das Unternehmen oder die Regierung/Zentralbank kann Nutzende ausschließen oder Ihre Transaktionen zensieren. Sie können Ihr Konto schließen und Sie daran hindern, Geld zu senden. Dieses System ist nicht neu, genauso funktioniert das Bankensystem.
