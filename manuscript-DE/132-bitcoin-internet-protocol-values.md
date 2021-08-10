@@ -1,6 +1,6 @@
-## Bitcoin the Internet of Values
+## Bitcoin, das Internet der Werte
 
-Bitcoin is more than a digital coin or internet-native money. It is a public internet infrastructure. It is an internet protocol through which values are exchanged between computers operated by humans, but also by autonomous machines themselves. For example, cars won’t only drive autonomously in the future, but will also navigate to the charging station on their own for recharging. In this scenario, the payment is made automatically via bitcoin without anyone having to intervene manually.
+Bitcoin ist mehr als nur digitale Münzen oder ein internet-natives Geld. Es ist öffentliche Internet-Infrastruktur. Es ist ein Internet-Protokoll über das Wert zwischen von Menschen bedienten Computern, aber auch autonomen Maschinen getauscht wird. Zum Beispiel werden Autos in der Zukunft nicht nur selbstständig fahren, sondern auch selbst zur Ladestation navigieren und sich laden. Die Bezahlung erfolgt automatisch mit Bitcoin, ohne dass irgendjemand manuell eingreifen muss. 
 
 A protocol governs the exchange of information or procedures. Language is a protocol. When I speak and take a short break, my counterpart knows that she can speak now. Every word in a conversation has a meaning, every expression changes the tone of a conversation. The human language protocol regulates the communication between two or more people. Computers also talk to each other. For example, their protocols are SMTP for email transmission, FTP for sending files, or HTTPS for visiting web pages. The respective protocol determines how data is exchanged with each other so that one computer can understand the other.
 
