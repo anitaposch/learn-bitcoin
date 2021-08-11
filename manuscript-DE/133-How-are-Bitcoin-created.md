@@ -1,7 +1,7 @@
-## How Are Bitcoin Created?
+## Wie entstehen Bitcoin?
 
-We were talking about protocols and mathematical rules that regulate how Bitcoin works. A set of rules define how bitcoin are created and circulated. These rules can only be changed through a majority consensus from all parties involved in the Bitcoin network. Individuals, institutions or governments cannot change the Bitcoin rules unilaterally.
+Wir haben über die Protokolle und mathematischen Regeln gesprochen, die das Bitcoin-Netzwerk steuern. Auch die Art wie Bitcoin entstehen und im Netzwerk zirkulieren wird durch ein Regelwerk gesteuert. Dieses Set an Regeln kann nur durch Mehrheitskonsens aller im Netzwerk involvierten Akteuren geändert werden. Einzelpersonen, Institutionen oder Regierungen können diese Regeln nicht einseitig ändern.
 
-In our current monetary system of fiat currencies, the creation of money is in the hands of central bankers. They are steering and controlling the output of banknotes and coins, as well as the amount of credit that commercial banks may lend out, determining the interest rate and thus influencing the value of each unit of money.
+Im aktuellen Fiat-Geldsystem liegt die Geldschaffung in den Händen der Zentralbanker. Sie regeln und kontrollieren die Ausgabe neuer Banknoten und Münzen sowie die Höhe der Kreditsumme, die Banken verleihen dürfen und setzen die Zinsraten fest, wodurch sie den Wert jeder Geldeinheit beeinflussen.
 
-Bitcoin are created in a process called mining in a decentralized manner, out of the hands of people with agenda-driven political power. The term "mining" has been chosen because, similar to the extraction of gold, labor and energy input is required for the creation of bitcoin.
+Bitcoin werden dezentral durch Mining (Schürfen) geschaffen, ohne dass eventuell politisch gesteuerter Eingriff von Menschen möglich ist. Der Ausdruck des Schürfens wurde gewählt, weil ähnlich wie beim Goldschürfen Arbeit und Energie aufgebracht werden muss, um Bitcoin zu erzeugen.
