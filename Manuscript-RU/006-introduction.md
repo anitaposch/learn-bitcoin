@@ -2,7 +2,7 @@
 
 > "Написать описание этой штуки для широкой публики чертовски сложно. Не к чему сравнить." - **Satoshi Nakamoto**
 
-(За)работать Биткойном is the best guide to decide why and how you should enter the world of Bitcoin. It presents Bitcoin in all its facets, from its technical, economical, political and social implications to how it is evolving in the current monetary landscape. It provides a step-by-step roadmap to navigate this new financial world and sets you up with concrete recommendations on how to safely acquire, earn and store bitcoin. Ascending the staircase of financial sovereignty will grant you personal freedom and control over your money. 
+(L)earn Bitcoin is the best guide to decide why and how you should enter the world of Bitcoin. It presents Bitcoin in all its facets, from its technical, economical, political and social implications to how it is evolving in the current monetary landscape. It provides a step-by-step roadmap to navigate this new financial world and sets you up with concrete recommendations on how to safely acquire, earn and store bitcoin. Ascending the staircase of financial sovereignty will grant you personal freedom and control over your money. 
 
 In this book, you will find answers to the questions of what money is, where it comes from, its historical development, blockchain technology and Bitcoin specifically. It gives answers to the questions why and how to use Bitcoin, while debunking popular myths and misunderstandings surrounding cryptocurrencies. I take a deep dive into Bitcoin's development since its inception in 2008 and give an outlook on future applications of money based on Bitcoin. 
 
