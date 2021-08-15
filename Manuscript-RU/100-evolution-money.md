@@ -1,23 +1,23 @@
-# The Evolution of Money
+# Эволюция денег
 
-On January 3, 2009, Bitcoin was born. Since its creation, the Bitcoin P2P network Internet Protocol (IP) has attached new blocks of data to a chain of transactions approximately every 10 minutes. The Bitcoin blockchain stores transactions in the correct chronological order which cannot be altered afterwards, as fixed as time itself. Just as our heartbeat preserves our bodies, this process is preserved by a system that draws its foundations from cryptography, game theory, IT, and decentralized networks that keep itself in balance.
+3 января 2009 года родился Биткойн. С момента своего создания интернет протокол (IP) сети Bitcoin P2P присоединял новые блоки данных к цепочке переводов примерно каждые 10 минут. Блокчейн Биткойн хранит транзакции в правильном хронологическом порядке, который не может быть изменен впоследствии, так же неизменно как и само время. Подобно тому, как наше сердцебиение сохраняет наши тела, этот процесс сохраняется с помощью системы, основанной на криптографии, теории игр, информационных технологиях и децентрализованных сетях, которые поддерживают баланс.
 
-This self-regulating system has the following characteristics:
+Эта саморегулирующаяся система имеет следующие характеристики:
 
--   Bitcoin transactions are censorship resistant.
--   Bitcoin is immutable.
--   Bitcoin cannot be counterfeited.
--   Bitcoin transactions are highly secure without intermediaries, like a bank.
--   Bitcoin transactions are transparent, publicly visible and can be audited by anybody.
+- Биткойн-транзакции устойчивы к цензуре.
+- Биткойн неизменный.
+- Биткойн нельзя подделать.
+- Биткойн-транзакции очень безопасны без посредников, таких как банки.
+- Биткойн-транзакции прозрачны, общедоступны и могут быть проверены кем угодно.
 
 ![A PayPal payment vs. Bitcoin](assets/_paypal-bitcoin-intermediaries.PNG) [^1]
-In a traditional payment there are up to seven intermediaries until the payment reaches the recipient. Bitcoin has none.
+В традиционном платеже задействовано до семи посредников, пока платеж не достигнет получателя. Биткойн не имеет ни одного.
 
--   Bitcoin is a neutral network: it does not moralize or distinguish between "good" and "bad" payments.
--   Bitcoin is permissionless: there are no gatekeepers that can prevent its use.
--   Bitcoin is borderless: it can be used worldwide.
--   Bitcoin, the Internet Protocol, is a common good: it belongs to everybody, not a single entity such as a company.
--   The rules of Bitcoin are enforced by the programmatically secure consensus of all parties involved.
+- Биткойн - нейтральная сеть: она не морализирует и не делает различий между «хорошими» и «плохими» платежами.
+- Биткойн не нуждается в разрешении и неривратников, которые могли бы предотвратить его использование.
+- Биткойн безграничен: его можно использовать по всему миру.
+- Биткойн, Интернет-протокол, является общим достоянием: он принадлежит всем, а не какой-либо отдельной организации, такой как компания.
+- Правила Биткойна выполняются программно безопасным консенсусом всех вовлеченных сторон.
 
 Bitcoin is people's money. Bitcoin is the evolution of money. It is a continuation of the perpetual process of discovering new money that has always been a part of the history of mankind. Over the millennia, various new forms of money have been found and used, from a direct exchange between people to a credit system in a gold standard, to fiat currency to today's current non-backed inflationary system. The banking and monetary system as we know it today has existed and evolved for about 300 years. It is only natural that, with the emergence of a new form of communication via the internet, a new form of economy and a new type of money, namely internet-native money, should arise.
 
