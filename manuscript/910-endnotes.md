@@ -1,6 +1,9 @@
 [^1]: [Illustration NetGuardians retrieved April 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)
+
 [^2]: Anita Posch, credits: University of Nicosia, MOOC in Digital Currency, “A brief history of money” with image: Lotus Head, CC BY-SA 3.0, wikimedia.org
+
 [^3]: Image: "Stone Money of Uap, Western Caroline Islands." - Dr. Caroline Furness Jayne took this photograph during a 1903 stay on Yap, Public domain, via Wikimedia Commons
+
 [^4]: [Wikipedia Rai stones](https://en.wikipedia.org/wiki/Rai_stones)
 [^5]: [University of Nicosia, Introduction to Digital Currencies, Session 1, p. 15]
 [^6]: [Debt to GDP ratio, JS Blokland](https://twitter.com/jsblokland/status/1362138620665221122?s=20)
