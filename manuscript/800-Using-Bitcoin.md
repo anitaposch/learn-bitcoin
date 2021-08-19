@@ -56,6 +56,9 @@ The following are tools and services that enable you to spend and receive BTC in
 * [Bitrefill](https://www.bitrefill.com/?hl=en) buy giftcards and phone refills
 
 [^74]: [Screenshot by Anita Posch](https://mempool.space)
+
 [^75]: Screenshot by Anita Posch, Edge wallet
+
 [^76]: Screenshot by Anita Posch, Edge wallet
+
 [^77]: Screenshot by Anita Posch, Blockchair

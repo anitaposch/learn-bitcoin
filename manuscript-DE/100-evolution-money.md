@@ -205,21 +205,39 @@ Wir befinden uns seit vielen Jahrzehnten in Währungskriegen. Welche Währung do
 Bitcoin ist eine Alternative zu diesem System. Es schützt unsere Privatsphäre im digitalen Zeitalter. Es gibt uns eine Stimme gegen den Mißbrauch monopolistischer Macht des aktuellen Systems und ermöglicht Menschen, unter korrupten Machthabern  in autoritären Staaten, die Teilnahme am wirtschaftlichen Leben. Bitcoin ist digitale Verteidigung, ein Werkzeug mit dem wir das Recht auf Transaktionsfreiheit und Privatsphäre sichern können.
 
 [^1]: [Illustration von NetGuardians abgerufen im April 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)
+
 [^2]: Anita Posch, Quelle: University of Nicosia, MOOC Digital Currency, “A brief history of money” mit Bild: Lotus Head, CC BY-SA 3.0, wikimedia.org
+
 [^3]: Bild: "Stone Money of Uap, Western Caroline Islands." - Augenommen von Dr. Caroline Furness Jayne während eines Aufenthalts auf Yap 1903, Public domain, via Wikimedia Commons
+
 [^4]: [Wikipedia Rai stones](https://en.wikipedia.org/wiki/Rai_stones)
+
 [^5]: [University of Nicosia, Introduction to Digital Currencies, Session 1, S. 15]
+
 [^6]: [Verhältnis der Schulden zum BIP, JS Blokland](https://twitter.com/jsblokland/status/1362138620665221122?s=20)
+
 [^7]: Collusion, von Nomi Prins, Bold Type Books, 2019, S. 7.
+
 [^8]: Collusion, von Nomi Prins, Bold Type Books, 2019, S. xvii
+
 [^9]: [Geldbasis](https://www.investopedia.com/terms/m/monetarybase.asp)
+
 [^10]: [Global Monetary Base, Crypto Voices](https://cryptovoices.com/basemoney)
+
 [^11]: [FRED, M2 Money Stock](https://fred.stlouisfed.org/series/M2SL)
+
 [^12]: [Lyn Alden, Ponzi scheme](https://www.lynalden.com/bitcoin-ponzi-scheme/)
+
 [^13]: [Lyn Alden](https://twitter.com/LynAldenContact/status/1362912907659522049?s=20)
+
 [^14]: [US Consumer Price Index](https://fred.stlouisfed.org/series/CPIAUCSL)
+
 [^15]: Collusion, von Nomi Prins, Bold Type Books, 2019, S. 253.
+
 [^16]: Collusion, von Nomi Prins, Bold Type Books, 2019, S. 249.
+
 [^17]: [Lyn Alden, The Structure of the Global Monetary System](https://www.lynalden.com/fraying-petrodollar-system/)
+
 [^18]: [Lyn Alden, Petrodollar System (1974-Present)](https://www.lynalden.com/fraying-petrodollar-system/)
+
 [^19]: Anita Posch

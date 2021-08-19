@@ -47,5 +47,7 @@ Das ist revolutionär. Sobald Sie beginnen Ihre eigenen Transaktionen zu überpr
 Alle Menschen weltweit, die ein internetfähiges Mobiltelefon besitzen, haben Zugang zu Bitcoin. Banken wie wir sie kennen, sind nicht erforderlich. Sie müssen auch niemanden um Erlaubnis fragen, ob Sie Bitcoin besitzen und nutzen dürfen. Alles was Sie brauchen, ist ein Smartphone, eine Internet-Verbindung und eine Bitcoin Wallet.
 
 [^20]: Collusion von Nomi Prins, Bold Type Books, 2019, S. 1.
+
 [^21]: Collusion von Nomi Prins, Bold Type Books, 2019, S. 247.
+
 [^22]: Anita Posch, Quellen: [The Merkle](https://themerkle.com/top-4-cryptocurrency-projects-created-ahead-of-bitcoin/), [Hashcash.org](http://www.hashcash.org/bitcoin/)

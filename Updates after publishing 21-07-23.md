@@ -6,3 +6,8 @@
 
 -----
 
+archived 910-endnotes.md because endnotes are footnotes inside textfiles
+
+----
+
+

@@ -136,4 +136,5 @@ You should immediately install a new wallet and import the seed that you kept sa
 If your device gets corrupted, you follow the same steps, but there is no need to rush to move the coins. Just restore the software wallet and you're done.
 
 [^70]: Anita Posch
+
 [^71]: [Source @ElectrumWallet](https://twitter.com/ElectrumWallet/status/1144678604523147265?s=20)
