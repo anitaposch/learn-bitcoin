@@ -24,7 +24,7 @@ Die Zeit, die Ihre Transaktion benötigt um final abgeschlossen zu werden, häng
 
 Wozu dieses mathematische Rätsel? Proof-of-Work ist ressourcenintensiv und die Rechner brauchen dafür relativ viel Strom. Dies führt angesichts der Klimasituation, die wir in den letzten Jahrzehnten verändert haben, zu Kritik an Proof-of-Work Blockchains wie Bitcoin. In Kapitel 3.1.11 "Bitcoins ökologischer Fußabtritt" gehe ich näher auf dieses Thema ein.
 
-Wieso wird soviel Elektrizität benötigt? Sicherheit und Dezentralität ist die Antwort. Die Arbeit und die Energie schützt die Daten der Blockchain vor Manipulation, Zensur und macht sie unveränderbar. Kein Staat und keine Organisattion kann sie verändern.
+Wieso wird soviel Elektrizität benötigt? Sicherheit und Dezentralität ist die Antwort. Die Arbeit und die Energie schützt die Daten der Blockchain vor Manipulation, Zensur und macht sie unveränderbar. Kein Staat und keine Organisation kann sie verändern.
 
 Seit dem Entstehen im Jahr 2009 wurde die Bitcoin-Blockchain niemals gehacked. Etwa 18,74 Millionen Bitcoin wurden bisher in Umlauf gebracht, was einem Wert von über 600 Milliarden UD-Dollar (Juni 2021) entspricht. 
 
