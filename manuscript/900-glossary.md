@@ -47,7 +47,7 @@ A system of equally privileged, equipotent participants without a hierarchy on t
 The action of a broker who pledges with a bank or other lender securities already left on deposit with him by a customer as a pledge for their purchase on margin.
 
 **Seed**
-12-24 words that secure your funds on the blockchain. Anyone with the seed has control over the funds on the associated addresses.
+12-24 words that in most of the wallets available in the market (HD wallets), produce all the private/public keys which will control your funds on the blockchain. Anyone with the seed has the control over these keys and therefore, over the funds on the associated addresses.
 
 **Surveillance capitalism**
 A term coined by Shoshana Zuboff. It describes the systematic commodification of personal data by centralized monopolistic companies with the core purpose of profit-making.
