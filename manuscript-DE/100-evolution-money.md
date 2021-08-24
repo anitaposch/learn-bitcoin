@@ -224,7 +224,7 @@ Bitcoin ist eine Alternative zu diesem System. Es schützt unsere Privatsphäre 
 
 [^10]: [Global Monetary Base, Crypto Voices](https://cryptovoices.com/basemoney)
 
-[^11]: [FRED, M2 Money Stock](https://fred.stlouisfed.org/series/M2SL)
+[^11]: [FRED, M2 Money Stock](https://fred.stlouisfed.org/graph/?graph_id=248494)
 
 [^12]: [Lyn Alden, Ponzi scheme](https://www.lynalden.com/bitcoin-ponzi-scheme/)
 
