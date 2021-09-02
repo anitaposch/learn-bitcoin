@@ -192,7 +192,7 @@ We have been in currency wars for many decades. Which currency is stronger? Whic
 
 ![New forms of money emerge](assets/_new-forms-money.png) [^19]
 
-Bitcoin is our alternative to this system. Protecting our privacy in this digital age, voting against the abuse of monopolistic power in the current system, and giving people living in authoritarian states with corrupt rulers the same opportunities to participate in the economic system. Bitcoin is a defence strategy, a tool with which we can preserve the human right to transactional freedom and privacy.
+Bitcoin is our alternative to this system. Protecting our privacy in this digital age, voting against the abuse of monopolistic power in the current system, and giving people living in authoritarian states with corrupt rulers the same opportunities to participate in the economic system. Bitcoin is a defense strategy, a tool with which we can preserve the human right to transactional freedom and privacy.
 
 [^1]: [Illustration NetGuardians retrieved April 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)
 
