@@ -9,5 +9,7 @@
 archived 910-endnotes.md because endnotes are footnotes inside textfiles
 
 ----
+in 100-evolution-money.md last paragraph changed defence to defense
 
+----
 
