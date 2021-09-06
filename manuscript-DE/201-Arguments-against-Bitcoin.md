@@ -1,46 +1,46 @@
-## Arguments Against Bitcoin
+## Argumente gegen Bitcoin
 
-### Volatility
+### Volatilität
 
-_Bitcoin is volatile, you cannot use it as a medium of exchange._
+_Bitcoins Kurs wechselt so stark, weshalb es nicht als Bezahlmittel dienen kann._
 
-Yes, bitcoin price is volatile, it can lose or gain a lot of value in a single day. If you want to pay for something in bitcoin, you can still do so. Just exchange the same amount you have spent from fiat back to bitcoin on the same day. No volatility, no loss or gain.
+Ja, der Bitcoin Preis ist volatil. Der Wert kann in kurzer Zeit stark steigen oder sinken. Sie können dennoch Bitcoin als Zahlungsmittel verwenden. Tauschen Sie einfach denselben Betrag am selben Tag von Euro in Bitcoin. Ergebnis: keine Volatilität, kein Verlust oder Gewinn.
 
-### Price Development
-_Bitcoin is not a store of value due to its price changes._
+### Kursentwicklung
+_Bitcoin ist aufgrund seiner Kursentwicklung kein Wertspeicher._
 
-View bitcoin as a long term investment, it has been the best performing store of value of all asset classes over the last decade. 
+Betrachten wir Bitcoin als Langzeit-Investment, ist es die am besten performende Anlageformen im letzten Jahrzehnt.
 
-![Bitcoin the best asset over the 10 years prior 2021](assets/_best-asset-10years.png) [^27]
+![Bitcoin ist die beste Anlageform der letzten 10 Jahre, Stand 2021](assets/_best-asset-10years.png) [^27]
 
-There is of course no guarantee that this performance will continue forever.
+Es gibt natürlich keine Garantie, dass diese positive Entwicklung sich in den kommenden Jahren genauso fortsetzt. Während der Entstehung dieses Buches befand sich Bitcoin in einem Bullenmarkt, der im vierten Quartal 2020 begann. Der Kurs stieg monatelang mit kleineren Rückschlägen an. Im Mai 2021 fiel der Kurs stark, was viele als gesunden Rückgang in einem überhitzten Markt interpretierten.
 
-At the time of writing bitcoin was in a bull run, which started in the last quarter of 2020. This means that the price appreciated for a period of weeks and months with little setbacks in between. In May 2021 a significant drop occurred, which many interpreted as a healthy setback in an overheated market. The last bull run started in 2017 and ended at the beginning of 2018. Since then the price has moved relatively sideways - as it is called in traders terms - meaning that no particular large up or downwards movement in price. 
+Der vorige Bullenmarkt startete 2017 und ging bis Anfang 2018. Seither entwickelte sich der Preis seitwärts, wie es in der Sprache der Börse heißt, was bedeutet, dass sich der Preis nur marginal nach oben oder unten veränderte. 
 
-![Bitcoin price development](assets/_Bitcoin-price.png)[^28]
+![Die Bitcoin-Kursentwicklung](assets/_Bitcoin-price.png)[^28]
 
-Bitcoin price development is following the halving cycles. Approximately every 4 years the amount of minted bitcoin is reduced by 50%. This means that the growth of available bitcoin on the market is shrinking. Even if the demand for bitcoin only remains at the same level, the price will increase. 
+Die Bitcoin-Kursentwicklung folgt den Halbierungszyklen. Etwa alle vier Jahre halbiert sich die Menge der neu geschürften Bitcoin. Das heißt, das Wachstum an Bitcoin am Markt verkleinert sich, weshalb der Preis steigen wird, selbst wenn die Nachfrage nach Bitcoin am gleichen Level bleibt. 
 
-### Digital Scarcity
-The total bitcoin supply is limited to 21 million, 18.7 million of which are already on the market. Every four years (exactly 210,000 blocks), the amount of bitcoin that is minted is reduced by half. Currently, the mining process generates 6.25 bitcoin every 10 minutes, which is 900 bitcoin per day and 328,500 per year. From 2024, there will only be 450 bitcoin minted per day, as only 3.125 bitcoin will be issued for each block generated. This means that the amount available every day decreases and supply becomes scarcer. If interest increases at the same time, the price rises exponentially.
+### Digitale Knappheit
+Die gesamte Bitcoin-Menge ist auf 21 Millionen limitiert. 18,7 Millionen sind bereits auf dem Markt. Alle vier Jahre, genauer gesagt, alle 210.000 Blöcke, reduziert sich die Menge der neu geschürften Bitcoin, um die Hälfte. Derzeit werden alle 10 Minuten 6,25 Bitcoin erzeugt. Das sind 900 Bitcoin pro Tag und 328.500 pro Jahr. Ab 2024 werden nur 450 Bitcoin pro Tag neu auf den Markt kommen, weil nur mehr 3,125 Bitcoin pro Block ausgegeben werden. Dadurch wird die Menge an verfügbaren Bitcoin geringer und die Menge knapper. Steigt das Interesse an Bitcoin im selben Zeitraum, steigt der Preis exponentiell.
 
-As of May 2021, around 36 million USD (number of daily minted bitcoin * price) must flow into the Bitcoin market every day to keep the current price of 40,000 USD stable. Whenever the price drops, fewer bitcoin were exchanged than were available on that day and vice versa.
+Im Mai 2021 mussten beispielsweise täglich rund 36 Millionen USD (Anzahl täglich geschürfter Bitcoin * aktueller Preis) in Bitcoin getauscht werden, damit sich der Preis bei 40.000 USD hielt. Fällt der Preis, bedeutet es, dass weniger Bitcoin gekauft wurden, als verfügbar waren und umgekehrt. 
 
-The dates of these halvings are annotated in the chart below. The price follows similar patterns before and after each halving. In this chart, the top of bitcoin is predicted to be in September 2021, after which the price is expected to fall again as you can see on the "Low" marked grid lines. Of course, this is just a prediction based on a few historic events and numbers. We cannot take this as a given occurrence in the future. 
+Untenstehende Grafik zeigt den Zeitpunkt der Halbierungen (Halvings). Der Kurs verhielt sich in allen Phasen vor und nach den Halvings ähnlich. In diesem Chart wird der Kurs-Höhepunkt im September 2021 vorhergesagt. Danach fällt der Kurs, was Sie an den "Low" markierten Linien erkennen können. Dies ist eine Annahme, die auf wenigen historischen Ereignissen beruht, weshalb es eine reine Hypothese ist.
 
-![Halving price cycles](assets/_Halving-Price-cycles-by-Pladizow.png) [^29]
+![Halving-Preiszyklen](assets/_Halving-Price-cycles-by-Pladizow.png) [^29]
 
-Since Bitcoin's launch in 2009, there have been several price crashes. Be prepared that this will happen again. The question is how low will it go because on a logarithmic scale you can see that, over time, bitcoin has only gained value in the long term.
+Seit Bitcoins Start im Jahr 2009 gab es mehrere Kurs-Zusammenbrüche. Sicher ist, dass diese wieder auftreten werden. Die Frage ist, wie weit wird der Kurs fallen, denn auf einer logarithmischen Skala können Sie erkennen, dass Bitcoin im Verlauf der Zeit nur an Wert gewonnen hat.
 
-![Bitcoin price logarithmic scale](assets/_Bitcoin-price-log.png)  [^30]
+![Bitcoin-Preis in logarithmischer Darstellung](assets/_Bitcoin-price-log.png)  [^30]
 
->Don't try to outsmart the market, don't trade. Just hold your bitcoin. At least for five years. 
+>Versuchen Sie nicht cleverer als der Markt zu sein und traden Sie nicht. Halten Sie ihre Bitcoin. Mindestens für fünf Jahre.
 
-In the case of a bear market, when the price of bitcoin inevitably goes down, you will lose value in fiat money terms. However, your stack of bitcoin remains the same. If you hold 0.3 bitcoin in a bull market, you hold 0.3 bitcoin in a bear market too. Your losses are in your perception only, depending on what currency or asset you compare your bitcoin to on a given day. Be patient, wait, don't sell - history indicates that long-term holding is a sure way of protecting your value.
+In einem Bärenmarkt, wenn der Kurs stark fällt, werden Sie das Gefühl haben, dass Ihr Vermögen schrumpft. Es sinkt aber nur der Wert in Fiat-Geld, ihre Menge an Bitcoin bleibt dieselbe. 0,3 Bitcoin im Bärenmarkt sind genauso 0,3 Bitcoin im Bullenmarkt. Dieser Gedanke hat mir durch so manches Tief geholfen. Ihr Verlust entsteht durch den Vergleich des Bitcoin-Kurses zu einer anderen Anlageform oder Euro. Bleiben Sie geduldig, verkaufen Sie nicht. Die Geschichte zeigt, dass langfristiges Halten ein sicherer Weg ist, Ihr Vermögen zu sichern. 
 
->Only put as much money into bitcoin as you are willing to lose. If you can't sleep in times of depreciation, then you might hold too much of a risky asset like bitcoin.
+>Investieren Sie nur soviel in Bitcoin, wie Sie gewillt sind zu verlieren. Wenn Ihnen der Kursverfall schlaflose Nächte bereitet, halten Sie vermutlich zuviel von einem riskanten Asset wie Bitcoin.
 
-### No Recourse
+### Kein Widerrufssrecht? No Recourse
   
 _If you send bitcoin to the wrong address, they are lost. You can't get them back._
 
