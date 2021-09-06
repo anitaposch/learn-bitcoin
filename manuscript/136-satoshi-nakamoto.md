@@ -8,6 +8,6 @@ Hal Finney, an American cryptography and computer expert, had long been involved
 
 On January 8, 2009, Nakamoto released the first version of the Bitcoin software. 
 
-Hal Finney was the first after Nakamoto to install the software on his computer, he famously tweeted "Running Bitcoin." on XXXXX (check!) and received a transaction. Hal Finney sadly died of a nerve disease sometime later. Did he know who was hiding behind the pseudonym, Satoshi Nakamoto?
+Hal Finney was the first after Nakamoto to install the software on his computer, he famously tweeted "Running Bitcoin" on January 11, 2009 and received a transaction. Hal Finney sadly died of a nerve disease sometime later. Did he know who was hiding behind the pseudonym, Satoshi Nakamoto?
 
 Until April 26 2011, Nakamoto participated in discussions about the Bitcoin network - they answered questions from other developers, explained new features of the software, and outlined some motives behind it. The last message (possibly) left by Satoshi Nakamoto was in March 2014 when a report about the alleged identification of the Bitcoin "inventor" went through the media. In San Francisco, Newsweek magazine tracked down Dorian Satoshi Nakamoto, an American of Japanese descent. It was claimed that he was the brains behind Bitcoin. With "I am not Dorian Nakamoto", the alleged Satoshi Nakamoto announced that Dorian was not "the" Satoshi Nakamoto.
