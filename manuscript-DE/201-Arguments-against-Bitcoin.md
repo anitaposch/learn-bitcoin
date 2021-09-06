@@ -4,7 +4,7 @@
 
 _Bitcoins Kurs wechselt so stark, weshalb es nicht als Bezahlmittel dienen kann._
 
-Ja, der Bitcoin Preis ist volatil. Der Wert kann in kurzer Zeit stark steigen oder sinken. Sie können dennoch Bitcoin als Zahlungsmittel verwenden. Tauschen Sie einfach denselben Betrag am selben Tag von Euro in Bitcoin. Ergebnis: keine Volatilität, kein Verlust oder Gewinn.
+Ja, der Bitcoin Preis ist volatil. Der Wert kann in kurzer Zeit stark steigen oder sinken. Sie können dennoch Bitcoin als Zahlungsmittel verwenden. Tauschen Sie einfach denselben Betrag am selben Tag von Euro in Bitcoin. Ergebnis: keine Volatilität, weder Verlust noch Gewinn.
 
 ### Kursentwicklung
 _Bitcoin ist aufgrund seiner Kursentwicklung kein Wertspeicher._
@@ -42,15 +42,19 @@ In einem Bärenmarkt, wenn der Kurs stark fällt, werden Sie das Gefühl haben, 
 
 ### Kein Widerrufssrecht? No Recourse
   
-_If you send bitcoin to the wrong address, they are lost. You can't get them back._
+_Senden Sie Bitcoin an eine falsche Adresse, sind sie für Sie verloren. Sie können sie nicht zurückfordern._
 
-Triple-check the address before you send bitcoin. You can't reverse a payment. As with fiat money, if you buy something at an online store and return the product, it's the store's business responsibility to handle the bitcoin and send it back to you. However, a simple mistyping of an address should result in an error rather than lost funds, as addresses include integrity checks.
+Kontrollieren Sie eine Bitcoin-Adresse  mehrmals, bevor Sie Bitcoin senden. Zahlungen können nicht rückgängig gemacht werden. Wenn Sie etwas in einem online Shop mit Bitcoin bezahlen und die Ware retournieren, obliegt es dem Händler genauso wie bei Fiat-Geld Ihnen den Betrag zurückzuerstatten.
 
-### No Safety Net
+Falls Sie sich vertippen und es die Adresse nicht gibt, sollten Sie eine Fehlermeldung angezeigt bekommen, da Bitcoin-Adressen einer Integritätsprüfung unterliegen.
 
-_In developed regions of the world, bank account deposits (in Europe up to 100,000 euro) are insured. This is not the case with bitcoin._
+### Keine Einlagensicherung
 
-That's correct. If you self-custody your bitcoin, then you are solely responsible. There is no insurance. But be aware that, in case of a big financial crisis, these fiat insurances might not be able to pay you back anyhow. During the financial crisis in Cyprus in 2013, 47.5% of all bank deposits above 100,000 euro were seized. If you self-custody - nobody can seize your bitcoin.
+_In besser entwickelten Regionen der Welt sind Einlagen auf Bankkonten versichert (in Europa bis 100.000 Euro). Das trifft auf Bitcoin nicht zu._
+
+Das ist richtig. Mit großer Freiheit, kommt große Verantwortung. Wenn Sie ihre Bitcoin selbst verwahren, sind Sie alleine verantwortlich. Es gibt keine Versicherung. Aber: im Fall eines Zusammenbruchs des Bankensystems, wird ihnen diese Versicherung möglicherweise nichts nützen. Während der Finanzkrise in Zypern im Jahr 2013 wurden 47,5% aller Konten mit Einlagen von mehr als 100.000 Euro beschlagnahmt. Niemand kann Ihre Bitcoin beschlagnahmen, wenn Sie die privaten Schlüssel selbst verwalten.
+
+Wenn wir uns umsehen und 
 
 If we open our eyes and think of the rest of the world, where 2 billion people are unbanked and 80% of the world's population live in authoritarian states, the case for an uncensorable money such as bitcoin, where you are in control and not a bank, makes logical sense again. In those countries, where people have no safety net at all, the Bitcoin network can give security. 
 
