@@ -23,176 +23,176 @@
 
 ![History of money](assets/_money-history.png) [^2]
 
-Programmable cryptographic money or the "Internet of Money" - as Andreas M. Antonopoulos puts it - is unstoppable. We are at the beginning of a new era in the history of mankind. 
+Программируемые криптографические деньги или «Интернетные деньги», как выразился Андреас М. Антонопулос, остановить невозможно. Мы находимся в начале новой эры в истории человечества.
 
-## Rai Stones of Yap
-If Bitcoin sounds mind-boggling and you can't grasp the concept of a blockchain as a shared ledger of truth, the Rai of the Isle of Yap is a good example to introduce some overlapping concepts.
+## Рай Камни Япа
+Если биткойн звучит ошеломляюще, и вы не можете понять концепцию блокчейна как общего реестра истины, Рай с острова Яп является хорошим примером для введения некоторых пересекающихся концепций.
 
-Rai are large stone disks used on Yap island in the Western Pacific (Micronesia). They were "minted" from the limestone deposits of the island of Palau and used as a currency until the 20th century. 
+Рай - это большие каменные диски, используемые на острове Яп в западной части Тихого океана (Микронезия). Они были «отчеканены» из известняковых отложений острова Палау и использовались в качестве валюты до 20 века.
 
 ![Rai stones with carrying logs, 1903](assets/_Stone_Money_of_Uap_1903_Jayne,_String_Figures_p160.jpg) [^3] 
 
-Rai stones were brought to Yap via boat and, due to their size and weight, were not moved when spent, but simply changed owners. Every transaction was "recorded" orally within the small community, with the stone's ownership history becoming common knowledge. Eventually, the transaction "history"/"ledger" became the only part that mattered. A stone was once dropped by the canoe transferring it to Yap and sank. The stone was deemed to still be money, since it still existed, even though no one has seen or had access to it since. 
+Камни Раи были доставлены на Яп на лодке и из-за их размера и веса не перемещались, когда использовались, а просто меняли владельцев. Каждая сделка «записывалась» устно внутри небольшого сообщества, и история владения камнем становилась общеизвестной. В конце концов, «история» / «книга» транзакций стала единственной частью, которая имела значение. Однажды на каноэ, переместившем его в Яп, упал камень и затонул. Считалось, что камень все еще был деньгами, поскольку он все еще существовал, хотя с тех пор его никто не видел и не имел к нему доступа.
 
-This is particularly important because it demonstrates a naturally occurring use of a ledger of transactions. The ledger was shared orally between the inhabitants and attributed ownership and delegated property without a single stone moving; everyone agreed on it and a consensus was formed. This is how we can make a comparison to the functions of the Bitcoin blockchain; it is a shared ledger of all transactions, stored simultaneously on thousands of computers (nodes) globally. [^4]
+Это особенно важно, поскольку демонстрирует естественное использование реестра транзакций. Жители устно передавали бухгалтерскую книгу и передавали собственность и делегировали собственность без единого перемещения камня; все согласились с этим, и был сформирован консенсус. Вот как мы можем провести сравнение с функциями блокчейна Биткойн; это общий реестр всех транзакций, хранящийся одновременно на тысячах компьютеров (узлов) по всему миру. [^ 4]
 
-Another similarity to Bitcoin is the actually creation of Rai stone, which was work intense and a form of proof-of-work. The stones were carved out with hand tools, quarried overseas and brought to the island via canoe. Once the Rai stones became easy to manufacture with modern techniques, they became less useful as money, because they were no longer a reliable indicator of energy spent.
+Еще одно сходство с Биткойном - это создание камня Раи, который требовал интенсивной работы и являлся формой доказательства работы. Камни были вырезаны с помощью ручных инструментов, добыты за границей и доставлены на остров на каноэ. Как только камни Раи стало проще производить с помощью современных технологий, они стали менее полезными в качестве денег, поскольку перестали быть надежным индикатором затраченной энергии.
 
-Rai stones have been viewed by modern economists as a primitive form of money, and are often used as an example to support the thesis that the value of some forms of money can be assigned purely through a shared belief in said value.[^5] Today's money is not backed by anything either. In fact, it is only established and declared legal tender by government regulation. Because of that, it is the medium of account we use and therefore is perceived as valuable.
+Камни Раи рассматриваются современными экономистами как примитивная форма денег и часто используются в качестве примера для подтверждения тезиса о том, что ценность некоторых форм денег может быть определена исключительно через общую веру в указанную ценность [^ 5]. Сегодняшние деньги тоже ничем не обеспечены. Фактически, это только учреждено и объявлено законным платежным средством только постановлением правительства. По этой причине мы используем этот инструмент для расчетов, и поэтому он воспринимается как ценный.
 
 
-## How Money Is Created
+## Как создаются деньги
 
->"The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust."- Satoshi Nakamoto
+>«Все вынуждены доверять центральному банку, чтобы он не обесценивал валюту, но история фиатных валют полна нарушений этого доверия», - Сатоши Накамото
 
-Learning about Bitcoin was an eye-opener for me. There are two distinct periods of my life, one before Bitcoin and one after Bitcoin. I see things completely differently today. In my goal to understand Bitcoin, I first had to understand the current monetary system. What are the differences between currency systems like the USD or Euro and Bitcoin? What is inflation? What role are central banks playing, and so on? It's puzzling that we do not learn these concepts in school, but this specific lack of education may, unfortunately, be intentional.
+Информация о Биткойне открыла мне глаза. В моей жизни есть два различных периода: один до Биткойна и один после Биткойна. Сегодня я смотрю на вещи совершенно по-другому. Чтобы понять Биткойн, я сначала должен был понять текущую денежную систему. В чем разница между валютными системами, такими как доллар США или евро и биткойн? Что такое инфляция? Какую роль играют центральные банки и т. Д.? Вызывает недоумение то, что мы не изучаем эти концепции в школе, но этот конкретный недостаток образования, к сожалению, может быть преднамеренным.
 
-180 currencies are used in 195 countries around the world. A currency is a system of money in common use, defined by governments. Many jurisdictions define their national currency as legal tender; it is money declared by law to be valid for the payment of debts that cannot be refused as a method of payment.
+180 валют используются в 195 странах мира. Валюта - это обычная денежная система, определяемая правительствами. Многие юрисдикции определяют свою национальную валюту как законное платежное средство; это деньги, объявленные законом действительными для выплаты долгов, от которых нельзя отказаться как способ оплаты.
 
-All 180 currencies – the US Dollar, the Euro, the Yen and the Pound Sterling, for example – can be defined as being within a category called ‘fiat money’. Since 1971, none of these fiat currencies has been backed by gold or by any other tangible asset. Money has value because we believe in it. Money is a language to express how valuable something is, socially. The word fiat stems from Latin and means "let it be done". Current money is created through an entry in a digital ledger and is just a number in an accounting system. There is no creation of real-world productivity behind it.
+Все 180 валют - например, доллар США, евро, иена и фунт стерлингов - можно определить как относящиеся к категории, называемой «бумажные деньги». С 1971 года ни одна из этих бумажных валют не была обеспечена золотом или другими материальными активами. Деньги имеют ценность, потому что мы в них верим. Деньги - это язык, на котором выражается социальная ценность чего-либо. Слово fiat происходит от латинского и означает «пусть будет». Текущие деньги создаются посредством записи в цифровой книге и представляют собой просто число в системе бухгалтерского учета. За этим не стоит создание реальной производительности.
 
-Who is in charge of the creation of money? It’s a mix of governments and central banks, together with commercial banks. It’s a centralized, hierarchical system with gatekeepers. There is no agreement on a supply limit or emission rate.
+Кто отвечает за создание денег? Это смесь правительств и центральных банков, а также коммерческих банков. Это централизованная иерархическая система с привратниками. Нет соглашения о лимите поставки или норме выбросов.
 
-Fiat is "money by decree"; it's coercively managed through the state's implicit threat of violence. Value is being maintained by the creation of an endless tax liability that you can only satisfy with fiat money and by state-administered security markets, as well as legal tender laws and tax policy.
+Фиат - это «деньги по указу»; это осуществляется принудительно с помощью неявной угрозы насилия со стороны государства. Стоимость поддерживается за счет создания бесконечных налоговых обязательств, которые вы можете удовлетворить только с помощью бумажных денег и управляемых государством рынков ценных бумаг, а также законов о законных платежных средствах и налоговой политики.
 
-* Money is created by central banks in the form of paper money and coins. 
-* Central banks buy assets and bonds from the open market, money flows into the system. 
-* Money is created through government stimulus, through benefits, grants and bail outs. 
-* Money is created by commercial banks through loans.
+* Деньги создаются центральными банками в форме бумажных денег и монет.
+* Центральные банки покупают активы и облигации на открытом рынке, деньги поступают в систему.
+* Деньги создаются за счет государственных стимулов, льгот, грантов и финансовой помощи.
+* Деньги создаются коммерческими банками за счет ссуд.
 
-### Money Is Created Through Debt
-The last point is one we all know. It is how we take out a loan to buy a house, start a business or buy a car. The process is easy, but only for those who are already privileged. If you cannot put forward some security as collateral, you are a small business owner, you do not have a regular fixed income job, or you are a woman in a country where women are still forbidden to own any property, then you will probably not qualify for credit at your bank. If you do get the loan, the bank edits its digital ledger and adds the credit sum to its account. You then owe them the loan plus the rate of interest. You must now go out and work or sell something in order to be able to pay back the loan plus the interest rate. It's a great deal for the banks. They add nothing, but earn the fees for your loan agreement and the interest on your payback.
+### Деньги создаются долгом
+Последний пункт известен всем. Это то, как мы берем ссуду на покупку дома, открытия бизнеса или покупки машины. Процесс прост, но только для тех, кто уже имеет привилегии. Если вы не можете предложить какое-либо обеспечение в качестве залога, вы являетесь владельцем малого бизнеса, у вас нет постоянной работы с фиксированным доходом или вы женщина из страны, где женщинам все еще запрещено владеть какой-либо собственностью, тогда вы, вероятно, не будете претендовать на получение кредита в вашем банке. Если вы все же получаете ссуду, банк редактирует свою цифровую книгу и добавляет сумму кредита на свой счет. Затем вы должны им ссуду плюс процентную ставку. Теперь вы должны пойти работать или продать что-нибудь, чтобы иметь возможность выплатить ссуду плюс процентную ставку. Для банков это отличная сделка. Они ничего не добавляют, но получают комиссию по вашему кредитному соглашению и проценты по вашей выплате.
 
-On top of that, there is something called fractional-reserve banking. This allows banks to lend out more money than they hold in reserves or as balances in their account at the central bank. The minimum amount that banks must hold in liquid assets, called the "reserve ratio", is determined by the central bank. This rate varies from country to country. In the Euro area, banks have to hold a minimum of 1% at the time of writing. In March 2020 the FED abolished this minimum reserve requirement due to the COVID-19 pandemic. Canada, the UK, New Zealand, Australia, Sweden and Hong Kong all have no reserve requirements. If each of us were to go to the bank today and request to withdraw our money, the banking system would fall apart. Because the banks have lent out more money than they own, they would be unable to give you back your own money. 
+Кроме того, существует так называемое банковское дело с частичным резервированием. Это позволяет банкам ссужать больше денег, чем они хранят в резервах или остатках на их счетах в центральном банке. Минимальная сумма, которую банки должны держать в ликвидных активах, называемая «нормой резервирования», определяется центральным банком. Эта ставка варьируется от страны к стране. В зоне евро банки должны держать минимум 1% на момент написания. В марте 2020 года ФРС отменила это требование о минимальных резервах из-за пандемии COVID-19. Канада, Великобритания, Новая Зеландия, Австралия, Швеция и Гонконг не имеют резервных требований. Если бы каждый из нас сегодня пошел в банк и попросил снять наши деньги, банковская система развалилась бы. Поскольку банки ссудили больше денег, чем они имеют, они не смогут вернуть вам ваши собственные деньги.
 
-In 2020 global debt rose by an incredible 24 trillion to 281 trillion USD, or 355% of global GDP. [^6]
+В 2020 году мировой долг вырос на невероятные 24 триллиона до 281 триллиона долларов США, или 355% мирового ВВП. [^6]
 
 ![Debt-to-GDP ratios](assets/_Debt-to-GDP-ratio-2020.jpg)
 
-### Central Banks as Lenders of Last Resort
-Commercial banks can and have called for the help of the central bank as lenders of last resort. In 2008/2009 the banks, who were responsible for the global financial crisis, received their bail-out money. They were rescued because they were "too big to fail". And what did they do with the money? They bought back shares in their own companies. Nothing "trickled down" down into the economy. The gap between rich and poor inevitably became bigger and bigger.
+### Центральные банки кредиторы как крайнее средство
+Коммерческие банки могли и обращались за помощью к центральному банку как к кредиторам последней инстанции. В 2008/2009 гг. Банки, ответственные за мировой финансовый кризис, получили деньги на спасение. Их спасли, потому что они были «слишком большими, чтобы потерпеть неудачу». И что они сделали с деньгами? Они выкупили акции своих компаний. Ничего не «просочилось» в экономику. Разрыв между богатыми и бедными неизбежно становился все больше и больше.
 
-Central banks are called lenders of last resort. The objective is to prevent economic disruption as a result of financial panics, and bank runs spreading from one bank to the next due to a lack of liquidity. Financial actors like banks know that the central banks will have to bail them out, which leads to moral hazard - excessive risk-taking by both bankers and investors.
+Центральные банки называют кредиторами последней инстанции. Цель состоит в том, чтобы предотвратить экономические потрясения в результате финансовой паники и перераспределения банковских операций от одного банка к другому из-за нехватки ликвидности. Финансовые участники, такие как банки, знают, что центральным банкам придется их выручить, что ведет к моральному риску - чрезмерному принятию рисков как банкирами, так и инвесторами.
 
-The creation of artificial money through central banks overshadowed the distortion in the market. Because of the flooding and manipulation of the monetary system with cheap money, there is no rational price finding mechanism anymore. Usually, supply and demand determine the value of goods and commodities but, in a distorted and manipulated market, there is no room for fair price discovery. The global middle class is paying for the financial elites' greed which, in turn, is being fed by a corrupted system of money creation.
+Создание искусственных денег через центральные банки затмило искажения на рынке. Из-за наводнения и манипулирования денежной системой дешевыми деньгами рационального механизма определения цен больше нет. Обычно спрос и предложение определяют стоимость товаров и сырьевых товаров, но на искаженном и управляемом рынке нет места для определения справедливой цены. Мировой средний класс платит за жадность финансовых элит, которая, в свою очередь, подпитывается коррумпированной системой создания денег.
 
-Have you, as an individual, ever been bailed out? And if you have, would you do the same thing over and over again, rigging the system knowing that there is a last resort, which will always bail you out? This is exactly what banks, Wall Street, Hedge Funds and their lobbying lawyers do constantly, assisted by central banks all over the world.
+Выручили ли вы, как личность, когда-нибудь? И если да, то стали бы вы делать одно и то же снова и снова, настраивая систему, зная, что существует крайняя мера, которая всегда выручит вас? Именно этим постоянно занимаются банки, Уолл-стрит, хедж-фонды и их лоббистские юристы, которым помогают центральные банки всего мира.
 
-"Classically, central banks hold reserves in case of emergencies, set interest rates, and allocate funds to stimulate or slow economies after disruptive events like panics or wars. The more recent role they have assumed is one of securing the entire financial system and influencing the economic trajectory of entire sovereign nations. This is the antithesis of democratic rule. Such a monetary oligarchy operates beyond democratic norms and limits." [^7]
+«Традиционно центральные банки хранят резервы на случай чрезвычайных ситуаций, устанавливают процентные ставки и выделяют средства для стимулирования или замедления экономики после разрушительных событий, таких как паника или войны. экономическая траектория целых суверенных наций. Это противоположность демократического правления. Такая денежная олигархия действует за пределами демократических норм и ограничений ». [^ 7]
 
-Naomi Prins' book tapped into the psyche of Wall Street, revealing how the very structure of the financial system hinged on traders flocking to the next big bet, regardless of the stakes. In addition, the _same_ people and families kept popping up, cycling through Wall Street and Washington. They influenced the economy beneath them from their loftier heights of status, private money and public office, dismantling laws that stood in their way and finding loopholes through others. Private banks normalized market manipulation. Central banks made it an art form, with no limits." [^8] 
+Книга Наоми Принс проникла в сознание Уолл-стрит, показывая, как сама структура финансовой системы зависит от трейдеров, стекающихся к следующей крупной ставке, независимо от ставок. Вдобавок одни и те же люди и семьи продолжали появляться, разъезжая по Уолл-стрит и Вашингтону. Они влияли на экономику, находящуюся ниже их уровня, с их более высокого статуса, личных денег и государственной должности, разрушая законы, которые стояли у них на пути, и находя лазейки через других. Частные банки нормализовали манипулирование рынком. Центральные банки превратили это в безграничное искусство »[^ 8].
 
-### Money Supply Inflation
+### Инфляция денежного запаса
 
-Let's take the US Dollar as an example for all fiat currencies. Because of money supply inflation, the more USD are available, the less value a single note has. Imagine a banknote as a commodity like copper. If there is more copper on the market than there is demand, the price of copper is falling; its value is decreasing. The same is true for your banknote. The value of fiat currencies is determined by supply and demand too. If you increase the supply and the demand stays the same, the value of one unit decreases. 
+Давайте возьмем доллар США в качестве примера для всех фиатных валют. Из-за инфляции денежной массы чем больше долларов США доступно, тем меньше ценность отдельной банкноты. Представьте себе банкноту как товар, похожий на медь. Если на рынке больше меди, чем есть спрос, цена на медь падает; его стоимость снижается. То же самое и с вашей банкнотой. Стоимость фиатных валют также определяется спросом и предложением. Если вы увеличиваете предложение, а спрос остается прежним, стоимость одной единицы уменьшается.
 
-The money supply consists of various types of money that are generally classified as Ms, such as M0 (base money), M1, M2 and M3. The definitions might vary slightly in different countries. 
+Денежная масса состоит из различных типов денег, которые обычно классифицируются как Ms, таких как M0 (денежная база), M1, M2 и M3. Определения могут незначительно отличаться в разных странах.
 
-The monetary base (M0) is the total amount of a currency in physical paper and coin that is either in circulation in the hands of the public or in the form of commercial bank deposits held in the central bank's reserves. [^9] 
+Денежная база (M0) - это общая сумма валюты в физических бумагах и монетах, которые либо находятся в обращении в руках населения, либо в форме депозитов коммерческих банков, хранящихся в резервах центрального банка. [^ 9]
 
-As long as you hold cash, it is an asset like bitcoin, a property that you own. If you take your cash and store it at the bank, you have a claim, but don't own the money anymore. Similar to bitcoin at an exchange.
+Пока у вас есть наличные, это актив, такой как биткойн, собственность, которой вы владеете. Если вы возьмете наличные и храните их в банке, у вас есть претензия, но вы больше не владеете деньгами. Подобно биткойну на бирже.
 
-Any other fiat money supply (M1, M2, M3) is comprised of claims on base money. [^10]
+Любая другая масса бумажных денег (M1, M2, M3) состоит из требований на базовые деньги. [^ 10]
 
-M1 includes M0, demand deposits, traveler’s checks, and other checkable deposits, that are easily convertible to cash.
+M1 включает M0, депозиты до востребования, дорожные чеки и другие чековые депозиты, которые легко конвертировать в наличные.
 
-M2 includes M0, M1, money market securities, mutual funds and other time deposits. These assets are less liquid than M1 and not as suitable as exchange mediums, but they can be quickly converted into cash or checking deposits. M2 is closely watched as an indicator of money supply and future inflation, and as a target for central bank monetary policy.
+M2 включает M0, M1, ценные бумаги денежного рынка, паевые инвестиционные фонды и другие срочные вклады. Эти активы менее ликвидны, чем M1, и не подходят в качестве средств обмена, но их можно быстро конвертировать в наличные или чековые депозиты. M2 внимательно отслеживается как индикатор денежной массы и будущей инфляции, а также как цель денежно-кредитной политики центрального банка.
 
-The amount of M2 currency in circulation in the US was **19.7 trillion USD** in February 2021. [^11] Look at the growth in 2020.
+Количество валюты М2 в обращении в США составляло ** 19,7 трлн долларов США ** в феврале 2021 года. [^ 11] Посмотрите на рост в 2020 году.
 
 ![M2 Money Stock Growth USA, 2021 ](assets/_M2-money-stock-US-2021.png)
 
-"We accept this as normal because we assume it will never end. The fractional reserve banking system has functioned around the world for hundreds of years (first gold-backed, and then totally fiat-based), albeit with occasional inflationary events along the way to partially reset things.
+«Мы принимаем это как нормальное явление, потому что предполагаем, что этому никогда не будет конца. Банковская система с частичным резервированием функционировала по всему миру в течение сотен лет (сначала обеспеченная золотом, а затем полностью основанная на бумажных средствах), хотя время от времени возникали инфляционные события. чтобы частично сбросить настройки.
 
-Each individual unit of fiat currency has degraded about 99% in value or more over a multi-decade timeline. This means that investors either need to earn a rate of interest that exceeds the real inflation rate (which is not currently happening), or they need to buy investments instead, which inflates the value of stocks and real estate compared to their cash flows and pushes up the prices of scarce objects like fine art." [^12]
+Каждая отдельная единица фиатной валюты обесценилась примерно на 99% или более за несколько десятилетий. Это означает, что инвесторам либо нужно получать процентную ставку, превышающую реальный уровень инфляции (чего в настоящее время не происходит), либо вместо этого им нужно покупать инвестиции, что увеличивает стоимость акций и недвижимости по сравнению с их денежными потоками и подталкивает подняли цены на редкие предметы, такие как изобразительное искусство »[^ 12]
 
-Adding to money supply inflation is the fact that the population in the US and other western nations is not growing at the same rate as the money supply. "US population used to grow at maybe 1.5% per year, and now grows closer to 0.5% per year. That's pretty important. Meanwhile, broad money supply is up 25% year over year, and is on track to be up 75%+ over a rolling 5-year period in the future." [^13]
+К инфляции денежной массы добавляется тот факт, что население США и других западных стран не растет такими же темпами, как денежная масса. «Население США росло, может быть, на 1,5% в год, а теперь приближается к 0,5% в год. Это очень важно. Между тем, широкая денежная масса увеличивается на 25% в годовом исчислении, и скоро вырастет на 75% +. в течение скользящего 5-летнего периода в будущем ". [^ 13]
 
-Strictly speaking, inflation occurs when the money supply outstrips nominal GDP growth, which consists of population and productivity growth. The Consumer Price Index of the USA shows that the prices for goods went up since the value of money has declined.
+Строго говоря, инфляция возникает, когда денежная масса опережает рост номинального ВВП, который состоит из роста населения и производительности. Индекс потребительских цен США показывает, что цены на товары выросли, поскольку стоимость денег снизилась.
 ![Consumer Price Index US 2020](assets/_Consumer-Price-index-US-2021.png) [^14]
 
-### Ponzi Scheme
+### Схема Понци
 
-> Ponzi scheme: "A form of fraud in which belief in the success of a fictive enterprise is fostered by payment of quick returns to first investors from money invested by others." - **Oxford English Dictionary**
+> Схема Понци: «Форма мошенничества, при которой вера в успех фиктивного предприятия поддерживается за счет выплаты быстрой прибыли первым инвесторам за счет денег, вложенных другими».- **Оксфордский словарь английского языка**
 
-Bitcoin enemies call it a Ponzi scheme. I say, they either do not understand Bitcoin or what the real Ponzi system is, or they have a vested interest in Bitcoin not succeeding. Charles Ponzi was arrested in the US in 1920 for taking $20 million dollars from tens of thousands of victims. His promise was to double their money within three months. In return for cash, investors received promissory notes that guaranteed the original investment plus 50 percent interest. These notes bore Ponzi's ink-stamped signature. Many referred to them as "Ponzi notes".
+Враги биткойнов называют это схемой Понци. Я говорю, что они либо не понимают Биткойн или то, что такое настоящая система Понци, либо они заинтересованы в том, чтобы Биткойн не добился успеха. Чарльз Понци был арестован в США в 1920 году за то, что забрал 20 миллионов долларов у десятков тысяч жертв. Он обещал удвоить их деньги в течение трех месяцев. В обмен на наличные деньги инвесторы получали векселя, которые гарантировали первоначальные инвестиции плюс 50% процентов. На этих записях стояла подпись Понци, сделанная чернилами. Многие называли их «заметками Понци».
 
-> "My business was simple. It was the old game of robbing Peter to pay Paul. You would give me one hundred dollars and I would give you a note to pay you one-hundred-and-fifty dollars in three months…My notes became more valuable than American money…Then came trouble. The whole thing was broken." - **Charles Ponzi**
+> «Мой бизнес был прост. Это была старая игра в ограбление Питера, чтобы заплатить Полу. Вы дадите мне сто долларов, а я дам вам записку, чтобы заплатить вам сто пятьдесят долларов через три месяца… Мои записи стал более ценным, чем американские деньги… Потом начались проблемы. Все было сломано ». - ** Чарльз Понци **
 
-If you want to know more, [listen to my podcast episode about the life and story of Italian-born Charles Ponzi](https://anita.link/ponzi). You can find it at https://anita.link/ponzi.
+Если вы хотите узнать больше, [послушайте мой подкаст о жизни и истории итальянца Чарльза Понци](https://anita.link/ponzi). Вы можете его найти на https://anita.link/ponzi.
 
-**Characteristics of a Ponzi Scheme**
+**Характеристики Схемы Понци**
 
-* A Ponzi scheme has a centralized actor, leader or organization that collects investments and runs off in the end. 
-* Ponzi schemes are not auditable or transparent. Nobody except the creator knows what happens to the funds. 
-* A Ponzi scheme issues money until it breaks - there is no supply limit. 
-* Difficulty in repaying investors: the more money that flows into the scheme, the more money has to be paid back, and the more difficult it gets for the creator to stop the machine. 
-* The system has to break one day, there is no way out.
-* The scammers earn money for lending out funds with no real contribution to the economic performance of a country.
-* Greed is driving the Ponzi scheme. Retail investors who get in early, earn interest and tell others, who also want to get rich quick.
+* У схемы Понци есть централизованный субъект, лидер или организация, которая собирает инвестиции и в конце концов уходит.
+* Схемы Ponzi не подлежат аудиту или прозрачности. Никто, кроме создателя, не знает, что происходит с фондами.
+* Схема Ponzi выпускает деньги до тех пор, пока не сломается - предела предложения нет.
+* Сложность выплат инвесторам: чем больше денег поступает в схему, тем больше денег нужно вернуть и тем сложнее создателю остановить машину. 
+* Система должна сломаться в один прекрасный день, выхода нет.
+* Мошенники зарабатывают деньги на ссуде средств без реального вклада в экономические показатели страны.
+* Жадность движет схемой Понци. Розничные инвесторы, которые приходят рано, получают проценты и рассказывают другим, кто тоже хочет быстро разбогатеть.
 
-Let's compare these characteristics to today's system of money creation.
+Давайте сравним эти характеристики с сегодняшней системой создания денег.
 
-**Characteristics of Fiat Money Creation**
+**Характеристики создания фиатных денег**
 
-* Centralized actors like governments, central banks and commercial banks create money.
-* The monetary system is not auditable or transparent.
-* There is no money supply limit.
-* Difficulty in repaying investors: due to the fractional-reserve banking system, if only 20% of a banks customers where to request a payout at the same time the bank gets into trouble and will say "no" to your withdrawal. This happens regularly around the world and happened to some US banks in early 2020 during the pandemic shutdown.
-* The system has to break one day, there is no way out.
-* Banks earn money for lending out funds with no real contribution to the economic performance of a country.
-* Greed is driving the fiat system. Financial elites receive cheap loans because they own securities to buy more securities and grow their wealth and power.
+* Централизованные субъекты, такие как правительства, центральные банки и коммерческие банки, создают деньги.
+* Денежно-кредитная система не подлежит аудиту и не прозрачна.
+* Лимита денежной массы нет.
+* Сложность выплат инвесторам: из-за банковской системы с частичным резервированием, если только 20% клиентов банка могут запросить выплату, в то же время банк попадает в беду и скажет «нет» на ваш вывод. Это происходит регулярно по всему миру и произошло с некоторыми банками США в начале 2020 года во время закрытия пандемии.
+* Система должна сломаться в один прекрасный день, выхода нет.
+* Банки зарабатывают деньги на ссуде средств без реального вклада в экономические показатели страны.
+* Жадность движет фиатной системой. Финансовые элиты получают дешевые ссуды, потому что они владеют ценными бумагами, чтобы покупать больше ценных бумаг и приумножать свое богатство и власть.
 
-### The Real Ponzi Scheme
+### Настоящая Схема Понци
 
-* The only similarity between Bitcoin and a Ponzi scheme is the network effect of greed. But unlike a Ponzi, you can hold the keys to your bitcoin yourself. There is no bank or centralized actor controlling your bitcoin.
+* Единственное сходство между Биткойном и схемой Понци - это сетевой эффект жадности. Но в отличие от Понци, вы можете сами держать ключи от своих биткойнов. Нет банка или централизованного субъекта, контролирующего ваш биткойн.
 
-* Bitcoin has a limited supply. Only 21 million will ever be created. Bitcoin is finite, fiat currency is infinite. There can be no money supply based inflation in Bitcoin.
+* Количество биткойнов ограничено. Будет создан только 21 миллион. Биткойн конечен, фиатная валюта бесконечна. В Биткойне не может быть инфляции, основанной на денежной массе.
 
-* Bitcoin's issuance is predetermined by an algorithm that all actors in Bitcoin have agreed upon and secure via operating nodes. It can not be altered without the consent of the global Bitcoin community. Since the 21 million bitcoin limit is one of the most important features of Bitcoin, an agreement for changing it will be very hard or even impossible to achieve.
+* Выпуск Биткойна предопределен алгоритмом, который согласован всеми участниками Биткойна и который защищен через рабочие узлы. Он не может быть изменен без согласия мирового биткойн-сообщества. Поскольку лимит в 21 миллион биткойнов является одной из самых важных особенностей Биткойна, соглашение об изменении его будет очень сложно или даже невозможно достичь.
 
-* Central bankers are determining the financial fate of all countries around the world. They are not elected, but they act as governments trying to control the entire financial market. 
+* Центральные банкиры определяют финансовую судьбу всех стран мира. Их не избирают, но они действуют как правительства, пытающиеся контролировать весь финансовый рынок.
 
-* The Cantillon effect was described by Irish-French economist Richard Cantillon around 1730. He suggested that inflation occurs gradually and that the new supply of money created by the banks has a localised effect on inflation, rewarding the bankers and close actors by artificially creating money, benefiting those closest to the origin of money. 
+* Эффект Кантильона был описан ирландско-французским экономистом Ричардом Кантильоном около 1730 года. Он предположил, что инфляция происходит постепенно и что новая денежная масса, создаваемая банками, оказывает локализованное влияние на инфляцию, вознаграждая банкиров и близких игроков за счет искусственного создания денег. , принося пользу тем, кто был ближе всего к источнику денег.
 
-> "The Fed's crisis and post-crisis monetary policies, adopted by other major central banks, was supposed to "trickle down" to the masses. That didn't happen. The global elites knew this then, and they are more aware of it now. In January 2017, the World Economic Forum admitted that rising inequality threatens the world economy. These colluders provoke inequality because it benefits them and the preservation of their global power hierarchies to the detriment of everything and everyone else." - **Nomi Prins** [^15]
+> «Кризисная и посткризисная денежно-кредитная политика ФРС, принятая другими крупными центральными банками, должна была« просочиться »в массы. Этого не произошло. Мировая элита знала об этом тогда, и они больше осведомлены об этом сейчас В январе 2017 года Всемирный экономический форум признал, что растущее неравенство угрожает мировой экономике. Эти сговоры провоцируют неравенство, потому что это приносит им пользу и сохранение их глобальной иерархии власти в ущерб всему и всем остальным ». - ** Номи Принс ** [^15]
 
 
-### The End of This Kind of Growth
+### Окончание такого типа роста
 
-Wealth inequality has been rising in the last few centuries along with the commodification and monetization of natural resources. Nothing is left to be consumed. We are living through a fight for resources, for equal opportunities against the establishment and elites enriching themselves through corruption and financial advantages.
+Неравенство в богатстве росло в последние несколько столетий вместе с коммодификацией и монетизацией природных ресурсов. Больше нечего есть. Мы живем в условиях борьбы за ресурсы, за равные возможности против истеблишмента и элит, обогащающихся за счет коррупции и финансовых преимуществ.
 
-"Another by-product of the financial crisis and central bank collusion was the rise in economic anxiety that spawned a swing towards nationalism, from Brazil to Great Britain to the United States. The shock of Brexit in the United Kingdom reverberated around the world as voters turned away from the incumbent leadership and its failed economic policies. In the United States, the election victory of Donald Trump, the billionaire 'antiestablishment' president, was another manifestation of this trend. These landmark votes were not caused by central banking policy directly but were the effects." [^16]
+"Еще одним побочным продуктом финансового кризиса и сговора с центральным банком стал рост экономической обеспокоенности, который спровоцировал движение к национализму от Бразилии до Великобритании и США. Шок от Брексита в Соединенном Королевстве отразился во всем мире, когда избиратели отвернулся от действующего руководства и его неудачной экономической политики. В Соединенных Штатах победа на выборах Дональда Трампа, миллиардера, «выступающего против истеблишмента», стала еще одним проявлением этой тенденции. Эти знаменательные голоса были вызваны не напрямую политикой центрального банка, а были эффекты ". [^ 16]
 
-The growing divide between rich and poor is based on our current monetary system, which is the real Ponzi scheme. Central bankers are not democratically elected, yet they decide the financial fate of the world. Bankers and their friends are profiting from this system. It is time for an alternative: a decentralized, open, neutral, transparent, immutable, non-inflatable and collaborative form of money for the people: Bitcoin.
+Растущий разрыв между богатыми и бедными основан на нашей нынешней денежной системе, которая представляет собой настоящую схему Понци. Центральные банкиры не избираются демократическим путем, но они решают финансовую судьбу мира. Банкиры и их друзья получают прибыль от этой системы. Пришло время для альтернативы: децентрализованной, открытой, нейтральной, прозрачной, неизменной, ненадувной и совместной формы денег для людей: Биткойн.
 
-### Today's Petrodollar System
+### Нынешняя нефтедолларовая система
 
-Now that we have discussed how money is created, let's dive into the world of currency wars and how this system of national currencies is exclusive and has, historically, been dominated by different empires.
+Теперь, когда мы обсудили, как создаются деньги, давайте погрузимся в мир валютных войн и то, что эта система национальных валют является эксклюзивной и исторически находилась под властью различных империй.
 
-The history of currency wars is long. "Over the past century the world went from a gold standard system, to the Bretton Woods system, to the Petrodollar system. Each system mostly unraveled from within rather than being brought down externally, and each time one system transitioned to another, a significant and widespread currency devaluation occurred."[^17] 
+История валютных войн длинная. << За прошедшее столетие мир перешел от системы золотого стандарта к Бреттон-Вудской системе, а затем к системе нефтедолларов. Каждая система в основном распадалась изнутри, а не обрушивалась извне, и каждый раз, когда одна система переходила в другую, существенное и произошла повсеместная девальвация валюты »[^ 17].
 
-The British monetary hegemony lasted from 1871 to World War I. Back then a nation's currency was pegged to gold. After the interwar period, when monetary power began to decentralize, the United States emerged as the central money powerhouse after the allied victory in the Second World War. The Bretton Woods system, founded in 1944, was the first example of a fully negotiated monetary order, intended to govern monetary relations among independent states. It set a system of rules, institutions, and procedures to regulate the international monetary system, like the International Monetary Fund (IMF). The United States, which controlled two-thirds of the world's gold, insisted that the Bretton Woods system rests on both gold and the US dollar. Soviet representatives attended the conference but later declined to ratify the final agreements, insisting that the institutions they had created were "branches of Wall Street". This can be interpreted as the starting point of the Cold War.
+Британская денежная гегемония продолжалась с 1871 года до Первой мировой войны. Тогда национальная валюта была привязана к золоту. После межвоенного периода, когда денежная власть начала децентрализоваться, Соединенные Штаты превратились в центральную денежную движущую силу после победы союзников во Второй мировой войне. Бреттон-Вудская система, основанная в 1944 году, была первым примером полностью согласованного денежно-кредитного порядка, предназначенного для регулирования валютных отношений между независимыми государствами. Он установил систему правил, институтов и процедур для регулирования международной валютной системы, такой как Международный валютный фонд (МВФ). Соединенные Штаты, контролировавшие две трети мирового золота, настаивали на том, что Бреттон-Вудская система опирается как на золото, так и на доллар США. Советские представители присутствовали на конференции, но позже отказались ратифицировать окончательные соглашения, настаивая на том, что созданные ими институты являются «филиалами Уолл-стрит». Это можно интерпретировать как отправную точку холодной войны.
 
-On 15 August 1971, the United States, lead by President Richard Nixon, unilaterally terminated the convertibility of the US dollar to gold, effectively bringing the Bretton Woods system to an end and rendering the dollar a fiat currency. At the same time, many fixed currencies (such as the pound sterling) also became free-floating.
+15 августа 1971 года Соединенные Штаты во главе с президентом Ричардом Никсоном в одностороннем порядке прекратили конвертируемость доллара США в золото, фактически положив конец Бреттон-Вудской системе и сделав доллар бумажной валютой. В то же время многие фиксированные валюты (например, фунт стерлингов) также стали свободно плавающими.
 
-Today's monetary system is built on the Petrodollar. Lyn Alden describes this in her article "The Structure of the Global Monetary System":
+Сегодняшняя денежная система построена на нефтедолларе. Лин Олден описывает это в своей статье «Структура мировой валютной системы»:
 
-"Beginning in 1971 after the breakdown of the Bretton Woods system, currencies around the world all became fiat currencies, and the global monetary system became less ordered. This was the first time in human history that this happened, where all currencies in the world at the same time were rendered into unbacked paper.
+"Начиная с 1971 года после краха Бреттон-Вудской системы, валюты всего мира превратились в бумажные, и глобальная денежная система стала менее упорядоченной. Это произошло впервые в истории человечества, когда все валюты мира были в то же время были переведены на бумагу без подложки.
 
-Fiat currency is a monetary system whereby there is nothing of value in the currency itself; it’s just paper, cheap metal coins, or digital bits of information. It has value because the government declares it to have value and that it is legal tender to pay all things including taxes.
+Фиатная валюта - это денежная система, в которой в самой валюте нет ничего ценного; это просто бумага, дешевые металлические монеты или биты цифровой информации. Он имеет ценность, потому что правительство заявляет, что он имеет ценность и является законным платежным средством для оплаты всех вещей, включая налоги.
 
-A country can enforce the usage of a fiat currency as a medium of exchange and unit of account within their country by making all taxes payable only in that currency, or by enacting other laws to add friction to, or in some cases outright ban, other mediums of exchange and units of account. If their currency has a big enough problem, though, as is the case for many emerging markets, a black market will develop for other mediums of exchange, such as foreign currency or hard assets.
+Страна может обеспечить использование фиатной валюты в качестве средства обмена и расчетной единицы в своей стране, сделав все налоги, подлежащие уплате только в этой валюте, или приняв другие законы, чтобы добавить трения или, в некоторых случаях, полностью запретить другие средства обмена и расчетные единицы. Однако, если у их валюты есть достаточно большие проблемы, как в случае со многими развивающимися рынками, черный рынок будет развиваться для других средств обмена, таких как иностранная валюта или твердые активы.
 
-A fiat currency can face particular problems when trying to be used outside of its home country. Why should businesses and governments in other countries accept pieces of paper, which can be printed endlessly by a foreign government and have no firm backing, as a form of payment for their valuable goods and services? Without a real backing, what is it worth? Why would you sell oil to foreigners for paper?
+Фиатная валюта может столкнуться с особыми проблемами при попытке использования за пределами своей страны. Почему предприятия и правительства в других странах должны принимать листы бумаги, которые могут бесконечно печататься иностранным правительством и не имеют твердой поддержки, в качестве формы оплаты своих ценных товаров и услуг? Чего это стоит без реальной поддержки? Зачем продавать нефть иностранцам за бумагу?
 
-In the early 1970’s, there were a variety of geopolitical conflicts including the Yom Kippur War and the OPEC oil embargo. In 1974, however, the United States and Saudi Arabia reached an agreement, and from there, the world was set on the petrodollar system; a clever way to make a global fiat currency system work decently enough....With the petrodollar system, Saudi Arabia (and other countries in OPEC) sell their oil exclusively in dollars in exchange for US protection and cooperation. Even if France wants to buy oil from Saudi Arabia, for example, they do so in dollars....In return, the United States uses its unrivaled blue-water navy to protect global shipping lanes, and preserve the geopolitical status quo with military action or the threat thereof as needed....Some of us, particularly near the top of the income ladder, directly or indirectly benefit from this system. Americans who work around finance, government, healthcare, and technology get many of the benefits of living in the hegemonic power, without the drawbacks. On the other hand, Americans who make physical products tend not to benefit, because they lost their jobs or had their incomes suppressed, and thus haven’t benefited from the gains. And outside of the United States, exporting countries benefit from the system, while countries that don’t like how the global monetary system is structured don’t have much recourse to do anything about it, unless they get big enough like Russia and China."[^18]
+В начале 1970-х годов было множество геополитических конфликтов, включая войну Судного дня и нефтяное эмбарго ОПЕК. Однако в 1974 году Соединенные Штаты и Саудовская Аравия достигли соглашения, и оттуда мир был настроен на нефтедолларовую систему; умный способ заставить глобальную систему бумажной валюты работать достаточно прилично ... С нефтедолларовой системой Саудовская Аравия (и другие страны ОПЕК) продают свою нефть исключительно в долларах в обмен на защиту и сотрудничество США. Даже если Франция хочет, например, покупать нефть у Саудовской Аравии, они делают это в долларах ... В свою очередь, Соединенные Штаты используют свой непревзойденный морской флот для защиты глобальных морских путей и сохранения геополитического статус-кво с военными. действия или их угроза по мере необходимости .... Некоторые из нас, особенно находящиеся на вершине лестницы доходов, прямо или косвенно извлекают выгоду из этой системы. Американцы, которые занимаются финансами, правительством, здравоохранением и технологиями, получают многие преимущества жизни в условиях гегемонии без недостатков. С другой стороны, американцы, которые производят физические товары, обычно не получают выгоды, потому что они потеряли работу или их доходы были сокращены, и, таким образом, они не получили прибыли. А за пределами Соединенных Штатов страны-экспортеры получают выгоду от системы, в то время как страны, которым не нравится структура мировой валютной системы, не имеют особых возможностей что-либо с этим поделать, если только они не станут достаточно большими, как Россия и Китай. "[^ 18]
 
-We have been in currency wars for many decades. Which currency is stronger? Which country can gain more benefits from manipulating its currency? The Euro, the US Dollar, the Chinese Yuan? Or even Facebook's Diem? Corporation money is the new, strong player on the market. To retain their powers central banks started to work on their own digital currencies (CBDCs).
+Мы ведем валютные войны уже много десятилетий. Какая валюта сильнее? Какая страна может получить больше выгод от манипулирования своей валютой? Евро, доллар США, китайский юань? Или даже Дьем из Facebook? Корпоративные деньги - новый сильный игрок на рынке. Чтобы сохранить свои полномочия, центральные банки начали работать со своими собственными цифровыми валютами (CBDC).
 
-![New forms of money emerge](assets/_new-forms-money.png) [^19]
+![Появление новых форм денег](assets/_new-forms-money.png) [^19]
 
-Bitcoin is our alternative to this system. Protecting our privacy in this digital age, voting against the abuse of monopolistic power in the current system, and giving people living in authoritarian states with corrupt rulers the same opportunities to participate in the economic system. Bitcoin is a defence strategy, a tool with which we can preserve the human right to transactional freedom and privacy.
+Биткойн - наша альтернатива этой системе. Защита нашей конфиденциальности в этот цифровой век, голосование против злоупотребления монополистической властью в нынешней системе и предоставление людям, живущим в авторитарных государствах с коррумпированными правителями, равных возможностей для участия в экономической системе. Биткойн - это стратегия защиты, инструмент, с помощью которого мы можем сохранить право человека на свободу транзакций и конфиденциальность.
 
 [^1]: [Illustration NetGuardians retrieved April 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)
 [^2]: Anita Posch, credits: University of Nicosia, MOOC in Digital Currency, “A brief history of money” with image: Lotus Head, CC BY-SA 3.0, wikimedia.org
