@@ -52,3 +52,6 @@ deleted English
 
 The seed (sometimes called mnemonic phrase or backup phrase) is a sequence of 12 or 24 English words that gives you access to the private keys of your wallet addresses, and therefore access to your coins. -> 
 The seed (sometimes called mnemonic phrase or backup phrase) is a sequence of 12 or 24 words that gives you access to the private keys of your wallet addresses, and therefore access to your coins. 
+
+----
+added 2 spaces at the end of each footnote
