@@ -194,40 +194,22 @@ We have been in currency wars for many decades. Which currency is stronger? Whic
 
 Bitcoin is our alternative to this system. Protecting our privacy in this digital age, voting against the abuse of monopolistic power in the current system, and giving people living in authoritarian states with corrupt rulers the same opportunities to participate in the economic system. Bitcoin is a defense strategy, a tool with which we can preserve the human right to transactional freedom and privacy.
 
-[^1]: [Illustration NetGuardians retrieved April 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)
-
-[^2]: Anita Posch, credits: University of Nicosia, MOOC in Digital Currency, “A brief history of money” with image: Lotus Head, CC BY-SA 3.0, wikimedia.org
-
-[^3]: Image: "Stone Money of Uap, Western Caroline Islands." - Dr. Caroline Furness Jayne took this photograph during a 1903 stay on Yap, Public domain, via Wikimedia Commons
-
-[^4]: [Wikipedia Rai stones](https://en.wikipedia.org/wiki/Rai_stones)
-
-[^5]: [University of Nicosia, Introduction to Digital Currencies, Session 1, p. 15]
-
-[^6]: [Debt to GDP ratio, JS Blokland](https://twitter.com/jsblokland/status/1362138620665221122?s=20)
-
-[^7]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 7.
-
-[^8]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. xvii
-
-[^9]: [Monetary Base](https://www.investopedia.com/terms/m/monetarybase.asp)
-
-[^10]: [Global Monetary Base, Crypto Voices](https://cryptovoices.com/basemoney)
-
-[^11]: [FRED, M2 Money Stock](https://fred.stlouisfed.org/graph/?graph_id=248494)
-
-[^12]: [Lyn Alden, Ponzi scheme](https://www.lynalden.com/bitcoin-ponzi-scheme/)
-
+[^1]: [Illustration NetGuardians retrieved April 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)  
+[^2]: Anita Posch, credits: University of Nicosia, MOOC in Digital Currency, “A brief history of money” with image: Lotus Head, CC BY-SA 3.0, wikimedia.org  
+[^3]: Image: "Stone Money of Uap, Western Caroline Islands." - Dr. Caroline Furness Jayne took this photograph during a 1903 stay on Yap, Public domain, via Wikimedia Commons  
+[^4]: [Wikipedia Rai stones](https://en.wikipedia.org/wiki/Rai_stones)  
+[^5]: [University of Nicosia, Introduction to Digital Currencies, Session 1, p. 15]  
+[^6]: [Debt to GDP ratio, JS Blokland](https://twitter.com/jsblokland/status/1362138620665221122?s=20)  
+[^7]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 7.  
+[^8]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. xvii  
+[^9]: [Monetary Base](https://www.investopedia.com/terms/m/monetarybase.asp)  
+[^10]: [Global Monetary Base, Crypto Voices](https://cryptovoices.com/basemoney)  
+[^11]: [FRED, M2 Money Stock](https://fred.stlouisfed.org/graph/?graph_id=248494)  
+[^12]: [Lyn Alden, Ponzi scheme](https://www.lynalden.com/bitcoin-ponzi-scheme/)  
 [^13]: [Lyn Alden](https://twitter.com/LynAldenContact/status/1362912907659522049?s=20)
-
 [^14]: [US Consumer Price Index](https://fred.stlouisfed.org/series/CPIAUCSL)
-
 [^15]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 253.
-
 [^16]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 249.
-
 [^17]: [Lyn Alden, The Structure of the Global Monetary System](https://www.lynalden.com/fraying-petrodollar-system/)
-
 [^18]: [Lyn Alden, Petrodollar System (1974-Present)](https://www.lynalden.com/fraying-petrodollar-system/)
-
 [^19]: Anita Posch

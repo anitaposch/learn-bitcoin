@@ -46,8 +46,6 @@ This is revolutionary - as soon as you start to verify your own bitcoin transact
 
 All people worldwide with an internet-enabled mobile phone have access to Bitcoin. The banks as we know them are not required for the use of Bitcoin. You don't have to ask anyone for permission to own or use Bitcoin. All you need to get started is a smartphone, an internet connection and a bitcoin wallet app.
 
-[^20]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 1.
-
-[^21]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 247.
-
-[^22]: Anita Posch, Source [The Merkle](https://themerkle.com/top-4-cryptocurrency-projects-created-ahead-of-bitcoin/), [Hashcash.org](http://www.hashcash.org/bitcoin/)
+[^20]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 1.  
+[^21]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 247.  
+[^22]: Anita Posch, Source [The Merkle](https://themerkle.com/top-4-cryptocurrency-projects-created-ahead-of-bitcoin/), [Hashcash.org](http://www.hashcash.org/bitcoin/)  

@@ -1,20 +1,20 @@
 
-(L)earn Bitcoin
-Become Financially Sovryn
-1st Edition, June 2021
+(L)earn Bitcoin  
+Become Financially Sovryn  
+1st Edition, June 2021  
 
-Author: Anita Posch
+Author: Anita Posch  
 
-Publisher: PoshMedia e.U., Seilerstaette 24, 4. Stock, 1010 Wien
+Publisher: PoshMedia e.U., Seilerstaette 24, 4. Stock, 1010 Wien  
 
-Editor: Mark Kersley  
+Editor: Mark Kersley   
 Typesetting: Couper Street Type Co.  
 Cover Design/Art Direction: tzu jan | 自然  
 Illustration Concept Sketch: @danubastidas  
 Illustration: Maleek Illustration  
 Hand Lettering: Mila Masina
 
-Copyright 2021 by Anita Posch, all rights reserved.
+Copyright 2021 by Anita Posch, all rights reserved.  
 
 You are welcome to share parts of the book in media articles, on your personal website, in a commercial article or blog post (e.g., Medium), and/or on a personal social media account, provided that you include attribution to "Anita Posch" and link back to the https://anitaposch.com URL. You are not permitted to copy the contents of the book and sell it in any format.
 
