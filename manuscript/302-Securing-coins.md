@@ -36,7 +36,7 @@ Let's get to the most important part of securing your bitcoin: the seed.
 
 Since the seed is the root of all private keys, no one else must have access to it. The person who knows the seed has ultimate control over the funds.
 
-The seed (sometimes called mnemonic phrase or backup phrase) is a sequence of 12 or 24 English words that gives you access to the private keys of your wallet addresses, and therefore access to your coins. This means that this order of words must remain secret. Anyone who knows the seed can access and take over your coins. Why?
+The seed (sometimes called mnemonic phrase or backup phrase) is a sequence of 12 or 24 words that gives you access to the private keys of your wallet addresses, and therefore access to your coins. This means that this order of words must remain secret. Anyone who knows the seed can access and take over your coins. Why?
 
 Your coins are not inside your digital wallet as they are inside your regular physical wallet. Instead, they are recorded on the blockchain. Compare this to an email and a letter. You can access your email account from anywhere in the world because your emails are stored online, while your letterbox is stationary. This applies similarly to Bitcoin.
 
