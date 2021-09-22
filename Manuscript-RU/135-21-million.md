@@ -1,41 +1,41 @@
-## 21 Million Bitcoin
-Bitcoin are created, as described in the previous pages, when a mining computer solves a computational task and is the first to successfully attach the newly minted block to the chain.
+## 21 миллион биткойнов
+Биткойн создаются, как описано на предыдущих страницах, когда майнинговый компьютер решает вычислительную задачу и первым успешно присоединяет вновь созданный блок к цепочке.
 
-Miners currently receive a premium of 6.25 bitcoin for this work. This reward is the incentive for miners to behave positively towards the Bitcoin network and not cheat to change transactions in their favor.
+В настоящее время майнеры получают премию в размере 6,25 биткойна за эту работу. Эта награда является стимулом для майнеров положительно относиться к сети Биткойн и не мошенничать, чтобы изменить транзакции в свою пользу.
 
-### Halving
-The Bitcoin rules stipulate that the reward for the miners will be halved every 210,000 blocks, roughly every four years. At the beginning this reward was 50 bitcoin. Since May 2020 it is 6.25 bitcoin. In 2024 this reward will be halved into 3.125 bitcoin per block. This event is commonly called the Halving.
+### Уменьшение вдвое
+Правила Биткойна предусматривают, что вознаграждение майнеров будет уменьшаться вдвое каждые 210 000 блоков, примерно каждые четыре года. Вначале эта награда составляла 50 биткойнов. С мая 2020 года это 6,25 биткойна. В 2024 году эта награда будет уменьшена вдвое до 3,125 биткойна за блок. Это событие обычно называют халвингом.
 
-Satoshi Nakamoto coded these halvings into the Bitcoin Core software. The output quantity decreases over time, resulting in a flattening supply curve.  
+Сатоши Накамото закодировал эти половинки в программном обеспечении Bitcoin Core. Объем выпуска со временем уменьшается, что приводит к сглаживанию обьёма снабжения. 
 
-![The halving interval code in the Bitcoin Core software in C++](assets/_halving-interval.jpg)
+![Код интервала уменьшения вдвое в программном обеспечении Bitcoin Core на C++](assets/_halving-interval.jpg)
 
-![Explanation by Andreas M. Antonopoulos](assets/_aantonop-21-million.png) [^24]
+![Объяснение Андреаса М. Антонопулоса](assets/_aantonop-21-million.png) [^24]
 
-This algorithm tends to zero such that there will be a maximum of 21 million bitcoin. There are currently around 18.7 million in circulation. In 2140 all 21 million bitcoin will have been generated. Mining will continue and the miners will be rewarded solely with transaction fees. By that point, it is expected that Bitcoin as a network will have such high adoption that transaction fees alone will adequately facilitate fair reward for miners.
+Этот алгоритм стремится к нулю, так что будет максимум 21 миллион биткойнов. В настоящее время в обращении находится около 18,7 миллионов экземпляров. В 2140 году будет сгенерирован весь 21 миллион биткойнов. Майнинг будет продолжаться, и майнеры будут вознаграждены исключительно комиссией за транзакции. К этому моменту ожидается, что Биткойн как сеть получит такое широкое распространение, что одни только комиссии за транзакции будут способствовать справедливому вознаграждению майнеров.
 
-![Total bitcoin supply over time](assets/_Total_bitcoins_over_time.png) [^25]
-
-
-### Why 21 Million?
-Why did Satoshi Nakamoto choose 21 million for the supply cap? There are many theories, but here is Satoshi's answer:
-
-![Satoshi Nakamoto's explanation for the 21 million supply cap](assets/_Why-21-million.png) [^26]
+![Общиее снабжение биткойнов в течение времени](assets/_Total_bitcoins_over_time.png) [^25]
 
 
-### Bitcoin Units
-The smallest denomination unit of a bitcoin is a satoshi. 1 bitcoin is comprised of 100,000,000 satoshis; 1 satoshi is one hundred millionth of 1 bitcoin (0.00000001).
+### Почему 21 миллионов?
+Почему Сатоши Накамото выбрал 21 миллионов для ограничения снабжения? Есть много теорий, но вот ответ Сатоши:
 
-You do not have to buy or sell 1 bitcoin at a time, you can start small and transact a minuscule fraction of it.
+![Объяснение Сатоши Накамото ограничения снабжения в 21 миллионов](assets/_Why-21-million.png) [^26]
 
-### Bitcoin or bitcoin, but Never BitCoin
 
-Bitcoin with a capital B is used when referring to the Bitcoin network, the blockchain, the community and the concept as a whole, whereas bitcoin with a lowercase b is used to reference the currency, the bitcoin token. 
+### Биткойн-единицы
+Наименьшей единицей номинала биткойна является сатоши. 1 биткойн состоит из 100000000 сатоши; 1 сатоши - это стомиллионная часть 1 биткойна (0,00000001).
 
-In fact, coin is the wrong term to describe the digital asset, it is a little bit misleading. In technical terms it is called UTXO - unspent transaction output. A UTXO defines the amount of value that is stored on the blockchain at a specific Bitcoin address. Therefore there are diverging opinions as to if there is a plural for bitcoin, the unit, because it's fluid and there are no set individual coins. But since Satoshi Nakamoto spoke of bitcoins, we as a community name it that way too. There is no plural for Bitcoin, as there is only one blockchain and network.
+Вам не нужно покупать или продавать 1 биткойн за раз, вы можете начать с малого и провести мизерную его часть.
 
-Scams like the BitClub network referred to it as BitCoin and this is often mistakenly used by Bitcoin beginners too.
+### Биткойн или биткойн, но никогда не биткойн
 
-[^24]: [Source Andreas M. Antonopoulos](https://twitter.com/aantonop/status/1257366095515848716?s=20)  
-[^25]: [Source: Insti](https://commons.wikimedia.org/wiki/File:Total_bitcoins_over_time.png)  
+Биткойн с большой буквы используется при ссылке на сеть Биткойн, блокчейн, сообщество и концепцию в целом, тогда как биткойн со строчной буквой b используется для ссылки на валюту, токен биткойна.
+
+На самом деле, монета - неправильный термин для описания цифрового актива, это немного вводит в заблуждение. Технически это называется UTXO - неизрасходованный вывод транзакции. UTXO определяет количество значений, которые хранятся в блокчейне по определенному адресу биткойнов. Поэтому существуют разные мнения относительно того, существует ли множественное число для биткойна, единица, потому что это текучая среда и нет установленных отдельных монет. Но поскольку Сатоши Накамото говорил о биткойнах, мы, как сообщество, тоже называем это так. Биткойн не бывает множественного числа, так как существует только одна цепочка блоков и сеть.
+
+Мошенники, такие как сеть BitClub, называли его BitCoin, и это также часто ошибочно используется новичками в биткойнах.
+
+[^24]: [Source Андреас М. Антонопулос](https://twitter.com/aantonop/status/1257366095515848716?s=20)  
+[^25]: [Source: Инсти](https://commons.wikimedia.org/wiki/File:Total_bitcoins_over_time.png)  
 [^26]: [Source plan99.net](https://plan99.net/~mike/satoshi-emails/thread1.html)  
