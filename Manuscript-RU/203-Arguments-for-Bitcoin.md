@@ -83,67 +83,67 @@
 
 Одна из критических замечаний по поводу Биткойна заключается в том, что его разработка идет медленно и неуклюже. Фактически, реальность показывает, что Биткойн - самый старый и технически безопасный блокчейн. Его никогда не взламывали и не изменяли. Причина этого - сообщество независимых разработчиков с открытым исходным кодом, которые в первую очередь заинтересованы в том, чтобы способствовать более широкому общественному благу. Послушайте [Адама Бака] (https://anita.link/12), [Глорию Жао] (https://anita.link/82), [Тима Акинби] (https://anita.link/63), [Амити Уттавар] (https://anita.link/62) или [Мэтт Корралло] (https://anita.link/19), чтобы понять, насколько они внимательны и движимы своей миссией. Во-вторых, темпы развития заведомо медленные. Мантра Кремниевой долины: «Двигайтесь быстро и ломайте вещи» - это противоположность тому, что вы хотите от цифрового актива на 600 миллиардов долларов, который в то же время является живым программным обеспечением.
 
-### Internet of Things
-An internet native money like bitcoin can be used by machines too. Self-driving electric cars like auto-taxis will be able to recharge themselves at charging stations and pay automatically with bitcoin. This is not science fiction, this is the near future. Andy Schroder from Kentucky is [loading his Tesla with real-time machine-to-machine micropayments over the Bitcoin Lightning Network](http://andyschroder.com/DistributedCharge/) already. This will not be the only innovation that will come from the intersections of new technology, money and communication.
+### Интернет вещей
+Интернет-деньги, такие как биткойны, тоже могут использоваться машинами. Беспилотные электромобили, такие как авто-такси, смогут заряжаться на зарядных станциях и автоматически расплачиваться биткойнами. Это не научная фантастика, это ближайшее будущее. Энди Шредер из Кентукки уже [загружает свой Tesla микроплатежами между машинами в реальном времени через сеть Bitcoin Lightning Network] (http://andyschroder.com/DistributedCharge/). Это будет не единственная инновация, которая возникнет на стыке новых технологий, денег и связи.
 
-### Bitcoin, the Life-Boat
-As I laid out in chapter 1, it's not a question of whether the current financial system will fall, but when. Even before the COVID-19 pandemic spread globally in spring 2020, nations were in deep debt; the devastating effects were evident in the global and regional wealth gaps. For many years experts have warned the public about it. Simon Dixon had already called out the Great Depression of the 2020s already in 2011. Nomi Prins explained the central banks' collusion in her 2018 book of the same name. Satoshi Nakamoto referred to the dangers of a monetary system built on debt and the financial crisis in the white paper.
+### Биткойн, спасательная лодка
+Как я изложил в главе 1, вопрос не в том, рухнет ли нынешняя финансовая система, а в том, когда. Еще до того, как пандемия COVID-19 весной 2020 года распространилась по всему миру, страны были в глубоком долгу; разрушительные последствия проявились в глобальном и региональном дефиците благосостояния. Об этом уже много лет предупреждают специалисты. Саймон Диксон уже назвал Великую депрессию 2020-х годов еще в 2011 году. Номи Принс объяснила сговор центральных банков в своей одноименной книге 2018 года. Сатоши Накамото упомянул об опасностях денежно-кредитной системы, построенной на долгах, и финансовом кризисе в «Белой книге».
 
-Bitcoin is debt-free money. One does not simply inflate the supply. It's the perfect alternative to opt-out of the fiat system. In order to hedge against this looming crisis, it makes sense to distribute investments among different assets and thus reduce systemic risk. Gold, equities, bonds, real estate, watches and vintage cars are well-known value protection assets. Bitcoin is a digital value protection asset.
+Биткойн - это деньги без долгов. Предложение не просто раздуть. Это идеальная альтернатива отказу от фиатной системы. Чтобы застраховаться от надвигающегося кризиса, имеет смысл распределить инвестиции между различными активами и таким образом снизить системный риск. Золото, акции, облигации, недвижимость, часы и старинные автомобили - хорошо известные активы для защиты стоимости. Биткойн - это актив для защиты цифровых ценностей.
 
-When CEOs of publicly traded companies like Elon Musk and Michael Saylor began to exchange USD cash holdings for bitcoin, they secured their place on the Bitcoin life-boat. Bitcoin was made for individuals. For people like you and me. Now is your chance to exit the sinking boat of fiat currencies. It's not too late, you're still early.
+Когда генеральные директора публичных компаний, таких как Илон Маск и Майкл Сэйлор, начали обменивать наличные в долларах США на биткойны, они обеспечили себе место в спасательной шлюпке биткойнов. Биткойн был создан для частных лиц. Для таких людей, как ты и я. Теперь у вас есть шанс выйти из тонущей лодки фиатных валют. Еще не поздно, еще рано.
 
-### Bitcoin Is Common Good
-The Bitcoin network is a public infrastructure; it is a decentralized communications network that is still being built right in front of our eyes. We as individuals could not participate financially, directly from the build out of the internet. Most of us did not own shares of Apple, Google or Facebook. Many hurdles exclude billions of people from investing in start-ups. Bitcoin is open for everyone to invest in its infrastructure. You can also use houses to imagine Bitcoin being digital property; there are only 21 million houses and you can buy a fraction of a house, right down to a door handle.
+### Биткойн - общее благо
+Сеть Биткойн - это общедоступная инфраструктура; это децентрализованная коммуникационная сеть, которая все еще строится прямо у нас на глазах. Мы, как частные лица, не могли участвовать финансово, напрямую из Интернета. Большинство из нас не владели акциями Apple, Google или Facebook. Многие препятствия не позволяют миллиардам людей вкладывать средства в стартапы. Биткойн открыт для всех, кто может инвестировать в его инфраструктуру. Вы также можете использовать дома, чтобы представить Биткойн как цифровую собственность; есть только 21 миллион домов, и вы можете купить часть дома, вплоть до дверной ручки.
 
-### Bitcoin Encourages Saving
-Bitcoin is ideal for long-term saving. If you believe that the value is going to rise in the future, you are encouraged to hold and not to spend your bitcoin on things that are not really necessary.
+### Биткойн способствует экономии
+Биткойн идеален для долгосрочного сбережения. Если вы считаете, что ценность будет расти в будущем, вам рекомендуется держать биткойны и не тратить их на вещи, которые на самом деле не нужны.
 
-### You Can Afford Bitcoin
-You don't have to buy a whole bitcoin. A bitcoin is divisible to a hundred million units. The smallest unit is called a "Satoshi" - after the pseudonymous founding figure, Satoshi Nakamoto. You can buy parts of a bitcoin and start with as little as 20 euros, for example.
+### Вы можете позволить себе биткойн
+Вам не нужно покупать биткойн целиком. Биткойн делится на сто миллионов единиц. Самая маленькая единица называется «Сатоши» - в честь псевдонима основателя Сатоши Накамото. Например, вы можете купить биткойн по частям и начать с 20 евро.
 
-### Bitcoin and the Functions of Money
-Many textbook economists are insisting on the fact that Bitcoin is not money because it does not fulfill the three functional criteria that money must have. These functions were defined by William Stanley Jevons[^66] in 1875, his analysis becoming widely popular in macroeconomic textbooks ever since.
+### Биткойн и функции денег
+Многие экономисты-теоретики настаивают на том, что биткойн - это не деньги, потому что он не соответствует трем функциональным критериям, которые должны быть у денег. Эти функции были определены Уильямом Стэнли Джевонсом [^ 66] в 1875 году, и с тех пор его анализ стал широко популярным в учебниках по макроэкономике.
 
-According to Jevons, Bitcoin is only money if it fulfills these functions:
-1. Store of value - the value must remain stable over time
-2. Medium of exchange - it is widely accepted in exchange for goods and services
-3. Medium of account - it is used as a measure for prices, costs and profits
-Source: https://en.wikipedia.org/wiki/Money
+По словам Джевонса, биткойн - это деньги, только если он выполняет следующие функции:
+1. Средство сбережения - стоимость должна оставаться стабильной с течением времени.
+2. Средство обмена - широко распространено в обмен на товары и услуги.
+3. Средство учета - используется как мера цен, затрат и прибыли.
+Источник: https://en.wikipedia.org/wiki/Money
 
-**1. Store of Value**
-Critics say bitcoin is not a store of value due to its volatility and potential for short-term losses. Well, as I laid out in chapter 3.1, in the long-term that is not really the case. Further, I question the definition of "stable over time". What is the time frame? Inflation in fiat money in Austria has been 20% over the last decade. All other fiat currencies like the Euro are similarly unreliable stores of value for this very reason.
+** 1. Хранение ценностей **
+Критики говорят, что биткойн не является средством сбережения из-за его волатильности и возможности краткосрочных убытков. Что ж, как я изложил в главе 3.1, в долгосрочной перспективе это не так. Кроме того, я сомневаюсь в определении термина «стабильность во времени». Какие временные рамки? Инфляция бумажных денег в Австрии за последнее десятилетие составила 20%. Все другие фиатные валюты, такие как евро, также являются ненадежным средством сбережения именно по этой причине.
 
-**2. Medium of Exchange**
-You can use bitcoin as a medium of exchange if you want to. Yes, there is only a small number of companies, services and restaurants that accept bitcoin as a payment at the time of writing. But, to do this, you could use different tools and services that you can fill with bitcoin and spend in fiat. On top of that, there are a lot of companies inside the space that already accept and pay wages in bitcoin too.
+** 2. Среда обмена**
+Вы можете использовать биткойн в качестве средства обмена, если хотите. Да, на момент написания статьи лишь небольшое количество компаний, служб и ресторанов принимают биткойны в качестве оплаты. Но для этого вы можете использовать различные инструменты и сервисы, которые вы можете заполнить биткойнами и потратить фиатными валютами. Вдобавок ко всему, внутри этого пространства есть множество компаний, которые уже принимают и выплачивают заработную плату в биткойнах.
 
-**3. Medium of Account**
-Fiat money is required to be the medium of account by law. We simply do not have a choice. Bitcoin is based on voluntary use, it is opt-in; if we speculate that the value is going up, we won't spend it. Since the volatility of bitcoin becomes less over time, one day value will hit a plateau and people will start spending bitcoin. Even earlier than this, more and more businesses will start to accept bitcoin, since they will trust that it does not lose value but rather appreciates.
+** 3. Средство учетной записи **
+Фиатные деньги должны быть средством расчетов по закону. У нас просто нет выбора. Биткойн основан на добровольном использовании, по подписке; если мы предполагаем, что стоимость растет, мы не будем их тратить. Поскольку волатильность биткойна со временем становится меньше, однажды дневная ценность выйдет на плато, и люди начнут тратить биткойны. Даже раньше, чем это, все больше и больше предприятий начнут принимать биткойны, поскольку они будут доверять тому, что он не теряет в цене, а скорее ценится.
 
-A new form of money that is not forced upon us, but is an opt-in, has to go through certain stages in that order: first, it has to become a store of value, then trust has to be built, then people will use it as a medium of exchange. Only then it will be used as a medium of account.
+Новая форма денег, которая нам не навязывается, но является добровольной, должна пройти определенные этапы в указанном порядке: сначала она должна стать средством сбережения, затем необходимо создать доверие, затем люди будут использовать его как средство обмена. Только тогда он будет использоваться в качестве средства учета.
 
-Dismissing Bitcoin because it does not yet fulfill all the functions of money is missing the point.
+Отказ от биткойна, потому что он еще не выполняет все функции денег, упускает из виду.
 
-### Comparing the Traits of Money
+### Сравнение свойств денег
 
-In 2014 Ryan Walker took the concepts of Darwin's theory of natural selection to compare the evolution of the different forms of money. The table below displays the degree to which gold, fiat and bitcoin fulfill the traditionally recognized traits of money (row 1 - 8). Government issued measures the degree of centralization and control by authorities (row 9).
+В 2014 году Райан Уокер использовал концепции теории естественного отбора Дарвина, чтобы сравнить эволюцию различных форм денег. В таблице ниже показано, в какой степени золото, фиат и биткойн соответствуют традиционно признанным характеристикам денег (строки 1-8). Изданные правительством меры степени централизации и контроля со стороны властей (строка 9).
 
-> "The arrival of cryptographic-based currencies has enabled key new traits previously not possible with traditional forms of money. Furthermore, the realization of such traits will likely have a dramatic impact on the environment in which these currencies compete. Row 10 and 11 include the specie of cryptocurrency when rated against the traditional and newly realized traits of money." - **Ryan Walker**
+> «Появление криптографических валют позволило реализовать ключевые новые черты, которые ранее были невозможны с традиционными формами денег. Кроме того, реализация таких черт, вероятно, окажет сильное влияние на среду, в которой эти валюты конкурируют. Строки 10 и 11 включают разновидность криптовалюты по сравнению с традиционными и недавно реализованными чертами денег ". - ** Райан Уокер **
 
-![The traits of money](assets/_table-characteristics-money.PNG)[^67]
-This shows the degree to which gold, fiat, and cryptographic currencies fulfill the traditionally recognized traits of currency as well as the new traits made possible by the discovery of Bitcoin.
+! [Свойства денег] (assets / _table-features-money.PNG) [^ 67]
+Это показывает, в какой степени золото, фиатные и криптографические валюты соответствуют традиционно признанным характеристикам валюты, а также новым характеристикам, которые стали возможными благодаря открытию Биткойна.
 
-As you can see, Bitcoin goes beyond the traditional framework of what money is. It's evolving into a completely new dimension of what money can do and from which applications will be built upon in the future.
+Как видите, Биткойн выходит за рамки традиционных рамок того, что такое деньги. Он превращается в совершенно новое измерение того, что могут делать деньги и на каких приложениях будут строиться в будущем.
 
-[^56]: [Clifford Stoll](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)  
-[^57]: [Wikipedia, Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index)  
-[^58]: [International Monetary Fund, Inflation rate](https://www.imf.org/external/datamapper/PCPIPCH@WEO/OEMDC/ADVEC/WEOWORLD), requested on April 26th, 2021  
-[^59]: [Trading volume on P2P Bitcoin exchanges in Sub-Saharan countries from May 2020 to April 2021](https://www.usefultulips.org/combined_Sub%20Saharan%20Africa_Page.html), requested on April 26th, 2021  
-[^60]: [World Bank, Sending money from South Africa to Zimbabwe](https://remittanceprices.worldbank.org/en/corridor/South-Africa/Zimbabwe), requested on April 26th, 2021  
+[^56]: [Клиффорд Столл](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)  
+[^57]: [Википедия, Индекс демократии](https://en.wikipedia.org/wiki/Democracy_Index)  
+[^58]: [Международный валютный фонд, уровень инфляции](https://www.imf.org/external/datamapper/PCPIPCH@WEO/OEMDC/ADVEC/WEOWORLD), запрошено 26 апреля 2021 г.  
+[^59]: [Объем торговли на P2P-биржах Биткойн в странах к югу от Сахары с мая 2020 г. по апрель 2021 г.](https://www.usefultulips.org/combined_Sub%20Saharan%20Africa_Page.html), запрошено 26 апреля 2021 г.  
+[^60]: [Всемирный банк, Отправка денег из Южной Африки в Зимбабве](https://remittanceprices.worldbank.org/en/corridor/South-Africa/Zimbabwe), запрошено 26 апреля 2021 г.  
 [^61]: [BNY Mellon Supports Global Push for Financial Gender Equality](https://www.bnymellon.com/us/en/about-us/newsroom/company-news/bny_mellon_supports_a_global_push_for_financial_gender_equality.html)  
-[^62]:[Georgetown Journal of International Law](https://www.law.georgetown.edu/international-law-journal/wp-content/uploads/sites/21/2018/08/4-Kenya-Report-508.pdf)  
-[^63]: [World Bank, Global ID Coverage, Barriers, and Use by the Numbers : An In-Depth Look at the 2017 ID4D-Findex Survey](https://globalfindex.worldbank.org/sites/globalfindex/files/chapters/2017%20Findex%20full%20report_chapter2.pdf)  
-[^64]: [World Bank, The Little Data Book on Financial Inclusion 2018](https://openknowledge.worldbank.org/bitstream/handle/10986/29654/LDB-FinInclusion2018.pdf)  
-[^65]: [World Bank, The Global Findex Database Measuring Financial Inclusion and the Fintech Revolution 2017](https://www.notion.so/Financial-Inclusion-feb3e3913cb042b9bc0ef525ad0f8272#f24c9e8d868e49fe9052c61ead55e080)  
-[^66]: [William Stanley Jevons](https://en.wikipedia.org/wiki/William_Stanley_Jevons)  
-[^67]: [Ryan Walker](https://www.coindesk.com/origins-money-darwin-evolution-cryptocurrency)  
+[^62]: [Джорджтаунский журнал международного права](https://www.law.georgetown.edu/international-law-journal/wp-content/uploads/sites/21/2018/08/4-Kenya-Report-508.pdf)  
+[^63]: [Всемирный банк, Глобальное покрытие идентификационной информации, барьеры и использование в цифрах: подробный обзор исследования ID4D-Findex 2017 года](https://globalfindex.worldbank.org/sites/globalfindex/files/chapters/2017%20Findex%20full%20report_chapter2.pdf)  
+[^64]: [Всемирный банк, Маленькая книга данных по финансовой доступности 2018](https://openknowledge.worldbank.org/bitstream/handle/10986/29654/LDB-FinInclusion2018.pdf)  
+[^65]: [Всемирный банк, Глобальная база данных Findex для измерения финансовой доступности и финтех-революции, 2017 г.](https://www.notion.so/Financial-Inclusion-feb3e3913cb042b9bc0ef525ad0f8272#f24c9e8d868e49fe9052c61ead55e080)  
+[^66]: [Уильям Стэнли Джевонс](https://en.wikipedia.org/wiki/William_Stanley_Jevons)  
+[^67]: [Райан Уокер](https://www.coindesk.com/origins-money-darwin-evolution-cryptocurrency)  
