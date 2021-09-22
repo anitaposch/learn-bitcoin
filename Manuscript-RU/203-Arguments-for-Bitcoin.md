@@ -1,87 +1,87 @@
-## Arguments for Bitcoin
-> "Bitcoin is an opt-in system. You choose to use it. You choose what apps you're going to run. You choose who you're going to interact with. You choose the rules of the game by which you're going to interact. That's why bitcoin is going to win. It delivers innovation that consumers want and need." - **Andreas M. Antonopoulos**
+## Аргументы в пользу биткойна
+> «Биткойн - это система подписки. Вы решаете использовать ее. Вы выбираете, какие приложения вы собираетесь запускать. Вы выбираете, с кем вы собираетесь взаимодействовать. Вы выбираете правила игры, по которым вы будет взаимодействовать. Вот почему биткойн победит. Он обеспечивает инновации, которые нужны и нужны потребителям ». - ** Андреас М. Антонопулос **
 
-### A Paradigm Shift
-I'm a digital native individual in a Gen X body. I can remember life without the internet, even without a VCR. We had one TV station in Austria, that was it. My parents got our first landline phone when I was 12. At 14 I used my first computer, in 1997 I installed my first internet connection and email at home. That same year there were only 1 million websites globally and Google and Amazon did not exist internationally.
+### Смена парадигмы
+Я носитель цифровых технологий в теле поколения X. Я могу вспомнить жизнь без интернета, даже без видеомагнитофона. У нас была одна телекомпания в Австрии, вот и все. Мои родители получили наш первый стационарный телефон, когда мне было 12 лет. В 14 лет я использовал свой первый компьютер, а в 1997 году я установил дома свое первое подключение к Интернету и электронную почту. В том же году во всем мире было всего 1 миллион веб-сайтов, а Google и Amazon не существовали на международном уровне.
 
-A lot of people dismissed the internet as a trend that would go away. In 1995, US astronomer and author Clifford Stoll wrote an article for Newsweek titled "The Internet? Bah!"
+Многие люди отвергли Интернет как тенденцию, которая исчезнет. В 1995 году американский астроном и писатель Клиффорд Столл написал для Newsweek статью под названием «Интернет? Ба!»
 
->"Then there's cyberbusiness. We're promised instant catalog shopping - just point and click for great deals. We'll order airline tickets over the network, make restaurant reservations and negotiate sales contracts. Stores will become obsolete. So how come my local mall does more business in an afternoon than the entire Internet handles in a month? Even if there were a trustworthy way to send money over the Internet - which there isn't - the network is missing a most essential ingredient of capitalism: salespeople." - **Clifford Stoll** [^56]
+> «Тогда есть кибербизнес. Нам обещают мгновенные покупки по каталогу - просто наведите указатель мыши и нажмите, чтобы получить выгодные предложения. Мы будем заказывать авиабилеты по сети, бронировать столики в ресторанах и заключать договоры купли-продажи. Магазины устареют. Так почему же мой местный торговый центр за полдень делает больше бизнеса, чем весь Интернет за месяц? Даже если бы существовал надежный способ отправки денег через Интернет - а его нет - в сети отсутствует самый важный компонент капитализма: продавцы ». - ** Клиффорд Столл ** [^ 56]
 
-Fast forward to 2019 and Amazon is in the top ten biggest companies in the world, Google and YouTube are the biggest search engines and there are 1.8 billion active websites. My first contact with Bitcoin and blockchains was in April 2017 when I heard a talk by Shermin Voshmgir. It clicked immediately. 20 years after I changed my career from being an urban planner to becoming an internet entrepreneur, I understood that Bitcoin is as massive as the dawn of the internet in 1997.
+Перенесемся в 2019 год, и Amazon входит в десятку крупнейших компаний мира, Google и YouTube - крупнейшие поисковые системы, а количество активных веб-сайтов составляет 1,8 миллиарда. Мой первый контакт с биткойнами и блокчейнами был в апреле 2017 года, когда я услышал выступление Шермина Вошмгира. Он сразу щелкнул. Спустя 20 лет после того, как я изменил свою карьеру с городского планировщика на интернет-предпринимателя, я понял, что Биткойн такой же масштабный, как зарождение Интернета в 1997 году.
 
-The discovery of Bitcoin was the advent of a new technology on top of the internet that we use for media and communication. The internet of money, which allows us to exchange value globally without boundaries. Communication over the internet has changed the world massively in the last few decades. What do you think the impact of the free movement of value will have? Bitcoin and other open, public digital assets will shift the power dynamics between nations since it is suddenly possible to move huge amounts of money at speed, without friction or touching the current financial system.
+Открытие Биткойна было появлением новой технологии поверх Интернета, которую мы используем для СМИ и общения. Интернет денег, который позволяет нам обменивать ценности во всем мире без границ. Общение через Интернет за последние несколько десятилетий сильно изменило мир. Как вы думаете, какое влияние окажет свободное движение ценностей? Биткойн и другие открытые общедоступные цифровые активы изменят динамику власти между странами, поскольку внезапно появляется возможность быстро перемещать огромные суммы денег, не трогая и не затрагивая текущую финансовую систему.
 
-Bitcoin is a new technology. If we compare its development to the internet, we are pretty much where the internet was in 1997.
+Биткойн - это новая технология. Если мы сравним его развитие с Интернетом, мы в значительной степени находимся там, где Интернет был в 1997 году.
 
-### Enabling Social Change
+### Включение социальных изменений
 
-People in developed nations with functioning democratic systems often dismiss Bitcoin as a tool for speculation and a danger for nation-states. Therefore, some think its electricity consumption is environmentally irresponsible. Some even advocate for a ban. Expect this kind of criticism to increase in the coming years.
+Люди в развитых странах с функционирующими демократическими системами часто отвергают Биткойн как инструмент для спекуляций и опасность для национальных государств. Поэтому некоторые считают, что потребление электричества экологически безответственно. Некоторые даже выступают за запрет. Ожидайте, что такая критика усилится в ближайшие годы.
 
-The world's population is 7.8 billion people. Only 8.4% of those live in full democracies, 41% in flawed democracies, 15% in hybrid regimes and 35,6% in authoritarian regimes.
+Население мира составляет 7,8 миллиарда человек. Только 8,4% из них живут в условиях полной демократии, 41% - в условиях несовершенной демократии, 15% - в гибридных режимах и 35,6% - в авторитарных режимах.
 
-Over 50% of the world's population are living in nations far from free and fair democracies! 1.7 billion people do not have a bank account and never will. Bitcoin is for them. [^57]
+Более 50% населения мира проживает в странах, далеких от свободных и справедливых демократий! 1,7 миллиарда человек не имеют и никогда не будут иметь банковского счета. Биткойн для них. [^ 57]
 
-It's people in regions like Africa and South America who will drive Bitcoin adoption forward. The main use-cases there are:
+Именно люди в таких регионах, как Африка и Южная Америка, будут способствовать распространению биткойнов. Основные варианты использования:
 
-**Hedge Against Inflation**
-This table by the International Monetary Fund shows the annual change of consumer prices in percent.
-![Inflation rate, average consumer prices, annual change in %](assets/_inflation-2021.png) [^58]
+** Хедж-фонды от инфляции **
+Эта таблица Международного валютного фонда показывает годовое изменение потребительских цен в процентах.
+![Уровень инфляции, средние потребительские цены, годовое изменение в %](assets/_inflation-2021.png) [^58]
 
-* Venezuela saw prices increases by 5,500%. The suffering of the people is simply incomprehensible.
-* In Sudan the prices increased 200% in 2021 alone.
-* Zimbabweans faced a doubling of prices at 100% inflation from 2020 to 2021.
-* The IMF did not have data for Argentina, but I was informed by my Argentinian interview partner, Franco Amati, the annual inflation rate was 50%.
-* Nigeria saw an inflation rate of 16% in 2020.
-* Turkey's inflation rate in 2020 was 13.6 %.
+* В Венесуэле цены выросли на 5 500%. Страдания людей просто непостижимы.
+* В Судане только в 2021 году цены выросли на 200%.
+* Зимбабвийцы столкнулись с удвоением цен при 100% инфляции с 2020 по 2021 год.
+* МВФ не располагал данными по Аргентине, но мой аргентинский собеседник Франко Амати сообщил мне, что годовой уровень инфляции составляет 50%.
+* В Нигерии уровень инфляции в 2020 году составил 16%.
+* Уровень инфляции в Турции в 2020 году составил 13,6%.
 
-From May 2020 to April 2021 the bitcoin trading volume in Nigeria increased by 40% from $287 million to $399 million. A 2020 survey shows that 32% of Nigerians who were interviewed had used or owned cryptocurrencies. Meanwhile, in developed democratic countries like Germany and the USA, only 5-6% have used or owned cryptocurrencies.
+С мая 2020 года по апрель 2021 года объем торговли биткойнами в Нигерии увеличился на 40% с 287 миллионов долларов до 399 миллионов долларов. Опрос 2020 года показывает, что 32% опрошенных нигерийцев использовали или владели криптовалютами. Между тем в развитых демократических странах, таких как Германия и США, только 5-6% использовали или владели криптовалютами.
 
-![Trading volume on P2P Bitcoin exchanges in Sub-Saharan countries from May 2020 to April 2021](assets/_Nigeria-trading-volume-BTC.png) [^59]
+![Объем торговли на P2P-биржах Биткойн в странах к югу от Сахары с мая 2020 г. по апрель 2021 г](assets/_Nigeria-trading-volume-BTC.png) [^59]
 
-Given these annual inflation rates, people know that they need to store their wealth in harder money like USD, and better still, Bitcoin. If you explain the differences of Bitcoin to local currencies in these countries, everybody understands immediately how and why Bitcoin can support them.
+Учитывая эти годовые темпы инфляции, люди знают, что им нужно хранить свое богатство в более твердых деньгах, таких как доллары США и, что еще лучше, биткойны. Если вы объясните отличия Биткойна от местных валют в этих странах, все сразу поймут, как и почему Биткойн может их поддерживать.
 
-**Foreign Exchange Controls**
+** Валютный контроль **
 
-Countries with weak economies and flawed democracies use foreign exchange controls to limit - what they call - speculation against their weak currencies. Since authoritarian leaders want to limit and control people's possibilities to circumvent their oppressive systems, they apply regulations such as the following:
+Страны со слабой экономикой и несовершенными демократиями используют валютный контроль, чтобы ограничить - то, что они называют - спекуляции против их слабой валюты. Поскольку авторитарные лидеры хотят ограничивать и контролировать возможности людей обходить их репрессивные системы, они применяют такие правила, как:
 
-* Argentina's capital controls only allow people to exchange a maximum amount of $200 per month from Argentine Pesos to USD.
-* Quite the same harsh regulations apply in Zimbabwe. If you run a business and need to import goods, you must ask the Reserve Bank for permission to send USD abroad. "Suppose I'm in solar power and I want to buy 20 panels so that I can sell them. I only have 30 days to spend down on the money that I already had. The Reserve Bank can take as long as it wants to give me permission to even go and resupply. That's another reason why the US actual physical dollars, the physical cash has so much more value in Zimbabwe", a Zimbabwean interview partner told me in March 2020.
+* Контроль за движением капитала в Аргентине позволяет людям обменивать максимальную сумму в 200 долларов в месяц с аргентинских песо на доллары США.
+* Такие же жесткие правила действуют в Зимбабве. Если вы ведете бизнес и вам необходимо импортировать товары, вы должны запросить у Резервного банка разрешение на отправку долларов США за границу. «Предположим, я работаю на солнечной энергии и хочу купить 20 панелей, чтобы продать их. У меня есть только 30 дней, чтобы потратить деньги, которые у меня уже были. Резервный банк может потратить столько времени, сколько захочет дать Мне разрешили даже пойти и пополнить запасы. Это еще одна причина, по которой реальные доллары США, физические деньги имеют гораздо большую ценность в Зимбабве », - сказал мне зимбабвийский партнер по интервью в марте 2020 года.
 
-**Banking System Is Not Available or Broken**
-* Local businesses in Zimbabwe are allowed to use USD to bill a local supplier. That supplier has to liquidate those US dollars within 30 days, or the money gets converted into their RTGS account at the bank rate. RTGS is the name for the Zimbabwean dollar, which shows these high inflation rates.
-* If you buy foreign currency at an Argentinian bank the official bank exchange rate is used (which is favorable for the bank, but not the customer) and on top of that a 65% tax is deducted.
-* Using the banking system can be full of red tape in Western countries too, but it's much worse in those countries.
+** Банковская система недоступна или сломана **
+* Местным предприятиям в Зимбабве разрешено использовать доллары США для выставления счетов местному поставщику. Этот поставщик должен ликвидировать эти доллары в течение 30 дней, иначе деньги будут конвертированы на его счет в RTGS по банковскому курсу. RTGS - это название зимбабвийского доллара, который показывает эти высокие темпы инфляции.
+* Если вы покупаете иностранную валюту в аргентинском банке, используется официальный обменный курс банка (который выгоден для банка, но не для клиента), и, кроме того, удерживается налог в размере 65%.
+* Использование банковской системы может быть связано с бюрократизмом и в западных странах, но в этих странах дела обстоят намного хуже.
 
-**Remittances**
-* If you receive money from abroad through the traditional banking system it will be converted to Argentine pesos at the official bank rate. This basically represents a confiscation of 30% of the value.
-* In 2020 as much as 1 billion USD have been sent as remittances to Zimbabwe. Over one-third of the population relies on remittances from relatives abroad. A lot of Zimbabweans live in South Africa and of the money they send, up to 20-30% are lost through banking fees and official exchange rates. [^60]
+** Денежные переводы **
+* Если вы получаете деньги из-за границы через традиционную банковскую систему, они будут конвертированы в аргентинские песо по официальному банковскому курсу. Это в основном представляет собой конфискацию 30% стоимости.
+* В 2020 году в Зимбабве в виде денежных переводов было отправлено 1 миллиард долларов США. Более одной трети населения полагается на денежные переводы от родственников за рубежом. Многие зимбабвийцы живут в Южной Африке, и до 20-30% денег, которые они отправляют, теряются из-за банковских сборов и официальных обменных курсов. [^ 60]
 
-**Barriers for Women**
+** Барьеры для женщин **
 
-Using a basic bank account is beyond the reach of almost one billion women worldwide. Varying degrees of gender inequality permitted or mandated by law deny women full financial participation in many countries around the world. Depending on the country, women are discriminated against in inheritance laws and are required to obtain their husband's permission to legally work, get a bank account, register a business or sign a contract; many women are banned from entering certain professions. Women may also find it more difficult to access legal ID cards due to existing laws or restrictive registration requirements, and such identification is commonly required to use financial products and services.
+Использование базового банковского счета недоступно почти для одного миллиарда женщин во всем мире. Различная степень гендерного неравенства, разрешенная или предусмотренная законом, лишает женщин полноценного финансового участия во многих странах мира. В зависимости от страны женщины подвергаются дискриминации в законах о наследовании и должны получить разрешение своего мужа на законную работу, открыть банковский счет, зарегистрировать бизнес или подписать контракт; многим женщинам запрещено заниматься определенными профессиями. Женщинам также может быть труднее получить доступ к официальным удостоверениям личности из-за существующих законов или ограничительных требований к регистрации, и такая идентификация обычно требуется для использования финансовых продуктов и услуг.
 
-Other hurdles that prevent women from accessing financial services are the need to travel long distances, the risk of being robbed while accessing money, and lack of privacy that would allow them to protect their savings from others.
+Другими препятствиями, мешающими женщинам получить доступ к финансовым услугам, являются необходимость путешествовать на большие расстояния, риск быть ограбленным при доступе к деньгам и отсутствие конфиденциальности, которая позволила бы им защитить свои сбережения от других.
 
-"Over 80 percent of the small business conducted in the Pacific by women is in little marketplaces," said Dr. Sharman Stone, Australia's Ambassador for Women. "When they only had cash it was extremely dangerous for them to get that cash home, and to retain that cash once they got home." [^61] With Bitcoin and cryptocurrencies, they are physically safer, can circumvent inflation and hold their own money.
+«Более 80 процентов малого бизнеса, осуществляемого женщинами в Тихоокеанском регионе, осуществляется на небольших рынках», - сказал д-р Шарман Стоун, посол Австралии по делам женщин. «Когда у них были только наличные, для них было чрезвычайно опасно получить эти деньги домой и сохранить их, когда они вернутся домой». [^ 61] С биткойнами и криптовалютами они физически безопаснее, могут обойти инфляцию и хранить свои собственные деньги.
 
-> Women are the majority of Kenya's population; they perform 70% of the agricultural labor, but they own less than 1% of the land and control very little of the income produced by their labor. [^62]
+> Женщины составляют большинство населения Кении; они выполняют 70% сельскохозяйственного труда, но они владеют менее 1% земли и контролируют очень небольшую часть дохода, получаемого от своего труда. [^ 62]
 
-56% of all unbanked adults globally are women. Women are overrepresented among the unbanked in most economies. This is true even in economies that have successfully increased account ownership and have a relatively small share of adults who are unbanked. [^63] In the United States, Middle East and North Africa two-thirds of the unbanked are women.[^64]
+56% всех взрослых людей, не охваченных банковскими услугами, в мире - женщины. Женщины чрезмерно представлены среди не охваченных банковскими услугами в большинстве стран. Это верно даже для стран, которые успешно увеличили количество владельцев счетов и имеют относительно небольшую долю взрослого населения, не охваченного банковскими услугами. [^ 63] В Соединенных Штатах, на Ближнем Востоке и в Северной Африке две трети не охваченных банковскими услугами составляют женщины. [^ 64]
 
-A study in Kenya found that access to mobile money services delivered big benefits, especially for women. It enabled women-headed households to increase their savings by more than one fifth, allowed 185,000 women to leave farming and develop business or retail activities and helped reduce extreme poverty among women-headed households by 22 percent.
+Исследование, проведенное в Кении, показало, что доступ к услугам мобильных денег приносит большие выгоды, особенно женщинам. Он позволил домохозяйствам, возглавляемым женщинами, увеличить свои сбережения более чем на одну пятую, позволил 185 000 женщинам покинуть сельское хозяйство и заняться предпринимательской или розничной деятельностью и помог снизить уровень крайней бедности среди домохозяйств, возглавляемых женщинами, на 22 процента.
 
-Mobile money services like M-Pesa in Kenya or EcoCash in Zimbabwe have increased access to financial instruments. The problem: these are services by centralized, private companies. The government can interfere, transactions can be censored or accounts can be closed. As an example, in July 2020 the Zimbabwean government blocked pay-outs from EcoCash mobile money accounts to bank accounts or cash.
+Сервисы мобильных денег, такие как M-Pesa в Кении или EcoCash в Зимбабве, расширили доступ к финансовым инструментам. Проблема: это услуги централизованных частных компаний. Правительство может вмешиваться, транзакции могут подвергаться цензуре или счета могут быть закрыты. Например, в июле 2020 года правительство Зимбабве заблокировало выплаты со счетов мобильных денег EcoCash на банковские счета или наличные.
 
-Financial services can also help people accumulate savings and increase spending on necessities. After being provided with savings accounts, market vendors in Kenya, primarily women, saved at a higher rate and invested 60 percent more in their businesses. Women-headed households in Nepal spent 15 percent more on nutritious foods (meat and fish) and 20 percent more on education after receiving free savings accounts. Moreover, farmers in Malawi who had their earnings deposited into savings accounts spent 13 percent more on farming equipment and increased their crop values by 15 percent. [^65]
+Финансовые услуги также могут помочь людям накапливать сбережения и увеличивать расходы на предметы первой необходимости. Получив сберегательные счета, рыночные продавцы в Кении, в первую очередь женщины, откладывали более высокие ставки и инвестировали в свой бизнес на 60 процентов больше. Домохозяйства, возглавляемые женщинами, в Непале тратили на 15 процентов больше на питательные продукты (мясо и рыбу) и на 20 процентов больше на образование после получения бесплатных сберегательных счетов. Более того, фермеры в Малави, чей заработок был депонирован на сберегательные счета, потратили на 13 процентов больше на сельскохозяйственное оборудование и увеличили стоимость урожая на 15 процентов. [^ 65]
 
-Bitcoin can lower the cost of receiving payments, leaving people with more of their money. While traditional financial instruments require an ID and proof of address, using Bitcoin is open to everyone. Therefore, Bitcoin can support women in gaining more freedom and self-sovereignty.
+Биткойн может снизить стоимость получения платежей, оставляя людям больше денег. В то время как для традиционных финансовых инструментов требуется идентификатор и подтверждение адреса, использование биткойнов открыто для всех. Таким образом, Биткойн может помочь женщинам обрести больше свободы и самостоятельности.
 
-For more insights about the living conditions of people in Zimbabwe and their real-life use of Bitcoin in Venezuela, Argentina, Afghanistan, Nigeria, and more, [listen to my podcast interviews](https://anita.link/show). Regarding the advantages for women using Bitcoin, look up the section "Women in Bitcoin".
+Чтобы получить больше информации об условиях жизни людей в Зимбабве и их реальном использовании биткойнов в Венесуэле, Аргентине, Афганистане, Нигерии и других странах,  [послушайте мои интервью в подкастах](https://anita.link/show). Что касается преимуществ использования биткойнов для женщин, загляните в раздел «Женщины в биткойнах».
 
-### Slow, But Safe
+### Медленно, но безопасно
 
-One criticism of Bitcoin is that its development is slow and clunky. In fact, reality shows that Bitcoin is the longest standing and technically safest blockchain. It has never been hacked or altered. The reason for this is a community of independent, open-source developers whose first interest is to contribute to the broader social good. Listen to [Adam Back](https://anita.link/12), [Gloria Zhao](https://anita.link/82), [Tim Akinbo](https://anita.link/63), [Amiti Uttawar](https://anita.link/62) or [Matt Corrallo](https://anita.link/19) to understand how thoughtful and driven they are by their mission. Secondly, the pace of development is deliberately slow. The Silicon Valley mantra of "Move fast and break things" is the opposite of what you want for a 600 billion USD digital asset that is at the same time, live software.
+Одна из критических замечаний по поводу Биткойна заключается в том, что его разработка идет медленно и неуклюже. Фактически, реальность показывает, что Биткойн - самый старый и технически безопасный блокчейн. Его никогда не взламывали и не изменяли. Причина этого - сообщество независимых разработчиков с открытым исходным кодом, которые в первую очередь заинтересованы в том, чтобы способствовать более широкому общественному благу. Послушайте [Адама Бака] (https://anita.link/12), [Глорию Жао] (https://anita.link/82), [Тима Акинби] (https://anita.link/63), [Амити Уттавар] (https://anita.link/62) или [Мэтт Корралло] (https://anita.link/19), чтобы понять, насколько они внимательны и движимы своей миссией. Во-вторых, темпы развития заведомо медленные. Мантра Кремниевой долины: «Двигайтесь быстро и ломайте вещи» - это противоположность тому, что вы хотите от цифрового актива на 600 миллиардов долларов, который в то же время является живым программным обеспечением.
 
 ### Internet of Things
 An internet native money like bitcoin can be used by machines too. Self-driving electric cars like auto-taxis will be able to recharge themselves at charging stations and pay automatically with bitcoin. This is not science fiction, this is the near future. Andy Schroder from Kentucky is [loading his Tesla with real-time machine-to-machine micropayments over the Bitcoin Lightning Network](http://andyschroder.com/DistributedCharge/) already. This will not be the only innovation that will come from the intersections of new technology, money and communication.
