@@ -1,32 +1,32 @@
-## Arguments Against Bitcoin
+## Аргументы против биткойна
 
-### Volatility
+### Волатильность
 
-_Bitcoin is volatile, you cannot use it as a medium of exchange._
+_Биткойн нестабилен, вы не можете использовать его в качестве средства обмена.
 
-Yes, bitcoin price is volatile, it can lose or gain a lot of value in a single day. If you want to pay for something in bitcoin, you can still do so. Just exchange the same amount you have spent from fiat back to bitcoin on the same day. No volatility, no loss or gain.
+Да, цена биткойна нестабильна, она может потерять или получить большую ценность за один день. Если вы хотите заплатить за что-то в биткойнах, вы все равно можете это сделать. Просто обменяйте ту же сумму, которую вы потратили, обратно на биткойны в тот же день. Никакой волатильности, никаких потерь или выгод.
 
-### Price Development
-_Bitcoin is not a store of value due to its price changes._
+### Развитие цен
+_Биткойн не является средством сбережения из-за изменений цен.
 
-View bitcoin as a long term investment, it has been the best performing store of value of all asset classes over the last decade. 
+Рассматривайте биткойн как долгосрочную инвестицию, он был лучшим средством сбережения среди всех классов активов за последнее десятилетие.
 
-![Bitcoin the best asset over the 10 years prior 2021](assets/_best-asset-10years.png) [^27]
+![Биткойн - лучший актив за 10 лет до 2021 года](assets/_best-asset-10years.png) [^27]
 
-There is of course no guarantee that this performance will continue forever.
+Конечно, нет никакой гарантии, что это представление будет продолжаться вечно.
 
-At the time of writing bitcoin was in a bull run, which started in the last quarter of 2020. This means that the price appreciated for a period of weeks and months with little setbacks in between. In May 2021 a significant drop occurred, which many interpreted as a healthy setback in an overheated market. The last bull run started in 2017 and ended at the beginning of 2018. Since then the price has moved relatively sideways - as it is called in traders terms - meaning that no particular large up or downwards movement in price. 
+На момент написания биткойн был в бычьем беге, который начался в последнем квартале 2020 года. Это означает, что цена повышалась в течение недель и месяцев с небольшими откатами между ними. В мае 2021 года произошло значительное падение, которое многие интерпретировали как здоровый спад на перегретом рынке. Последний бычий раунд начался в 2017 году и закончился в начале 2018 года. С тех пор цена двигалась относительно вбок, как это называют трейдеры, что означает отсутствие каких-либо значительных движений цены вверх или вниз.
 
-![Bitcoin price development](assets/_Bitcoin-price.png)[^28]
+![Динамика цены биткойна](assets/_Bitcoin-price.png)[^28]
 
-Bitcoin price development is following the halving cycles. Approximately every 4 years the amount of minted bitcoin is reduced by 50%. This means that the growth of available bitcoin on the market is shrinking. Even if the demand for bitcoin only remains at the same level, the price will increase. 
+Динамика цен на биткойны следует за половинными циклами. Примерно каждые 4 года количество отчеканенных биткойнов уменьшается на 50%. Это означает, что количество доступных биткойнов на рынке сокращается. Даже если спрос на биткойны останется на том же уровне, цена вырастет.
 
-### Digital Scarcity
-The total bitcoin supply is limited to 21 million, 18.7 million of which are already on the market. Every four years (exactly 210,000 blocks), the amount of bitcoin that is minted is reduced by half. Currently, the mining process generates 6.25 bitcoin every 10 minutes, which is 900 bitcoin per day and 328,500 per year. From 2024, there will only be 450 bitcoin minted per day, as only 3.125 bitcoin will be issued for each block generated. This means that the amount available every day decreases and supply becomes scarcer. If interest increases at the same time, the price rises exponentially.
+### Цифровая нехватка
+Общее предложение биткойнов ограничено 21 миллионом, 18,7 миллиона из которых уже находятся на рынке. Каждые четыре года (ровно 210 000 блоков) количество отчеканенных биткойнов уменьшается вдвое. В настоящее время процесс майнинга генерирует 6,25 биткойна каждые 10 минут, что составляет 900 биткойнов в день и 328500 биткойнов в год. С 2024 года будет производиться всего 450 биткойнов в день, так как на каждый сгенерированный блок будет выпущено только 3,125 биткойнов. Это означает, что количество, доступное каждый день, уменьшается, а предложение становится все меньше. Если одновременно с этим повышаются проценты, цена растет в геометрической прогрессии.
 
-As of May 2021, around 36 million USD (number of daily minted bitcoin * price) must flow into the Bitcoin market every day to keep the current price of 40,000 USD stable. Whenever the price drops, fewer bitcoin were exchanged than were available on that day and vice versa.
+По состоянию на май 2021 года около 36 миллионов долларов США (количество ежедневно выпускаемых биткойнов *) должно поступать на рынок биткойнов каждый день, чтобы текущая цена в 40 000 долларов оставалась стабильной. Всякий раз, когда цена падает, было обменено меньше биткойнов, чем было доступно в тот день, и наоборот.
 
-The dates of these halvings are annotated in the chart below. The price follows similar patterns before and after each halving. In this chart, the top of bitcoin is predicted to be in September 2021, after which the price is expected to fall again as you can see on the "Low" marked grid lines. Of course, this is just a prediction based on a few historic events and numbers. We cannot take this as a given occurrence in the future. 
+Даты этих халвингов аннотированы в таблице ниже. Цена следует аналогичным моделям до и после каждого халвинга. На этом графике максимум биткойнов прогнозируется на сентябрь 2021 года, после чего ожидается, что цена снова упадет, как вы можете видеть на линиях сетки, отмеченных «Low». Конечно, это всего лишь прогноз, основанный на нескольких исторических событиях и цифрах. Мы не можем воспринимать это как данность в будущем.
 
 ![Halving price cycles](assets/_Halving-Price-cycles-by-Pladizow.png) [^29]
 
