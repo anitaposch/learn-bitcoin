@@ -194,40 +194,40 @@ M2 включает M0, M1, ценные бумаги денежного рын�
 
 Биткойн - наша альтернатива этой системе. Защита нашей конфиденциальности в этот цифровой век, голосование против злоупотребления монополистической властью в нынешней системе и предоставление людям, живущим в авторитарных государствах с коррумпированными правителями, равных возможностей для участия в экономической системе. Биткойн - это стратегия защиты, инструмент, с помощью которого мы можем сохранить право человека на свободу транзакций и конфиденциальность.
 
-[^1]: [Illustration NetGuardians retrieved April 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)
+[^1]: [Иллюстрация NetGuardians получена в апреле 2017 г.](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)
 
-[^2]: Anita Posch, credits: University of Nicosia, MOOC in Digital Currency, “A brief history of money” with image: Lotus Head, CC BY-SA 3.0, wikimedia.org
+[^2]: Анита Пош, кредиты: Университет Никосии, MOOC в цифровой валюте, «Краткая история денег» с изображением: Lotus Head, CC BY-SA 3.0, wikimedia.org
 
-[^3]: Image: "Stone Money of Uap, Western Caroline Islands." - Dr. Caroline Furness Jayne took this photograph during a 1903 stay on Yap, Public domain, via Wikimedia Commons
+[^3]: Изображение: «Каменные деньги Уапа, Западные Каролинские острова». - Доктор Кэролайн Фернесс Джейн сделала эту фотографию во время пребывания на Япе в 1903 году, общественное достояние, через Wikimedia Commons.
 
-[^4]: [Wikipedia Rai stones](https://en.wikipedia.org/wiki/Rai_stones)
+[^4]: [Википедия Раи камни](https://en.wikipedia.org/wiki/Rai_stones)
 
-[^5]: [University of Nicosia, Introduction to Digital Currencies, Session 1, p. 15]
+[^5]: [Университет Никосии, Введение в цифровые валюты, Сессия 1, стр. 15]
 
-[^6]: [Debt to GDP ratio, JS Blokland](https://twitter.com/jsblokland/status/1362138620665221122?s=20)
+[^6]: [Отношение долга к ВВП, АО Блокланд](https://twitter.com/jsblokland/status/1362138620665221122?s=20)
 
-[^7]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 7.
+[^7]: Collusion, Номи Принс, Bold Type Books, 2019, стр. 7.
 
-[^8]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. xvii
+[^8]: Collusion, Номи Принс, Bold Type Books, 2019, стр. xvii
 
-[^9]: [Monetary Base](https://www.investopedia.com/terms/m/monetarybase.asp)
+[^9]: [Денежная база](https://www.investopedia.com/terms/m/monetarybase.asp)
 
-[^10]: [Global Monetary Base, Crypto Voices](https://cryptovoices.com/basemoney)
+[^10]: [Мировая валютная база, Голоса Крипто](https://cryptovoices.com/basemoney)
 
-[^11]: [FRED, M2 Money Stock](https://fred.stlouisfed.org/graph/?graph_id=248494)
+[^11]: [FRED, денежный запас М2](https://fred.stlouisfed.org/graph/?graph_id=248494)
 
-[^12]: [Lyn Alden, Ponzi scheme](https://www.lynalden.com/bitcoin-ponzi-scheme/)
+[^12]: [Лин Олден, схема Понци](https://www.lynalden.com/bitcoin-ponzi-scheme/)
 
-[^13]: [Lyn Alden](https://twitter.com/LynAldenContact/status/1362912907659522049?s=20)
+[^13]: [Лин Олден](https://twitter.com/LynAldenContact/status/1362912907659522049?s=20)
 
-[^14]: [US Consumer Price Index](https://fred.stlouisfed.org/series/CPIAUCSL)
+[^14]: [Индекс потребительских цен США](https://fred.stlouisfed.org/series/CPIAUCSL)
 
-[^15]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 253.
+[^15]: Collusion, Номи Принс, Bold Type Books, 2019, стр. 253.
 
-[^16]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 249.
+[^16]: Collusion, Номи Принс, Bold Type Books, 2019, стр. 249.
 
-[^17]: [Lyn Alden, The Structure of the Global Monetary System](https://www.lynalden.com/fraying-petrodollar-system/)
+[^17]: [Лин Олден, Структура мировой валютной системы](https://www.lynalden.com/fraying-petrodollar-system/)
 
-[^18]: [Lyn Alden, Petrodollar System (1974-Present)](https://www.lynalden.com/fraying-petrodollar-system/)
+[^18]: [Лин Олден, Система нефтедолларов (1974-настоящее время)](https://www.lynalden.com/fraying-petrodollar-system/)
 
-[^19]: Anita Posch
+[^19]: Анита Пош
