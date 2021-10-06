@@ -11,7 +11,7 @@ Para comprar, usar y almacenar bitcoins, vas a necesitar:
 ### Cartera de Bitcoin
 Piensa en una cartera como una caja de seguridad pública con múltiples secciones. Cualquiera puede depositar dinero en cada una de las secciones. Solo el propietario de las llaves privadas puede desbloquear una sección y mover el dinero que tiene. Tu cartera Bitcoin consta de todas las secciones y contiene todas las llaves privadas para desbloquearlas. Las llaves privadas y las direcciones de Bitcoin se generan a partir de la semilla. La semilla es la raíz de todas las llaves y direcciones, es como un depósito en el que se almacenan todas tus llaves privadas.
 
-![Definición de términos](assets/__seed-postbox.png) [^69]
+![Definición de términos](assets/_seed-postbox.png) [^69]
 
 La cartera es una aplicación en tu teléfono o software en tu computadora, que maneja todo en segundo plano: tus llaves privadas, tus direcciones y el envío y recepción de bitcoins.
 

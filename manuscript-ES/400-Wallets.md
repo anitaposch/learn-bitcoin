@@ -34,7 +34,7 @@ Para iOS y Android
 * Si deseas utilizar Bitcoin y micropagos en Lightning Network:
 * [Monedero Muun](https://muun.com/)
 * [Breez Wallet](https://breez.technology/)
-* [Electrum] (https://electrum.org)
+* [Electrum](https://electrum.org)
 
 **Carteras de Escritorio**
 Debido a los riesgos de seguridad mencionados anteriormente, no uso carteras de software en mi computadora, excepto cuando las uso en combinación con carteras de hardware. Para ello, utilizo Electrum o el software nativo del fabricante del hardware.

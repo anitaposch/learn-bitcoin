@@ -21,6 +21,6 @@ Anota a mano la semilla mnemotécnica: de 12 a 24 palabras en inglés, el nombre
 ### Paso 3 - Compra Bitcoin
 La mayoría de las carteras incluyen la posibilidad de comprar bitcoins directamente dentro de su interfaz. Los fabricantes de carteras están cooperando con las casas de cambio, que a cambio les pagan una comisión. Sin embargo, si yo necesito usar una casa de cambios, prefiero seleccionar una antes e independientemente de la cartera. De esa manera, me mantengo independiente del tipo de cartera, puedo usar esta casa de cambios para enviar bitcoins a todas mis carteras diferentes y solo tengo que dejar mis datos KYC en esa única casa de cambios, lo que reduce el riesgo de violaciones de datos. Usar métodos libres de custodia, sin KYC (capítulo 7.3) es aún mejor.
 
-![Como obtener bitcoins](assets/__Buying-methods.png) [^72]
+![Como obtener bitcoins](assets/_Buying-methods.png) [^72]
 
 [^72]: Anita Posch
