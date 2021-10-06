@@ -1,6 +1,6 @@
 
-(L)earn Bitcoin - Ganar y Aprender con Bitcoin
-¡Conviértete en un Ciudadano Financieramente Sovryn!
+(L)earn Bitcoin - Ganar y Aprender con Bitcoin  
+¡Conviértete en un Ciudadano Financieramente Sovryn!  
 1ra Edición, junio de 2021
 
 Autor: Anita Posch
@@ -11,8 +11,8 @@ Editor: Mark Kersley
 Tipografía: Couper Street Type Co.  
 Diseño de Portada/Dirección de Arte: tzu jan | 自然  
 Boceto del Concepto de Ilustración: @danubastidas  
-Traducción al Español: Julio Moros
-Corector de pruebas: Diego Ramirez
+Traducción al Español: Julio Moros  
+Corector de pruebas: Diego Ramirez  
 Ilustración: Ilustración de Maleek  
 Rotulación a Mano: Mila Masina  
 
