@@ -48,7 +48,7 @@ La aplicación de cartera genera la semilla durante la configuración inicial. L
 
 ¡El orden de las palabras es IMPORTANTE! Debes escribir las palabras exactamente en el orden en que aparecen.
 
-> Ejemplo de semilla: “cruise item paper slim vocal power like video snap museum mirror sun”
+> Ejemplo de semilla: "cruise item paper slim vocal power like video snap museum mirror sun"
 
 Haz una copia de tu semilla a mano en una hoja de papel y guárdala de forma segura. No tomes una captura de pantalla, no la guardes en tu teléfono o computadora que esté conectada a Internet, ya que todos esos lugares pueden ser pirateados. Hay más información sobre seguridad en el capítulo 5.
 
