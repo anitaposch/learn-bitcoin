@@ -1,0 +1,11 @@
+"¿Qué es Bitcoin?" Incluso para comenzar a responder a esta pregunta, primero hay que preguntarse "¿qué es el dinero?" Anita lleva al lector a través de este viaje de aprendizaje sobre el dinero para que pueda comprender por qué Bitcoin es el próximo paso adelante en la tecnología financiera. Una vez que sabemos el "¿por qué?" luego está la cuestión del "¿cómo?" Una gran soberanía conlleva una gran responsabilidad; para navegar de forma segura por este nuevo sistema, necesitaremos de los conocimientos y las herramientas que ofrece este libro". - **Jameson Lopp, Cofundador y Director Tecnológico de "Casa"**
+
+"Anita ha realizado un trabajo tremendo en la comunidad de Bitcoin, incluyendo especialmente el contenido que ha producido sobre el uso de Bitcoin en las regiones menos privilegiadas del mundo. Su libro es una introducción concisa y accesible a Bitcoin que cubre todos los temas principales para alguien que está empezando". - **Lyn Alden, Estratega de Inversiones**
+
+"Los mejores profesores son los estudiantes. Desde el primer día que Anita apareció en mi radar, ha sido una investigadora y promotora curiosa y perspicaz de la tecnología revolucionaria de Bitcoin. Recogiendo trigo de la paja, escribe con sencillez, claridad y precisión necesaria para un tema complejo que exige experiencia en múltiples disciplinas. Sovryn se enorgullece de patrocinar la publicación de (L)earn Bitcoin (Ganar y Aprender con Bitcoin) como parte de nuestra misión de hacer que Bitcoin sea imparable". - **"exiledsurfer", Fundador de "Parallele Polis" y líder de comunicaciones en @SovrynBTC**
+
+"Anita Posch es una de las voces alemanas más productivas y perspicaces en el espacio de Bitcoin. Su trabajo hace que Bitcoin sea accesible, comprensible y atractivo para aquellos que son nuevos en Bitcoin y les ayuda en su viaje para convertirse en expertos. En un entorno lleno de ruido, su trabajo es claro como el cristal y honesto ". - **Andreas M. Antonopoulos, autor de "Mastering Bitcoin" y "The Internet of Money"**
+
+IMAGEN https://blot.im/cdn/blog_378314d0a9ec45bfa46b3bc7d3718410/_image_cache/701f2ed2-cede-4463-a146-ee28c92d2229.png
+
+Anita Posch es defensora de Bitcoin, autora, emprendedora y presentadora del programa Anita Posch. Es miembro de la junta de Bitcoin de Austria, una organización educativa sin fines de lucro.
