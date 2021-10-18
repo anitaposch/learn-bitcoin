@@ -7,6 +7,9 @@
 -----
 
 archived 910-endnotes.md because endnotes are footnotes inside textfiles
+added
+[^33a]: [2nd global cryptoasset benchmarking study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study/)  
+
 
 ----
 in 100-evolution-money.md last paragraph changed defence to defense
@@ -32,6 +35,15 @@ Hal Finney, an American cryptography and computer expert, had long been involved
 On January 8, 2009, Nakamoto released the first version of the Bitcoin software. 
 
 Hal Finney was the first after Nakamoto to install the software on his computer, he famously tweeted "Running Bitcoin" on January 11, 2009 and received a transaction. Hal Finney sadly died of a nerve disease sometime later. Did he know who was hiding behind the pseudonym, Satoshi Nakamoto?
+
+---
+201-Arguments-against-Bitcoin
+
+renamed reference [^^C2-6] to [^33a] and added it to the footnotes (in GitHub files)
+
+The low cost of switching pools acts as a system of checks and balances on the self-regulating behavior of miners. [^^33a]
+
+[^33a]: [2nd global cryptoasset benchmarking study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study/)
 
 ---
 

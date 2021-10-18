@@ -31,6 +31,7 @@
 [^31]: [Fuente: CoinMarketCap](https://coinmarketcap.com/charts/) 7 de junio de 2021  
 [^32]: [Fuente: Cambridge Center for Alternative Finance, 3er Estudio Global de Evaluación Comparativa de Criptoactivos, Fig. 34, Ilustración: Anita Posch](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/3rd-global-cryptoasset-benchmarking-study)  
 [^33]: [Source: Statista](https://www.statista.com/chart/18345/crypto-currency-adoption/)  
+[^33a]: [2do estudio global de evaluación comparativa de criptoactivos](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study/)  
 [^34]: [Fuente: CoinShares, Bitcoin Mining, diciembre de 2019](https://coinshares.com/de/research/bitcoin-mining-network-december-2019)  
 [^35]: [Fuente: Newsweek, 11/12/2017](https://www.newsweek.com/bitcoin-mining-track-consume-worlds-energy-2020-744036)  
 [^36]: [Fuente: Cambridge Center for Alternative Finance, marzo de 2021](https://cbeci.org/cbeci/comparisons/)  
