@@ -27,7 +27,7 @@ Con “Altcoins” se designa a la abreviatura de “Monedas Alternativas”. To
 
 Sin embargo, es posible que tengas la tentación de intentarlo. Utiliza el sitio web [“Si ya has comprado criptos”](https://ifyouhadboughtcrypto.com/) para comparar tus ganancias en los últimos años, si has invertido en Bitcoin o Ethereum, Dash, Ripple, Cardano, Dogecoin, Litecoin o Bitcoin Cash.
 
-### Ahh! Si Solo Hubiera… ¡He Llego Muy Tarde!
+### Ahh! Si Solo Hubiera… ¡He Llegado Muy Tarde!
 Si solo hubiera comprado Bitcoin en 2011, ahora sería muy rico. Eso es cierto y te felicitaría sin envidia, porque fuiste una de las pocas personas que creyó en Bitcoin y estabas dispuesto a poner el dinero que tanto te costó ganar en un experimento arriesgado. Ninguno de los primeros en adoptar sabía que Bitcoin aumentaría como lo ha hecho. Era muy difícil asegurar las llaves privadas en ese entonces y muchos bitcoins se perdieron o fueron robados. Si lo hubieras logrado y hubieras conservado tus monedas, podrías haberlo vendido todo en 2014, ¿o tal vez en 2017? No tiene sentido reflexionar sobre "qué hubiese pasado si…". Todavía estamos en los primeros días. Si estás comenzando a educarte y a usar Bitcoin ahora, todavía está muy por delante de las masas. Nunca es demasiado tarde para aprender sobre Bitcoin.
 
 ![Aquí hay alguien que pensaba que había llegado demasiado tarde en 2013](assets/_too-late.png)  
