@@ -67,3 +67,9 @@ The seed (sometimes called mnemonic phrase or backup phrase) is a sequence of 12
 
 ----
 added 2 spaces at the end of each footnote
+
+---
+added files
+[[1000-description-website]]
+[[1001-keywords-Amazon]]
+[[1002-description-IngramSpark]]
