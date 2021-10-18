@@ -54,7 +54,7 @@ _In besser entwickelten Regionen der Welt sind Einlagen auf Bankkonten versicher
 
 Das ist richtig. Mit großer Freiheit, kommt große Verantwortung. Wenn Sie ihre Bitcoin selbst verwahren, sind Sie alleine verantwortlich. Es gibt keine Versicherung. Aber: im Fall eines Zusammenbruchs des Bankensystems, wird ihnen diese Versicherung möglicherweise nichts nützen. Während der Finanzkrise in Zypern im Jahr 2013 wurden 47,5% aller Konten mit Einlagen von mehr als 100.000 Euro beschlagnahmt. Niemand kann Ihre Bitcoin beschlagnahmen, wenn Sie die privaten Schlüssel selbst verwalten.
 
-Wenn wir uns umsehen und 
+Die Einlagensicherung für Bankkonten kann unser Guthaben bis zu 100.000 Euro absichern, in den meisten Ländern der Welt, 
 
 If we open our eyes and think of the rest of the world, where 2 billion people are unbanked and 80% of the world's population live in authoritarian states, the case for an uncensorable money such as bitcoin, where you are in control and not a bank, makes logical sense again. In those countries, where people have no safety net at all, the Bitcoin network can give security. 
 
@@ -101,7 +101,7 @@ The Lightning Network has been in development since the beginning of 2018. This 
 ### Mining Pool Concentration
 A mining pool is a structure that "pools" together computational resources provided by connected hashers (pool contributors) to increase the likelihood of finding a new block, which results in more bitcoin reward pay-outs.
 
-While it is true that mining pools can become concentrated in specific areas or jurisdictions, like in China before their authoritarian government outlawed Bitcoin mining in June 2021, they still have less influence than you may first think. Firstly, mining pools consist of thousands of individual miners. Just because a mining pool is located in China does not mean that the individual miner has to be located in China. Hashers want to ensure that the pool they contribute to is engaging in behavior that is aligned to the Bitcoin philosophy. In an event of disagreement, miners are free to switch pools. In 2013, the Bitcoin mining pool GHash.io reached more than 50% of the total Bitcoin hashrate for a short period, which prompted hashers to proactively point their hashpower to other pools in order to avoid potentially harmful concentration. The low cost of switching pools acts as a system of checks and balances on the self-regulating behavior of miners. [^^C2-6]
+While it is true that mining pools can become concentrated in specific areas or jurisdictions, like in China before their authoritarian government outlawed Bitcoin mining in June 2021, they still have less influence than you may first think. Firstly, mining pools consist of thousands of individual miners. Just because a mining pool is located in China does not mean that the individual miner has to be located in China. Hashers want to ensure that the pool they contribute to is engaging in behavior that is aligned to the Bitcoin philosophy. In an event of disagreement, miners are free to switch pools. In 2013, the Bitcoin mining pool GHash.io reached more than 50% of the total Bitcoin hashrate for a short period, which prompted hashers to proactively point their hashpower to other pools in order to avoid potentially harmful concentration. The low cost of switching pools acts as a system of checks and balances on the self-regulating behavior of miners. [^^33a]
 
 ![Global Overview of Bitcoin Mining Regions. Regions With Large Relevant Regions Shown in Teal, Sichuan in Blue and Remaining Minor Regions in Black](assets/_mining-locations.png) [^34]
 
@@ -120,5 +120,5 @@ The 2017 hard-fork split between Bitcoin and Bitcoin Cash is a second example of
 [^32]: [Source Cambridge Center for Alternative Finance, 3rd Global Cryptoasset Benchmarking Study, Fig. 34, Illustration: Anita Posch](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/3rd-global-cryptoasset-benchmarking-study)
 
 [^33]: [Source Statista](https://www.statista.com/chart/18345/crypto-currency-adoption/)
-
+[^33a]: [2nd global cryptoasset benchmarking study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study/)
 [^34]: [Source CoinShares, Bitcoin Mining, Dec. 2019](https://coinshares.com/de/research/bitcoin-mining-network-december-2019)
