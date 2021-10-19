@@ -8,11 +8,11 @@ Autor: Anita Posch
 Editorial: PoshMedia e.U., Seilerstaette 24, 4. Stock, 1010 Wien
 
 Editor: Mark Kersley  
+Traducción al Español: Julio Moros  
+Corector de pruebas: Diego Ramirez  
 Tipografía: Couper Street Type Co.  
 Diseño de Portada/Dirección de Arte: tzu jan | 自然  
 Boceto del Concepto de Ilustración: @danubastidas  
-Traducción al Español: Julio Moros  
-Corector de pruebas: Diego Ramirez  
 Ilustración: Ilustración de Maleek  
 Rotulación a Mano: Mila Masina  
 
