@@ -1,18 +1,18 @@
-### e-book keywords:
+### palabras clave para libros electrónicos:
 
-Bitcoin for Dummies  
-Bitcoin best book  
-Bitcoin investment  
-Bitcoin beginner  
-Bitcoin books  
-Bitcoin guide  
-Cryptocurrency book  
+Bitcoin para Dummies
+El mejor libro de Bitcoin
+Inversión en Bitcoin
+Principiante en Bitcoin
+Libros de Bitcoin
+Guía de Bitcoin
+Libro de criptomonedas
 
-### print book keywords
-learn bitcoin  
-learning bitcoin  
-Bitcoin investing  
-Bitcoin dummies  
-Bitcoin beginner  
-Bitcoin money  
-Bitcoin book  
+### palabras clave de libros impresos
+aprender bitcoin
+aprendiendo bitcoin
+Inversión en Bitcoin
+Dummies de Bitcoin
+Principiante de Bitcoin
+Dinero Bitcoin
+Libro de Bitcoin

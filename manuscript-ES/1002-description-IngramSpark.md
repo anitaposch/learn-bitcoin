@@ -1,20 +1,19 @@
-Anita Posch is a Bitcoin advocate, author, solopreneur and host of the Anita Posch show. Anita's goal is to bring Bitcoin to billions through her educational work. Anita translated two volumes of The Internet of Money by Andreas M. Antonopoulos into German. On her podcast she has interviewed people from all around the world including some from developing countries like Nigeria, South Africa, Venezuela, and Afghanistan about the positive effects of Bitcoin on people's freedom.
+Anita Posch es una defensora de Bitcoin, autora, emprendedora y presentadora del programa Anita Posch. El objetivo de Anita es llevar Bitcoin a miles de millones a través de su trabajo educativo. Anita tradujo al alemán dos volúmenes de The Internet of Money de Andreas M. Antonopoulos. En su podcast, ha entrevistado a personas de todo el mundo, incluidos algunos de países en desarrollo como Nigeria, Sudáfrica, Venezuela y Afganistán, sobre los efectos positivos de Bitcoin en la libertad de las personas.
 
-Before she started her educational Bitcoin work in 2017, Anita gained over 20 years of experience in web development, e-commerce, and online business.
+Antes de comenzar su trabajo educativo con Bitcoin en 2017, Anita obtuvo más de 20 años de experiencia en desarrollo web, comercio electrónico y negocios en línea.
 
-Member of the board at NPO Bitcoin Austria, Guest on the What Bitcoin Did podcast, featured on CoinDesk and BitcoinMagazine
+Ella es miembro de la junta de la Organización Sin Fines de Lucro "Bitcoin Austria", y fue invitada en el podcast What Bitcoin Did, presentado en CoinDesk y BitcoinMagazine
 
-Bitcoin book;Cryptocurrency book;Bitcoin book best seller;Bitcoin investing;Bitcoin dummies;Bitcoin money;Bitcoin;cryptocurrency for dummies;Bitcoin for dummies;investing bitcoin;Bitcoin guide for beginners;Bitcoin basics book;Bitcoin security;Bitcoin basics;What is bitcoin;Bitcoin guide;bitcoin secure;bitcoin investing book;mastering bitcoin;Bitcoin books;where to invest bitcoin;bitcoin standard;bitcoin education;Bitcoin guidebook;how to use bitcoin;how to earn bitcoin;cryptocurrencies;blockchain book
+Libro de Bitcoin; Libro de criptomonedas; Best seller de Bitcoin; Inversión en Bitcoin;Dummies en Bitcoin; Dinero Bitcoin; Bitcoin; Criptomonedas para dummies; Bitcoin para dummies; Inversión en bitcoins; Guía de Bitcoin para principiantes; Libro de conceptos básicos de Bitcoin; Seguridad de Bitcoin; Conceptos básicos de Bitcoin; Qué es bitcoin; guía de Bitcoin; bitcoin seguro; libro de inversión en bitcoin; dominando el bitcoin; libros de Bitcoin; dónde invertir bitcoin; estándar de bitcoin; educación sobre bitcoin; guía de bitcoin; cómo usar bitcoin; cómo ganar bitcoin; criptomonedas; libro de blockchain
 
-10 Chapters on why Bitcoin is important and how you can use it safely.
-1.  The Evolution of Money
-2.  What Is a Blockchain?
-3.  Why Invest in Bitcoin?
-4.  The Staircase of Financial Sovereignty
-5.  Storing Coins Safely
-6.  Bitcoin's Price
-7.  How to Invest in Bitcoin
-8.  Using Bitcoin
-9.  Earn Bitcoin
-10.  The Future is Now
-
+10 capítulos sobre por qué Bitcoin es importante y cómo puede usarlo de manera segura.
+1. La Evolución del Dinero
+2. ¿Qué Es una Cadena de Bloques?
+3. ¿Invertir en Bitcoin?
+4. La Escalera Hacia La Soberanía Financiera
+5. Almacenando Monedas Con Seguridad
+6. El Precio de Bitcoin
+7. Cómo Invertir en Bitcoin
+8. Usando Bitcoin
+9. Ganar Bitcoin
+10. El Futuro Es Ahora
