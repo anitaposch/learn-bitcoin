@@ -22,14 +22,14 @@ Etwa 62 % der gesamten Stromerzeugung gehen verloren. Dabei handelt es sich um E
 Anders ausgedrückt: Bitcoin verbraucht 0,54 % des gesamten weltweiten Stromverbrauchs.
 ![Weltweite Gesamtstromproduktion, -verbrauch und Anteil von Bitcoin, März 2021](assets/_electricity-world-btc.png) [^40]
 
-**Der Energieverbrauch ist einfach zu quantifizieren**
+**Der Energieverbrauch ist einfach zu quantifizieren**  
 Die Transparenz von Bitcoin ermöglicht Schätzungen des Energiebedarfs, ganz im Gegensatz zu vielen anderen Branchen, in denen diese Daten eher undurchsichtig sind.
 
 Gemessen an den reinen Stromkosten können wir davon ausgehen, dass Bitcoin im globalen Maßstab [viel effizienter ist](https://medium.com/@danhedl/pow-is-efficient-aa3d442754d3) als das traditionelle Bankwesen und die Goldgewinnung. Die geschätzten Dollarkosten des Bitcoin-Minings pro verbrauchter Gigajoule sind 40 Mal effizienter als die des traditionellen Bankwesens und 10 Mal effizienter als die des Goldbergbaus.
 
 ![Vergleich der Energieausgaben zwischen Währungs- und Bankensystemen](assets/_energy-efficiency-ARK.png) [^41]
 
-**Warum braucht Bitcoin diese Menge an Strom?**
+**Warum braucht Bitcoin diese Menge an Strom?**  
 Der Proof-of-Work-Mining-Mechanismus ist ein fundamentales Element, das die Unabhängigkeit, Dezentralität, Neutralität und automatische Integrität des Netzwerks sicherstellt. Es ist der zuverlässigste Mechanismus, um Angriffe auf die im Netzwerk gebunden Vermögenswerte im Wert von über 600 Mrd. USD zu verhindern. (BTC-Marktkapitalisierung, Juni 2021)
 
 Bitcoin kann Transaktionen ohne Zwischenhändler nur deshalb abwickeln, weil spezielle, dedizierte Hardware transparent nachweist, dass der Computer eine kostspielige Rechenoperation durchgeführt hat. Proof-of-Work verankert das digitale Geld in der realen Welt. 
@@ -38,17 +38,17 @@ Proof-of-work is anchoring digital money in the real world. Hugo Nguyen von Chai
 
 Proof-of-Work ist auch der einzige Mechanismus, der eine gleichmäßig verteilte, dezentrale und faire Schaffung von Coins ermöglicht, während andere Methoden anfängliche Token-Drops und Token-Generierungs-Events erfordern, die es zentralen Akteuren ermöglichen, Vorteile aus bereits zuvor geprägten Coins zu ziehen (Proof-of-Stake).
 
-**Annahme Nr. 1: Für eine einzige Transaktion werden X Kilowatt benötigt**
+**Annahme Nr. 1: Für eine einzige Transaktion werden X Kilowatt benötigt**  
 Das ist fehlerhafte Mathematik. Der Energieverbrauch für Bitcoin hängt nicht von der Anzahl der Transaktionen ab. 
 
 Die Anzahl der Transaktionen, die auf der Blockchain stattfinden, und die Anzahl der Transaktionen, die außerhalb der Blockchain stattfinden - z. B. auf Technologien der zweiten Ebene wie dem Lightning Network oder über Bitcoin-Börsen, die viele Transaktionen zu einzelnen zusammenfügen - stehen in keinerlei Zusammenhang mit den Kosten des Minings. 80-90 % des Minings werden durch den Bitcoin-Preis beeinflusst, die restlichen 10-20 % durch Gebühren. Je höher der mögliche Gewinn für die Miner ist, desto größer ist die Wahrscheinlichkeit, dass sie neue Mining-Anlagen errichten. Sobald der Preis einbricht, werden einige von ihnen ihre Maschinen abstellen müssen.
 
 In the long term, when all 21 million bitcoin have been mined, the transaction fees alone will drive mining. At that point, transaction intensity will be more correlated to energy usage. But not today, the last bitcoin will be mined in 2140. Mining is driven by competition in a free market where mining difficulty adjusts dynamically. It has nothing to do with how many transactions are being processed. Mining is a mechanism for security. It relates to how much security the market allocates to the system, so more energy equals more security and when the price of bitcoin goes up the amount of money allocated to protect it also increases naturally. Therefore usage and higher adoption drive additional financial motivation for miners to produce more security by consuming more energy.
 
-**Assumption 2: Linear Extrapolation**
+**Assumption 2: Linear Extrapolation**  
 The second wrong assumption is to extrapolate linearly and say that, if it takes X kilowatts of energy to make one transaction today and we have seven and a half billion people on the planet who will want to make one transaction per day each, then bitcoin's energy consumption in the future will be Y. This is false. Bitcoin can't scale linearly in terms of transactions because of block size constraints on the base layer. To mitigate that, second-layer protocols like the Lightning Network or sidechains like Liquid are developed, which allow thousands of payments without the need for extra energy. The efficiency of mining equipment is rising. Miners need less power for the same amount of computing performance over time. Additionally, Bitcoin developers are improving the code, minimizing the data size of transactions so that more transactions can be mined in one block.
 
-**Assumption 3: Comparing VISA to Bitcoin**
+**Assumption 3: Comparing VISA to Bitcoin**  
 A Bitcoin on-chain transaction cannot be compared with a VISA payment. It is not the same. In traditional banking there are various layers of settlement, meaning they differ in their level of security and finalization. Let's take the example of the US system, which is comparable globally. The base layer is Fedwire, CHIPS and SWIFT networks, while debit card and credit card payments operate one or two levels above with many intermediaries. The base layer of Bitcoin has to be compared with Fedwire, CHIPS and SWIFT. Only second-layer solutions like fast, micropayments on the Lightning Network can be compared with VISA.
 
 ![False comparison between a bitcoin transaction and VISA](assets/_VISA-BTC-comparison.png) [^43]
@@ -67,14 +67,14 @@ The average transaction value per Fedwire transfer was 4.5 million USD in Februa
 
 Bitcoin transactions are settled every 10 minutes, 24 hours per day, 365 days per year. Compare this to ACH transactions which can take up to two years to be finally settled. [^48] Not to forget: Bitcoin and Lightning transactions are permissionless and trustless while the traditional payment system only works because intermediaries take custody of fraud and chargebacks.
 
-**Assumption 4: Equating Energy Consumption With Pollution**
+**Assumption 4: Equating Energy Consumption With Pollution**  
 People say, for example, that "every transaction pollutes" or "bitcoin's pollution is increasing" or "bitcoin produces pollution as a result of its energy consumption" - that's simply not true. There is no direct correlation between energy usage and pollution because it depends entirely on what type of energy is being used. If you're producing energy with coal, that causes pollution and environmental impact. If you're producing energy with hydroelectric dams or wind or solar for example, then you're not actually polluting. In fact, you're subsidizing those energy mechanisms and incentivizing the creation of more solar, wind, geothermal, off-gassing and other forms of energy through the application of bitcoin as an economic factor in the production of that energy.
 
 Bitcoin miners are profit-driven, so they will always look for the cheapest energy, which is renewable. Coal and oil will always be more expensive than hydroelectric, geothermal, stranded gas, wind and solar power. Not to forget nuclear, which is also an option that many count as green energy.
 
 Indisputably, Bitcoin miners are using otherwise wasted energy. I spoke with [Sébastien Gouspillou](https://anita.link/103) and [Philippe Bekhazi](https://anita.link/101) two miners using hydropower, who confirmed the above statements.
 
-**Energy Mix of Electricity Production**
+**Energy Mix of Electricity Production**  
 Bitcoin miners are fairly well distributed across the globe. While it is easy to quantify the electricity demand, it is more difficult to quantify the electricity sources since the Bitcoin mining industry remains a highly private and pseudonymous industry. Therefore, research on the electricity used in mining estimates renewable energy usage varies from 39% (Cambridge Center, CBECI.org) to 73% in the CoinShares Mining Whitepaper, which concludes:
 
 "Using a combination of estimates of global mining locations and regional renewables penetrations we again calculate the Bitcoin mining industry to be heavily renewables-driven. Our current approximate percentage of renewable power generation in the Bitcoin mining energy mix stands at 73%, around four times the global average. Overall, our findings reaffirm our view that Bitcoin mining is acting as a global electricity buyer of last resort and therefore tends to cluster around comparatively under-utilised renewables infrastructure. This could help turn loss making renewables projects profitable and in time - as the industry matures and settles as permanent in the public eye - could act as a driver of new renewables developments in locations that were previously uneconomical." [^49]
@@ -84,7 +84,7 @@ The question is not how much energy is required, but how is electricity produced
 Bitcoin uses a higher amount of electricity from renewables than the grid in China the USA and the wider world.
 ![Electricity Mix, Bitcoin vs. China vs. USA vs. The World, 2020](assets/_Bitcoin-electricity-sources.jpg) [^50]
 
-**Carbon Emissions**
+**Carbon Emissions**  
 Some research has tried to assess the carbon emission flows and sustainability of Bitcoin through estimating future demand, based on false assumptions. One paper for instance is claiming that: "the annual energy consumption of the Bitcoin blockchain in China is expected to peak in 2024 at 296.59 Twh and generate 130.50 million metric tons of carbon emission correspondingly." [^51]
 
 > "It’s an immediate red flag that the authors confidently declare Bitcoin’s future carbon outlay to two decimal places, when realistically the number can only be estimated to within an order of magnitude.", states **Nic Carter**. [^52]
@@ -93,7 +93,7 @@ Based on the [work of Hass McCook](https://bitcoinmagazine.com/business/bitcoin-
 
 ![Annual Greenhouse Gas Emissions, Hass McCook, June 2021](assets/_annual-GHG-emissions2021.png.png) [^53]
 
-**Final Assumption: Bitcoin Isn't Useful, Therefore Any Use of Energy for a Bitcoin Is Wasteful**
+**Final Assumption: Bitcoin Isn't Useful, Therefore Any Use of Energy for a Bitcoin Is Wasteful**  
 
 If you decide Bitcoin isn't useful, then this is a very subjective opinion. Bitcoin might not make sense to you, but it might make sense for many other people. If you are making this argument, you must agree that there are many other forms of energy use that are prima facie useless or even damaging in their use, and they don't receive the same amount of scrutiny.
 
@@ -105,7 +105,7 @@ This leads back to the chapter about the Petrodollar, the linkage between the US
 
 Is the war machine a useful thing to have in our society? Before you scream "Whataboutism!", say that it's comparing two different things and demand we should reduce the use of the war machine as well as the use of bitcoin, do not forget there's a very important link that is missing. The war machine all around the world is funded directly by fiat debt that is produced and paid off through inflation that is enabled through the uncontrolled central bank printing money, which in the end you, the taxpayer, are fronting the bill for. Bitcoin isn't just a solution for an open economy, it's a solution that constrains governments from producing currency at unreasonable rates and using inflation as a hidden form of taxation to fund the war machine, which ultimately pollutes and damages more than anything else in existence. Bitcoin isn't simply a substitute for general economic activity, it's also a direct control on the war machine that pollutes and uses far more energy simply to kill people. So in my opinion those two things are very closely tied. But that's just Andreas M. Antonopoulos' and my own opinion.
 
-**Conclusion: The Benefits of Bitcoin**
+**Conclusion: The Benefits of Bitcoin**  
 Bitcoin is uncensorable, incorruptible, and allows billions of people open access to a global money system, regardless of color, gender, wealth, and status. Furthermore, it is our only chance to secure financial privacy, or at least pseudonymity, in a world of digital surveillance.
 
 The Bitcoin network secures assets for about 100 million users globally, worth over 600 billion USD (June 2021) without any upper limit and does not rely on military power or currency wars.
