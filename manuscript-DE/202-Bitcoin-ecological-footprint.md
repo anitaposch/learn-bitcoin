@@ -1,45 +1,49 @@
-### Bitcoin's Ecological Footprint
-_Bitcoin consumes a lot of electricity, which will increase our climate crisis and is irresponsible._
+### Bitcoins ökologischer Fußabdruck
+_Bitcoin verbraucht viel Strom. In Zeiten des Klimawandels ist das unverantwortlich._
 
-![Newsweek article from 2017](assets/_Newsweek-2020-energy.png) [^35]
+![Newsweek Artikel aus 2017](assets/_Newsweek-2020-energy.png) [^35]
 
-The above screenshot is an article from Newsweek right in the middle of the 2017-2018 bull run. It is based on the work of Alex de Vries (Digiconomist), a former data analyst for the Dutch Central Bank. Many research papers and mainstream media articles are based on his false assumptions like comparing Bitcoin transactions' energy consumption to VISA payments and calculating a carbon footprint from this. I argue that a lot of this work is done to spread false claims in order to demonize Bitcoin.
+Obiger Screenshot ist ein Artikel aus Newsweek aus der Zeit des Bull-Runs 2017-2018. Er basiert auf der Arbeit von Alex de Vries (Digiconomist), einem ehemaligen Datenanalysten für die niederländische Zentralbank. Viele Forschungsarbeiten und Artikel in den Mainstream-Medien basieren auf seinen falschen Annahmen, wie dem Vergleich des Energieverbrauchs von Bitcoin-Transaktionen mit VISA-Zahlungen und der Berechnung des CO2-Fußabdrucks auf dieser Grundlage. Ich behaupte, dass ein großer Teil dieser Arbeit dazu dient, falsche Behauptungen zu verbreiten, um Bitcoin zu verteufeln.
 
-> "Every time we have a rally in Bitcoin we see all of this negative attention to the environmental impact of Bitcoin. Apparently it only matters when the price is high." - **Andreas M. Antonopoulos**
+> "In jeder Bitcoin-Rallye schießen die negativen Artikel über Bitcoins Umeltauswirkungen aus dem Boden. Anscheinend ist das nur ein wichtiges Thema, wenn der Bitcoin-Preis hoch ist." - **Andreas M. Antonopoulos**
 
-Let's dive into this. Bitcoin critics often mention that Bitcoin consumes more energy than the benefits it creates. It's undeniable that Bitcoin mining requires lots of electricity. It is estimated that between 80 and 118 TWh per year are used globally for mining which is equivalent to the entire power consumption of countries like the Netherlands.
+Lassen Sie uns das genauer betrachten. Bitcoin-Kritiker erwähnen oft, dass Bitcoin mehr Energie verbraucht als es Nutzen hat. Es ist unbestreitbar, dass das Bitcoin-Mining viel Strom verbraucht. Es wird geschätzt, dass weltweit zwischen 80 und 118 TWh pro Jahr für das Mining genutzt werden, was dem gesamten Stromverbrauch von Ländern wie den Niederlanden entspricht.
 
-![Country ranking, March 2021](assets/_electricity-consumption-btc.png) [^36]
+![Länder-Rangliste, März 2021](assets/_electricity-consumption-btc.png) [^36]
 
-The world wastes a lot of electricity. The amount of electricity consumed every year by always-on but inactive home devices in the USA alone could power the Bitcoin network for 1.9 years. This means that the amount of energy wasted in the USA could almost power the Bitcoin network twice over, year-on-year. [^37]
+Die Welt verschwendet eine Menge Strom. Die Strommenge, die in den USA jährlich von inaktiven, aber in stand-by gehaltenen Haushaltsgeräten verbraucht wird, könnte das Bitcoin-Netzwerk 1,9 Jahre lang versorgen. Das bedeutet, dass die Menge an Energie, die nur in den USA für stand-by Geräte verschwendet wird, das Bitcoin-Netzwerk jedes Jahr fast zweimal versorgen könnte.[^37]
 
-At the same time, two-thirds of all energy produced in the USA is lost. It's reasonable to assume that this is happening in all other parts of the world too.
+Gleichzeitig gehen zwei Drittel der in den USA erzeugten Energie verloren. Es ist anzunehmen, dass dies auch in allen anderen Teilen der Welt geschieht.
 
-![Estimated US Energy Consumption in 2017 - Rejected Energy](assets/_Energy_US_2020.png) [^38]
+![Geschätzter US-Energieverbrauch im Jahr 2017 - verlorene Energie](assets/_Energy_US_2020.png) [^38]
 
-Notice that rejected energy accounts for around 62% of all electricity generation. Rejected energy is energy that is produced but ultimately does not go to useful work. To make matters worse, over time, this number has been increasing on a relative basis. In 1970 Lawrence Livermore National Laboratory found our proportion of rejected energy was around 48%. [^39]
+Etwa 62 % der gesamten Stromerzeugung gehen verloren. Dabei handelt es sich um Energie, die zwar erzeugt wird, aber letztlich nicht für nützliche Arbeit verwendet wird. Erschwerend kommt hinzu, dass diese Zahl im Laufe der Zeit relativ gesehen gestiegen ist. Im Jahr 1970 stellte das Lawrence Livermore National Laboratory fest, dass unser Anteil an verlorener Energie etwa 48 % betrug. [^39]
 
-To put it another way, Bitcoin accounts for 0.54% of all electricity used globally.
-![The world's total electricity production, consumption and Bitcoin's share, March 2021](assets/_electricity-world-btc.png) [^40]
+Anders ausgedrückt: Bitcoin verbraucht 0,54 % des gesamten weltweiten Stromverbrauchs.
+![Weltweite Gesamtstromproduktion, -verbrauch und Anteil von Bitcoin, März 2021](assets/_electricity-world-btc.png) [^40]
 
-**Electricity Consumption Easy to Quantify**
-Bitcoin's transparency allows estimations of its energy demand quite in contrast to many other industries, where these data points are more obscure. Measured by electricity costs alone, we can assume that Bitcoin is [much more efficient](https://medium.com/@danhedl/pow-is-efficient-aa3d442754d3) than traditional banking and gold mining on a global scale.
+**Der Energieverbrauch ist einfach zu quantifizieren**
+Die Transparenz von Bitcoin ermöglicht Schätzungen des Energiebedarfs, ganz im Gegensatz zu vielen anderen Branchen, in denen diese Daten eher undurchsichtig sind.
 
-Bitcoin mining’s estimated dollar cost per Gigajoule expended is 40 times more efficient than that of traditional banking and 10 times more efficient than that of gold mining.
+Gemessen an den reinen Stromkosten können wir davon ausgehen, dass Bitcoin im globalen Maßstab [viel effizienter ist](https://medium.com/@danhedl/pow-is-efficient-aa3d442754d3) als das traditionelle Bankwesen und die Goldgewinnung. Die geschätzten Dollarkosten des Bitcoin-Minings pro verbrauchter Gigajoule sind 40 Mal effizienter als die des traditionellen Bankwesens und 10 Mal effizienter als die des Goldbergbaus.
 
-![Comparing energy expenditure across monetary and banking systems](assets/_energy-efficiency-ARK.png) [^41]
+![Vergleich der Energieausgaben zwischen Währungs- und Bankensystemen](assets/_energy-efficiency-ARK.png) [^41]
 
-**Why Does Bitcoin Need This Amount of Electricity**
-The proof-of-work mining mechanism is a fundamental feature that secures the independence, neutrality and automated integrity of the network. It is the most secure way to prevent attacks on the assets worth over 600 billion USD that are locked in the network. (BTC market cap, June 2021)
+**Warum braucht Bitcoin diese Menge an Strom?**
+Der Proof-of-Work-Mining-Mechanismus ist ein fundamentales Element, das die Unabhängigkeit, Dezentralität, Neutralität und automatische Integrität des Netzwerks sicherstellt. Es ist der zuverlässigste Mechanismus, um Angriffe auf die im Netzwerk gebunden Vermögenswerte im Wert von über 600 Mrd. USD zu verhindern. (BTC-Marktkapitalisierung, Juni 2021)
 
-Bitcoin can settle transactions without intermediaries because specialized, dedicated hardware proves transparently that the computer has executed a costly computation.
+Bitcoin kann Transaktionen ohne Zwischenhändler nur deshalb abwickeln, weil spezielle, dedizierte Hardware transparent nachweist, dass der Computer eine kostspielige Rechenoperation durchgeführt hat. Proof-of-Work verankert das digitale Geld in der realen Welt. 
 
-Proof-of-work is anchoring digital money in the real world. As Chaincode Labs resident Hugo Nguyen explains, "Under the hood, proof-of-work mining converts kinetic energy (electricity) into a ledger block. By attaching energy to a block, one gives it ‘form’, allowing it to have real weight and consequences in the physical world." [^42]
+Proof-of-work is anchoring digital money in the real world. Hugo Nguyen von Chaincode Labs erklärt: "Unter der Haube wandelt das Proof-of-Work-Mining kinetische Energie (Elektrizität) in einen Bitcoin-Block um. Indem man Energie an einen Block anhängt, gibt man ihm eine 'Form', so dass er in der physischen Welt echtes Gewicht und Konsequenzen hat. [^42]
 
-Proof-of-work is also the only mechanism that allows an equally distributed, decentralized creation of coin supply, whereas other methods require initial token drops and token generation events that allow centralized actors to take advantage of pre-mined coins (Proof-of-stake).
+Proof-of-Work ist auch der einzige Mechanismus, der eine gleichmäßig verteilte, dezentrale und faire Schaffung von Coins ermöglicht, während andere Methoden anfängliche Token-Drops und Token-Generierungs-Events erfordern, die es zentralen Akteuren ermöglichen, Vorteile aus bereits zuvor geprägten Coins zu ziehen (Proof-of-Stake).
 
-**Assumption #1: It Takes X Kilowatts to Do a Single Transaction**
-This is faulty mathematics. The use of energy for bitcoin does not scale to the number of transactions. The number of transactions that happen on-chain and the number of transactions that happen off-chain - for instance, on second-layer technologies like the Lightning Network or through custodial exchanges, that batch transactions - are not correlated at all to the cost of mining. 80-90% of mining is driven by bitcoin's price, with the other 10-20% being driven by fees. The higher the possible profit for miners, the more chance that miners will set up new mining facilities and, when the price crashes, some will have to stop their machines. In the long term, when all 21 million bitcoin have been mined, the transaction fees alone will drive mining. At that point, transaction intensity will be more correlated to energy usage. But not today, the last bitcoin will be mined in 2140. Mining is driven by competition in a free market where mining difficulty adjusts dynamically. It has nothing to do with how many transactions are being processed. Mining is a mechanism for security. It relates to how much security the market allocates to the system, so more energy equals more security and when the price of bitcoin goes up the amount of money allocated to protect it also increases naturally. Therefore usage and higher adoption drive additional financial motivation for miners to produce more security by consuming more energy.
+**Annahme Nr. 1: Für eine einzige Transaktion werden X Kilowatt benötigt**
+Das ist fehlerhafte Mathematik. Der Energieverbrauch für Bitcoin hängt nicht von der Anzahl der Transaktionen ab. 
+
+Die Anzahl der Transaktionen, die auf der Blockchain stattfinden, und die Anzahl der Transaktionen, die außerhalb der Blockchain stattfinden - z. B. auf Technologien der zweiten Ebene wie dem Lightning Network oder über Bitcoin-Börsen, die viele Transaktionen zu einzelnen zusammenfügen - stehen in keinerlei Zusammenhang mit den Kosten des Minings. 80-90 % des Minings werden durch den Bitcoin-Preis beeinflusst, die restlichen 10-20 % durch Gebühren. Je höher der mögliche Gewinn für die Miner ist, desto größer ist die Wahrscheinlichkeit, dass sie neue Mining-Anlagen errichten. Sobald der Preis einbricht, werden einige von ihnen ihre Maschinen abstellen müssen.
+
+In the long term, when all 21 million bitcoin have been mined, the transaction fees alone will drive mining. At that point, transaction intensity will be more correlated to energy usage. But not today, the last bitcoin will be mined in 2140. Mining is driven by competition in a free market where mining difficulty adjusts dynamically. It has nothing to do with how many transactions are being processed. Mining is a mechanism for security. It relates to how much security the market allocates to the system, so more energy equals more security and when the price of bitcoin goes up the amount of money allocated to protect it also increases naturally. Therefore usage and higher adoption drive additional financial motivation for miners to produce more security by consuming more energy.
 
 **Assumption 2: Linear Extrapolation**
 The second wrong assumption is to extrapolate linearly and say that, if it takes X kilowatts of energy to make one transaction today and we have seven and a half billion people on the planet who will want to make one transaction per day each, then bitcoin's energy consumption in the future will be Y. This is false. Bitcoin can't scale linearly in terms of transactions because of block size constraints on the base layer. To mitigate that, second-layer protocols like the Lightning Network or sidechains like Liquid are developed, which allow thousands of payments without the need for extra energy. The efficiency of mining equipment is rising. Miners need less power for the same amount of computing performance over time. Additionally, Bitcoin developers are improving the code, minimizing the data size of transactions so that more transactions can be mined in one block.
