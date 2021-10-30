@@ -34,11 +34,11 @@ Seit Bitcoins Start im Jahr 2009 gab es mehrere Kurs-Zusammenbrüche. Sicher ist
 
 ![Bitcoin-Preis in logarithmischer Darstellung](assets/_Bitcoin-price-log.png)  [^30]
 
->Versuchen Sie nicht cleverer als der Markt zu sein und traden Sie nicht. Halten Sie ihre Bitcoin. Mindestens für fünf Jahre.
+> Versuchen Sie nicht cleverer als der Markt zu sein und traden Sie nicht. Halten Sie ihre Bitcoin. Mindestens für fünf Jahre.
 
 In einem Bärenmarkt, wenn der Kurs stark fällt, werden Sie das Gefühl haben, dass Ihr Vermögen schrumpft. Es sinkt aber nur der Wert in Fiat-Geld, ihre Menge an Bitcoin bleibt dieselbe. 0,3 Bitcoin im Bärenmarkt sind genauso 0,3 Bitcoin im Bullenmarkt. Dieser Gedanke hat mir durch so manches Tief geholfen. Ihr Verlust entsteht durch den Vergleich des Bitcoin-Kurses zu einer anderen Anlageform oder Euro. Bleiben Sie geduldig, verkaufen Sie nicht. Die Geschichte zeigt, dass langfristiges Halten ein sicherer Weg ist, Ihr Vermögen zu sichern. 
 
->Investieren Sie nur soviel in Bitcoin, wie Sie gewillt sind zu verlieren. Wenn Ihnen der Kursverfall schlaflose Nächte bereitet, halten Sie vermutlich zuviel von einem riskanten Asset wie Bitcoin.
+> Investieren Sie nur soviel in Bitcoin, wie Sie gewillt sind zu verlieren. Wenn Ihnen der Kursverfall schlaflose Nächte bereitet, halten Sie vermutlich zuviel von einem riskanten Asset wie Bitcoin.
 
 ### Kein Widerrufssrecht? No Recourse
   
@@ -54,71 +54,72 @@ _In besser entwickelten Regionen der Welt sind Einlagen auf Bankkonten versicher
 
 Das ist richtig. Mit großer Freiheit, kommt große Verantwortung. Wenn Sie ihre Bitcoin selbst verwahren, sind Sie alleine verantwortlich. Es gibt keine Versicherung. Aber: im Fall eines Zusammenbruchs des Bankensystems, wird ihnen diese Versicherung möglicherweise nichts nützen. Während der Finanzkrise in Zypern im Jahr 2013 wurden 47,5% aller Konten mit Einlagen von mehr als 100.000 Euro beschlagnahmt. Niemand kann Ihre Bitcoin beschlagnahmen, wenn Sie die privaten Schlüssel selbst verwalten.
 
-Die Einlagensicherung für Bankkonten kann unser Guthaben bis zu 100.000 Euro absichern, in den meisten Ländern der Welt, 
+In Europa sind wir an ein größtenteils gut funktionierendes Bankensystem gewöhnt. Doch 2 Milliarden Menschen besitzen kein Bankkonto, 80 % der Weltbevölkerung lebt in autoritären Staaten. Für diese Menschen macht unzensurierbares Geld, für das man die volle Kontrolle hat Sinn. In diesen Ländern, in denen die Menschen berechtigterweise null Vertrauen in das Bankensystem haben, bietet das Bitcoin-Netzwerk Sicherheit. 
 
-If we open our eyes and think of the rest of the world, where 2 billion people are unbanked and 80% of the world's population live in authoritarian states, the case for an uncensorable money such as bitcoin, where you are in control and not a bank, makes logical sense again. In those countries, where people have no safety net at all, the Bitcoin network can give security. 
+###  Ich kann mir Bitcoin nicht leisten
+_Ein Bitcoin ist zu teuer, ich kann mir keinen kaufen._
 
-###  I Can't Afford to Invest
-_I can't buy one bitcoin, it's too expensive._
+Kein Problem, Sie müssen keinen ganzen Bitcoin kaufen. Ein Bitcoin besteht aus extrem kleinen Einheiten, viel kleiner als ein Euro Cent. Sie können einen Teil eines Bitcoins kaufen, zum Beispiel für 20 Euro oder weniger. 
 
-That's ok, you don't have to. There is no minimum budget you need to use bitcoin. A bitcoin is divisible into extremely small units, much smaller than a cent. You can buy a fraction of a bitcoin and start to play around with 20 USD or less.
+Die bessere Alternative ist es, Bitcoin zu verdienen. Mehr darüber im Kapitel 9 "Bitcoin verdienen".
 
-You can also earn bitcoin, but more about that in chapter 9 "Earn Bitcoin".
+### Bitcoin wird wie die ersten Internet-Unternehmen scheitern
 
-### Bitcoin Will Fail Like the First Internet Companies
+_Bitcoin ist eine neue Technologie. Es ist die erste ihrer Art. Vergleichen wir das mit den ersten Computer Herstellern in den 1980er Jahren oder den Internet-Plattformen des Dot com Booms, fast keine dieser Firmen hat bis heute überlebt. Bitcoin war die erste Blockchain und könnte genauso enden._
 
-_Bitcoin is a new technology. It is the first of its kind. When we compare this with the first computer companies in the 1980s or the internet platforms of the dot com boom, almost none survived. Bitcoin was the first blockchain on the market, it might go the same route._
-    
-Bitcoin has been the world's most widely used cryptocurrency since it originated in 2009. I agree, there are no assurances that it will continue that way. The market dominance of Bitcoin was over 80% until 2017. Meaning that, of all the thousands of cryptocurrencies on the market, over 80% of all investments were held in Bitcoin. This changed in 2017-18 when there was a "war" between different ideas around how Bitcoin as a technology should go forward. The block-size debate ended with a hard-fork, where the Bitcoin blockchain split into two forks: Bitcoin (BTC) and Bitcoin Cash (BCH). At that time, other crypto projects like Ethereum gained importance. Four years later, BCH has steadily declined into insignificance compared to BTC. Bitcoin held its dominance with over 60% until the current bull run, where it dropped to 40% by the time of writing. A bull run results in more mainstream attention, which leads to many uninformed media articles and, when certain billionaires add rumors and speculation to the mix, Altcoins are lifted into focus. 
+Bitcoin ist seit seiner Entstehung im Jahr 2009 die weltweit am häufigsten verwendete Kryptowährung. Ich gebe zu, dass es keine Garantien dafür gibt, dass dies so bleiben wird. Die Marktdominanz von Bitcoin lag bis 2017 bei über 80%. Das bedeutet, dass von all den Tausenden von Kryptowährungen auf dem Markt über 80% aller Investitionen in Bitcoin gehalten wurden. Dies änderte sich 2017-18, als es einen "Krieg" zwischen verschiedenen Ideen darüber gab, wie Bitcoin als Technologie weitergehen sollte. Die Debatte über die zukünftige Blockgröße endete mit einer Hard-Fork, einem Split der Blockchain in zwei Gabeln: Bitcoin (BTC) und Bitcoin Cash (BCH). Zur selben Zeit gewannen andere Krypto-Projekte wie Ethereum an Bedeutung. Vier Jahre später ist BCH im Vergleich zu BTC in die Bedeutungslosigkeit gerutscht. Bitcoin hielt seine Dominanz mit über 60 % bis zur aktuellen Hausse, wo er zum Zeitpunkt der Erstellung dieses Buches auf 40 % fiel. Ein Bull-Run führt zu mehr Aufmerksamkeit in Mainstream-Medien, viele schlecht informierte Artikel erscheinen (meist nur über den Preis) und bestimmte Milliardäre streuen Gerüchte und Spekulationen. Dadurch werden Altcoins in den Fokus gerückt und die durch den Preis angelockten Marktteilnehmer kaufen diese.
 
-![Percentage of total market capitalization](assets/_Market-dominance.png) [^31]
+![Prozentsatz der gesamten Marktkapitalisierung](assets/_Market-dominance.png) [^31]
 
-The resurgence of Bitcoin's dominance after the critical time of the hard-fork in 2017 was a sign of strength for many experts like macro-economist Lyn Alden and US investor Michael Saylor, which led them to believe in the future potential of Bitcoin as the winner-takes-all cryptocurrency. And even if there were technological innovations in Altcoins that would propel them in front of Bitcoin, there is no doubt that the Bitcoin developers would implement them too.
+Die Wiederherstellung der Vorrangstellung Bitcoins nach der kritischen Phase im Jahr 2017 war für viele Experten wie die Makro-Ökonomin Lyn Alden und den US Investor Michael Saylor ein Zeichen der Stärke, das sie veranlasste, an das Potenzial von Bitcoin als die in der Zukunft stärkste Kryptowährung zu glauben. Und selbst wenn es technologische Innovationen bei Altcoins gäbe, die sie vor Bitcoin katapultieren, besteht kein Zweifel daran, dass die Bitcoin-Entwickler diese Innovationen auch in Bitcoin übernehmen würden.
 
-### Bitcoin Has Failed
+### Bitcoin ist gescheitert
 
-_There are only a few Bitcoin users. After 12 years of existence, many more people should use Bitcoin. Bitcoin has failed._
+_Es nutzen doch wirklich wenig Menschen Bitcoin. Nach 12 Jahren des Bestehens sollten schon viel mehr Menschen Bitcoin verwenden. Bitcon ist gescheitert._
 
-Since the use of Bitcoin is, in principle, not tied to identities, it is not statistically possible to know how many people really use Bitcoin. Also, the number of Bitcoin addresses gives us no idea how many people use it. One person can have millions of addresses, or in the case of bitcoin on centralized exchanges, thousands of people can be managed by one large custodial address only.
+Da die Nutzung von Bitcoin im Prinzip nicht an Identitäten gebunden ist, ist es statistisch unmöglich zu wissen, wie viele Menschen Bitcoin wirklich nutzen. Auch die Anzahl der Bitcoin-Adressen gibt uns keinen Aufschluss darüber, wie viele Menschen Bitcoin nutzen. Eine Person kann Millionen von Adressen haben. Zentrale Bitcoin-Börsen können die Bitcoin tausender Personen auf einigen wenigen Adressen halten.
 
-Those centralized exchanges have to verify your identity before you are allowed to change fiat into bitcoin. The following statistic shows that over 101 million people around the world have an account at such an exchange. The people who managed to get some bitcoin in the early days, or operate outside the bounds of centralized exchanges go unaccounted for.
+Diese zentralisierten Tauschbörsen müssen Ihre persönliche Identität mittels Ausweispapieren, Meldebestätigung etc. verifizieren, bevor Sie Euro in Bitcoin tauschen dürfen. Daher ist es möglich die folgende Statistik zu erstellen, die zeigt, dass weltweit über 101 Millionen Menschen ein Konto bei einer dieser Börsen besitzt. Darin nicht enthalten sind all jene, die bereits in den Jahren bevor es diese Börsen gab an Bitcoin gekommen sind und jene, die aus Gründen der Privatsphäre ihre Bitcoin außerhalb der zentralen Börsen erstehen oder durch Arbeit verdienen.
 
-![Number of identity-verified crypto asset users in millions](assets/_number-users-2020.png) [^32]
+![Anzahl der identitätsgeprüften Nutzer von Kryptowährungen in Millionen](assets/_number-users-2020.png) [^32]
 
-Around 1.3% of the world's population had an account at a cryptocurrency exchange at the end of 2020, a growth of nearly 190% between 2018 and 2020. Still, one could argue that this is not much. However, for a completely new asset class and money that originated as a grassroots movement without a company or marketing behind it, Bitcoin has developed itself to the point where it is widely known, discussed and used by over at least 100 million people worldwide.
+Rund 1,3 % der Weltbevölkerung hatten Ende 2020 ein Konto bei einer Kryptowährungsbörse, was einem Wachstum von fast 190 % zwischen 2018 und 2020 entspricht. Dennoch könnte man argumentieren, dass dies wenig ist. Für eine völlig neue Anlageklasse und Geld hat sich Bitcoin bemerkenswert weit entwickelt. Bitcoin wird weltweit diskutiert, ist ein bekannter Begriff und wird von mindestens 100 Millionen Menschen weltweit genutzt. All das ist aus einer Graswurzelbewegung, ohne Unternehmen oder Marketing dahinter, entstanden.
 
-![Respondents who said they used or owned cryptocurrencies 2020](assets/_users_around-world.png) [^33]
+![Befragte, die angegeben haben, dass sie Kryptowährungen verwenden oder besitzen im Jahr 2020](assets/_users_around-world.png) [^33]
 
-This is the result of a survey in selected countries showing that 32% of the Nigerian population has used or owns cryptocurrency. Keep in mind, the Nigerian population is on average 19 years old, compared to the US figure of 38 and Germany's median age of 44 years. They are young, want to work, are tech-savvy and value cryptocurrencies, despite their volatility because their own national currency Naira is losing 25% of its value per year.
+Dies ist das Ergebnis einer Umfrage in ausgewählten Ländern, aus der hervorgeht, dass 32 % der nigerianischen Bevölkerung Kryptowährungen verwendet haben oder besitzen. Bedenken Sie, dass die nigerianische Bevölkerung im Durchschnitt 19 Jahre alt ist, verglichen mit den der USA mit 38 Jahren und Deutschland mit einem Durchschnittsalter von 44 Jahren. Sie sind jung, wollen arbeiten, sind technisch versiert und schätzen Kryptowährungen trotz ihrer Volatilität, da ihre eigene nationale Währung Naira 25% ihres Wertes pro Jahr verliert.
 
-Want to know more about Bitcoin in Nigeria, open your browser and go to: anita.link/88, anita.link/66 and anita.link/63
+Wenn Sie mehr über Bitcoin in Nigeria erfahren möchten, öffnen Sie ihren Browser und gehen zu: anita.link/88, anita.link/66 und anita.link/63
 
-### Bitcoin's Transaction Limit
-_The Bitcoin network is only capable of processing seven transactions per second. That is not enough to maintain a global payment network. If all people were using Bitcoin, the network would be overburdened._
+### Bitcoins Transaktionsgrenze
+_Das Bitcoin-Netzwerk ist in der Lage nur sieben Transaktionen pro Sekunde zu verarbeiten. Das ist nicht genug, um ein globales Zahlungsnetzwerk zu bedienen. Wenn alle Menschen Bitcoin nutzen würden, wäre das Netzwerk überlastet._
 
-The Lightning Network has been in development since the beginning of 2018. This is a protocol that is located one level above the Bitcoin blockchain. The Lightning Network is expected to handle thousands of micro-payments per second in a few years and has already shown a good degree of success for instant cross-continent payments. The Bitcoin blockchain will be used as the base settlement layer for large transactions, while small payments for a coffee, for instance, will take place on the Lightning Network. As the user, you do not need to know how this works. Most of us do not know how Netflix or sending an email works and yet we do it every day.
+Das Lightning-Netzwerk wurde Anfang 2018 gestartet und wird laufend weiter entwickelt. Dabei handelt es sich um ein Protokoll, das eine Ebene über der Bitcoin-Blockchain angesiedelt ist. Das Lightning Netzwerk wickelt bereits tausende Mikrozahlungen pro Sekunde ab und hat sich als sehr erfolgreich für globale, schnelle, und günstige Geldsendungen erwiesen. Das Wachstum von Lightning ist exponentiell. In ein paar Jahren können Bitcoin-Zahlungen mittels Lightning, technisch die Transaktionsanzahl von Visa oder Mastercard übersteigen. Die Bitcoin-Blockchain wird als die elementare Abrechnungsebene für große Transaktionen verwendet werden, während kleine Zahlungen, wie für den Besuch im Kaffeehaus, über das Lightning Netzwerk erfolgen werden. Für den täglichen Gebrauch muss niemand wissen, wie das funktioniert. Die meisten von uns wissen nicht was hinter Netflix oder dem Senden einer E-Mail steckt, dennoch tun wir es laufend.
 
-### Mining Pool Concentration
-A mining pool is a structure that "pools" together computational resources provided by connected hashers (pool contributors) to increase the likelihood of finding a new block, which results in more bitcoin reward pay-outs.
 
-While it is true that mining pools can become concentrated in specific areas or jurisdictions, like in China before their authoritarian government outlawed Bitcoin mining in June 2021, they still have less influence than you may first think. Firstly, mining pools consist of thousands of individual miners. Just because a mining pool is located in China does not mean that the individual miner has to be located in China. Hashers want to ensure that the pool they contribute to is engaging in behavior that is aligned to the Bitcoin philosophy. In an event of disagreement, miners are free to switch pools. In 2013, the Bitcoin mining pool GHash.io reached more than 50% of the total Bitcoin hashrate for a short period, which prompted hashers to proactively point their hashpower to other pools in order to avoid potentially harmful concentration. The low cost of switching pools acts as a system of checks and balances on the self-regulating behavior of miners. [^^33a]
+### Mining-Pool Konzentration
+Ein Mining-Pool ist eine Struktur, die Rechenressourcen von angeschlossenen Hashern (Rechnern) bündelt (pooling), um die Wahrscheinlichkeit zu erhöhen, schneller als andere einen neuen Block zu finden, um mehr Bitcoin zu schürfen und mehr Block-Belohnung zu erhalten.
 
-![Global Overview of Bitcoin Mining Regions. Regions With Large Relevant Regions Shown in Teal, Sichuan in Blue and Remaining Minor Regions in Black](assets/_mining-locations.png) [^34]
+Es stimmt zwar, dass sich Mining-Pools auf bestimmte Gebiete oder Gerichtsbarkeiten konzentrieren können, wie z. B. in China, bevor die dortige autoritäre Regierung das Bitcoin-Mining im Juni 2021 verboten hat, aber sie haben dennoch weniger Einfluss, als Sie vielleicht zunächst denken. Erstens bestehen Mining-Pools aus Tausenden von einzelnen Minern. Nur weil ein Mining-Pool in China ansässig ist, bedeutet das nicht, dass der einzelne Miner in China ansässig sein muss. Die Menschen hinter den Mining-Maschinen wollen zumeist sicherstellen, dass der Pool zu dem sie beitragen, sich gemäß der Bitcoin-Philosophie verhält. Bei Unstimmigkeiten steht es ihnen frei, den Pool zu wechseln. Im Jahr 2013 erreichte der Bitcoin-Mining-Pool GHash.io für einen kurzen Zeitraum mehr als 50% der gesamten Bitcoin-Hashrate, was viele dazu veranlasste, ihre Hashpower proaktiv auf andere Pools zu verlagern, um eine potenziell schädliche Konzentration zu vermeiden. Die geringen Umstiegskosten für den Wechsel des Pools wirken durch das Verhalten der Miner wie ein selbstregulierendes Kontrollsystem. [^^33a]
 
-The 2017 hard-fork split between Bitcoin and Bitcoin Cash is a second example of how Bitcoin is self-regulating. Miners and big exchanges wanted to increase the block size of each Bitcoin block to achieve a higher transaction output per block. The community of node operators and Bitcoin users did not want to change the block size because people with lower bandwidth would have been disadvantaged. Instead, they opted for 2nd layer solutions like the Lightning Network to address this problem. This resulted in the "Blocksize war", where miners and big companies tried to force the changes upon the network. This resulted in a hard-fork: Bitcoin split into Bitcoin and Bitcoin Cash. Four years later, Bitcoin Cash is almost forgotten, while Bitcoin is the largest cryptocurrency. It shows that miners do not have more power than other users.
+![Globaler Überblick über Bitcoin-Mining-Regionen. Regionen mit großen relevanten Regionen sind in blaugrün dargestellt, Sichuan in blau und die übrigen kleineren Regionen in schwarz.](assets/_mining-locations.png) [^34]
 
-[^27]: [Source Charlie Bilello](https://twitter.com/charliebilello/status/1370722188739891202/photo/1)
+Der Hard-Fork-Split zwischen Bitcoin und Bitcoin Cash im Jahr 2017 ist ein zweites Beispiel dafür, wie sich Bitcoin selbst reguliert. Miner und große Börsen wollten die Blockgröße eines jeden Bitcoin-Blocks erhöhen, um eine höhere Transaktionsanzahl pro Block zu erreichen.
 
-[^28]: [Source CoinGecko](https://www.coingecko.com/en/coins/bitcoin/usd), June 7, 2021
+Die Bitcoin-Community, die Knotenbetreiber und Bitcoin Nutzer, waren dagegen, da Menschen in Regionen mit schlechter Internet-Bandbreite benachteiligt worden wären. Stattdessen haben sie sich für 2nd-Layer-Lösungen wie das Lightning Network entschieden, um dieses Problem zu lösen. Dies führte zum "Blocksize-Krieg", bei dem Miner und große Unternehmen versuchten, dem Netzwerk die Änderung aufzuzwingen. Dies führte zu einer Hardfork: Bitcoin spaltete sich in Bitcoin und Bitcoin Cash. Vier Jahre später ist Bitcoin Cash fast vergessen, während Bitcoin die größte Kryptowährung ist. Das zeigt, dass die Miner nicht mehr Macht haben als andere Nutzer.
 
-[^29]: [Source Pladizow](https://twitter.com/Pladizow/status/1358545292782497792/photo/1)
+[^27]: [Quelle Charlie Bilello](https://twitter.com/charliebilello/status/1370722188739891202/photo/1)
 
-[^30]: [Source CoinGecko](https://www.coingecko.com/en/coins/bitcoin/usd), June 7, 2021
+[^28]: [Quelle CoinGecko](https://www.coingecko.com/en/coins/bitcoin/usd), June 7, 2021
 
-[^31]: [Source CoinMarketCap](https://coinmarketcap.com/charts/) June 7, 2021
+[^29]: [Quelle Pladizow](https://twitter.com/Pladizow/status/1358545292782497792/photo/1)
 
-[^32]: [Source Cambridge Center for Alternative Finance, 3rd Global Cryptoasset Benchmarking Study, Fig. 34, Illustration: Anita Posch](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/3rd-global-cryptoasset-benchmarking-study)
+[^30]: [Quelle CoinGecko](https://www.coingecko.com/en/coins/bitcoin/usd), June 7, 2021
 
-[^33]: [Source Statista](https://www.statista.com/chart/18345/crypto-currency-adoption/)
+[^31]: [Quelle CoinMarketCap](https://coinmarketcap.com/charts/) June 7, 2021
+
+[^32]: [Quelle Cambridge Center for Alternative Finance, 3rd Global Cryptoasset Benchmarking Study, Fig. 34, Illustration: Anita Posch](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/3rd-global-cryptoasset-benchmarking-study)
+
+[^33]: [Quelle Statista](https://www.statista.com/chart/18345/crypto-currency-adoption/)
 [^33a]: [2nd global cryptoasset benchmarking study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study/)
-[^34]: [Source CoinShares, Bitcoin Mining, Dec. 2019](https://coinshares.com/de/research/bitcoin-mining-network-december-2019)
+[^34]: [Quelle CoinShares, Bitcoin Mining, Dec. 2019](https://coinshares.com/de/research/bitcoin-mining-network-december-2019)
