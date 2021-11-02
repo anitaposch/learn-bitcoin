@@ -8,6 +8,7 @@ Autorin: Anita Posch
 Verlag: PoshMedia e.U., Seilerstätte 24, 4. Stock, 1010 Wien
 
 Lektorat: Mark Kersley  
+Deutsches Lektorat:  ........ 
 Satz: Couper Street Type Co.  
 Cover Design/Art Direction: tzu jan | 自然  
 Illustration (Konzept): @danubastidas  
