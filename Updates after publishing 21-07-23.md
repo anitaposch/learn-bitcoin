@@ -70,6 +70,6 @@ added 2 spaces at the end of each footnote
 
 ---
 added files
-[[1000-description-website]]
-[[1001-keywords-Amazon]]
-[[1002-description-IngramSpark]]
+[[960-description-website]]
+[[970-keywords-Amazon]]
+[[980-description-IngramSpark]]
