@@ -16,10 +16,10 @@ Bei einer traditionellen Zahlung gibt es bis zu sieben Intermediäre bis die Zah
 -   Bitcoin ist ein neutrales Netzwerk: es moralisiert und beurteilt nicht, ob eine Zahlung aus irgendeiner subjektiven Sicht "gut" oder "schlecht" ist.
 -   Bitcoin ist erlaubnisfrei: es muss niemand um Erlaubnis gebeten werden, um es zu nutzen.
 -   Bitcoin ist grenzenlos: es kann global verwendet werden.
--   Bitcoin, das Internet Protokoll, ist Allgemeingut: es gehört der Öffentlichkeit, jeder und jedem einzelnen von uns, nicht einer juristischen Einheit wie einem Unternehmen.
+-   Bitcoin, das Internet Protokoll, ist Allgemeingut: es gehört der Öffentlichkeit, jeder und jedem Einzelnen von uns, nicht einer juristischen Einheit wie einem Unternehmen.
 -   Die Regeln des Bitcoin-Netzwerks werden durch den programmatisch gesicherten Konsens aller Beteiligten bestimmt.
 
-Bitcoin ist das Geld der Menschen. Bitcoin ist die Evolution des Geldes. Es ist Ergebnis der ständigen Weiterentwicklung des Geldes, die Teil der Menschheitsgeschichte ist. Über die Jahrtausende sind neue Formen des Geldes gefunden und genutzt worden. Von direktem Tausch zwischen Menschen über das Kreditsystem zum Goldstandard, bis zum heutigen ungedeckten, inflationären Fiat-Geldsystem. Das Banken- und Währungssystem wie wir es heute kennen, ist vor etwa 300 Jahren entstanden. Es ist logisch, dass sich nach der Verbreitung völlig neuer Kommunikationsformen durch das Internet, neue Ökonomien gebildet haben, denen letzendlich ein Internet-natives Geld entsprungen ist.
+Bitcoin ist das Geld der Menschen. Bitcoin ist die Evolution des Geldes. Es ist Ergebnis der ständigen Weiterentwicklung des Geldes, welche Teil der Menschheitsgeschichte ist. Über die Jahrtausende sind neue Formen des Geldes gefunden und genutzt worden. Von direktem Tausch zwischen Menschen über das Kreditsystem zum Goldstandard, bis zum heutigen, ungedeckten, inflationären Fiat-Geldsystem. Das Banken- und Währungssystem, wie wir es heute kennen, ist vor etwa 300 Jahren entstanden. Es ist nur logisch, dass sich mit der Verbreitung völlig neuer Kommunikationsformen durch das Internet, neue Ökonomien gebildet haben, denen letzendlich ein Internet-natives Geld entsprungen ist.
 
 ![Die Geschichte des Geldes](assets/_money-history.png) [^2]
 
@@ -49,7 +49,7 @@ Das Rai Steingeld wird von zeitgenössischen Ökonom*innen als primitive Form de
 
 Bitcoin hat mir die Augen geöffnet. Es gibt zwei unterschiedliche Perioden meines Lebens. Die vor Bitcoin und die danach. Ich sehe vieles ganz anders als zuvor. Mein Ziel war, Bitcoin zu verstehen. Zuallererst musste ich unser aktuelles Geld verstehen. Was sind die Unterschiede zwischen dem Euro, dem US-Dollar oder Bitcoin? Was ist Inflation? Welche Rolle spielen die Nationalbanken und so weiter. Wieso lernen wir nichts darüber in der Schule oder ist diese Lücke gar Absicht?
 
-In 195 Ländern der Welt werden 180 verschiedene Währungen verwendet. Eine Währung ist Geld, das allgemein genutzt und vom Staat vorgeschrieben wird. Viele Jurisdikationen setzen ihre Währung auch als gesetzliches Zahlungsmittel fest; dies ist Geld, das per Gesetz für die Bezahlung von Schulden verwendet werden kann und als Form der Bezahlung nicht abgelehnt werden darf.
+In 195 Ländern der Welt werden 180 verschiedene Währungen verwendet. Eine Währung ist Geld, das allgemein genutzt und vom Staat vorgeschrieben wird. Viele Jurisdiktionen setzen ihre Währung auch als gesetzliches Zahlungsmittel fest; dies ist Geld, das per Gesetz für die Bezahlung von Schulden verwendet werden kann und als Form der Bezahlung nicht abgelehnt werden darf.
 
 Alle diese 180 Währungen – beispielsweise US-Dollar, Euro, Yen und das Pfund Sterling – fallen unter die Definition von Fiat-Geld. Seit 1971 ist keine dieser Währungen durch Gold oder irgendeinen anderen materiellen Vermögenswert gedeckt. Geld hat seinen Wert, weil wir daran glauben. Geld ist eine Sprache, die es uns ermöglicht im sozialen Kontext einer Sache Wert zuzuschreiben. Das Wort Fiat stammt aus dem Lateinischen und bedeutet "es geschehe". Unser Geld wird durch einen Eintrag in eine Datenbank erzeugt. Es ist eine Ziffer in einem Buchhaltungssystem. Es steht keine geschaffene Produktivität oder Wert dahinter. 
 
@@ -93,7 +93,7 @@ Naomi Prins' Buch "Collusion" ergründet die Psyche der Wall Street. Sie zeigt a
 
 ### Geldmengeninflation
 
-Nehmen wir den US-Dollar als Beispiel für alle Fiat-Währungen. Aufgrund der Geldmengeninflation, die mehr US-Dollar auf den Markt spült, sinkt der Wert des US-Dollars. Stellen Sie sich eine Banknote wie ein Gut wie Kupfer vor. Existiert mehr Kupfer am Markt als Bedarf besteht, sinkt der Preis von Kupfer, sein Wert fällt. Dasselbe gilt für Ihre Banknote. Der Wert des Fiat-Geldes wird ebenfalls durch Angebot und Nachfrage bestimmt. Wird die Menge erhöht, während der Bedarf gleich bleibt, sinkt der Wert einer einzelnen Banknote. 
+Nehmen wir den US-Dollar als Beispiel für alle Fiat-Währungen. Aufgrund der Geldmengeninflation, die mehr US-Dollar auf den Markt spült, sinkt der Wert des US-Dollars. Stellen Sie sich eine Banknote als ein Gut wie Kupfer vor. Existiert mehr Kupfer am Markt als Bedarf besteht, sinkt der Preis von Kupfer, sein Wert fällt. Dasselbe gilt für Ihre Banknote. Der Wert des Fiat-Geldes wird ebenfalls durch Angebot und Nachfrage bestimmt. Wird die Menge erhöht, während der Bedarf gleich bleibt, sinkt der Wert einer einzelnen Banknote. 
 
 Die Geldmenge besteht aus verschiedenen Arten von Geld, die generell als "M" klassifiziert werden. Beispielsweise steht M0 für die Geldbasis, weiters gibt es M1, M2 und M3. Die folgenden Definitionen können sich je nach Land unterscheiden.
 
@@ -125,7 +125,7 @@ Genau gesagt, entsteht Inflation, wenn die Geldmenge das nominale BIP-Wachstum �
 
 > Ponzi-System: "Eine Betrugsform, bei der der Glaube an den Erfolg eines fiktiven Unternehmens durch schnelle Gewinne der Erstinvestoren aus den Investitionen der Nachfolgenden geschürt wird." - **Oxford English Dictionary**
 
-Feinde von Bitcoin nennen es ein Ponzi-System. Ich behaupte, entweder sie verstehen Bitcoin oder das wirkliche Ponzi-System nicht oder sie haben ein persönliches Interesse daran, dass Bitcoin nicht erfolgreich ist. Charles Ponzi wurde 1920 in den USA festgenommen, nachdem er zehntausende Opfer um 20 Millionen Dollar erleichtert hatte. Sein Versprechen war, dass er ihr Geld innerhalb von drei Monaten verdoppeln würde. Für das eingelegte Geld erhielten die "Investoren" Schuldscheine, die das ursprüngliche Investment plus 50 Prozent Zinsen garantierten. Diese Schuldscheine wurden "Ponzi-Noten" genannt, da sie Charles Ponzis Stempel trugen.
+Feinde von Bitcoin nennen es ein Ponzi-System. Ich behaupte, sie verstehen entweder Bitcoin oder echte Ponzi-Systeme nicht. Vielleicht haben sie aber auch einfach ein persönliches Interesse daran, dass Bitcoin nicht erfolgreich ist. Charles Ponzi wurde 1920 in den USA festgenommen, nachdem er zehntausende Opfer um 20 Millionen Dollar erleichtert hatte. Sein Versprechen war, dass er ihr Geld innerhalb von drei Monaten verdoppeln würde. Für das eingelegte Geld erhielten die "Investoren" Schuldscheine, die das ursprüngliche Investment plus 50 Prozent Zinsen garantierten. Diese Schuldscheine wurden "Ponzi-Noten" genannt, da sie Charles Ponzis Stempel trugen.
 
 > "Mein Geschäft war simpel. Es war das alte Spiel, ein Loch aufzureissen und ein anderes damit zu stopfen. Sie geben mir 100 Dollar und ich gebe Ihnen einen Schuldschein, der garantiert, dass ich Ihnen in drei Monaten 150 Dollar zurückzahle.…Meine Noten wurden wertvoller als das amerikanische Geld.…Dann kamen die Probleme. Die ganze Sache war kaputt." - **Charles Ponzi**
 
@@ -134,7 +134,7 @@ Falls Sie mehr darüber erfahren möchten, hören Sie sich meinen Podcast über 
 **Eigenschaften eines Ponzi-Systems**
 
 * Ein Ponzi-System hat einen zentralen Akteur, einen Anführer oder eine Organisation, die bekannt ist, Geld einsammelt und sich letztlich mit dem Geld absetzt.
-* Ponzi-Systeme sind nicht überprüfbar oder transparent. Niemand ausser der Erfinder weiß, was mit dem eingesammelten Geld passiert. 
+* Ponzi-Systeme sind nicht überprüfbar oder transparent. Niemand ausser dem Erfinder weiß, was mit dem eingesammelten Geld passiert. 
 * Bei einem Ponzi-System werden solange Schuldscheine ausgegeben bis es zusammenstürzt - es gibt keine maximale Ausgabemenge.
 * Die Schwierigkeit, die Investoren auszubezahlen: je mehr Geld in das System fließt, desto schwieriger wird es, das Geld zurückzuzahlen und für den Erfinder die Maschine zu stoppen.  
 * Das System muss eines Tages zusammenbrechen, es gibt keinen Ausweg.
@@ -153,13 +153,13 @@ Vergleichen wir dieses System mit der heutigen Schaffung von Geld.
 * Die Banken verdienen Geld für das Verleihen von Vermögen, ohne etwas real zur wirtschaftlichen Leistung eines Landes beizutragen. 
 * Gier ist der Motor des Fiat-Systems. Die Finanzelite erhält billige Kredite, weil sie genug Sicherheit besitzt, um mehr Sicherheiten zu kaufen, die ihren Reichtum und Macht wieder vergrössern. 
 
-### Das wirkliche Ponzi-System
+### Das wahre Ponzi-System
 
 * Die einzige Gemeinsamkeit zwischen Bitcoin und einem Ponzi-System ist der Netzwerkeffekt durch Gier. Im Unterschied zum Ponzi, können Sie Bitcoin mittels ihrer privaten Schlüssel aber selbst besitzen. Es gibt keine Bank und keinen zentralen Akteur, der Ihre Bitcoin kontrollieren kann. 
 
-* Bitcoins Menge ist beschränkt. Es wird nur 21 Millionen geben. Bitcoin ist endlich, Fiat-Währung ist unendlich. Es kann keine Geldmengeninflation bei Bitcoin geben.
+* Die Bitcoin Menge ist beschränkt. Es wird nur 21 Millionen geben. Bitcoin ist endlich, Fiat-Währung ist unendlich. Es kann keine Geldmengeninflation bei Bitcoin geben.
 
-* Bitcoins Ausgaberate ist durch einen Algorithmus vorbestimmt, auf den sich alle Akteure im Bitcoin-Netzwerk geeinigt haben und der von ihnen auch via Netzwerknoten überwacht wird. Die Rate kann ohne den Konsens aller Beteiligten in der globalen Bitcoin-Gemeinschaft nicht geändert werden. Nachdem das 21 Millionen Limit eine der wichtigsten Eigenschaften Bitcoins ist, ist eine Änderung sehr schwierig bis unmöglich.
+* Die Bitcoin Ausgaberate ist durch einen Algorithmus vorbestimmt, auf den sich alle Akteure im Bitcoin-Netzwerk geeinigt haben und der von ihnen auch via Netzwerknoten überwacht wird. Die Rate kann ohne den Konsens aller Beteiligten in der globalen Bitcoin-Gemeinschaft nicht geändert werden. Nachdem das 21 Millionen Limit eine der wichtigsten Eigenschaften von Bitcoin ist, ist eine Änderung sehr schwierig bis unmöglich.
 
 * Die Zentralbanker bestimmen das finanzielle Schicksal aller Länder der Welt. Sie wurden nicht gewählt, dennoch agieren sie wie Regierungen, die den gesamten Finanzmarkt zu kontrollieren versuchen.
 
@@ -172,9 +172,9 @@ Vergleichen wir dieses System mit der heutigen Schaffung von Geld.
 
 Die Wohlstandsunterschiede haben in den letzten Jahrhunderten gleichzeitig mit der Kommerzialisierung und Monetarisierung der natürlichen Ressourcen zugenommen. Nichts kann mehr monetarisiert werden. Wir leben in einem Kampf um Ressourcen und Chancengleichheit gegen das Establishment und die Eliten, die sich durch Korruption und finanzielle Vorteile bereichern.
 
-"Ein weiteres Nebenprodukt der Finanzkrise und der geheimen Absprachen der Zentralbanken waren die zunehmenden wirtschaftlichen Ängste, die zu einer Hinwendung zum Nationalismus führten, von Brasilien über Großbritannien bis in die USA.  Der Schock des Brexit in Großbritannien hallte in der ganzen Welt nach, während sich die Wählenden von der amtierenden Regierungund ihrer gescheiterten Wirtschaftspolitik abwandten. Der Wahlsieg Donald Trumps, dem milliardenschweren "Anti-Establishment"-Präsidenten, in den USA war eine weitere Demonstration dieses Trends. Diese richtungsweisenden Wahlen wurden nicht direkt durch die Zentralbankpolitik verursacht, sondern waren die Auswirkungen." [^16]
+"Ein weiteres Nebenprodukt der Finanzkrise und der geheimen Absprachen der Zentralbanken waren die zunehmenden wirtschaftlichen Ängste, die zu einer Hinwendung zum Nationalismus führten, von Brasilien über Großbritannien bis in die USA.  Der Schock des Brexit in Großbritannien hallte in der ganzen Welt nach, während sich die Wählenden von der amtierenden Regierung und ihrer gescheiterten Wirtschaftspolitik abwandten. Der Wahlsieg Donald Trumps, dem milliardenschweren "Anti-Establishment"-Präsidenten, in den USA war eine weitere Demonstration dieses Trends. Diese richtungsweisenden Wahlen wurden nicht direkt durch die Zentralbankpolitik verursacht, sondern waren deren Auswirkungen." [^16]
 
-Der wachsende Unterschied zwischen Reich und Arm basiert auf unserem aktuellen Geldsystem, welches das wirkliche Ponzi-System ist. Zentralbanker werden nicht demokratisch gewählt, dennoch entscheiden sie über das wirtschaftliche Schicksal der Welt. Banker und ihre Freunde profitieren von diesem System. Es ist Zeit für eine Alternative: eine dezentrale, für Alle offen stehende, neutrale, transparente, unveränderbare, nicht-inflationierbare, gemeinschaftlich organisierte Form des Geldes für die Menschen: Bitcoin.
+Der wachsende Unterschied zwischen Reich und Arm basiert auf unserem aktuellen Geldsystem, welches das wahre Ponzi-System ist. Zentralbanker werden nicht demokratisch gewählt, dennoch entscheiden sie über das wirtschaftliche Schicksal der Welt. Banker und ihre Freunde profitieren von diesem System. Es ist Zeit für eine Alternative: eine dezentrale, für Alle offen stehende, neutrale, transparente, unveränderbare, nicht-inflationierbare, gemeinschaftlich organisierte Form des Geldes für die Menschen: Bitcoin.
 
 ### Das heutige Petrodollar-System
 
@@ -190,11 +190,11 @@ Unser heutiges Währungssystem basiert auf dem Petrodollar. Lyn Alden beschreibt
 
 "Nach dem Zusammenbruch des Bretton-Woods-Systems 1971 wurden alle Währungen der Welt zu Fiat-Währungen und das globale Währungssystem wurde ungeordneter. Dies war das erste Mal in der Geschichte der Menschheit, dass alle Währungen der Welt gleichzeitig zu ungedecktem Papier wurden.
 
-Fiat-Währung ist ein Geldsystem, bei dem die Währung selbst keinen Wert hat; es ist nur Papier, billige Metallmünzen oder digitale Informationseinheiten. Es hat einen Wert, weil die Regierung erklärt, dass es einen Wert hat und dass es gesetzliches Zahlungsmittel ist, mit dem Alles, einschließlich Steuern, zu bezahlen ist. 
+Fiat-Währung ist ein Geldsystem, bei dem die Währung selbst keinen Wert hat; es ist nur Papier, billige Metallmünzen oder digitale Informationseinheiten. Es hat einen Wert, weil die Regierung erklärt, dass es einen Wert hat und dass es gesetzliches Zahlungsmittel ist, mit dem alles, einschließlich Steuern, zu bezahlen ist. 
 
 Ein Land kann die Verwendung einer Fiat-Währung als Tauschmittel und Rechnungseinheit im eigenen Land durchsetzen, indem alle Steuern nur in dieser Währung zu zahlen sind, oder indem andere Gesetze erlassen werden, die andere Tauschmittel und Rechnungseinheiten erschweren oder in einigen Fällen sogar verbieten. Wenn diese Währung jedoch in großen Problemen steckt, wie es in vielen Schwellenländern der Fall ist, entwickelt sich ein Schwarzmarkt für andere Tauschmittel, wie Devisen oder harte Vermögenswerte.
 
-Eine ungedeckte Währung kann auf verschiedene Probleme stoßen, wenn sie außerhalb ihres Ursprungslandes verwendet werden soll. Wieso sollten Unternehmen und Regierungen anderer Länder Papier, als Zahlung für ihre wertvollen Güter und Dienstleistungen akzeptieren, das von einem anderen Land endlos gedruckt werden kann und keine sichere Deckung hat? Was ist es wert ohne Deckung? Wieso sollte jemand Öl gegen Papier an Ausländer verkaufen?
+Eine ungedeckte Währung kann auf verschiedene Probleme stoßen, wenn sie außerhalb ihres Ursprungslandes verwendet werden soll. Wieso sollten Unternehmen und Regierungen anderer Länder Papier als Zahlung für ihre wertvollen Güter und Dienstleistungen akzeptieren, das von einem anderen Land endlos gedruckt werden kann und keine sichere Deckung hat? Was ist es wert ohne Deckung? Wieso sollte jemand Öl gegen Papier an Ausländer verkaufen?
 
 In den frühen 1970er Jahren gab es eine Reihe geopolitischer Konflikte wie den Jom-Kippur-Krieg und das OPEC Öl-Embargo. 1974 erreichten die USA und Saudi Arabien eine Einigung. Von da an war die Welt auf das Petrodollar-System eingestellt. Ein kluger Weg, um ein globales Fiat-Währungssystem einigermaßen sinnvoll zu gestalten....Im Petrodollar-System verkaufen Saudi Arabien und andere OPEC-Länder ihr Öl ausschließlich gegen US-Dollar. Dafür erhalten sie Schutz und Kooperation der USA. Im Fall, dass beispielsweise Frankreich Öl von Saudi Arabien kaufen will, dann tun sie das ebenfalls in US-Dollar....Im Gegenzug setzen die USA ihre beispiellose Hochseekriegsflotte ein, um die weltweiten Schifffahrtswege zu schützen und den geopolitischen Status quo bei Bedarf durch militärische Maßnahmen oder die Androhung solcher Maßnahmen aufrechtzuerhalten.....Einige von uns, insbesondere die oberen Einkommensschichten, profitieren direkt oder indirekt von diesem System. Amerikaner, die im Finanzwesen, in der Regierung, im Gesundheitswesen und in der Technologiebranche arbeiten, genießen viele der Vorteile eines Lebens in der Hegemonialmacht, ohne die Nachteile. Andererseits haben die Amerikaner, die Sachgüter herstellen, in der Regel nicht davon profitiert, weil sie ihren Arbeitsplatz verloren haben oder ihr Einkommen unterdrückt wurde, so dass sie nicht von den Gewinnen profitiert haben. Und außerhalb der USA profitieren Exportländer von diesem System, während Länder, denen die Struktur des globalen Währungssystems nicht gefällt, kaum etwas dagegen unternehmen können, es sei denn, sie werden groß genug, wie Russland und China."[^18]
 
