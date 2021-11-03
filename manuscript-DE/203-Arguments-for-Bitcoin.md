@@ -1,5 +1,5 @@
 ## Argumente für Bitcoin
-> "Bitcoin ist ein Opt-in-System. Sie entscheiden sich dafür, es zu benutzen. Sie wählen aus, welche Anwendungen Sie verwenden wollen. Sie wählen aus, mit wem Sie interagieren wollen. Sie wählen die Spielregeln, nach denen Sie interagieren wollen. Deshalb wird der Bitcoin gewinnen. Er bietet Innovationen, die die Verbraucher wollen und brauchen." - **Andreas M. Antonopoulos**
+> "Bitcoin ist ein Opt-in-System. Sie entscheiden sich dafür, es zu benutzen. Sie wählen aus, welche Anwendungen Sie verwenden wollen. Sie wählen aus, mit wem Sie interagieren wollen. Sie wählen die Spielregeln, nach denen Sie interagieren wollen. Deshalb wird Bitcoin gewinnen. Es bietet Innovationen, die die Verbraucher wollen und brauchen." - **Andreas M. Antonopoulos**
 
 ### Ein Paradigmenwechsel
 Ich bin ein digitaler Eingeborener in einem Körper der Generation X. Ich kann mich an ein Leben ohne Internet erinnern, sogar ohne Videorecorder. Wir hatten einen Fernsehsender in Österreich, das war's. Meine Eltern kauften unser erstes Festnetztelefon, als ich 12 war. Mit 14 benutzte ich meinen ersten Computer, 1997 installierte ich meinen ersten Internetanschluss und E-Mail zu Hause. Im selben Jahr gab es weltweit nur 1 Million Websites und Google und Amazon existierten international noch nicht.
@@ -26,7 +26,7 @@ Es sind die Menschen in Regionen wie Afrika und Südamerika, die die Verbreitung
 
 **Schutz vor Inflation**
 Diese Tabelle des Internationalen Währungsfonds zeigt die jährliche Veränderung der Verbraucherpreise in Prozent.
-![Inflation rate, average consumer prices, annual change in %](assets/_inflation-2021.png) [^58]
+![Inflationsrate, Durschnittlicher Verbraucherpreis, Jährliche Änderung in %](assets/_inflation-2021.png) [^58]
 
 * In Venezuela stiegen die Preise um 5.500%. Das Leid der Menschen ist einfach unvorstellbar.
 * Im Sudan stiegen die Preise allein im Jahr 2021 um 200%.
@@ -43,7 +43,7 @@ Angesichts dieser jährlichen Inflationsraten wissen die Menschen, dass sie ihr 
 
 **Ausländische Devisenkontrollen**
 
-Länder mit schwachen Volkswirtschaften und mangelhaften Demokratien setzen Devisenkontrollen ein, um die - wie sie es nennen - Spekulation gegen ihre schwachen Währungen zu begrenzen. Da autoritäre Führer die Möglichkeiten der Menschen, ihr repressives System zu umgehen, einschränken und kontrollieren wollen, wenden sie Regelungen wie die folgenden an:
+Länder mit schwachen Volkswirtschaften und fehlerhaften Demokratien setzen Devisenkontrollen ein, um die - wie sie es nennen - Spekulation gegen ihre schwachen Währungen zu begrenzen. Da autoritäre Führer die Möglichkeiten der Menschen, ihr repressives System zu umgehen, einschränken und kontrollieren wollen, wenden sie Regelungen wie die Folgenden an:
 
 * Die argentinischen Kapitalverkehrskontrollen erlauben es den Menschen nur, einen Höchstbetrag von 200 Dollar pro Monat von argentinischen Pesos in USD zu tauschen.
 * In Simbabwe gelten ganz ähnliche strenge Vorschriften. Wenn Sie ein Unternehmen betreiben und Waren importieren müssen, müssen Sie die Zentralbank um die Erlaubnis bitten, USD ins Ausland zu schicken. "Angenommen, ich bin in der Solarbranche tätig und möchte 20 Paneele kaufen, um sie zu verkaufen. Ich habe nur 30 Tage Zeit, um das Geld auszugeben, das ich bereits hatte. Die Zentralbank kann sich so lange Zeit lassen, um mir die Erlaubnis zu erteilen, mich überhaupt mit Geld zu versorgen. Das ist ein weiterer Grund, warum die physischen US-Dollars, das physische Bargeld, in Simbabwe so viel mehr Wert haben", sagte mir ein simbabwischer Interviewpartner im März 2020.
@@ -81,7 +81,7 @@ Weitere Einblicke in die Lebensbedingungen der Menschen in Simbabwe und ihre rea
 
 ### Langsam, aber sicher
 
-Eine Kritik an Bitcoin lautet, dass seine Entwicklung langsam und schwerfällig ist. Tatsächlich zeigt die Realität, dass Bitcoin die am längsten bestehende und technisch sicherste Blockchain ist. Sie wurde noch nie gehackt oder verändert. Der Grund dafür ist eine Gemeinschaft unabhängiger, quelloffener Entwickler, deren erstes Interesse darin besteht, einen Beitrag zum allgemeinen gesellschaftlichen Wohl zu leisten. Hören Sie [Adam Back](https://anita.link/12), [Gloria Zhao](https://anita.link/82), [Tim Akinbo](https://anita.link/63), [Amiti Uttawar](https://anita.link/62) oder [Matt Corrallo](https://anita.link/19) zu, um zu verstehen, wie durchdacht und angetrieben sie von ihrer Mission sind. Zweitens ist das Tempo der Entwicklung absichtlich langsam. Das Silicon-Valley-Mantra "Schnell handeln und Dinge kaputt machen" ist das Gegenteil von dem, was Sie sich für einen 600 Milliarden USD schweren digitalen Vermögenswert wünschen, der gleichzeitig eine lebende Software ist.
+Eine Kritik an Bitcoin lautet, dass seine Entwicklung langsam und schwerfällig ist. Tatsächlich zeigt die Realität, dass Bitcoin die am längsten bestehende und technisch sicherste Blockchain ist. Sie wurde noch nie gehackt oder verändert. Der Grund dafür ist eine Gemeinschaft unabhängiger, quelloffener Entwickler, deren erstes Interesse darin besteht, einen Beitrag zum allgemeinen gesellschaftlichen Wohl zu leisten. Hören Sie [Adam Back](https://anita.link/12), [Gloria Zhao](https://anita.link/82), [Tim Akinbo](https://anita.link/63), [Amiti Uttawar](https://anita.link/62) oder [Matt Corrallo](https://anita.link/19) zu, um zu verstehen, wie durchdacht das System ist und wie stark sie von ihrer Mission getrieben sind. Zweitens ist das Tempo der Entwicklung absichtlich langsam. Das Silicon-Valley-Mantra "Schnell handeln und Dinge kaputt machen" ist das Gegenteil von dem, was Sie sich für einen 600 Milliarden USD schweren digitalen Vermögenswert wünschen, der gleichzeitig eine lebende Software ist.
 
 ### Internet der Dinge
 Ein internetbasiertes Geld wie Bitcoin kann auch von Maschinen verwendet werden. Selbstfahrende Elektroautos wie Robotaxis werden sich an Ladestationen aufladen und automatisch mit Bitcoin bezahlen können. Das ist keine Science-Fiction, das ist die nahe Zukunft. Andy Schroder aus Kentucky [lädt seinen Tesla bereits mit Echtzeit-Maschine-zu-Maschine-Mikropayments über das Bitcoin Lightning Network](http://andyschroder.com/DistributedCharge/). Dies wird nicht die einzige Innovation sein, die sich aus den Schnittpunkten von neuer Technologie, Geld und Kommunikation ergeben wird.
@@ -112,10 +112,10 @@ Nach Jevons ist Bitcoin nur dann Geld, wenn er diese Funktionen erfüllt:
 Quelle: https://en.wikipedia.org/wiki/Money
 
 **1. Wertaufbewahrungsmittel**
-Kritiker sagen, dass Bitcoin aufgrund seiner Volatilität und seines Potenzials für kurzfristige Verluste kein Wertaufbewahrungsmittel ist. Nun, wie ich in Kapitel 3.1 dargelegt habe, ist dies auf lange Sicht nicht wirklich der Fall. Außerdem stelle ich die Definition von "langfristig stabil" in Frage. Was ist der Zeitrahmen? Die Inflation des Fiat-Geldes in Österreich lag in den letzten zehn Jahren bei 20%. Alle anderen Fiat-Währungen wie der Euro sind aus genau diesem Grund ähnlich unzuverlässige Wertaufbewahrungsmittel.
+Kritiker sagen, dass Bitcoin aufgrund der Volatilität und des Potenzials für kurzfristige Verluste kein Wertaufbewahrungsmittel ist. Nun, wie ich in Kapitel 3.1 dargelegt habe, ist dies auf lange Sicht nicht wirklich der Fall. Außerdem stelle ich die Definition von "langfristig stabil" in Frage. Was ist der Zeitrahmen? Die Inflation des Fiat-Geldes in Österreich lag in den letzten zehn Jahren bei 20%. Alle anderen Fiat-Währungen wie der Euro sind aus genau diesem Grund ähnlich unzuverlässige Wertaufbewahrungsmittel.
 
 **2. Tauschmittel**
-Sie können bitcoin als Tauschmittel verwenden, wenn Sie das wollen. Ja, zum Zeitpunkt der Erstellung dieses Artikels gibt es nur eine kleine Anzahl von Unternehmen, Dienstleistungen und Restaurants, die Bitcoin als Zahlungsmittel akzeptieren. Aber dafür können Sie verschiedene Tools und Dienste nutzen, die Sie mit Bitcoin füllen und in Fiat ausgeben können. Darüber hinaus gibt es viele Unternehmen in diesem Bereich, die bereits Bitcoin als Zahlungsmittel akzeptieren und bezahlen.
+Sie können Bitcoin als Tauschmittel verwenden, wenn Sie das wollen. Ja, zum Zeitpunkt der Erstellung dieses Artikels gibt es nur eine kleine Anzahl von Unternehmen, Dienstleistungen und Restaurants, die Bitcoin als Zahlungsmittel akzeptieren. Aber dafür können Sie verschiedene Tools und Dienste nutzen, die Sie mit Bitcoin füllen und in Fiat ausgeben können. Darüber hinaus gibt es viele Unternehmen in diesem Bereich, die bereits Bitcoin als Zahlungsmittel akzeptieren und bezahlen.
 
 **3. Medium des Kontos**
 Fiat-Geld ist gesetzlich als Kontomedium vorgeschrieben. Wir haben einfach keine Wahl. Bitcoin basiert auf freiwilliger Nutzung, es ist ein Opt-in; wenn wir darauf spekulieren, dass der Wert steigt, werden wir es nicht ausgeben. Da die Volatilität von Bitcoin mit der Zeit abnimmt, wird der Wert eines Tages ein Plateau erreichen und die Menschen werden anfangen, Bitcoin auszugeben. Noch früher werden mehr und mehr Unternehmen beginnen, bitcoin zu akzeptieren, da sie darauf vertrauen, dass er nicht an Wert verliert, sondern eher an Wert gewinnt.
