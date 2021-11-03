@@ -2,7 +2,7 @@
 
 Bitcoin ist mehr als nur digitale Münzen oder ein internet-natives Geld. Es ist öffentliche Internet-Infrastruktur. Es ist ein Internet-Protokoll über das Wert zwischen von Menschen bedienten Computern, aber auch autonomen Maschinen getauscht wird. Zum Beispiel werden Autos in der Zukunft nicht nur selbstständig fahren, sondern auch selbst zur Ladestation navigieren und sich laden. Die Bezahlung erfolgt automatisch mit Bitcoin, ohne dass irgendjemand manuell eingreifen muss. 
 
-Ein Protokoll regelt den Austausch von Informationen oder den Ablauf von Prozessen. Sprache ist ein Protokoll. Mache ich eine Pause beim Sprechen, weiß mein Gegenüber, dass es jetzt an der Reihe ist. Jedes Wort in einer Konversation hat eine Bedeutung, jede Betonung ändert den Ausdruck. Das menschliche Sprachprotokoll reguliert die Kommunikation zwischen zwei oder mehreren Personen. Computer sprechen auch miteinander. Ihre Protokolle heissen beispielweise SMTP für E-Mail Versand, FTP für das Senden von Dateien oder HTTPS für den Besuch von Webseiten. Die jeweiligen Protokolle sind für den Datenaustausch verantwortlich, sodass ein Computer den anderen verstehen kann.
+Ein Protokoll regelt den Austausch von Informationen oder den Ablauf von Prozessen. Sprache ist ein Protokoll. Mache ich eine Pause beim Sprechen, weiß mein Gegenüber, dass es jetzt an der Reihe ist. Jedes Wort in einer Konversation hat eine Bedeutung, jede Betonung ändert den Ausdruck. Das menschliche Sprachprotokoll reguliert die Kommunikation zwischen zwei oder mehr Personen. Computer sprechen auch miteinander. Ihre Protokolle heißen beispielweise SMTP für E-Mail Versand, FTP für das Senden von Dateien oder HTTPS für den Besuch von Webseiten. Die jeweiligen Protokolle sind für den Datenaustausch verantwortlich, sodass ein Computer den anderen verstehen kann.
 
 ### Der Internet-Protokollstack
 Das Bitcoin-Protokoll kann mit der Struktur des Internet-Protokolls verglichen werden. 
@@ -16,6 +16,6 @@ Auf diesem Basislayer können weitere Ebenen eingerichtet werden, so wie das sei
 
 Das Lightning-Netzwerk ermöglicht eine Vielzahl an Transaktionen gleichzeitig, die aufgrund der beschränkten Blockgröße auf dem Basislayer nicht umsetzbar sind. Gleichzeitig sind damit Mikrozahlungen im Milli-Cent Bereich möglich, die völlig neue Anwendungen zulassen. Durch die Nutzung privater Zahlungskanäle zwischen einzelnen Knoten verfügen Lightning-Zahlungen über höheren Datenschutz als Bitcoin-Basislayer-Transaktionen. Zahlungen hüpfen von einem Knoten zum nächsten bis sie ihr Ziel erreichen. Die einzelnen Knoten kennen dabei nur den vorherigen und den nächsten Knoten. Das heißt, es ist unmöglich nachzuvollziehen, wer Sender und Empfängerin ist. 
 
-Auf dem Lightning-Netzwerk enstehen eine Vielzahl an Wallets, Finanz-Dienstleistungen und Kommunikationsanwendungen, denen automatisch Bitcoins Sicherheitseigenschaften zugrunde liegen.
+Auf dem Lightning-Netzwerk enstehen eine Vielzahl an Wallets, Finanz-Dienstleistungen und Kommunikationsanwendungen, denen automatisch die Sicherheitseigenschaften von Bitcoin zugrunde liegen.
 
 [^23]: Anita Posch inspiriert von [Melanie Swan](https://www.slideshare.net/lablogga/bitcoin-and-blockchain-explained-cryptocitizen-smartnetwork-trust)
