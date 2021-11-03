@@ -1,74 +1,74 @@
-# Glossary
+# Glossar
 
-**Cantillon Effect**
-French economist Richard Cantillon suggested that inflation occurs gradually and that the new supply of money has a localized effect on inflation, effectively originating the concept of non-neutral money. Furthermore, he posited that the original recipients of new money enjoy higher standards of living at the expense of later recipients.[^79]
+**Cantillon-Effekt**
+Der französische Wirtschaftswissenschaftler Richard Cantillon  stellte fest, dass Inflation allmählich auftritt und dass die neue Geldmenge eine lokale Auswirkung auf die Inflation hat, wodurch das Konzept des nicht-neutralen Geldes entstand. Außerdem stellte er die These auf, dass die ursprünglichen Empfänger des neuen Geldes einen höheren Lebensstandard auf Kosten der späteren Empfänger genießen.[^79]
 
-**Central bank**
-A central bank, reserve bank, or monetary authority is an institution that manages the currency and monetary policy of a state or formal monetary union, and oversees their commercial banking system. [^80]
+**Zentralbank**
+Eine Zentralbank, Reservebank oder Währungsbehörde ist eine Institution, die die Währung und die Geldpolitik eines Staates oder einer formellen Währungsunion verwaltet und deren Geschäftsbankensystem überwacht. [^80]
 
-**Currency**
-A currency is a system of money in common use defined by governments. Many jurisdictions define their national currency as legal tender, it is money declared by law to be valid for the payment of debts and can't be refused as payment.
+**Währung**
+Eine Währung ist ein von Regierungen festgelegtes Geldsystem, das allgemein verwendet wird. Viele Länder definieren ihre nationale Währung als gesetzliches Zahlungsmittel, d.h. es handelt sich um Geld, das per Gesetz als gültig für die Zahlung von Schulden erklärt wurde und nicht als Zahlungsmittel abgelehnt werden kann.
 
-**Fiat money** 
-A currency (a medium of exchange) established as money, often by government regulation. Fiat money does not have intrinsic value and does not have use value (inherent utility, such as a cow or beaver pelt might have). It has value only because a government maintains its value, or because parties engaging in exchange agree on its value.[^81] 
-All nation state currencies are fiat currencies. Since 1971 fiat currencies are not backed by gold. The word ”fiat” is Latin and means “let it be done”.
+**Fiat-Geld** 
+Eine Währung (ein Tauschmittel), die als Geld festgelegt wird, oft durch staatliche Regulierung. Fiat-Geld hat keinen inneren Wert und keinen Gebrauchswert (inhärenter Nutzen, wie z.B. der einer Kuh oder eines Biberfells). Es hat nur deshalb einen Wert, weil eine Regierung seinen Wert aufrechterhält oder weil sich die am Tausch beteiligten Parteien auf seinen Wert einigen.[^81] 
+Alle Währungen von Nationalstaaten sind Fiat-Währungen. Seit 1971 sind Fiat-Währungen nicht mehr durch Gold gedeckt. Das Wort "fiat" kommt aus dem Lateinischen und bedeutet "lass es geschehen".
 
-**Fractional-reserve banking**
-Fractional-reserve banking, practiced by commercial banks worldwide, involves banks accepting deposits from customers and making loans to borrowers while holding in reserve an amount equal to only a fraction of the bank's deposit liabilities. Bank reserves are held as cash in the bank or as balances in the bank's account at a central bank. The country's central bank determines the minimum amount that banks must hold in liquid assets, called the "reserve requirement" or "reserve ratio". This rate varies from country to country. In March 2020 the FED abolished this minimum reserve requirement due to the pandemic. Canada, the UK, New Zealand, Australia, Sweden and Hong Kong have no reserve requirements.
+**Bankwesen mit fraktionalen Reserven**
+Beim Fractional-Reserve-Banking, das von Geschäftsbanken auf der ganzen Welt praktiziert wird, nehmen Banken Einlagen von Kunden an und vergeben Kredite an Kreditnehmer, während sie einen Betrag in Reserve halten, der nur einem Bruchteil der Einlagenverbindlichkeiten der Bank entspricht. Die Bankreserven werden als Bargeld in der Bank oder als Guthaben auf dem Konto der Bank bei einer Zentralbank gehalten. Die Zentralbank des Landes legt den Mindestbetrag fest, den die Banken an liquiden Mitteln halten müssen, das so genannte "Mindestreservesoll" oder "Reservesatz". Dieser Satz variiert von Land zu Land. Im März 2020 hat die FED diese Mindestreservepflicht aufgrund der Pandemie abgeschafft. Kanada, das Vereinigte Königreich, Neuseeland, Australien, Schweden und Hongkong haben keine Mindestreserveanforderungen.
 
-**Full node**
-A full node is a software program that fully validates transactions and blocks. You can run a full node on your home computer or on a Rasperry Pi. Almost all full nodes help the network by accepting transactions and blocks from other full nodes, validating those transactions and blocks, and then relaying them to further full nodes. They are a part of the peer-to-peer network.
+**Full Node**
+Ein Full Node ist ein Softwareprogramm, das Transaktionen und Blöcke vollständig validiert. Sie können einen Full Node auf Ihrem Heimcomputer oder auf einem Rasperry Pi betreiben. Fast alle Full Nodes helfen dem Netzwerk, indem sie Transaktionen und Blöcke von anderen Full Nodes annehmen, diese Transaktionen und Blöcke validieren und sie dann an weitere Full Nodes weiterleiten. Sie sind ein Teil des Peer-to-Peer-Netzwerks.
 
 **Hasher**
-A specialized computer device, called ASIC that is only used for Bitcoin mining. 
+Ein spezielles Computergerät, genannt ASIC, das nur für das Bitcoin-Mining verwendet wird. 
 
-**International Monetary Fund**
-The IMF is an international financial institution, headquartered in Washington, D.C., consisting of 190 countries working to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and sustainable economic growth, and reduce poverty around the world while periodically depending on the World Bank for its resources. Formed in July 1944, at the Bretton Woods Conference primarily by the ideas of Harry Dexter White and John Maynard Keynes, it came into formal existence in 1945 with 29 member countries and the goal of reconstructing the international monetary system. It now plays a central role in the management of balance of payments difficulties and international financial crises. Countries contribute funds to a pool through a quota system from which countries experiencing balance of payments problems can borrow money. [^82]
+**Internationaler Währungsfonds**
+Der IWF ist eine internationale Finanzinstitution mit Sitz in Washington, D.C., der 190 Länder angehören, die daran arbeiten, die globale währungspolitische Zusammenarbeit zu fördern, die finanzielle Stabilität zu sichern, den internationalen Handel zu erleichtern, ein hohes Beschäftigungsniveau und ein nachhaltiges Wirtschaftswachstum zu fördern und die Armut in der Welt zu verringern, wobei er in regelmäßigen Abständen von der Weltbank abhängig ist. Sie wurde im Juli 1944 auf der Konferenz von Bretton Woods vor allem auf der Grundlage der Ideen von Harry Dexter White und John Maynard Keynes gegründet und nahm 1945 mit 29 Mitgliedsländern und dem Ziel, das internationale Währungssystem neu zu gestalten, offiziell ihre Arbeit auf. Heute spielt er eine zentrale Rolle bei der Bewältigung von Zahlungsbilanzschwierigkeiten und internationalen Finanzkrisen. Die Länder zahlen über ein Quotensystem Mittel in einen Pool ein, aus dem sich Länder mit Zahlungsbilanzproblemen Geld leihen können. [^82]
 
-**Lender of last resort**
-A lender of last resort (LOLR) is the institution in a financial system that acts as the provider of liquidity to a financial institution which finds itself unable to obtain sufficient liquidity in the inter-bank lending market and other facilities or sources have been exhausted. It is, in effect, a government guarantee of liquidity to financial institutions. [^83]
+**Kreditgeber der letzten Instanz**
+Ein Lender of Last Resort (LOLR) ist die Institution in einem Finanzsystem, die als Liquiditätsgeber für ein Finanzinstitut fungiert, das nicht in der Lage ist, sich auf dem Interbankenmarkt ausreichend Liquidität zu beschaffen, und andere Fazilitäten oder Quellen ausgeschöpft wurden. Es handelt sich dabei um eine staatliche Garantie für die Liquidität der Finanzinstitute. [^83]
 
-**M0 Monetary Base**
-The monetary base (M0) is the total amount of a currency in physical paper and coin that is either in circulation in the hands of the public or in the form of commercial bank deposits held in the central bank's reserves. [^84]
+**M0 Monetäre Basis**
+Die monetäre Basis (M0) ist der Gesamtbetrag einer Währung in physischem Papier und Münzen, der sich entweder in den Händen der Öffentlichkeit oder in Form von Geschäftsbankeinlagen in den Reserven der Zentralbank befindet. [^84]
 
-**M1 Money Stock**
-M1 is a narrow measure of the money supply that includes physical currency, demand deposits, traveler’s checks, and other checkable deposits. M1 does not include financial assets, such as savings accounts and bonds.[^85]
+**M1 Geldmenge**
+M1 ist ein enger Maßstab für die Geldmenge, der physisches Bargeld, Sichteinlagen, Reiseschecks und andere überprüfbare Einlagen umfasst. M1 umfasst keine Finanzanlagen wie Sparkonten und Anleihen.[^85]
 
-**M2 Money Stock**
-M2 is a measure of the money supply that includes cash, checking deposits, and easily convertible near money as savings deposits, money market securities and mutual funds. These assets are less liquid than M1 and not as suitable as exchange mediums, but they can be quickly converted into cash or checking deposits. M2 is closely watched as an indicator of money supply and future inflation, and as a target of central bank monetary policy.[^86]
+**M2 Geldmenge**
+M2 ist ein Maß für die Geldmenge, das Bargeld, Giroeinlagen und leicht konvertierbares geldnahes Vermögen wie Spareinlagen, Geldmarktpapiere und Investmentfonds umfasst. Diese Vermögenswerte sind weniger liquide als M1 und nicht so gut als Tauschmittel geeignet, können aber schnell in Bargeld oder Giroeinlagen umgewandelt werden. M2 wird als Indikator für die Geldmenge und die künftige Inflation sowie als Ziel der Geldpolitik der Zentralbank genau beobachtet.[^86]
 
-**Panopticon**
-The panopticon is a type of institutional building and a system of control designed by the English philosopher and social theorist Jeremy Bentham in the 18th century. The concept of the design is to allow all prisoners of an institution to be observed by a single security guard, without the inmates being able to tell whether they are being watched.[^87]
+**Panoptikum**
+Das Panoptikum ist eine Art institutionelles Gebäude und ein Kontrollsystem, das von dem englischen Philosophen und Gesellschaftstheoretiker Jeremy Bentham im 18. Jahrhundert entworfen wurde. Das Konzept des Panoptikums besteht darin, dass alle Gefangenen einer Anstalt von einem einzigen Wachmann beobachtet werden, ohne dass die Insassen merken, ob sie beobachtet werden.[^87]
 
-**Peer-to-Peer Network**
-A system of equally privileged, equipotent participants without a hierarchy on the network. The Bitcoin peer-to-peer network is a decentralized system of computers running the Bitcoin software that is validating and distributing transactions.
+**Peer-to-Peer Netzwerk**
+Ein System von gleichermaßen privilegierten, äquipotenten Teilnehmern ohne Hierarchie im Netzwerk. Das Bitcoin Peer-to-Peer-Netzwerk ist ein dezentrales System von Computern, auf denen die Bitcoin-Software läuft, die Transaktionen validiert und verteilt.
 
 **Rehypothecation**
-The action of a broker who pledges with a bank or other lender securities already left on deposit with him by a customer as a pledge for their purchase on margin.
+Die Handlung eines Brokers, der bei einer Bank oder einem anderen Kreditgeber Wertpapiere, die ein Kunde bereits bei ihm hinterlegt hat, als Pfand für deren Kauf auf Marge verpfändet.
 
 **Seed**
-12-24 words that in most of the wallets available in the market (HD wallets), produce all the private/public keys which will control your funds on the blockchain. Anyone with the seed has the control over these keys and therefore, over the funds on the associated addresses.
+12-24 Wörter, die in den meisten auf dem Markt erhältlichen Wallets (HD-Wallets) alle privaten/öffentlichen Schlüssel erzeugen, die Ihre Gelder auf der Blockchain kontrollieren. Jeder, der den Seed besitzt, hat die Kontrolle über diese Schlüssel und damit über die Gelder auf den zugehörigen Adressen.
 
-**Surveillance capitalism**
-A term coined by Shoshana Zuboff. It describes the systematic commodification of personal data by centralized monopolistic companies with the core purpose of profit-making.
+**Überwachungskapitalismus**
+Ein von Shoshana Zuboff geprägter Begriff. Er beschreibt die systematische Kommerzialisierung persönlicher Daten durch zentralisierte monopolistische Unternehmen mit dem Hauptziel der Gewinnerzielung.
 
 **Wallet**
-Software or hardware that holds all your bitcoin addresses and private keys. Use it to send, receive, and store your bitcoin.
+Software oder Hardware, die alle Ihre Bitcoin-Adressen und privaten Schlüssel enthält. Damit können Sie Ihre Bitcoins senden, empfangen und speichern.
 
-[^79]: [Cantillon Effect on Wikipedia](https://en.wikipedia.org/wiki/Richard_Cantillon)
+[^79]: [Cantillon-Effekt auf Wikipedia](https://en.wikipedia.org/wiki/Richard_Cantillon)
 
-[^80]: [Central bank on Wikipedia](https://en.wikipedia.org/wiki/Central_bank)
+[^80]: [Zentralbank auf Wikipedia](https://en.wikipedia.org/wiki/Central_bank)
 
-[^81]: [Fiat money on Wikipedia](https://en.wikipedia.org/wiki/Fiat_money)
+[^81]: [Fiatgeld auf Wikipedia](https://en.wikipedia.org/wiki/Fiat_money)
 
-[^82]: [IMF on Wikipedia](https://en.wikipedia.org/wiki/International_Monetary_Fund)
+[^82]: [IWF auf Wikipedia](https://en.wikipedia.org/wiki/International_Monetary_Fund)
 
-[^83]: [Lender of last resort on Wikipedia](https://en.wikipedia.org/wiki/Lender_of_last_resort)
+[^83]: [Kreditgeber der letzten Instanz auf Wikipedia](https://en.wikipedia.org/wiki/Lender_of_last_resort)
 
-[^84]: [Monetary Base](https://www.investopedia.com/terms/m/monetarybase.asp)
+[^84]: [Geldbasis](https://www.investopedia.com/terms/m/monetarybase.asp)
 
-[^85]: [M1 Money](https://www.investopedia.com/terms/m/m1.asp)
+[^85]: [Geldmenge M1](https://www.investopedia.com/terms/m/m1.asp)
 
-[^86]: [M2 Money](https://www.investopedia.com/terms/m/m2.asp)
+[^86]: [M2 Geld](https://www.investopedia.com/terms/m/m2.asp)
 
-[^87]: [Panopticon on Wikipedia](https://en.wikipedia.org/wiki/Panopticon)
+[^87]: [Panoptikum auf Wikipedia](https://en.wikipedia.org/wiki/Panopticon)
