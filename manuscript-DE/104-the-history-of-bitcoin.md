@@ -9,7 +9,7 @@ Am 3. Januar 2009 wurde der erste öffentliche Block von Bitcoin, der sogenannte
 
 Am 9. Juni 2021 beschoß die Regierung von El Salvador als erstes Land der Welt, Bitcoin als gesetzliches Zahlungsmittel festzulegen.
 
-Seite den 1990er Jahren hatten Computer Experten, Mathematiker und Kryptographen - darunter auch einige Frauen - an Konzepten gearbeitet, um digitales Geld zu kreieren. Bitcoin konnte entdeckt werden, weil es auf Schlüsseltechnologien seiner Vorgänger aufbaute.
+Seit den 1990er Jahren hatten Computer Experten, Mathematiker und Kryptographen - darunter auch einige Frauen - an Konzepten gearbeitet, um digitales Geld zu kreieren. Bitcoin konnte entdeckt werden, weil es auf Schlüsseltechnologien seiner Vorgänger aufbaute.
 
 ### Kryptowährungsprojekte vor Bitcoin
 Teile der folgenden Konzepte wurden in das Bitcoin-Whitepaper von Satoshi Nakamoto aufgenommen. 
