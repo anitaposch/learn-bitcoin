@@ -1,26 +1,26 @@
 ## Wallet Navigator
-There are a variety of wallet providers and more are being released over time. You have to decide whether you want one that is for Bitcoin only or one for multiple coins. Each wallet offers different functionalities, security levels and support levels for different sets of coins. The following questions will help you to choose the basic type of wallet that will be suited to your needs. You will still need to research which manufacturer supports which coins.
+Es gibt eine Vielzahl von Wallet-Anbietern und mit der Zeit kommen weitere hinzu. Sie müssen sich entscheiden, ob Sie eine Wallet nur für Bitcoin oder eine für mehrere Münzen wollen. Jede Wallet bietet unterschiedliche Funktionen, Sicherheitsstufen und Unterstützungsstufen für verschiedene Münzgruppen. Die folgenden Fragen helfen Ihnen bei der Auswahl des grundlegenden Typs einer Geldbörse, der Ihren Bedürfnissen entspricht. Sie werden noch recherchieren müssen, welcher Hersteller welche Münzen unterstützt.
 
-### Step 1 - Select Wallet
-**Would you like to be able to pay with the wallet on a regular basis?**
-If you neither use a mobile phone nor computer and do not want to send payments, you can use the Card Wallet. You can send bitcoin or ether to it and save them. As soon as you want to pay it out, you will need to install a wallet. If you do want to make regular payments, then a software wallet, possibly in combination with hardware authentication like a Trezor or BitBox02 is more appropriate.
+### Schritt 1 - Wallet auswählen
+**Möchten Sie regelmäßig mit der Wallet bezahlen können?
+Wenn Sie weder ein Mobiltelefon noch einen Computer benutzen und keine Zahlungen senden möchten, können Sie die Karten-Wallet verwenden. Sie können Bitcoin oder Ether dorthin schicken und sie speichern. Sobald Sie sie auszahlen möchten, müssen Sie eine Wallet installieren. Wenn Sie regelmäßige Zahlungen vornehmen wollen, dann ist eine Software-Wallet, eventuell in Kombination mit einer Hardware-Authentifizierung wie einer Trezor oder BitBox02, besser geeignet.
 
-**Do you want to keep software and a device up-to-date?**
-No? Then, again, the Card Wallet is the correct choice for you. You do not have to worry about maintaining a device.
+**Möchten Sie die Software und ein Gerät auf dem neuesten Stand halten?
+Nein? Dann ist auch hier die Card Wallet die richtige Wahl für Sie. Sie müssen sich nicht um die Wartung eines Geräts kümmern.
 
-**The amount you plan to have on the wallet will be...**
-*Similar to the regular wallet in your pocket*: usually a mobile wallet is sufficient. It's free of charge and sufficient for small amounts.
+**Der Betrag, den Sie auf der Brieftasche haben wollen, ist...**
+*Ähnlich wie die normale Brieftasche in Ihrer Tasche*: Normalerweise ist eine mobile Brieftasche ausreichend. Sie ist kostenlos und für kleine Beträge ausreichend.
 
-*Similar to your bank account*: use a hardware wallet. Hardware wallets are highly sought after in Bitcoin bull runs and often sold out (keep this in mind in your schedule).
+*Ähnlich wie Ihr Bankkonto*: Verwenden Sie eine Hardware-Geldbörse. Hardware-Geldbörsen sind bei Bitcoin-Bullenläufen sehr begehrt und oft ausverkauft (denken Sie bei Ihrer Planung daran).
 
-There is an [extended helper on the Bitcoin.org website](https://bitcoin.org/en/choose-your-wallet), that you can use too. It guides you through the selection based on the operating system (mobile, desktop, hardware wallet) you choose.
+Es gibt einen [erweiterten Helfer auf der Website Bitcoin.org](https://bitcoin.org/en/choose-your-wallet), den Sie ebenfalls verwenden können. Er führt Sie durch die Auswahl des Betriebssystems (mobil, Desktop, Hardware-Wallet), das Sie wählen.
 
-### Step 2 - Make a Backup Of Your Keys
-Write down the mnemonic seed - 12 to 24 English words, the name, type and software version of your wallet and store them in a safe place (chapter 5.3).
+### Schritt 2 - Erstellen Sie ein Backup Ihrer Schlüssel
+Notieren Sie sich den mnemonischen Seed - 12 bis 24 englische Wörter, den Namen, den Typ und die Softwareversion Ihrer Wallet und bewahren Sie sie an einem sicheren Ort auf (Kapitel 5.3).
 
-### Step 3 - Buy Bitcoin
-Most wallets include the ability to buy bitcoin directly within their interface. Wallet manufacturers are cooperating with exchanges, which in return pay them a commission. If I need to use an exchange I prefer selecting one prior and externally from the wallet. That way I stay independent of the wallet type, can use this one exchange to send bitcoin to all my different wallets, and only have to leave my KYC data in that one exchange, reducing the risk of data breaches. Using non-custodial, non-KYC methods (chapter 7.3) is even better.
+### Schritt 3 - Bitcoin kaufen
+Die meisten Wallets bieten die Möglichkeit, Bitcoin direkt über ihre Schnittstelle zu kaufen. Die Hersteller von Wallets arbeiten mit Börsen zusammen, die ihnen im Gegenzug eine Provision zahlen. Wenn ich eine Börse benutzen muss, ziehe ich es vor, diese vorher und außerhalb des Wallets auszuwählen. Auf diese Weise bleibe ich unabhängig vom Wallet-Typ, kann diese eine Börse nutzen, um Bitcoin an alle meine verschiedenen Wallets zu senden, und muss meine KYC-Daten nur bei dieser einen Börse hinterlegen, was das Risiko von Datenschutzverletzungen verringert. Die Verwendung von Methoden, die nicht auf KYC basieren (Kapitel 7.3), ist sogar noch besser.
 
-![How to get bitcoin](assets/_Buying-methods.png) [^72]
+![Wie man Bitcoin bekommt](assets/_Buying-methods.png) [^72]
 
 [^72]: Anita Posch
