@@ -1,19 +1,19 @@
-# Bitcoin's Price
+# Bitcoin-Preis
 
-## Price Discovery
-There is no one official price for bitcoin. It is determined in real time separately on exchanges like Kraken, Bitstamp, Coinbase, Binance etc. There are sites like CoinMarketCap, CoinGecko and BitcoinAverage https://anita.link/average which show you a global average of the prices of several exchanges. Or you can go directly to the website of one of the exchanges and look it up.
+## Preisfindung
+Es gibt keinen einzigen offiziellen Preis für Bitcoin. Er wird in Echtzeit separat an Börsen wie Kraken, Bitstamp, Coinbase, Binance usw. ermittelt. Es gibt Websites wie CoinMarketCap, CoinGecko und BitcoinAverage https://anita.link/average, die Ihnen einen globalen Durchschnitt der Preise mehrerer Börsen anzeigen. Oder Sie können direkt auf die Website einer der Börsen gehen und dort nachsehen.
 
-The price - which is the exchange rate - is determined by the activities of buyers and sellers of cryptocurrency who are trading it in real time. More demand, higher price. Less supply, higher price. This is why the halving is an important event. Even if the demand stays the same, the smaller supply will move the price up.
+Der Preis - also der Wechselkurs - wird durch die Aktivitäten von Käufern und Verkäufern der Kryptowährung bestimmt, die diese in Echtzeit handeln. Mehr Nachfrage, höherer Preis. Weniger Angebot, höherer Preis. Aus diesem Grund ist die Halbierung ein wichtiges Ereignis. Selbst wenn die Nachfrage gleich bleibt, wird das geringere Angebot den Preis in die Höhe treiben.
 
-Bitcoin is an open market. The market's function is to discover what the real value of bitcoin is. The current price of any commodity in an open market is the average of the prices that people actually agreed and traded on over the past period of time. Nobody is setting the exchange rate, the price of bitcoin is discovered.
+Bitcoin ist ein offener Markt. Die Aufgabe des Marktes ist es, den tatsächlichen Wert von Bitcoin zu ermitteln. Der aktuelle Preis einer Ware auf einem offenen Markt ist der Durchschnitt der Preise, auf die sich die Menschen in der Vergangenheit tatsächlich geeinigt und gehandelt haben. Niemand legt den Wechselkurs fest, der Preis von Bitcoin wird gefunden.
 
-## Different Price in a Region
-If you look up the exchange rate for bitcoin in different countries you will find differences between nations. For instance, buying bitcoin in Zimbabwe with local currency will be more expensive than with USD. That is not because bitcoin is more expensive in Zimbabwe, but because the demand for the local currency is lower. You cannot move your Zimbabwe Dollar out of the country; even Zimbabweans prefer USD. So, people need to pay a premium to buy bitcoin when they use a lower valued currency.
+## Unterschiedlicher Preis in einer Region
+Wenn Sie den Wechselkurs für bitcoin in verschiedenen Ländern nachschlagen, werden Sie Unterschiede zwischen den Nationen feststellen. Zum Beispiel ist der Kauf von Bitcoin in Simbabwe in der Landeswährung teurer als in USD. Das liegt nicht daran, dass Bitcoin in Simbabwe teurer ist, sondern daran, dass die Nachfrage nach der Landeswährung geringer ist. Sie können Ihren Simbabwe-Dollar nicht außer Landes bringen; selbst Simbabwer bevorzugen den USD. Die Menschen müssen also einen Aufpreis zahlen, um Bitcoin zu kaufen, wenn sie eine Währung mit geringerem Wert verwenden.
 
 ## All-Time High Tracker
-A nice page to look at to find out the time since the last All-Time High (ATH) is Coingecko https://anita.link/ath
+Eine schöne Seite, auf der Sie die Zeit seit dem letzten All-Time High (ATH) herausfinden können, ist Coingecko https://anita.link/ath
 
-## Bitcoin Calculator
-Regarding difficulties in converting satoshi to other currencies, such as the question "How much is 0.05 bitcoin or 10,000 satoshi in my fiat currency?":
-Here is an easy to use calculator: https://anita.link/calc
-Bitcoin currency converter: http://preev.com
+## Bitcoin-Rechner
+Was die Schwierigkeiten bei der Umrechnung von Satoshi in andere Währungen angeht, z.B. die Frage "Wie viel sind 0,05 Bitcoin oder 10.000 Satoshi in meiner Fiat-Währung?":
+Hier ist ein einfach zu benutzender Rechner: https://anita.link/calc
+Bitcoin-Währungsumrechner: http://preev.com
