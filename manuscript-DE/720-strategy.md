@@ -1,38 +1,38 @@
-## Strategy
+## Strategie
 
-### How to Defy Volatility
-There is a very good way to avoid bitcoin volatility when using it as a payment. When you spend bitcoin on something, you replenish your wallet immediately by buying back those bitcoin with fiat money after the transaction. That way, you don't lose any money because the price of bitcoin remains almost the same in such a short span of time.
+### Wie Sie der Volatilität trotzen
+Es gibt eine sehr gute Möglichkeit, die Volatilität von Bitcoin zu vermeiden, wenn Sie sie als Zahlungsmittel verwenden. Wenn Sie Bitcoin für etwas ausgeben, füllen Sie Ihre Brieftasche sofort wieder auf, indem Sie die Bitcoin nach der Transaktion mit Fiatgeld zurückkaufen. Auf diese Weise verlieren Sie kein Geld, da der Preis von Bitcoin in einer so kurzen Zeitspanne fast gleich bleibt.
 
-### Create a Savings Plan
-Procure a small sum of bitcoin periodically - every day/week/month. This is also known as dollar cost averaging (DCA) - or fiat cost averaging (FCA). By spacing out your purchases you balance out the volatility of bitcoin's price over a longer period of time.
+### Erstellen Sie einen Sparplan
+Beschaffen Sie sich regelmäßig einen kleinen Betrag an Bitcoin - jeden Tag/Woche/Monat. Dies ist auch bekannt als Dollar Cost Averaging (DCA) - oder Fiat Cost Averaging (FCA). Indem Sie Ihre Käufe in regelmäßigen Abständen tätigen, gleichen Sie die Volatilität des Bitcoin-Preises über einen längeren Zeitraum aus.
 
-On websites like [Bitcoin Dollar Cost Average](https://www.bitcoindollarcostaverage.com/) you can calculate the differences in returns for several purchasing strategies.
+Auf Websites wie [Bitcoin Dollar Cost Average](https://www.bitcoindollarcostaverage.com/) können Sie die Renditeunterschiede für verschiedene Kaufstrategien berechnen.
 
-**Bitcoin-only FCA services**
+**Bitcoin-ausschließlich FCA-Dienste**
 
-Austria, Germany: [Coinfinity](https://coinfinity.co/sparplan/?ref=6716)
-France: [StackinSat](https://www.stackinsat.com/)
-Europe: [Relai](https://relai.ch/)
-UK: [Coinfloor](https://coinfloor.co.uk/hodl/), [xsats](https://xsats.com/)
-Australia: [Bitaroo](https://support.bitaroo.com.au/hc/en-au/articles/360042838874-Recurring-Buy-DCA-), [Amber App](https://amber.app/)
-Canada: [Bull Bitcoin](https://bullbitcoin.com/)
+Österreich, Deutschland: [Coinfinity](https://coinfinity.co/sparplan/?ref=6716)
+Frankreich: [StackinSat](https://www.stackinsat.com/)
+Europa: [Relai](https://relai.ch/)
+GROSSBRITANNIEN: [Coinfloor](https://coinfloor.co.uk/hodl/), [xsats](https://xsats.com/)
+Australien: [Bitaroo](https://support.bitaroo.com.au/hc/en-au/articles/360042838874-Recurring-Buy-DCA-), [Amber App](https://amber.app/)
+Kanada: [Bull Bitcoin](https://bullbitcoin.com/)
 Nigeria: [Bitnob](https://bitnob.com/)
 USA: [Swan Bitcoin](https://www.swanbitcoin.com/), [River](https://river.com/)
 
-### Trading
-There are countless trading experts online who tell beginners how to "time the market" and predict the movement of bitcoin's price. They try to sell you trading software and seminars. Stop. Don't spend your time and money on trying to do that. You can't time the market. The big players will get you "rekt." On top of that, you will pay a lot of trading fees and keep in mind that you may have to track all trading movements for tax reasons. In some countries your bitcoin gains are tax-free if you do not exchange the coins for 12 months. Each trade can be a new taxable event.
+### Handel
+Es gibt zahllose Handelsexperten im Internet, die Anfängern erzählen, wie man "den Markt timen" und die Entwicklung des Bitcoin-Kurses vorhersagen kann. Sie versuchen, Ihnen Handelssoftware und Seminare zu verkaufen. Hören Sie auf. Vergeuden Sie nicht Ihre Zeit und Ihr Geld für solche Versuche. Sie können den Markt nicht timen. Die großen Spieler werden Sie "rektifizieren". Darüber hinaus werden Sie eine Menge Handelsgebühren zahlen und bedenken Sie, dass Sie aus steuerlichen Gründen alle Handelsbewegungen verfolgen müssen. In einigen Ländern sind Ihre Bitcoin-Gewinne steuerfrei, wenn Sie die Münzen 12 Monate lang nicht umtauschen. Jeder Handel kann ein neues steuerpflichtiges Ereignis darstellen.
 
 ### Altcoins
-Altcoins is the abbreviation for alternative coins. These are all crypto assets that were created after Bitcoin. Many beginners follow the advice to "diversify their portfolio" and start to trade their bitcoin with Altcoins. Thousands of Altcoins are listed on [Coinmarketcap](https://coinmarketcap.com/). You can't research all of them and most are not being developed anymore and are worthless. Bitcoin is the first-mover and the asset with the biggest network effect. My personal opinion is, if you want to diversify, do it with your knowledge. Go deeper into the Bitcoin rabbit hole, learn how to self-custody, learn how to set up a node, learn about new developments like DeFi on Bitcoin or learn how to earn bitcoin.
+Altcoins ist die Abkürzung für alternative Münzen. Dies sind alle Krypto-Assets, die nach Bitcoin entstanden sind. Viele Anfänger folgen dem Rat, "ihr Portfolio zu diversifizieren" und beginnen, ihre Bitcoin mit Altcoins zu handeln. Tausende von Altcoins sind auf [Coinmarketcap](https://coinmarketcap.com/) gelistet. Sie können nicht alle recherchieren und die meisten werden nicht mehr entwickelt und sind wertlos. Bitcoin ist der First-Mover und der Vermögenswert mit dem größten Netzwerkeffekt. Meine persönliche Meinung ist: Wenn Sie diversifizieren wollen, dann tun Sie es mit Ihrem Wissen. Tauchen Sie tiefer in den Bitcoin-Kaninchenbau ein, lernen Sie, wie man sich selbst verwahrt, lernen Sie, wie man einen Knotenpunkt einrichtet, lernen Sie etwas über neue Entwicklungen wie DeFi auf Bitcoin oder lernen Sie, wie man Bitcoin verdient.
 
-However, you might be tempted to give it a try. Use the website [If you had bought crypto](https://ifyouhadboughtcrypto.com/) to compare your earnings in recent years if you had invested in Bitcoin or Ethereum, Dash, Ripple, Cardano, Dogecoin, Litecoin or Bitcoin Cash.
+Sie könnten jedoch versucht sein, es auszuprobieren. Nutzen Sie die Website [If you had bought crypto] (https://ifyouhadboughtcrypto.com/), um Ihren Verdienst der letzten Jahre zu vergleichen, wenn Sie in Bitcoin oder Ethereum, Dash, Ripple, Cardano, Dogecoin, Litecoin oder Bitcoin Cash investiert hätten.
 
-### If I Had Only...I'm Too Late
-If you had only bought Bitcoin in 2011, you would be very rich by now. That is true and I would congratulate without envy, because you were one of the few people who believed in Bitcoin and were ready to put your hard earned money into a risky experiment. None of the early adopters knew that Bitcoin would rise like it has done. It was very difficult to secure your keys back then and many bitcoin were lost or stolen. If you had made it through and preserved your coins, you might have sold it all in 2014, maybe 2017? It is pointless to ponder about "what if". We are still in the early days. If you are starting to educate yourself and use Bitcoin now, you're still leagues ahead of the masses. It's never too late to learn about Bitcoin.
+### Hätte ich nur...ich bin zu spät
+Wenn Sie Bitcoin schon 2011 gekauft hätten, wären Sie jetzt sehr reich. Das ist wahr und ich würde Sie neidlos beglückwünschen, denn Sie waren einer der wenigen Menschen, die an Bitcoin geglaubt haben und bereit waren, Ihr hart verdientes Geld in ein riskantes Experiment zu stecken. Keiner der frühen Anwender wusste, dass Bitcoin so steigen würde, wie er es getan hat. Damals war es sehr schwierig, Ihre Schlüssel zu sichern und viele Bitcoin gingen verloren oder wurden gestohlen. Wenn Sie durchgehalten und Ihre Münzen bewahrt hätten, hätten Sie vielleicht 2014 oder 2017 alles verkauft? Es ist sinnlos, über "was wäre wenn" nachzudenken. Wir befinden uns noch in den Anfängen. Wenn Sie jetzt damit beginnen, sich zu informieren und Bitcoin zu nutzen, sind Sie der Masse immer noch eine Nasenlänge voraus. Es ist nie zu spät, sich über Bitcoin zu informieren.
 
-![Here is someone thinking to be too late in 2013](assets/_too-late.png) [^73]
+![Hier denkt jemand, dass er 2013 zu spät dran war](assets/_too-late.png) [^73]
 
-### Taxes
-I'm not a tax advisor but what I can say is, learn about the regulations and tax requirements in your jurisdiction. The Bitcoin blockchain is transparent and more and more tax authorities will require exchanges to hand them their trading data. Keep proofs of your purchases in case authorities start investigating.
+### Steuern
+Ich bin kein Steuerberater, aber was ich sagen kann, ist, dass Sie sich über die Vorschriften und steuerlichen Anforderungen in Ihrer Gerichtsbarkeit informieren sollten. Die Bitcoin-Blockchain ist transparent und immer mehr Steuerbehörden werden von den Börsen verlangen, dass sie ihnen ihre Handelsdaten aushändigen. Bewahren Sie Belege für Ihre Käufe auf, falls die Behörden Nachforschungen anstellen.
 
-[^73]: [Source BitcoinTalk](https://bitcointalk.org/index.php?topic=170725.0)
+[^73]: [Quelle BitcoinTalk](https://bitcointalk.org/index.php?topic=170725.0)
