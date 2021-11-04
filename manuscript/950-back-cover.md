@@ -6,6 +6,6 @@
 
 "Anita Posch is one of the most productive and insightful German voices in the Bitcoin space. Her work makes Bitcoin approachable, understandable and compelling to those who are new to Bitcoin and helps them on their journey to become experts. In an environment filled with noise, her work is crystal clear and honest." - **Andreas M. Antonopoulos** Author "Mastering Bitcoin" and "The Internet of Money"
 
-IMAGE https://blot.im/cdn/blog_378314d0a9ec45bfa46b3bc7d3718410/_image_cache/701f2ed2-cede-4463-a146-ee28c92d2229.png
+IMAGE https://blotcdn.com/blog_378314d0a9ec45bfa46b3bc7d3718410/_image_cache/33e02f7d-d199-46ab-89a0-9fa5b575ba2b.png
 
 Anita Posch is a Bitcoin advocate, author, solopreneur and host of the Anita Posch show. She is a member of the board of Bitcoin Austria - an educational non-profit organization.
