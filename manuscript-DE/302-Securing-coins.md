@@ -15,7 +15,7 @@ Stellen Sie sich eine Wallet wie ein öffentliches Schließfach mit mehreren Abt
 
 Die Wallet ist eine App auf Ihrem Telefon oder eine Software auf Ihrem Computer, die alles im Hintergrund erledigt - Ihre privaten Schlüssel, Ihre Adressen und das Senden und Empfangen von Bitcoin.
 
-Bitcoin-Wallets enthalten Schlüssel, keine Münzen. Jeder Benutzer hat eine Brieftasche mit Schlüsseln. Wallets sind eigentlich nur Schlüsselbunde mit Paaren von privaten/öffentlichen Schlüsseln. Ihr Geld wird in der Bitcoin-Blockchain gespeichert.
+Bitcoin-Wallets enthalten Schlüssel, keine Münzen. Jeder Benutzer hat eine Brieftasche mit Schlüsseln. Wallets sind eigentlich Schlüsselbunde mit Paaren von privaten/öffentlichen Schlüsseln. Ihr Geld wird in der Bitcoin-Blockchain gespeichert.
 
 ### Bitcoin-Adresse
 Um Bitcoin zu erhalten, benötigen Sie eine Bitcoin-Adresse, an die Ihnen jemand Bitcoin schicken kann. Die Bitcoin-Adresse besteht aus einer langen Reihe von Ziffern und Buchstaben.
@@ -26,7 +26,7 @@ Das Eintippen von 34 Ziffern ist natürlich sehr unpraktisch, daher werden häuf
 
 ![BTC-Adresse als QR-Code](assets/_address-book.PNG)
 
-Bitcoin ist pseudonym, d.h. Sie müssen weder Ihre E-Mail-Adresse noch Ihre persönliche Identifikation mit einer Wallet verbinden. Die Bitcoin-Blockchain ist jedoch transparent, was bedeutet, dass Ihre Bitcoin-Adressen im Internet öffentlich einsehbar sind. Sie können zum Beispiel bei Blockcypher danach suchen und alle aktuellen Transaktionen und Werte einsehen. Hier ist ein Beispiellink: [https://anita.link/explorer](https://anita.link/explorer)
+Bitcoin ist pseudonym, d. h. Sie müssen weder Ihre E-Mail-Adresse noch Ihre persönliche Identifikation mit einer Wallet verbinden. Die Bitcoin-Blockchain ist jedoch transparent, was bedeutet, dass Ihre Bitcoin-Adressen im Internet öffentlich einsehbar sind. Sie können zum Beispiel bei Blockcypher danach suchen und alle aktuellen Transaktionen und Werte einsehen. Hier ist ein Beispiellink: [https://anita.link/explorer](https://anita.link/explorer)
 
 Geben Sie daher aus Gründen des Datenschutzes Ihre Bitcoin-Adressen nicht in Verbindung mit Ihrer Identität im Internet bekannt. Die Privatsphäre ist auch der Grund, warum Sie Adressen nicht wiederverwenden sollten. Die meisten Bitcoin-Wallets stellen Ihnen für jede Transaktion automatisch eine neue Adresse zur Verfügung.
 
@@ -52,6 +52,6 @@ Die Reihenfolge der Wörter ist WICHTIG! Sie müssen die Wörter genau in der Re
 
 Schreiben Sie den Seed von Hand auf ein Blatt Papier und bewahren Sie ihn sicher auf. Machen Sie keinen Screenshot und speichern Sie ihn nicht auf Ihrem Telefon oder Computer, der mit dem Internet verbunden ist, da alle diese Orte gehackt werden können. Weitere Informationen zur Sicherheit finden Sie in Kapitel 5.
 
-Da sich Ihr Guthaben nicht in Ihrer Brieftasche befindet, sondern auf der Blockchain gespeichert ist, können Sie sich weltweit bewegen und Ihr Bitcoin-Guthaben mitnehmen, wohin Sie gehen. Sie müssen sich nur die 12-24 Seed-Wörter in der richtigen Reihenfolge merken. Nachdem Sie den Zoll ohne Mobiltelefon passiert haben, besorgen Sie sich eine neue Geldbörse und importieren den Seed. Magie.
+Da sich Ihr Guthaben nicht in Ihrer Brieftasche befindet, sondern auf der Blockchain gespeichert ist, können Sie sich weltweit bewegen und Ihr Bitcoin-Guthaben mitnehmen, wohin Sie gehen. Sie müssen sich nur die 12–24 Seed-Wörter in der richtigen Reihenfolge merken. Nachdem Sie den Zoll ohne Mobiltelefon passiert haben, besorgen Sie sich eine neue Geldbörse und importieren den Seed. Magie.
 
 [^69]: Anita Posch, inspiriert von Andreas M. Antonopoulos
