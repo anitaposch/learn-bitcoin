@@ -6,7 +6,7 @@ In vielen Fällen erfolgt der erste Kontakt mit Kryptowährungen über Depotbör
 
 Sie werden als Depotbanken bezeichnet, weil sie die Schlüssel für Ihre Bitcoin besitzen. Auf diesen Plattformen erhalten Sie zwar eine Brieftasche, die aber eher einem Bankkonto gleicht und Risiken wie Hacking, Beschlagnahme oder Konfiszierung durch Regierungen birgt.
 
-Der Handel auf diesen Börsen findet außerhalb der Blockchain statt, d.h. die Transaktionen werden nicht auf der Blockchain abgewickelt, sondern nur in den Datenbanken der Plattform verwaltet. Dies erhöht die Geschwindigkeit der Transaktionen, führt aber gleichzeitig zu einem Mangel an Transparenz und Sicherheit.
+Der Handel auf diesen Börsen findet außerhalb der Blockchain statt, d. h. die Transaktionen werden nicht auf der Blockchain abgewickelt, sondern nur in den Datenbanken der Plattform verwaltet. Dies erhöht die Geschwindigkeit der Transaktionen, führt aber gleichzeitig zu einem Mangel an Transparenz und Sicherheit.
 
 Um Bitcoin ins Depot zu erwerben, müssen Sie ein Konto eröffnen, einen KYC- und AML-Registrierungsprozess durchlaufen und dann Fiat-Geld auf das Konto der Plattform einzahlen. Nachdem Ihr Geld angekommen ist, können Sie es gegen Bitcoin oder andere Kryptowährungen eintauschen.
 
@@ -41,7 +41,7 @@ Ein Bitcoin-Geldautomat ist ein Automat, der einem Geldautomaten ähnelt, an dem
 * [CoinATM Radar](https://coinatmradar.com/)
 
 ### Bitcoin-Geschenkkarten und -Gutscheine
-In Österreich ist es zum Beispiel möglich, an Tankstellen und in Kiosken 'Bitcoinbon'-Geschenkkarten zu kaufen. Diese Geschenkkarten finden Sie oft in den Verkaufsständern, in denen auch Karten für Handyguthaben oder Amazon-Geschenke usw. verkauft werden. Sie können Bitcoin-Geschenkkarten kaufen, ohne eine Brieftasche einzurichten und ohne Registrierung. Wenn Sie den Wert der Karten in Münzen umwandeln möchten, richten Sie eine Brieftasche ein und lösen die Münzen ein.
+In Österreich ist es unter anderem möglich, an Tankstellen und in Kiosken 'Bitcoinbon'-Geschenkkarten zu kaufen. Diese Geschenkkarten finden Sie oft in den Verkaufsständern, in denen auch Karten für Handyguthaben oder Amazon-Geschenke usw. verkauft werden. Sie können Bitcoin-Geschenkkarten kaufen, ohne eine Brieftasche einzurichten und ohne Registrierung. Wenn Sie den Wert der Karten in Münzen umwandeln möchten, richten Sie eine Brieftasche ein und lösen die Münzen ein.
 
 * [Azteco](https://azte.co/)
 * [Bitcoinbon](http://www.bitcoinbon.at/)
@@ -72,7 +72,7 @@ Ich glaube zwar nicht, dass Regierungen in der Lage sein werden, die Verwendung 
 
 Die Executive Order 6102, die am 5. April 1933 von US-Präsident Franklin D. Roosevelt unterzeichnet wurde, verbot das Horten von Gold. Im Jahr 1975 konnten die Amerikaner wieder legal Gold besitzen. Satoshi Nakamoto gab seinen Geburtstag als 5. April 1975 an. Das ist natürlich kein Zufall. Es zeigt die Absichten von Satoshi, dass es bei Bitcoin um finanzielle Freiheit geht.
 
-Wenn Sie mehr darüber erfahren möchten, wie unfair das derzeitige Finanzsystem gegenüber Milliarden von Menschen auf der ganzen Welt ist, hören Sie sich mein [Podcast-Interview mit Zachary Kelman,](https://anita.link/80) an, einem Anwalt, der sich auf politische, rechtliche und regulatorische Fragen rund um Bitcoin spezialisiert hat.
+Wenn Sie mehr darüber erfahren möchten, wie unfair das derzeitige Finanzsystem gegenüber Milliarden von Menschen auf der ganzen Welt ist, hören Sie sich mein [Podcast-Interview mit Zachary Kelman,](https://anita.link/80) an. Einem Anwalt, der sich auf politische, rechtliche und regulatorische Fragen rund um Bitcoin spezialisiert hat.
 
 ### Non-KYC Bitcoin kaufen
 
@@ -80,7 +80,7 @@ Um Bitcoin ohne Benutzeridentifikation zu kaufen, können Sie:
 
 * sie verdienen
 * etwas von Wert bauen und um Spenden bitten
-* Dinge verkaufen, die Sie nicht mehr brauchen
+* Dinge verkaufen, die Sie nicht mehr benötigen
 * von einem Freund oder bei einem lokalen Treffen kaufen
 * an einem Bitcoin-Geldautomaten kaufen
 * Bitcoin-Geschenkkarten kaufen
