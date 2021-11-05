@@ -1,21 +1,22 @@
 
-(L)earn Bitcoin
-Werde finanziell unabhängig
-1st Ausgabe, Juni 2021
+(L)earn Bitcoin - Bitcoin verstehen und verdienen
+Der Schlüssel zu finanzieller Unabhängigkeit
+1. Ausgabe, November 2021
 
 Autorin: Anita Posch
 
 Verlag: PoshMedia e.U., Seilerstätte 24, 4. Stock, 1010 Wien
 
+Deutsche Übersetzung: Michael Fischer
+Deutsches Lektorat: ........
 Lektorat: Mark Kersley  
-Deutsches Lektorat:  ........ 
 Satz: Couper Street Type Co.  
 Cover Design/Art Direction: tzu jan | 自然  
 Illustration (Konzept): @danubastidas  
 Illustration: Maleek Illustration  
 Handlettering: Mila Masina
 
-Copyright 2021 by Anita Posch, all rights reserved.
+Copyright 2021 by Anita Posch, alle Rechte vorbehalten.
 
 Teile dieses Buches können für Medienartikel, persönliche Webseiten oder in kommerziellen Beiträgen und sozialen Medien wiederverwendet werden, wenn sie mit Quellenangabe zu "Anita Posch" und einem Link zu https://anitaposch.com versehen sind. Die Inhalte des Buches zu kopieren und in anderem Format zu verkaufen, ist nicht erlaubt. 
 
