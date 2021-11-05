@@ -2,7 +2,7 @@
 > "Bitcoin ist ein Opt-in-System. Sie entscheiden sich dafür, es zu benutzen. Sie wählen aus, welche Anwendungen Sie verwenden wollen. Sie wählen aus, mit wem Sie interagieren wollen. Sie wählen die Spielregeln, nach denen Sie interagieren wollen. Deshalb wird Bitcoin gewinnen. Es bietet Innovationen, die die Verbraucher wollen und brauchen." - **Andreas M. Antonopoulos**
 
 ### Ein Paradigmenwechsel
-Ich bin ein digitaler Eingeborener in einem Körper der Generation X. Ich kann mich an ein Leben ohne Internet erinnern, sogar ohne Videorecorder. Wir hatten einen Fernsehsender in Österreich, das war's. Meine Eltern kauften unser erstes Festnetztelefon, als ich 12 war. Mit 14 benutzte ich meinen ersten Computer, 1997 installierte ich meinen ersten Internetanschluss und E-Mail zu Hause. Im selben Jahr gab es weltweit nur 1 Million Websites und Google und Amazon existierten international noch nicht.
+Ich bin ein digitaler Eingeborener in einem Körper der Generation X. Ich kann mich an ein Leben ohne Internet erinnern, sogar ohne Videorecorder. Wir hatten einen Fernsehsender in Österreich, das war′s. Meine Eltern kauften unser erstes Festnetztelefon, als ich 12 war. Mit 14 benutzte ich meinen ersten Computer, 1997 installierte ich meinen ersten Internetanschluss und E-Mail zu Hause. Im selben Jahr gab es weltweit nur 1 Million Websites und Google und Amazon existierten international noch nicht.
 
 Viele Leute taten das Internet als einen Trend ab, der wieder verschwinden würde. 1995 schrieb der US-Astronom und Autor Clifford Stoll einen Artikel für Newsweek mit dem Titel "The Internet? Bah!"
 
@@ -26,7 +26,7 @@ Es sind die Menschen in Regionen wie Afrika und Südamerika, die die Verbreitung
 
 **Schutz vor Inflation**
 Diese Tabelle des Internationalen Währungsfonds zeigt die jährliche Veränderung der Verbraucherpreise in Prozent.
-![Inflationsrate, Durschnittlicher Verbraucherpreis, Jährliche Änderung in %](assets/_inflation-2021.png) [^58]
+![Inflationsrate, Durchschnittlicher Verbraucherpreis, Jährliche Änderung in %](assets/_inflation-2021.png) [^58]
 
 * In Venezuela stiegen die Preise um 5.500%. Das Leid der Menschen ist einfach unvorstellbar.
 * Im Sudan stiegen die Preise allein im Jahr 2021 um 200%.
@@ -69,13 +69,13 @@ Weitere Hürden, die Frauen vom Zugang zu Finanzdienstleistungen abhalten, sind 
 
 56% aller Erwachsenen ohne Bankverbindung weltweit sind Frauen. In den meisten Volkswirtschaften sind Frauen unter den Bankenlosen überrepräsentiert. Dies gilt selbst in Volkswirtschaften, die erfolgreich die Zahl der Kontobesitzer erhöht haben und in denen der Anteil der Erwachsenen ohne Bankverbindung relativ gering ist. In den Vereinigten Staaten, im Nahen Osten und in Nordafrika sind zwei Drittel der Menschen ohne Bankkonto Frauen[^63].[^64]
 
-Eine Studie in Kenia ergab, dass der Zugang zu mobilen Gelddiensten vor allem für Frauen große Vorteile mit sich bringt. Er ermöglichte es den Haushalten von Frauen, ihre Ersparnisse um mehr als ein Fünftel zu erhöhen, 185.000 Frauen, die Landwirtschaft aufzugeben und ein Geschäft oder einen Einzelhandel aufzubauen, und trug dazu bei, die extreme Armut unter den von Frauen geführten Haushalten um 22 Prozent zu verringern.
+Eine Studie in Kenia ergab, dass der Zugang zu mobilen Gelddiensten primär für Frauen große Vorteile mit sich bringt. Er ermöglichte es den Haushalten von Frauen, ihre Ersparnisse um mehr als ein Fünftel zu erhöhen, 185.000 Frauen, die Landwirtschaft aufzugeben und ein Geschäft oder einen Einzelhandel aufzubauen, und trug dazu bei, die extreme Armut unter den von Frauen geführten Haushalten um 22 Prozent zu verringern.
 
 Mobile Gelddienste wie M-Pesa in Kenia oder EcoCash in Simbabwe haben den Zugang zu Finanzinstrumenten verbessert. Das Problem: Es handelt sich um Dienste von zentralisierten, privaten Unternehmen. Die Regierung kann sich einmischen, Transaktionen können zensiert oder Konten geschlossen werden. So hat die simbabwische Regierung im Juli 2020 Auszahlungen von EcoCash-Mobilgeldkonten auf Bankkonten oder Bargeld gesperrt.
 
-Finanzdienstleistungen können den Menschen auch dabei helfen, Ersparnisse anzuhäufen und ihre Ausgaben für das Nötigste zu erhöhen. Nachdem sie Sparkonten erhalten hatten, sparten Marktverkäufer in Kenia, vor allem Frauen, mehr und investierten 60 Prozent mehr in ihre Geschäfte. Von Frauen geführte Haushalte in Nepal gaben 15 Prozent mehr für nahrhafte Lebensmittel (Fleisch und Fisch) und 20 Prozent mehr für Bildung aus, nachdem sie kostenlose Sparkonten erhalten hatten. Außerdem gaben Bauern in Malawi, die ihr Einkommen auf Sparkonten einzahlen ließen, 13 Prozent mehr für landwirtschaftliche Geräte aus und steigerten den Wert ihrer Ernte um 15 Prozent. [^65]
+Finanzdienstleistungen können den Menschen auch dabei helfen, Ersparnisse anzuhäufen und ihre Ausgaben für das Nötigste zu erhöhen. Nachdem sie Sparkonten erhalten hatten, sparten Marktverkäufer in Kenia, vorwiegend Frauen, mehr und investierten 60 Prozent mehr in ihre Geschäfte. Von Frauen geführte Haushalte in Nepal gaben 15 Prozent mehr für nahrhafte Lebensmittel (Fleisch und Fisch) und 20 Prozent mehr für Bildung aus, nachdem sie kostenlose Sparkonten erhalten hatten. Außerdem gaben Bauern in Malawi, die ihr Einkommen auf Sparkonten einzahlen ließen, 13 Prozent mehr für landwirtschaftliche Geräte aus und steigerten den Wert ihrer Ernte um 15 Prozent. [^65]
 
-Bitcoin kann die Kosten für den Erhalt von Zahlungen senken, so dass die Menschen mehr von ihrem Geld haben. Während traditionelle Finanzinstrumente einen Ausweis und einen Adressnachweis erfordern, steht die Nutzung von Bitcoin jedem offen. Daher kann Bitcoin Frauen dabei helfen, mehr Freiheit und Selbstbestimmung zu erlangen.
+Bitcoin kann die Kosten für den Erhalt von Zahlungen senken, sodass die Menschen mehr von ihrem Geld haben. Während traditionelle Finanzinstrumente einen Ausweis und einen Adressnachweis erfordern, steht die Nutzung von Bitcoin jedem offen. Daher kann Bitcoin Frauen dabei helfen, mehr Freiheit und Selbstbestimmung zu erlangen.
 
 Weitere Einblicke in die Lebensbedingungen der Menschen in Simbabwe und ihre reale Nutzung von Bitcoin in Venezuela, Argentinien, Afghanistan, Nigeria und anderen Ländern erhalten Sie [in meinen Podcast-Interviews] (https://anita.link/show). Zu den Vorteilen für Frauen, die Bitcoin nutzen, lesen Sie bitte den Abschnitt "Frauen in Bitcoin".
 
@@ -87,7 +87,7 @@ Eine Kritik an Bitcoin lautet, dass seine Entwicklung langsam und schwerfällig 
 Ein internetbasiertes Geld wie Bitcoin kann auch von Maschinen verwendet werden. Selbstfahrende Elektroautos wie Robotaxis werden sich an Ladestationen aufladen und automatisch mit Bitcoin bezahlen können. Das ist keine Science-Fiction, das ist die nahe Zukunft. Andy Schroder aus Kentucky [lädt seinen Tesla bereits mit Echtzeit-Maschine-zu-Maschine-Mikropayments über das Bitcoin Lightning Network](http://andyschroder.com/DistributedCharge/). Dies wird nicht die einzige Innovation sein, die sich aus den Schnittpunkten von neuer Technologie, Geld und Kommunikation ergeben wird.
 
 ### Bitcoin, das Rettungsboot
-Wie ich in Kapitel 1 dargelegt habe, stellt sich nicht die Frage, ob das derzeitige Finanzsystem fallen wird, sondern wann. Schon bevor sich die COVID-19-Pandemie im Frühjahr 2020 weltweit ausbreitete, waren die Nationalstaaten hoch verschuldet; die verheerenden Auswirkungen waren an den globalen und regionalen Vermögensunterschieden abzulesen. Seit vielen Jahren haben Experten die Öffentlichkeit davor gewarnt. Simon Dixon hatte bereits 2011 die Große Depression der 2020er Jahre ausgerufen. Nomi Prins erklärte die Absprachen der Zentralbanken in ihrem gleichnamigen Buch von 2018. Satoshi Nakamoto wies im White Paper auf die Gefahren eines auf Schulden und der Finanzkrise aufgebauten Geldsystems hin.
+Wie ich in Kapitel 1 dargelegt habe, stellt sich nicht die Frage, ob das derzeitige Finanzsystem fallen wird, sondern wann. Schon bevor sich die COVID-19-Pandemie im Frühjahr 2020 weltweit ausbreitete, waren die Nationalstaaten hoch verschuldet; die verheerenden Auswirkungen waren an den globalen und regionalen Vermögensunterschieden abzulesen. Seit vielen Jahren haben Experten die Öffentlichkeit davor gewarnt. Simon Dixon hatte bereits 2011 die Große Depression der 2020er-Jahre ausgerufen. Nomi Prins erklärte die Absprachen der Zentralbanken in ihrem gleichnamigen Buch von 2018. Satoshi Nakamoto wies im Whitepaper auf die Gefahren eines auf Schulden und der Finanzkrise aufgebauten Geldsystems hin.
 
 Bitcoin ist schuldenfreies Geld. Man bläst nicht einfach das Angebot auf. Es ist die perfekte Alternative, um aus dem Fiat-System auszusteigen. Um sich gegen die drohende Krise abzusichern, ist es sinnvoll, die Investitionen auf verschiedene Vermögenswerte zu verteilen und so das systemische Risiko zu verringern. Gold, Aktien, Anleihen, Immobilien, Uhren und Oldtimer sind bekannte Wertsicherungsanlagen. Bitcoin ist ein digitaler Wertspeicher.
 
@@ -103,7 +103,7 @@ Bitcoin ist ideal für langfristiges Sparen. Wenn Sie glauben, dass der Wert in 
 Sie müssen nicht gleich einen ganzen Bitcoin kaufen. Ein Bitcoin ist in hundert Millionen Einheiten teilbar. Die kleinste Einheit wird als "Satoshi" bezeichnet - nach dem pseudonymen Gründer Satoshi Nakamoto. Sie können Teile eines Bitcoins kaufen und zum Beispiel mit nur 20 Euro beginnen.
 
 ### Bitcoin und die Funktionen des Geldes
-Viele Lehrbuch-Ökonomen beharren darauf, dass Bitcoin kein Geld ist, weil er die drei funktionalen Kriterien, die Geld haben muss, nicht erfüllt. Diese Funktionen wurden 1875 von William Stanley Jevons[^66] definiert und seine Analyse ist seitdem in makroökonomischen Lehrbüchern weit verbreitet.
+Viele Lehrbuch-Ökonomen beharren darauf, dass Bitcoin kein Geld ist, weil er die drei funktionalen Kriterien, die Geld haben muss, nicht erfüllt. Diese Funktionen wurden 1875 von William Stanley Jevons[^66] definiert und seine Analyse ist seitdem in makroökonomischen Lehrbüchern weitverbreitet.
 
 Nach Jevons ist Bitcoin nur dann Geld, wenn er diese Funktionen erfüllt:
 1. Wertaufbewahrung - der Wert muss im Laufe der Zeit stabil bleiben
@@ -112,13 +112,13 @@ Nach Jevons ist Bitcoin nur dann Geld, wenn er diese Funktionen erfüllt:
 Quelle: https://en.wikipedia.org/wiki/Money
 
 **1. Wertaufbewahrungsmittel**
-Kritiker sagen, dass Bitcoin aufgrund der Volatilität und des Potenzials für kurzfristige Verluste kein Wertaufbewahrungsmittel ist. Nun, wie ich in Kapitel 3.1 dargelegt habe, ist dies auf lange Sicht nicht wirklich der Fall. Außerdem stelle ich die Definition von "langfristig stabil" in Frage. Was ist der Zeitrahmen? Die Inflation des Fiat-Geldes in Österreich lag in den letzten zehn Jahren bei 20%. Alle anderen Fiat-Währungen wie der Euro sind aus genau diesem Grund ähnlich unzuverlässige Wertaufbewahrungsmittel.
+Kritiker sagen, dass Bitcoin aufgrund der Volatilität und des Potenzials für kurzfristige Verluste kein Wertaufbewahrungsmittel ist. Nun, wie ich in Kapitel 3.1 dargelegt habe, ist dies auf lange Sicht nicht wirklich der Fall. Außerdem stelle ich die Definition von "langfristig stabil" infrage. Was ist der Zeitrahmen? Die Inflation des Fiat-Geldes in Österreich lag in den letzten zehn Jahren bei 20%. Alle anderen Fiat-Währungen wie der Euro sind aus genau diesem Grund ähnlich unzuverlässige Wertaufbewahrungsmittel.
 
 **2. Tauschmittel**
-Sie können Bitcoin als Tauschmittel verwenden, wenn Sie das wollen. Ja, zum Zeitpunkt der Erstellung dieses Artikels gibt es nur eine kleine Anzahl von Unternehmen, Dienstleistungen und Restaurants, die Bitcoin als Zahlungsmittel akzeptieren. Aber dafür können Sie verschiedene Tools und Dienste nutzen, die Sie mit Bitcoin füllen und in Fiat ausgeben können. Darüber hinaus gibt es viele Unternehmen in diesem Bereich, die bereits Bitcoin als Zahlungsmittel akzeptieren und bezahlen.
+Sie können Bitcoin als Tauschmittel verwenden, wenn Sie das wollen. Ja, zum Zeitpunkt der Erstellung dieses Artikels gibt es nur eine kleine Anzahl von Unternehmen, Dienstleistungen und Restaurants, die Bitcoin als Zahlungsmittel akzeptieren. Aber dafür können Sie verschiedene Tools und Dienste nutzen, die Sie mit Bitcoin füllen und in Fiat ausgeben können. Überdies gibt es viele Unternehmen in diesem Bereich, die bereits Bitcoin als Zahlungsmittel akzeptieren und bezahlen.
 
 **3. Medium des Kontos**
-Fiat-Geld ist gesetzlich als Kontomedium vorgeschrieben. Wir haben einfach keine Wahl. Bitcoin basiert auf freiwilliger Nutzung, es ist ein Opt-in; wenn wir darauf spekulieren, dass der Wert steigt, werden wir es nicht ausgeben. Da die Volatilität von Bitcoin mit der Zeit abnimmt, wird der Wert eines Tages ein Plateau erreichen und die Menschen werden anfangen, Bitcoin auszugeben. Noch früher werden mehr und mehr Unternehmen beginnen, bitcoin zu akzeptieren, da sie darauf vertrauen, dass er nicht an Wert verliert, sondern eher an Wert gewinnt.
+Fiat-Geld ist gesetzlich als Kontomedium vorgeschrieben. Wir haben einfach keine Wahl. Bitcoin basiert auf freiwilliger Nutzung, es ist ein Opt-in; wenn wir darauf spekulieren, dass der Wert steigt, werden wir es nicht ausgeben. Da die Volatilität von Bitcoin mit der Zeit abnimmt, wird der Wert eines Tages ein Plateau erreichen und die Menschen werden anfangen, Bitcoin auszugeben. Noch früher werden mehr und mehr Unternehmen beginnen, Bitcoin zu akzeptieren, da sie darauf vertrauen, dass er nicht an Wert verliert, sondern eher an Wert gewinnt.
 
 Eine neue Form des Geldes, die uns nicht aufgezwungen wird, sondern für die wir uns entscheiden können, muss bestimmte Stufen in dieser Reihenfolge durchlaufen: Zuerst muss es ein Wertaufbewahrungsmittel werden, dann muss Vertrauen aufgebaut werden, dann werden die Menschen es als Tauschmittel verwenden. Erst dann wird er als Kontomedium verwendet werden.
 
