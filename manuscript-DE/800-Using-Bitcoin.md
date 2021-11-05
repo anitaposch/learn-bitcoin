@@ -1,7 +1,7 @@
 # Bitcoin verwenden
 
 ## Transaktionsgebühren
-Für jede Bitcoin-Transaktion muss eine Mining-Gebühr gezahlt werden. Diese Gebühren sind für den Fortbestand des Bitcoin-Netzwerks erforderlich. Die Arbeit der Miner wird mit diesen Gebühren und neu geprägten Bitcoin belohnt (siehe Kapitel 2.3). Mining ist ein wesentlicher Faktor im Bitcoin-Protokoll. Nachdem ein Block von Transaktionen gemint wurde, wird er an die Blockchain angehängt. Auf diese Weise wird die Sicherheit des Netzwerks gewährleistet. Da Bitcoin ein festes Angebotslimit von 21 Millionen Münzen hat, würden die Miner nach Erreichen dieses Maximalangebots keine Vergütung mehr für ihre Leistung erhalten und wären nicht mehr daran interessiert, Transaktionen zu verarbeiten und damit die Blockchain zu erhalten. Daher führte Satoshi Nakamoto Transaktionsgebühren ein. Dem White Paper zufolge ist es das Ziel, diese Gebühren niedriger zu halten als die vergleichbaren Gebühren und Kosten des traditionellen Bankensystems. Es ist jedoch nicht so, dass die Überweisungen kostenlos sind, nur weil es theoretisch keine Zwischenhändler oder Banken braucht.
+Für jede Bitcoin-Transaktion muss eine Mining-Gebühr gezahlt werden. Diese Gebühren sind für den Fortbestand des Bitcoin-Netzwerks erforderlich. Die Arbeit der Miner wird mit diesen Gebühren und neu geprägten Bitcoin belohnt (siehe Kapitel 2.3). Mining ist ein wesentlicher Faktor im Bitcoin-Protokoll. Nachdem ein Block von Transaktionen gemined wurde, wird er an die Blockchain angehängt. Auf diese Weise wird die Sicherheit des Netzwerks gewährleistet. Da Bitcoin ein festes Angebotslimit von 21 Millionen Münzen hat, würden die Miner nach Erreichen dieses Maximalangebots keine Vergütung mehr für ihre Leistung erhalten und wären nicht mehr daran interessiert, Transaktionen zu verarbeiten und damit die Blockchain zu erhalten. Daher führte Satoshi Nakamoto Transaktionsgebühren ein. Dem Whitepaper zufolge ist es das Ziel, diese Gebühren niedriger zu halten als die vergleichbaren Gebühren und Kosten des traditionellen Bankensystems. Es ist jedoch nicht so, dass die Überweisungen kostenlos sind, nur weil es theoretisch keine Zwischenhändler oder Banken benötigt.
 
 Wenn Sie Bitcoin über eine Börse kaufen, ist die Transaktionsgebühr (Mining-Gebühr) normalerweise nicht anpassbar und wird vom Anbieter festgelegt.
 
@@ -21,13 +21,13 @@ Da alle 10 Minuten neue Blöcke gemined werden, dauert es im Durchschnitt mindes
 Sie können den Status Ihrer Transaktion in einem [Blockchain-Explorer](https://blockchair.com) nachsehen. Wie Sie unten sehen können, ist meine Transaktion 4.717 Ränge davon entfernt, gemined zu werden, bei insgesamt 41.610 Transaktionen im Mempool. Ich habe eine Gebühr von 5 Sat pro Vbyte gewählt.
 [Transaktionsstatus wie im Blockexplorer angezeigt](assets/_Pending-transaction-explorer.png) [^77]
 
-Sie müssen die folgenden Schritte nicht ausführen, um Ihre ursprüngliche Transaktion bestätigen zu lassen. Die meisten Transaktionen mit niedrigen Gebühren bleiben tagelang gültig und werden schließlich bestätigt. Es gibt jedoch zwei Möglichkeiten, das Problem der steckengebliebenen Transaktion zu lösen und sie früher bestätigen zu lassen.
+Sie müssen die folgenden Schritte nicht ausführen, um Ihre ursprüngliche Transaktion bestätigen zu lassen. Die meisten Transaktionen mit niedrigen Gebühren bleiben tagelang gültig und werden schließlich bestätigt. Es gibt jedoch zwei Möglichkeiten, das Problem der stecken gebliebenen Transaktion zu lösen und sie früher bestätigen zu lassen.
 
 **Eine gesendete Transaktion bleibt stecken**
 * Replace-by-fee (RBF): Bei einigen Wallets können Sie diese Option auf "Ja" setzen, bevor Sie eine Transaktion senden. In diesem Fall können Sie, falls die ursprüngliche Transaktion stecken bleibt, eine höhere Gebühr festlegen und die Transaktion erneut senden.
 
 **Eine eingehende Transaktion bleibt stecken**
-* Kind zahlt für Elternteil (CPFP): Sie können sich das so vorstellen, dass ein Elternteil nicht genügend Geld für seine Ausgaben hat, so dass sein Kind die Differenz im Namen des Elternteils bezahlt. CPFP ist eine Technik, mit der Sie Ihre langsam eintreffenden Transaktionen aushebeln können, indem Sie eine neue Transaktion mit höheren Gebühren (Kindertransaktion) mit den Ausgaben (Geldern) der vorherigen Transaktion (Elterntransaktion), die feststeckt, durchführen.
+* Kind zahlt für Elternteil (CPFP): Sie können sich das so vorstellen, dass ein Elternteil nicht genügend Geld für seine Ausgaben hat, sodass sein Kind die Differenz im Namen des Elternteils bezahlt. CPFP ist eine Technik, mit der Sie Ihre langsam eintreffenden Transaktionen aushebeln können, indem Sie eine neue Transaktion mit höheren Gebühren (Kindertransaktion) mit den Ausgaben (Geldern) der vorherigen Transaktion (Elterntransaktion), die feststeckt, durchführen.
 
 Detaillierte Anweisungen dazu finden Sie in der Dokumentation der von Ihnen verwendeten Wallet.
 
@@ -40,7 +40,7 @@ Hier sind einige Verzeichnisse mit Geschäften, in denen Sie Bitcoin ausgeben k�
 * [UseBitcoins](https://usebitcoins.info/) Verzeichnis
 
 ## Bitcoin Debitkarten
-Mit einer Bitcoin-Debitkarte können Sie wie mit jeder anderen Bank-Debitkarte einkaufen. Der Unterschied ist, dass sie mit Bitcoin oder Altcoins aufgeladen ist. Die Händler werden von der Debitkartengesellschaft in ihrer eigenen Währung bezahlt und die Gebühr wird von Ihrem Bitcoin-Guthaben abgezogen, so dass Sie ausschließlich von Bitcoin leben können.
+Mit einer Bitcoin-Debitkarte können Sie wie mit jeder anderen Bank-Debitkarte einkaufen. Der Unterschied ist, dass sie mit Bitcoin oder Altcoins aufgeladen ist. Die Händler werden von der Debitkartengesellschaft in ihrer eigenen Währung bezahlt und die Gebühr wird von Ihrem Bitcoin-Guthaben abgezogen, sodass Sie ausschließlich von Bitcoin leben können.
 
 Sie müssen Ihre Bitcoin beim Debitkartenunternehmen hinterlegen, d.h. Sie geben die Kontrolle über Ihre Coins an einen Dritten ab. Zahlen Sie nur so viel auf die Karte ein, wie Sie benötigen, und prüfen Sie die Gebühren, die diese Kartenunternehmen verlangen.
 
