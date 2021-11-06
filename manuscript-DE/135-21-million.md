@@ -1,14 +1,14 @@
 ## 21 Millionen Bitcoin
 Wie auf den vorigen Seiten beschrieben, werden Bitcoin geschaffen, sobald ein Mining-Computer eine Rechenaufgabe löst und als Erster den neu erzeugten Block an die Blockchain anhängt. 
 
-Derzeit erhalten Miner dafür 6,25 Bitcoin als Belohnung. Diese dient den Minern als Anreiz, den Regeln des Netzwerks zu folgen und soll Miner davon abschrecken Transaktionen in ihrem Sinne zu verändern.
+Derzeit erhalten Miner dafür 6,25 Bitcoin als Belohnung. Diese dient den Minern als Anreiz, den Regeln des Netzwerks zu folgen und soll Miner davon abschrecken, Transaktionen in ihrem Sinne zu verändern.
 TA
 ### Halving
 Die Bitcoin-Regeln legen fest, dass sich die ausbezahlte Menge an Bitcoin alle 210.000 Blöcke - etwa vier Jahre - halbiert. Zu Beginn wurden 50 Bitcoin pro Block geschaffen. Seit Mai 2020 sind es die genannten 6,25. Im Jahr 2024 wird wieder halbiert und die Miner erhalten 3,125 Bitcoin pro Block. Dieses Ereignis wird als Halving (Halbierung) bezeichnet. 
 
 Satoshi Nakamoto programmierte diese Intervalle in die Bitcoin Core Software. Die Ausgabemenge halbiert sich regelmäßig, was sich in einer flacher werdenden Kurve ausdrückt.  
 
-![Der Teil des Bitcoin Core Programmes, der das Halving Intervall festlegt. In C++](assets/_halving-interval.jpg)
+![Der Teil des Bitcoin-Core Programmes, der das Halving Intervall festlegt. In C++](assets/_halving-interval.jpg)
 
 ![Erklärung von Andreas M. Antonopoulos](assets/_aantonop-21-million.png) [^24]
 
@@ -18,13 +18,13 @@ Der Algorithmus legt fest, dass es maximal 21 Millionen Bitcoin geben wird. Derz
 
 
 ### Warum 21 Millionen?
-Es gibt viele Theorien wieso Satoshi Nakamoto genau die Zahl 21 Millionen gewählt hat. Hier ist Satoshi's Antwort. 
+Es gibt viele Theorien, wieso Satoshi Nakamoto genau die Zahl 21 Millionen gewählt hat. Hier ist Satoshi′s Antwort. 
 
 >Meine Wahl für die Anzahl der Bitcoin und den Ausgabenmodus war eine auf Tatsachen beruhende Vermutung. Es war eine schwierige Entscheidung, denn sobald das Netzwerk zu laufen beginnt, sind wir daran gebunden. Ich wollte etwas wählen, das Preise ähnlich zu bestehenden Währungen ermöglicht, aber ohne die Zukunft zu kennen, ist das eine schwierige Entscheidung. Ich habe letztlich das Mittelmaß gewählt. Falls Bitcoin ein kleine Nische bleibt, wird es per Einheit weniger Wert sein als bestehende Währungen. Wenn wir uns vorstellen, dass es für einen Teil des online Welthandels verwendet wird und es gibt nur 21 Millionen Bitcoin für die ganze Welt, dann wird es viel mehr Wert sein pro Einheit. Die Werte sind 64-Bit Integer Zahlen mit 8 Dezimalstellen, wodurch 1 Bitcoin intern durch 100000000 (100 Millionen) Teile repräsentiert wird. Dies schafft genug Granularität falls typische Preise klein werden. Zum Beispiel, wenn eines Tages 0,001 BTC 1 Euro wert ist, dann wäre es einfacher den Platz des Dezimalzeichens zu ändern. 1 Bitcoin könnte dann als 1000 und 0,001 as 1 dargestellt werden. [^26]
 
 
 ### Bitcoin Einheiten
-Die kleinste Einheit eines Bitcoin ist ein Satoshi. 1 Bitcoin besteht aus 100 Millionen Satoshis; 1 Satoshi ist ein Einhundertmillionstels eines Bitcoin (0,00000001).
+Die kleinste Einheit eines Bitcoin ist ein Satoshi. 1 Bitcoin besteht aus 100 Millionen Satoshis; 1 Satoshi ist ein Einhundertmillionstel eines Bitcoin (0,00000001).
 
 Sie müssen also nicht einen ganzen Bitcoin kaufen oder versenden, Sie können klein beginnen und Mini-Teile eines Bitcoin senden.
 
