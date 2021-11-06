@@ -4,22 +4,22 @@ Am 3. Januar 2009 wurde Bitcoin geboren. Seither hat das Bitcoin Peer-zu-Peer Pr
 
 Dieses System hat die folgenden Eigenschaften:
 
--   Bitcoin-Transaktionen sind zensurresistent.
+-   Bitcoin-Transaktionen sind Zensur-resistent.
 -   Bitcoin ist unveränderbar.
 -   Bitcoin kann nicht gefälscht werden.
 -   Bitcoin-Transaktionen sind ohne Intermediäre, wie Banken, hochsicher.
 -   Bitcoin-Transaktionen sind transparent, öffentlich einsehbar und können von allen geprüft werden.
 
 ![Eine PayPal Zahlung vs. Bitcoin](assets/_paypal-bitcoin-intermediaries.PNG) [^1]
-Bei einer traditionellen Zahlung gibt es bis zu sieben Intermediäre bis die Zahlung das Ziel erreicht. Bei Bitcoin gibt es keine.
+Bei einer traditionellen Zahlung gibt es bis zu sieben Intermediäre, bis die Zahlung das Ziel erreicht. Bei Bitcoin gibt es keine.
 
--   Bitcoin ist ein neutrales Netzwerk: es moralisiert und beurteilt nicht, ob eine Zahlung aus irgendeiner subjektiven Sicht "gut" oder "schlecht" ist.
--   Bitcoin ist erlaubnisfrei: es muss niemand um Erlaubnis gebeten werden, um es zu nutzen.
--   Bitcoin ist grenzenlos: es kann global verwendet werden.
--   Bitcoin, das Internet Protokoll, ist Allgemeingut: es gehört der Öffentlichkeit, jeder und jedem Einzelnen von uns, nicht einer juristischen Einheit wie einem Unternehmen.
+-   Bitcoin ist ein neutrales Netzwerk: Es moralisiert und beurteilt nicht, ob eine Zahlung aus einer subjektiven Sicht "gut" oder "schlecht" ist.
+-   Bitcoin ist erlaubnisfrei: Es muss niemand um Erlaubnis gebeten werden, um es zu nutzen.
+-   Bitcoin ist grenzenlos: Es kann global verwendet werden.
+-   Bitcoin, das Internet Protokoll, ist Allgemeingut: Es gehört der Öffentlichkeit, jeder und jedem Einzelnen von uns, nicht einer juristischen Einheit wie einem Unternehmen.
 -   Die Regeln des Bitcoin-Netzwerks werden durch den programmatisch gesicherten Konsens aller Beteiligten bestimmt.
 
-Bitcoin ist das Geld der Menschen. Bitcoin ist die Evolution des Geldes. Es ist Ergebnis der ständigen Weiterentwicklung des Geldes, welche Teil der Menschheitsgeschichte ist. Über die Jahrtausende sind neue Formen des Geldes gefunden und genutzt worden. Von direktem Tausch zwischen Menschen über das Kreditsystem zum Goldstandard, bis zum heutigen, ungedeckten, inflationären Fiat-Geldsystem. Das Banken- und Währungssystem, wie wir es heute kennen, ist vor etwa 300 Jahren entstanden. Es ist nur logisch, dass sich mit der Verbreitung völlig neuer Kommunikationsformen durch das Internet, neue Ökonomien gebildet haben, denen letzendlich ein Internet-natives Geld entsprungen ist.
+Bitcoin ist das Geld der Menschen. Bitcoin ist die Evolution des Geldes. Es ist Ergebnis der ständigen Weiterentwicklung des Geldes, welche Teil der Menschheitsgeschichte ist. Über die Jahrtausende sind neue Formen des Geldes gefunden und genutzt worden. Von direktem Tausch zwischen Menschen über das Kreditsystem zum Goldstandard, bis zum heutigen, ungedeckten, inflationären Fiat-Geldsystem. Das Banken- und Währungssystem, wie wir es heute kennen, ist vor etwa 300 Jahren entstanden. Es ist nur logisch, dass sich mit der Verbreitung völlig neuer Kommunikationsformen durch das Internet, neue Ökonomien gebildet haben, denen letztlich ein Internet-natives Geld entsprungen ist.
 
 ![Die Geschichte des Geldes](assets/_money-history.png) [^2]
 
@@ -28,7 +28,7 @@ Programmierbares kryptographisches Geld oder das "Internet des Geldes", wie es A
 
 ## Rai, Steingeld von Yap
 
-Falls Sie Bitcoin verwirrend und eine Blockchain als Kontobuch, das von Allen kontrolliert werden kann, unvorstellbar finden, könnte das Steingeld von Yap als Anschauungsbeispiel dienen. 
+Falls Sie Bitcoin verwirrend und eine Blockchain als Kontobuch, das von allen kontrolliert werden kann, unvorstellbar finden, könnte das Steingeld von Yap als Anschauungsbeispiel dienen. 
 
 Das Steingeld sind große Steinscheiben, die auf der Insel Yap im westlichen Pazifik (Mikronesien) genutzt wurden. Sie wurden aus den Kalksteinvorkommen der Insel Palau abgebaut und bis ins 20. Jahrhundert als Währung verwendet.
 
@@ -40,7 +40,7 @@ Dieses Beispiel ist bedeutend, weil es eine natürlich entstandene Nutzung eines
 
 Eine weitere Ähnlichkeit zu Bitcoin ist die Schaffung der Rai Steine, die arbeitsintensiv war und eine Form eines Arbeitsnachweises (Proof-of-Work) darstellt. Die Steine wurden mit der Hand aus dem Fels geschlagen, wogen bis zu 5 Tonnen und wurden mit Kanus 400 km über das Meer auf die Insel Yap gebracht. Als es durch neue Technologien und Werkzeuge einfacher wurde, die Steine herzustellen, verloren sie ihre Bedeutung als Geld, weil sie kein verlässlicher Indikator für investierte Energie mehr waren.
 
-Das Rai Steingeld wird von zeitgenössischen Ökonom*innen als primitive Form des Geldes gesehen. Es dient oft als Beispiel um die These zu veranschaulichen, dass der Wert mancher Geldarten ausschließlich auf gemeinsamem Glauben an dessen Wert fusst.[^5] Das heutige Geld wird ebenfalls durch nichts gedeckt. Es wird lediglich durch staatliche Verordnung etabliert und zum gesetzlichen Zahlungsmittel erklärt. Wir müssen es als Geld verwenden und aufgrund der täglichen Nutzung erachten wir es als wertvoll.
+Das Rai Steingeld wird von zeitgenössischen Ökonom*innen als primitive Form des Geldes gesehen. Es dient oft als Beispiel, um die These zu veranschaulichen, dass der Wert mancher Geldarten ausschließlich auf gemeinsamem Glauben an dessen Wert fußt.[^5] Das heutige Geld wird ebenfalls durch nichts gedeckt. Es wird lediglich durch staatliche Verordnung etabliert und zum gesetzlichen Zahlungsmittel erklärt. Wir müssen es als Geld verwenden und aufgrund der täglichen Nutzung erachten wir es als wertvoll.
 
 
 ## Wie Geld entsteht
@@ -51,11 +51,11 @@ Bitcoin hat mir die Augen geöffnet. Es gibt zwei unterschiedliche Perioden mein
 
 In 195 Ländern der Welt werden 180 verschiedene Währungen verwendet. Eine Währung ist Geld, das allgemein genutzt und vom Staat vorgeschrieben wird. Viele Jurisdiktionen setzen ihre Währung auch als gesetzliches Zahlungsmittel fest; dies ist Geld, das per Gesetz für die Bezahlung von Schulden verwendet werden kann und als Form der Bezahlung nicht abgelehnt werden darf.
 
-Alle diese 180 Währungen – beispielsweise US-Dollar, Euro, Yen und das Pfund Sterling – fallen unter die Definition von Fiat-Geld. Seit 1971 ist keine dieser Währungen durch Gold oder irgendeinen anderen materiellen Vermögenswert gedeckt. Geld hat seinen Wert, weil wir daran glauben. Geld ist eine Sprache, die es uns ermöglicht im sozialen Kontext einer Sache Wert zuzuschreiben. Das Wort Fiat stammt aus dem Lateinischen und bedeutet "es geschehe". Unser Geld wird durch einen Eintrag in eine Datenbank erzeugt. Es ist eine Ziffer in einem Buchhaltungssystem. Es steht keine geschaffene Produktivität oder Wert dahinter. 
+Alle diese 180 Währungen – unter anderem US-Dollar, Euro, Yen und das Pfund Sterling – fallen unter die Definition von Fiat-Geld. Seit 1971 ist keine dieser Währungen durch Gold oder einen anderen materiellen Vermögenswert gedeckt. Geld hat seinen Wert, weil wir daran glauben. Geld ist eine Sprache, die es uns ermöglicht im sozialen Kontext einer Sache Wert zuzuschreiben. Das Wort Fiat stammt aus dem Lateinischen und bedeutet "es geschehe". Unser Geld wird durch einen Eintrag in eine Datenbank erzeugt. Es ist eine Ziffer in einem Buchhaltungssystem. Es steht keine geschaffene Produktivität oder Wert dahinter. 
 
 Wer ist für die Schaffung des Geldes zuständig? Es sind Zentralbanken, Regierungen und das Bankensystem gemeinsam. Es ist ein zentralisiertes, hierarchisches System mit Eintrittsbarrieren. Es gibt keine Vereinbarung über eine maximale Geldmenge oder die Emissionsrate.
 
-Fiat ist "Geld per Verordung". Es wird uns durch die implizite Androhung von Gewalt durch den Staat aufgezwängt. Der Wert des Geldes wird durch lebenslange Steuerschuld, die ausschließlich in Fiat-Geld bezahlt werden kann, durch staatliche Wertpapiermärkte als auch gesetzliche Bestimmungen und Steuerpolitik erhalten.
+Fiat ist "Geld per Verordnung". Es wird uns durch die implizite Androhung von Gewalt durch den Staat aufgedrängt. Der Wert des Geldes wird durch lebenslange Steuerschuld, die ausschließlich in Fiat-Geld bezahlt werden kann, durch staatliche Wertpapiermärkte als auch gesetzliche Bestimmungen und Steuerpolitik erhalten.
 
 * Geld wird von den Zentralbanken in Form von Banknoten und Münzen erzeugt.
 * Zentralbanken kaufen Vermögenswerte und Anleihen auf dem freien Markt, Geld fließt ins System. 
@@ -63,11 +63,11 @@ Fiat ist "Geld per Verordung". Es wird uns durch die implizite Androhung von Gew
 * Geld wird von den Banken durch Kredite geschaffen.
 
 ### Geld entsteht durch Schulden
-Den letztgenannten Punkt kennen wir Alle. Mittels Krediten finanzieren wir Wohnungseigentum, Unternehmensgründungen oder kaufen ein Auto. Der Prozess ist einfach für jene, die privilegiert sind. Wer keine Sicherheiten vorweisen kann, ein Kleinunternehmen startet, kein fixes Einkommen hat oder eine Frau in einem Land ist, in dem Frauen kein Recht auf Eigentum besitzen, wird aller Voraussicht nach keinen Kredit erhalten.
+Den letztgenannten Punkt kennen wir alle. Mittels Krediten finanzieren wir Wohnungseigentum, Unternehmensgründungen oder kaufen ein Auto. Der Prozess ist einfach für jene, die privilegiert sind. Wer keine Sicherheiten vorweisen kann, ein Kleinunternehmen startet, kein fixes Einkommen hat oder eine Frau in einem Land ist, in dem Frauen kein Recht auf Eigentum besitzen, wird aller Voraussicht nach keinen Kredit erhalten.
 
 Angenommen Ihnen wird ein Kredit gewährt. Die Bank fügt einen Eintrag in ihrem System hinzu und addiert die Kreditsumme zu ihrem Kontenbuch. Sie schulden der Bank die Kreditsumme plus Zinsen. Sie müssen jetzt das Geld erwirtschaften und samt Zinsen zurückzahlen. Das ist ein großartiges Geschäft für die Bank. Sie leistet nichts, außer einem Eintrag in einer Datenbank, verdient aber an den Zinsen und Gebühren, die Sie für das Kreditgeschäft zahlen mussten. 
 
-Dazu kommt das sogenannte Mindestreserve-System der Banken. Es erlaubt den Banken mehr Geld zu verleihen als sie selbst und bei der Zentralbank in Reserve hält. Die Minimalmenge, der Mindestreserve-Satz, den die Banken in flüssigen Mitteln halten müssen, wird von der Zentralbank des jeweiligen Landes festgelegt. Diese Rate variiert von Land zu Land. In der Eurozone müssen Banken derzeit mindestens 1% der verliehenen Geldmenge in Reserve halten. Im März 2020 hob die FED (die US-Zentralbank) diese Mindestreservepflicht aufgrund der COVID-19-Pandemie auf. Kanada, Großbritannien, Neuseeland, Australien, Schweden und Hong Kong schreiben gar keine Mindestreserven vor.
+Dazu kommt das sogenannte Mindestreserve-System der Banken. Es erlaubt den Banken mehr Geld zu verleihen als sie selbst und bei der Zentralbank in Reserve hält. Die Minimalmenge, der Mindestreserve-Satz, den die Banken in flüssigen Mitteln halten müssen, wird von der Zentralbank des jeweiligen Landes festgelegt. Diese Rate variiert von Land zu Land. In der Eurozone müssen Banken derzeit mindestens 1% der verliehenen Geldmenge in Reserve halten. Im März 2020 hob die FED (die US-Zentralbank) diese Mindestreservepflicht aufgrund der COVID-19-Pandemie auf. Kanada, Großbritannien, Neuseeland, Australien, Schweden und Hongkong schreiben gar keine Mindestreserven vor.
 
 Wenn wir alle beschließen am selben Tag unsere Bankguthaben abzuheben, würde das Bankensystem platzen. Die Banken verleihen viel mehr Geld als sie selbst besitzen, weshalb sie nicht in der Lage wären uns unser Geld zurückzugeben.
 
@@ -76,14 +76,14 @@ Im Jahr 2020 stieg die weltweite Verschuldung um unglaubliche 24 Billionen auf 2
 ![Verhältnis der Schulden zum BIP](assets/_Debt-to-GDP-ratio-2020.jpg)
 
 ### Zentralbanken als Kreditgeber der letzten Instanz
-Banken können um die Hilfe der Zentralbank als letzte Refinanzierungsstelle bitten. 2008/2009 haben die Bankinstitute, die für die globale Finanzkrise verantwortlich waren, Rettungsgelder in Milliardenhöhe erhalten. Sie wurden gerettet, weil sie "too big to fail" waren; also zu groß, um zu scheitern. Was taten die Banken mit diesem Geld? Sie kauften Anteile an ihren eigenen Unternehmen zurück. Nichts sickerte hinab in die Realwirtschaft. Die Kluft zwischen Arm und Reich wurde zwangsläufig immer größer.
+Banken können um die Hilfe der Zentralbank als letzte Refinanzierungsquelle bitten. 2008/2009 haben die Bankinstitute, die für die globale Finanzkrise verantwortlich waren, Rettungsgelder in Milliardenhöhe erhalten. Sie wurden gerettet, weil sie "too big to fail" waren; also zu groß, um zu scheitern. Was taten die Banken mit diesem Geld? Sie kauften Anteile an ihren eigenen Unternehmen zurück. Nichts sickerte hinab in die Realwirtschaft. Die Kluft zwischen Arm und Reich wurde zwangsläufig immer größer.
 
 Zentralbanken werden als Kreditgeber der letzten Instanz bezeichnet. Sie sind das Rettungsboot der Banken. Ihr Ziel ist es, wirtschaftliche Zusammenbrüche als Folge von Finanzpaniken und einen Sturm auf die Banken aufgrund mangelnder Zahlungsfähigkeit, zu verhindern. Große Finanzakteure wissen, dass die Zentralbank sie retten muss. Dies kann zu fahrlässigem Verhalten und übermäßiger Risikobereitschaft bei Bankern und Investoren führen. 
 
 Die Schöpfung von zusätzlichem Geld durch die Zentralbanken überdeckte die Marktstörungen. Durch die Überflutung und Manipulation des Geldsystems mit billigem Geld existiert kein rationaler Preisfindungsmechanismus mehr. Üblicherweise bestimmen Angebot und Nachfrage den Wert von Waren und Gütern, aber auf einem verzerrten und manipulierten Markt gibt es keinen Raum für eine faire Preisfindung. Die globale Mittelschicht zahlt für die Gier der Finanzeliten, die erst durch das korrupte System der Geldschaffung möglich ist.
 
 Wurden Sie als Individuum jemals für Ihr gescheitertes finanzielles Abenteuer "gerettet"? Falls doch, würden Sie wieder und wieder dasselbe Risiko eingehen, um das System auszunützen, weil Sie wissen, dass es keine Alternative zu Ihrer Rettung gibt?
-Das ist genau das, was Banken, Wall Street, Hedge Funds und ihre Lobbying-Industrie permanent machen, assistiert von den Zentralbanken aller Länder. 
+Das ist genau das, was Banken, Wall Street, Hedgefonds und ihre Lobbying-Industrie permanent machen, assistiert von den Zentralbanken aller Länder. 
 
 "Klassischerweise halten die Zentralbanken Reserven für Notfälle, sie bestimmen Zinssätze und stellen Mittel bereit, um die Wirtschaft nach Disruptionen wie Paniken und Krieg anzukurbeln. Neuerdings haben sie die Rolle übernommen, das gesamte Finanzsystem sichern zu wollen und die ökonomische Entwicklung ganzer souveräner Staaten zu beeinflussen. Das ist das Gegenteil von demokratischer Führung. Eine solche monetäre Oligarchie agiert jenseits demokratischer Normen und Grenzen." [^7]
 
@@ -105,13 +105,13 @@ Jede andere Fiat-Geldmenge (M1, M2, M3) besteht aus Ansprüchen auf die Geldbasi
 
 M1 inkludiert M0, Sichteinlagen, Reiseschecks und andere überprüfbare Einlagen, die leicht in Bargeld umgewandelt werden können.
 
-M2 includiert M0, M1, Geldmarktpapiere, Investmentfonds und sonstige Termineinlagen. Diese Vermögenswerte sind weniger schnell verfügbar als M1 und eignen sich nicht so gut als Tauschmittel, können aber schnell in Bargeld oder Geldeinlagen umgewandelt werden. M2 wird als Indikator für die Geldmenge und die künftige Inflation sowie als Zielgröße für die Geldpolitik der Zentralbank herangezogen.
+M2 inkludiert M0, M1, Geldmarktpapiere, Investmentfonds und sonstige Termineinlagen. Diese Vermögenswerte sind weniger schnell verfügbar als M1 und eignen sich nicht so gut als Tauschmittel, können aber schnell in Bargeld oder Geldeinlagen umgewandelt werden. M2 wird als Indikator für die Geldmenge und die künftige Inflation sowie als Zielgröße für die Geldpolitik der Zentralbank herangezogen.
 
 Die im Umlauf befindliche Menge an M2 Währung in den USA betrug im Februar 2021  **19,7 Billionen USD**. [^11] Sehen Sie sich das Wachstum im Jahr 2020 an.
 
 ![M2 Geldmengenwachstum USA, 2021 ](assets/_M2-money-stock-US-2021.png)
 
-"Wir akzeptieren das als Normal, weil wir davon ausgehen, dass es niemals enden wird. Das Mindestreserve-System hat ein paar hundert Jahre weltweit funktioniert (zuerst durch Gold gedeckt und dann komplett Fiat-basierend), wenngleich gelegentliche inflationäre Ereignisse, die Situation teilweise rücksetzten. 
+"Wir akzeptieren das als normal, weil wir davon ausgehen, dass es niemals enden wird. Das Mindestreserve-System hat ein paar hundert Jahre weltweit funktioniert (zuerst durch Gold gedeckt und dann komplett Fiat-basierend), wenngleich gelegentliche inflationäre Ereignisse, die Situation teilweise rücksetzten. 
 
 Jede einzelne Fiat-Währungseinheit hat im Laufe der Jahrzehnte etwa 99% ihres Wertes eingebüßt. Das bedeutet, dass Investoren entweder Zinsen, die höher sind als die reale Inflation erhalten müssen (was derzeit nicht passiert) oder sie müssen ihr Geld in Investments anlegen, was den Wert von Aktien und Immobilien im Vergleich zu ihren Cashflows aufbläht und die Preise für knappe Güter wie Kunst in die Höhe treibt." [^12]
 
@@ -134,8 +134,8 @@ Falls Sie mehr darüber erfahren möchten, hören Sie sich meinen Podcast über 
 **Eigenschaften eines Ponzi-Systems**
 
 * Ein Ponzi-System hat einen zentralen Akteur, einen Anführer oder eine Organisation, die bekannt ist, Geld einsammelt und sich letztlich mit dem Geld absetzt.
-* Ponzi-Systeme sind nicht überprüfbar oder transparent. Niemand ausser dem Erfinder weiß, was mit dem eingesammelten Geld passiert. 
-* Bei einem Ponzi-System werden solange Schuldscheine ausgegeben bis es zusammenstürzt - es gibt keine maximale Ausgabemenge.
+* Ponzi-Systeme sind nicht überprüfbar oder transparent. Niemand außer dem Erfinder weiß, was mit dem eingesammelten Geld passiert. 
+* Bei einem Ponzi-System werden so lange Schuldscheine ausgegeben bis es zusammenstürzt - es gibt keine maximale Ausgabemenge.
 * Die Schwierigkeit, die Investoren auszubezahlen: je mehr Geld in das System fließt, desto schwieriger wird es, das Geld zurückzuzahlen und für den Erfinder die Maschine zu stoppen.  
 * Das System muss eines Tages zusammenbrechen, es gibt keinen Ausweg.
 * Die Betrüger verdienen Geld für das Verleihen von Vermögen, ohne etwas real zur wirtschaftlichen Leistung eines Landes beizutragen. 
@@ -151,7 +151,7 @@ Vergleichen wir dieses System mit der heutigen Schaffung von Geld.
 * Die Schwierigkeit, die Investoren auszubezahlen: durch das Mindestreserve-System würde eine Bank in große Schwierigkeiten geraten, wenn nur 20% der Kunden gleichzeitig ihr Guthaben verlangen. Die Bank würde die Herausgabe verweigern. Das passiert weltweit laufend. Manch US-Bank konnte im Frühjahr 2020 während der Pandemie keine Auszahlungen tätigen. 
 * Das System muss eines Tages zusammenbrechen, es gibt keinen Ausweg.
 * Die Banken verdienen Geld für das Verleihen von Vermögen, ohne etwas real zur wirtschaftlichen Leistung eines Landes beizutragen. 
-* Gier ist der Motor des Fiat-Systems. Die Finanzelite erhält billige Kredite, weil sie genug Sicherheit besitzt, um mehr Sicherheiten zu kaufen, die ihren Reichtum und Macht wieder vergrössern. 
+* Gier ist der Motor des Fiat-Systems. Die Finanzelite erhält billige Kredite, weil sie genug Sicherheit besitzt, um mehr Sicherheiten zu kaufen, die ihren Reichtum und Macht wieder vergrößern. 
 
 ### Das wahre Ponzi-System
 
@@ -159,7 +159,7 @@ Vergleichen wir dieses System mit der heutigen Schaffung von Geld.
 
 * Die Bitcoin Menge ist beschränkt. Es wird nur 21 Millionen geben. Bitcoin ist endlich, Fiat-Währung ist unendlich. Es kann keine Geldmengeninflation bei Bitcoin geben.
 
-* Die Bitcoin Ausgaberate ist durch einen Algorithmus vorbestimmt, auf den sich alle Akteure im Bitcoin-Netzwerk geeinigt haben und der von ihnen auch via Netzwerknoten überwacht wird. Die Rate kann ohne den Konsens aller Beteiligten in der globalen Bitcoin-Gemeinschaft nicht geändert werden. Nachdem das 21 Millionen Limit eine der wichtigsten Eigenschaften von Bitcoin ist, ist eine Änderung sehr schwierig bis unmöglich.
+* Die Bitcoin Ausgaberate ist durch einen Algorithmus vorbestimmt, auf den sich alle Akteure im Bitcoin-Netzwerk geeinigt haben und der von ihnen auch via Netzwerkknoten überwacht wird. Die Rate kann ohne den Konsens aller Beteiligten in der globalen Bitcoin-Gemeinschaft nicht geändert werden. Nachdem das 21 Millionen Limit eine der wichtigsten Eigenschaften von Bitcoin ist, ist eine Änderung sehr schwierig bis unmöglich.
 
 * Die Zentralbanker bestimmen das finanzielle Schicksal aller Länder der Welt. Sie wurden nicht gewählt, dennoch agieren sie wie Regierungen, die den gesamten Finanzmarkt zu kontrollieren versuchen.
 
@@ -172,19 +172,19 @@ Vergleichen wir dieses System mit der heutigen Schaffung von Geld.
 
 Die Wohlstandsunterschiede haben in den letzten Jahrhunderten gleichzeitig mit der Kommerzialisierung und Monetarisierung der natürlichen Ressourcen zugenommen. Nichts kann mehr monetarisiert werden. Wir leben in einem Kampf um Ressourcen und Chancengleichheit gegen das Establishment und die Eliten, die sich durch Korruption und finanzielle Vorteile bereichern.
 
-"Ein weiteres Nebenprodukt der Finanzkrise und der geheimen Absprachen der Zentralbanken waren die zunehmenden wirtschaftlichen Ängste, die zu einer Hinwendung zum Nationalismus führten, von Brasilien über Großbritannien bis in die USA.  Der Schock des Brexit in Großbritannien hallte in der ganzen Welt nach, während sich die Wählenden von der amtierenden Regierung und ihrer gescheiterten Wirtschaftspolitik abwandten. Der Wahlsieg Donald Trumps, dem milliardenschweren "Anti-Establishment"-Präsidenten, in den USA war eine weitere Demonstration dieses Trends. Diese richtungsweisenden Wahlen wurden nicht direkt durch die Zentralbankpolitik verursacht, sondern waren deren Auswirkungen." [^16]
+"Ein weiteres Nebenprodukt der Finanzkrise und der geheimen Absprachen der Zentralbanken waren die zunehmenden wirtschaftlichen Ängste, die zu einer Hinwendung zum Nationalismus führten, von Brasilien über Großbritannien bis in die USA.  Der Schock des Brexits in Großbritannien hallte in der ganzen Welt nach, während sich die Wählenden von der amtierenden Regierung und ihrer gescheiterten Wirtschaftspolitik abwandten. Der Wahlsieg Donald Trumps, dem milliardenschweren "Anti-Establishment"-Präsidenten, in den USA war eine weitere Demonstration dieses Trends. Diese richtungsweisenden Wahlen wurden nicht direkt durch die Zentralbankpolitik verursacht, sondern waren deren Auswirkungen." [^16]
 
-Der wachsende Unterschied zwischen Reich und Arm basiert auf unserem aktuellen Geldsystem, welches das wahre Ponzi-System ist. Zentralbanker werden nicht demokratisch gewählt, dennoch entscheiden sie über das wirtschaftliche Schicksal der Welt. Banker und ihre Freunde profitieren von diesem System. Es ist Zeit für eine Alternative: eine dezentrale, für Alle offen stehende, neutrale, transparente, unveränderbare, nicht-inflationierbare, gemeinschaftlich organisierte Form des Geldes für die Menschen: Bitcoin.
+Der wachsende Unterschied zwischen Reich und Arm basiert auf unserem aktuellen Geldsystem, welches das wahre Ponzi-System ist. Zentralbanker werden nicht demokratisch gewählt, dennoch entscheiden sie über das wirtschaftliche Schicksal der Welt. Banker und ihre Freunde profitieren von diesem System. Es ist Zeit für eine Alternative: eine dezentrale, für alle offen stehende, neutrale, transparente, unveränderbare, nicht inflationierbare, gemeinschaftlich organisierte Form des Geldes für die Menschen: Bitcoin.
 
 ### Das heutige Petrodollar-System
 
 Nachdem wir der Schaffung von Geld nachgegangen sind, tauchen wir ein in die Welt der Währungskriege und wie dieses exklusive System nationaler Währungen im Laufe der Geschichte von verschiedenen Imperien dominiert wurde. 
 
-Die Geschichte der Währungskriege ist lang. "Im Laufe des vergangenen Jahrhunderts wechselte die Welt vom Goldstandard über das Bretton-Woods-System zum Petrodollar-System. Jedes dieser Systems wurde eher von innen heraus aufgelöst, als dass es von außen zu Fall gebracht wurde und jedes Mal, wenn ein System in ein anderes überging, kam es zu einer erheblichen und weit reichenden Währungsabwertung."[^17] 
+Die Geschichte der Währungskriege ist lang. "Im Laufe des vergangenen Jahrhunderts wechselte die Welt vom Goldstandard über das Bretton-Woods-System zum Petrodollar-System. Jedes dieser Systeme wurde eher von innen heraus aufgelöst, als dass es von außen zu Fall gebracht wurde und jedes Mal, wenn ein System in ein anderes überging, kam es zu einer erheblichen und weitreichenden Währungsabwertung."[^17] 
 
-Die britische Währungsvorherrschaft dauerte von 1871 bis zum Ersten Weltkrieg. Damals waren nationale Währungen an Gold gebunden. In der Zwischenkriegszeit begann die  Geldmacht der Briten zu zerfallen. Nach dem Sieg der Alliierten im Zweiten Weltkrieg entwickelte sich die USA zur zentralen Finanzmacht. Das 1944 in Kraft getretene Bretton-Woods-System war das erste Beispiel einer auf Verhandlungsbasis entstandenen Währungsordnung, mit dem Ziel, die monetären Beziehungen zwischen unabhängigen Staaten zu regeln. Es führte ein Bündel an Regeln, Verfahren und Institutionen zur Regulierung des internationalen Währungssystems ein, wie zum Beispiel den Internationalen Währungsfonds (IMF). Die USA, die zwei Drittel des Weltgoldes kontrollierten, bestanden darauf, dass das Bretton-Woods-System sowohl auf Gold als auch auf dem US-Dollar beruht. Vertreter der Sowjetunion nahmen an der Konferenz teil, lehnten es aber später ab, die endgültigen Vereinbarungen zu ratifizieren. Sie bezeichneten die neu geschaffenen Institutionen als "Filialen der Wall Street". Dies kann als Beginn des kalten Krieges interpretiert werden. 
+Die britische Währungsvorherrschaft dauerte von 1871 bis zum Ersten Weltkrieg. Damals waren nationale Währungen an Gold gebunden. In der Zwischenkriegszeit begann die  Geldmacht der Briten zu zerfallen. Nach dem Sieg der Alliierten im Zweiten Weltkrieg entwickelte sich die USA zur zentralen Finanzmacht. Das 1944 in Kraft getretene Bretton-Woods-System war das erste Beispiel einer auf Verhandlungsbasis entstandenen Währungsordnung, mit dem Ziel, die monetären Beziehungen zwischen unabhängigen Staaten zu regeln. Es führte ein Bündel an Regeln, Verfahren und Institutionen zur Regulierung des internationalen Währungssystems ein, wie etwa den Internationalen Währungsfonds (IMF). Die USA, die zwei Drittel des Weltgoldes kontrollierten, bestanden darauf, dass das Bretton-Woods-System sowohl auf Gold als auch auf dem US-Dollar beruht. Vertreter der Sowjetunion nahmen an der Konferenz teil, lehnten es aber später ab, die endgültigen Vereinbarungen zu ratifizieren. Sie bezeichneten die neu geschaffenen Institutionen als "Filialen der Wall Street". Dies kann als Beginn des Kalten Krieges interpretiert werden. 
 
-Am 15. August 1971 hoben die USA unter Präsident Richard Nixon die Bindung des US-Dollars an Gold einseitig auf. Das Bretton-Woods-System war damit beendet und der US-Dollar wurde zur Fiat-Währung. Viele andere goldgebundenen Währungen (wie das Pfund Sterling) wurden ebenfalls auf einen freien Wechselkurs umgestellt. 
+Am 15. August 1971 hoben die USA unter Präsident Richard Nixon die Bindung des US-Dollars an Gold einseitig auf. Das Bretton-Woods-System war damit beendet und der US-Dollar wurde zur Fiat-Währung. Viele andere Gold gebundene Währungen (wie das Pfund Sterling) wurden ebenfalls auf einen freien Wechselkurs umgestellt. 
 
 Unser heutiges Währungssystem basiert auf dem Petrodollar. Lyn Alden beschreibt dies in Detail in ihrem Artikel "The Structure of the Global Monetary System":
 
@@ -196,13 +196,13 @@ Ein Land kann die Verwendung einer Fiat-Währung als Tauschmittel und Rechnungse
 
 Eine ungedeckte Währung kann auf verschiedene Probleme stoßen, wenn sie außerhalb ihres Ursprungslandes verwendet werden soll. Wieso sollten Unternehmen und Regierungen anderer Länder Papier als Zahlung für ihre wertvollen Güter und Dienstleistungen akzeptieren, das von einem anderen Land endlos gedruckt werden kann und keine sichere Deckung hat? Was ist es wert ohne Deckung? Wieso sollte jemand Öl gegen Papier an Ausländer verkaufen?
 
-In den frühen 1970er Jahren gab es eine Reihe geopolitischer Konflikte wie den Jom-Kippur-Krieg und das OPEC Öl-Embargo. 1974 erreichten die USA und Saudi Arabien eine Einigung. Von da an war die Welt auf das Petrodollar-System eingestellt. Ein kluger Weg, um ein globales Fiat-Währungssystem einigermaßen sinnvoll zu gestalten....Im Petrodollar-System verkaufen Saudi Arabien und andere OPEC-Länder ihr Öl ausschließlich gegen US-Dollar. Dafür erhalten sie Schutz und Kooperation der USA. Im Fall, dass beispielsweise Frankreich Öl von Saudi Arabien kaufen will, dann tun sie das ebenfalls in US-Dollar....Im Gegenzug setzen die USA ihre beispiellose Hochseekriegsflotte ein, um die weltweiten Schifffahrtswege zu schützen und den geopolitischen Status quo bei Bedarf durch militärische Maßnahmen oder die Androhung solcher Maßnahmen aufrechtzuerhalten.....Einige von uns, insbesondere die oberen Einkommensschichten, profitieren direkt oder indirekt von diesem System. Amerikaner, die im Finanzwesen, in der Regierung, im Gesundheitswesen und in der Technologiebranche arbeiten, genießen viele der Vorteile eines Lebens in der Hegemonialmacht, ohne die Nachteile. Andererseits haben die Amerikaner, die Sachgüter herstellen, in der Regel nicht davon profitiert, weil sie ihren Arbeitsplatz verloren haben oder ihr Einkommen unterdrückt wurde, so dass sie nicht von den Gewinnen profitiert haben. Und außerhalb der USA profitieren Exportländer von diesem System, während Länder, denen die Struktur des globalen Währungssystems nicht gefällt, kaum etwas dagegen unternehmen können, es sei denn, sie werden groß genug, wie Russland und China."[^18]
+In den frühen 1970er-Jahren gab es eine Reihe geopolitischer Konflikte wie den Jom-Kippur-Krieg und das OPEC-Öl-Embargo. 1974 erreichten die USA und Saudi-Arabien eine Einigung. Von da an war die Welt auf das Petrodollar-System eingestellt. Ein kluger Weg, um ein globales Fiat-Währungssystem einigermaßen sinnvoll zu gestalten …Im Petrodollar-System verkaufen Saudi-Arabien und andere OPEC-Länder ihr Öl ausschließlich gegen US-Dollar. Dafür erhalten sie Schutz und Kooperation der USA. Im Fall, dass beispielsweise Frankreich Öl von Saudi-Arabien kaufen will, dann tun sie das ebenfalls in US-Dollar…Im Gegenzug setzen die USA ihre beispiellose Hochseekriegsflotte ein, um die weltweiten Schifffahrtswege zu schützen und den geopolitischen Status quo bei Bedarf durch militärische Maßnahmen oder die Androhung solcher Maßnahmen aufrechtzuerhalten.....Einige von uns, insbesondere die oberen Einkommensschichten, profitieren direkt oder indirekt von diesem System. Amerikaner, die im Finanzwesen, in der Regierung, im Gesundheitswesen und in der Technologiebranche arbeiten, genießen viele der Vorteile eines Lebens in der Hegemonialmacht, ohne die Nachteile. Andererseits haben die Amerikaner, die Sachgüter herstellen, in der Regel nicht davon profitiert, weil sie ihren Arbeitsplatz verloren haben oder ihr Einkommen unterdrückt wurde, sodass sie nicht von den Gewinnen profitiert haben. Und außerhalb der USA profitieren Exportländer von diesem System, während Länder, denen die Struktur des globalen Währungssystems nicht gefällt, kaum etwas dagegen unternehmen können, es sei denn, sie werden groß genug, wie Russland und China."[^18]
 
 Wir befinden uns seit vielen Jahrzehnten in Währungskriegen. Welche Währung dominiert? Welches Land zieht aus der Manipulation seiner Währung mehr Nutzen? Der Euro, der US-Dollar, der chinesische Yuan? Oder sogar Facebooks Diem? Von Unternehmen aufgelegtes Geld ist der neue, starke Player am Markt. Um ihre Macht zu erhalten, haben Zentralbanken begonnen an ihrer eigenen Variante, dem digitalen Zentralbankgeld, zu arbeiten (CBDCs).
 
 ![Neue Formen des Geldes entstehen.](assets/_new-forms-money.png) [^19]
 
-Bitcoin ist eine Alternative zu diesem System. Es schützt unsere Privatsphäre im digitalen Zeitalter. Es gibt uns eine Stimme gegen den Mißbrauch monopolistischer Macht des aktuellen Systems und ermöglicht Menschen, unter korrupten Machthabern  in autoritären Staaten, die Teilnahme am wirtschaftlichen Leben. Bitcoin ist digitale Verteidigung, ein Werkzeug mit dem wir das Recht auf Transaktionsfreiheit und Privatsphäre sichern können.
+Bitcoin ist eine Alternative zu diesem System. Es schützt unsere Privatsphäre im digitalen Zeitalter. Es gibt uns eine Stimme gegen den Missbrauch monopolistischer Macht des aktuellen Systems und ermöglicht Menschen, unter korrupten Machthabern  in autoritären Staaten, die Teilnahme am wirtschaftlichen Leben. Bitcoin ist digitale Verteidigung, ein Werkzeug, mit dem wir das Recht auf Transaktionsfreiheit und Privatsphäre sichern können.
 
 [^1]: [Illustration von NetGuardians abgerufen im April 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)
 
