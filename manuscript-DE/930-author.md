@@ -3,7 +3,7 @@
 
 Anita Posch ist eine Bitcoin-Befürworterin, Autorin, Solopreneurin und Moderatorin der Anita Posch Show. Sie ist Mitglied des Vorstands von Bitcoin Austria - einer gemeinnützigen Bildungsorganisation.
 
-Anitas Ziel ist es, Bitcoin durch ihre Aufklärungsarbeit Milliarden von Menschen näher zu bringen. Sie hat einen Bitcoin-Podcast und einen YouTube-Kanal aufgebaut und das Buch (L)earn Bitcoin geschrieben. Außerdem hat sie Menschen aus der ganzen Welt interviewt, darunter auch einige aus Entwicklungsländern wie Nigeria, Südafrika, Venezuela und Afghanistan, um über die Auswirkungen von Bitcoin auf die Freiheit der Menschen zu sprechen.
+Anitas Ziel ist es, Bitcoin durch ihre Aufklärungsarbeit Milliarden von Menschen näherzubringen. Sie hat einen Bitcoin-Podcast und einen YouTube-Kanal aufgebaut und das Buch (L)earn Bitcoin geschrieben. Außerdem hat sie Menschen aus der ganzen Welt interviewt, darunter auch einige aus Entwicklungsländern wie Nigeria, Südafrika, Venezuela und Afghanistan, um über die Auswirkungen von Bitcoin auf die Freiheit der Menschen zu sprechen.
 
 Anfang 2020 war sie die erste Bitcoinerin, die Simbabwe besuchte, um die Währungssituation des Landes sowie die Akzeptanz von Bitcoin zu erforschen und in ihrem Podcast über die Ergebnisse zu berichten. Ihr Ziel war es, durch Interviews eine Brücke zwischen Menschen, die unter fehlerhaften Demokratien oder autoritären Regimen leben, und dem Rest der Welt zu schlagen und zu zeigen, wie Bitcoin ihre Lebensbedingungen und ihre finanzielle Freiheit verbessern könnte.
 
