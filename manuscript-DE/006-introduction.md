@@ -13,3 +13,5 @@ Während Mainstream-Medien und viele Wirtschaftsexpert*innen in westlichen Länd
 Im zweiten Teil des Buches gehe ich auf die praktische Anwendung von Bitcoin (BTC) und wie Sie es sicher benutzen ein. Sie werden erfahren, wie Sie Vertrauen in diese neue Technologie gewinnen, wie existierende Risiken minimiert werden können und wie Sie strategisch und effizient vorgehen, um Ihr Erspartes langfristig zu sichern. 
 
 Das ist weder eine Finanzberatung noch eine Anleitung zum Handeln mit den tausenden Altcoins, die es gibt. Wenn Sie an kurzfristigen Gewinnen wie im Kasino und an schnellem Geld interessiert sind, dann lassen Sie die Finger von diesem Buch. Es ist für Menschen, die Bitcoin grundlegend verstehen und Ihr Geld selbstbestimmt kontrollieren wollen.
+
+haha, alles gar nicht wahr
