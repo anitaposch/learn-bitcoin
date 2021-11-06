@@ -43,7 +43,7 @@ Mit der Einführung des Lightning Network wurde eine wirklich bahnbrechende neue
 * [Sparkshot](https://sparkshot.io/) Künstler können ihre Werke für Bitcoin verkaufen
 
 ## Handel
-* [Breez](https://breez.technology/#business) einfach zu bedienende Point-of-Sale-App für Händler, Restaurants, Cafés... um Bitcoin-Zahlungen zu akzeptieren.
+* [Breez](https://breez.technology/#business) einfach zu bedienende Point-of-Sale-App für Händler, Restaurants, Cafés… um Bitcoin-Zahlungen zu akzeptieren.
 * [BTC Pay Server](https://btcpayserver.org/) ist ein selbst gehosteter, quelloffener Kryptowährungszahlungsprozessor für den elektronischen Handel. Er ist sicher, privat, zensurresistent und kostenlos. Sie können ihn mit Ihrem Online-Shop verbinden, Rechnungen für Ihre Buchhaltung erstellen und blitzschnell Bitcoin verdienen. Mit Integrationen für WooCommerce, Shopify, Drupal, Magento, PrestaShop, Shopware.
 * [Confirmo](https://confirmo.net/) akzeptiert Zahlungen mit Plugins für beliebte Online-Shops.
 * [Globee](https://globee.com/) akzeptieren Sie Bitcoin mit GloBee, sie bieten Open-Source-Plugins für alle wichtigen E-Commerce-Plattformen gegen eine Provision (Depot).
