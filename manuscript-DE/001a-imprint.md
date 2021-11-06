@@ -1,6 +1,6 @@
 
 (L)earn Bitcoin - Bitcoin verstehen und verdienen
-Der Schlüssel zu finanzieller Unabhängigkeit
+Der Schlüssel zu finanzieller Unabhängigkeit  
 1. Ausgabe, November 2021
 
 Autorin: Anita Posch
