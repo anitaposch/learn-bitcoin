@@ -43,6 +43,8 @@ Die Anzahl der Transaktionen, die auf der Blockchain stattfinden, und die Anzahl
 
 Ab 2140, wenn alle 21 Millionen Bitcoin erzeugt sind, müssen die Transaktionsgebühren das Mining alleine tragen. Zu diesem Zeitpunkt wird die Transaktionsanzahl stärker mit dem Energieverbrauch korrelieren als mit dem Preis von Bitcoin. Das Mining wird durch Wettbewerb auf einem freien Markt angetrieben, auf dem sich die Schwierigkeit des Minens dynamisch anpasst. es hat nichts damit zu tun, wieviele Transaktionen abgewickelt werden. Minen ist ein Sicherheitsmechanismus. 
 
+Dies hängt damit zusammen, wie viel Sicherheit der Markt dem System zuweist. Mehr Energie bedeutet also mehr Sicherheit, und wenn der Bitcoin-Preis steigt, erhöht sich natürlich auch der Geldbetrag, der zu seinem Schutz bereitgestellt wird.
+
 
  It relates to how much security the market allocates to the system, so more energy equals more security and when the price of bitcoin goes up the amount of money allocated to protect it also increases naturally. Therefore usage and higher adoption drive additional financial motivation for miners to produce more security by consuming more energy.
 
