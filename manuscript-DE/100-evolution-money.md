@@ -126,7 +126,7 @@ Streng genommen entsteht Inflation, wenn die Geldmenge das nominale BIP-Wachstum
 
 Bitcoin-Gegner nennen Bitcoin ein Ponzi-System. Ich behaupte, sie verstehen entweder Bitcoin oder echte Ponzi-Systeme nicht. Vielleicht haben sie aber auch einfach ein persönliches Interesse daran, dass Bitcoin nicht erfolgreich ist. Charles Ponzi wurde 1920 in den USA festgenommen, nachdem er zehntausende Opfer um 20 Millionen Dollar erleichtert hatte. Sein Versprechen war, dass er ihr Geld innerhalb von drei Monaten verdoppeln würde. Für das eingelegte Geld erhielten die "Investoren" Schuldscheine, die das ursprüngliche Investment plus 50 Prozent Zinsen garantierten. Diese Schuldscheine wurden "Ponzi-Noten" genannt, da sie Charles Ponzis Stempel trugen.
 
-> "Mein Geschäft war simpel. Es war das alte Spiel, ein Loch aufzureissen und ein anderes damit zu stopfen. Sie geben mir 100 Dollar und ich gebe Ihnen einen Schuldschein, der garantiert, dass ich Ihnen in drei Monaten 150 Dollar zurückzahle.…Meine Noten wurden wertvoller als das amerikanische Geld.…Dann kamen die Probleme. Die ganze Sache war kaputt." - **Charles Ponzi**
+> "Mein Geschäft war einfach. Es war das alte Spiel, Peter zu berauben, um Paul zu bezahlen. Sie gaben mir hundert Dollar und ich gab Ihnen einen Schuldschein, um Ihnen in drei Monaten hundertfünfzig Dollar zu zahlen... Meine Schuldscheine wurden wertvoller als amerikanisches Geld... Dann kam der Ärger. Die Operation war gescheitert." - **Charles Ponzi**
 
 Falls Sie mehr darüber erfahren möchten, hören Sie sich meinen Podcast über das Leben und die Geschichte von Charles Ponzi an. Sie finden es unter https://anita.link/ponzi (Englisch).
 
