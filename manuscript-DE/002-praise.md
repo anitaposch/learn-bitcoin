@@ -12,7 +12,7 @@
 
 > "Die besten Lehrenden sind Studierende. Seitdem Anita auf meinem Radar aufgetaucht ist, ist sie eine wissbegierige und einsichtsvolle Forscherin und Fördererin von Bitcoins revolutionärer Technologie. Sie trennt die Spreu vom Weizen und schreibt mit der notwendigen Klarheit, Präzision und Simplizität, um ein komplexes, multidisziplinäres Themengebiet einfach zu erklären. Sovryns Mission ist Bitcoin unaufhaltbar zu machen. Daher sind wir stolz, die Publikation von (L)earn Bitcoin zu unterstützen." - **exiledsurfer, Gründer, Parallele Polis, Kommunikationsleiter bei SovrynBTC**
 
-> "Es ist keine einfache Aufgabe Bitcoin, den neuen Elefanten der Finanzwelt, zu erklären. Wie Blinde limitieren viele Profis ihre Beschreibungen auf ein enges Feld der Expertise. Anitas Betrachtungsweise ist ganzheitlich, nachvollziehbar und klar. Sie bringt einen neuen Blick auf das 'Geld der Menschen'." - **Thomas Voegtlin, Gründer & CEO, Electrum**
+> "Es ist keine einfache Aufgabe Bitcoin, den neuen Elefanten im Raum der Finanzwelt, zu erklären. Wie Blinde limitieren viele Profis ihre Beschreibungen auf ein enges Feld der Expertise. Anitas Betrachtungsweise ist ganzheitlich, nachvollziehbar und klar. Sie bringt einen neuen Blick auf das 'Geld der Menschen'." - **Thomas Voegtlin, Gründer & CEO, Electrum**
 
 > "Es ist fantastisch Anitas Reise in den vergangenen Jahren miterlebt zu haben. Sie hat die Besten der Branche interviewed, dabei viel gelernt und macht dieses Wissen nun für Alle verfügbar. Anita is eine der Engagiertesten im Bitcoin-Bereich und eine herausragende Persönlichkeit, von der man viel lernen kann!" - **Hass McCook, Zivil-Ingenieur und Bitcoin Evangelist**
 
