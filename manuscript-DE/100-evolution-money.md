@@ -44,7 +44,7 @@ Das Rai Steingeld wird von zeitgenössischen Ökonom*innen als primitive Form de
 
 ## Wie Geld entsteht
 
->"Man muss der Zentralbank vertrauen, dass sie die Währung nicht entwertet, aber die Geschichte der Fiat-Währungen ist voll dieser Vertrauensbrüche." - Satoshi Nakamoto
+>"Man muss der Zentralbank vertrauen, dass sie die Währung nicht entwertet, aber die Geschichte der Fiat-Währungen ist voll von solchen Vertrauensbrüchen." - Satoshi Nakamoto
 
 Bitcoin hat mir die Augen geöffnet. Es gibt zwei unterschiedliche Perioden meines Lebens. Die vor Bitcoin und die danach. Ich sehe vieles ganz anders als zuvor. Mein Ziel war, Bitcoin zu verstehen. Zuallererst musste ich unser aktuelles Geld verstehen. Was sind die Unterschiede zwischen dem Euro, dem US-Dollar oder Bitcoin? Was ist Inflation? Welche Rolle spielen die Nationalbanken und so weiter. Wieso lernen wir nichts darüber in der Schule oder ist diese Lücke gar Absicht?
 
