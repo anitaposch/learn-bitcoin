@@ -117,7 +117,7 @@ Jede einzelne Fiat-Währungseinheit hat im Laufe der Jahrzehnte etwa 99% ihres W
 Zur Geldmengeninflation kommt hinzu, dass die Einwohnerzahlen in den USA und anderen westlichen Nationen nicht im selben Verhältnis wachsen wie die Geldmenge.
 "Die US-Bevölkerung wuchs früher etwa um 1,5% pro Jahr, jetzt sind es eher 0,5%. Das ist sehr bedeutend. Zwischenzeit ist die Geldmenge im Jahresvergleich um 25 % gestiegen und wird in einem rollierenden 5-Jahres-Zeitraum voraussichtlich um mehr als 75 % zunehmen." [^13]
 
-Genau gesagt, entsteht Inflation, wenn die Geldmenge das nominale BIP-Wachstum übersteigt, das sich aus dem Bevölkerungs- und Produktivitätswachstum zusammensetzt. Der Verbraucherpreisindex der USA zeigt, dass die Preise für Waren gestiegen sind, da der Wert des Geldes gesunken ist.
+Streng genommen entsteht Inflation, wenn die Geldmenge das nominale BIP-Wachstum übersteigt, das sich aus dem Bevölkerungs- und Produktivitätswachstum zusammensetzt. Der Verbraucherpreisindex der USA zeigt, dass die Preise für Waren gestiegen sind, da der Wert des Geldes gesunken ist.
 ![Verbraucherpreisindex der USA, 2020](assets/_Consumer-Price-index-US-2021.png) [^14]
 
 ### Ponzi-System
