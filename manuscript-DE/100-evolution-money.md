@@ -68,7 +68,7 @@ Angenommen Ihnen wird ein Kredit gewährt. Die Bank fügt einen Eintrag in ihrem
 
 Dazu kommt das sogenannte Mindestreserve-System der Banken. Es erlaubt den Banken mehr Geld zu verleihen als sie selbst und bei der Zentralbank in Reserve hält. Die Minimalmenge, der Mindestreserve-Satz, den die Banken in flüssigen Mitteln halten müssen, wird von der Zentralbank des jeweiligen Landes festgelegt. Diese Rate variiert von Land zu Land. In der Eurozone müssen Banken derzeit mindestens 1% der verliehenen Geldmenge in Reserve halten. Im März 2020 hob die FED (die US-Zentralbank) diese Mindestreservepflicht aufgrund der COVID-19-Pandemie auf. Kanada, Großbritannien, Neuseeland, Australien, Schweden und Hongkong schreiben gar keine Mindestreserven vor.
 
-Wenn wir alle beschließen am selben Tag unsere Bankguthaben abzuheben, würde das Bankensystem platzen. Die Banken verleihen viel mehr Geld als sie selbst besitzen, weshalb sie nicht in der Lage wären uns unser Geld zurückzugeben.
+Wenn wir alle beschließen am selben Tag unsere Bankguthaben abzuheben, würde das Bankensystem zusammenbrechen. Die Banken verleihen viel mehr Geld als sie selbst besitzen, weshalb sie nicht in der Lage wären uns unser Geld zurückzugeben.
 
 Im Jahr 2020 stieg die weltweite Verschuldung um unglaubliche 24 Billionen auf 281 Billionen USD oder 355 % des weltweiten BIP (Bruttoinlandsprodukt). [^6]
 
