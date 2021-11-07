@@ -149,7 +149,7 @@ Vergleichen wir dieses System mit der heutigen Schaffung von Geld.
 * Es gibt keine Geldmengenbegrenzung.
 * Die Schwierigkeit, die Investoren auszubezahlen: durch das Mindestreserve-System würde eine Bank in große Schwierigkeiten geraten, wenn nur 20% der Kunden gleichzeitig ihr Guthaben verlangen. Die Bank würde die Herausgabe verweigern. Das passiert weltweit laufend. Einige US-Banken konnten im Frühjahr 2020 während der Pandemie keine Auszahlungen tätigen. 
 * Das System muss eines Tages zusammenbrechen, es gibt keinen anderen Ausweg.
-* Die Banken verdienen Geld für das Verleihen von Vermögen, ohne etwas real zur wirtschaftlichen Leistung eines Landes beizutragen. 
+* Die Banken verdienen Geld für das Verleihen von Vermögen, ohne etwas real zur wirtschaftlichen Leistung der Gesellschaft beizutragen. 
 * Gier ist der Motor des Fiat-Systems. Die Finanzelite erhält billige Kredite, weil sie genug Sicherheit besitzt, um mehr Sicherheiten zu kaufen, die ihren Reichtum und Macht wieder vergrößern. 
 
 ### Das wahre Ponzi-System
