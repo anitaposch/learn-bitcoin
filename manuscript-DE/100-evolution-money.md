@@ -98,7 +98,7 @@ Die Geldmenge besteht aus verschiedenen Arten von Geld, die generell als "M" kla
 
 Die Geldbasis (M0) ist die gesamte Menge einer Währung in Form physischer Banknoten und Münzen, die sich in öffentlichem Umlauf befinden oder von Geschäftsbankeinlagen in den Reserven der Zentralbank gehalten werden. [^9] 
 
-Solange Sie Bargeld halten, ist es ein Asset wie Bitcoin, ein Eigentum, das Sie besitzen. Sobald Sie Ihr Bargeld zur Bank tragen und auf Ihr Konto einzahlen, wird es zu einem Anspruch, den Sie gegenüber der Bank haben. Aber Sie besitzen das Geld nicht mehr. Ähnlich verhält es sich, wenn Sie ihre Bitcoin bei einer Exchange halten. 
+Solange Sie Geld als Bargeld halten, ist es ein Asset in ihrer direkten Verfügungsmacht; Sie haben darauf Zugriff wie auf Bitcoin in der eigenen Wallet. Sobald Sie Ihr Bargeld zur Bank tragen und auf Ihr Konto einzahlen, wird es zu einem Anspruch, den Sie gegenüber der Bank haben. Aber Sie haben keinen direkten Zugriff mehr auf das Geld. Ähnlich verhält es sich, wenn Sie ihre Bitcoin bei einer Exchange halten. 
 
 Jede andere Fiat-Geldmenge (M1, M2, M3) besteht aus Ansprüchen auf die Geldbasis. [^10]
 
