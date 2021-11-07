@@ -154,7 +154,7 @@ Vergleichen wir dieses System mit der heutigen Schaffung von Geld.
 
 ### Das wahre Ponzi-System
 
-* Die einzige Gemeinsamkeit zwischen Bitcoin und einem Ponzi-System ist der Netzwerkeffekt durch Gier. Im Unterschied zum Ponzi, können Sie Bitcoin mittels ihrer privaten Schlüssel aber selbst besitzen. Es gibt keine Bank und keinen zentralen Akteur, der Ihre Bitcoin kontrollieren kann. 
+* Die einzige Gemeinsamkeit zwischen Bitcoin und einem Ponzi-System ist der Netzwerkeffekt durch Gier. Im Unterschied zum Ponzi können Sie über Bitcoin mittels ihrer privaten Schlüssel aber selbst verfügen. Es gibt keine Bank und keinen zentralen Akteur, der Ihre Bitcoin kontrollieren kann. 
 
 * Die Bitcoin Menge ist beschränkt. Es wird nur 21 Millionen geben. Bitcoin ist endlich, Fiat-Währung ist unendlich. Es kann keine Geldmengeninflation bei Bitcoin geben.
 
