@@ -1,6 +1,6 @@
 # Einleitung
 
-> "Es ist furchtbar schwierig, für diese Sache eine allgemein verständliche Beschreibung zu formulieren. Es gibt nichts Bekanntes, womit man es einfach in Bezug setzen könnte." - **Satoshi Nakamoto**
+> "Es ist furchtbar schwierig, für dieses Thema eine allgemein verständliche Beschreibung zu formulieren. Es gibt nichts Bekanntes, womit man es einfach in Bezug setzen könnte." - **Satoshi Nakamoto**
 
 (L)earn Bitcoin ist das beste Buch für Ihren Einstieg in die neue Welt des Internets der Werte. Es präsentiert Bitcoin in all seinen Facetten und umfassend. Von den technischen, ökonomischen, politischen und sozialen Auswirkungen bis hin zu Bitcoins Entwicklung in der aktuellen Währungslandschaft. 
 
