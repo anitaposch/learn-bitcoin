@@ -40,7 +40,7 @@ Dieses Beispiel ist bedeutend, weil es die Nutzung eines gemeinsamen Kontobuches
 
 Eine weitere Ähnlichkeit zu Bitcoin ist die Schaffung der Rai Steine, die arbeitsintensiv war und eine Form eines Arbeitsnachweises (Proof-of-Work) darstellt. Die Steine wurden mit der Hand aus dem Fels geschlagen, wogen bis zu 5 Tonnen und wurden mit Kanus 400 km über das Meer auf die Insel Yap gebracht. Als es durch neue Technologien und Werkzeuge einfacher wurde, die Steine herzustellen, verloren sie ihre Bedeutung als Geld, weil sie kein verlässlicher Indikator für investierte Energie mehr waren.
 
-Das Rai Steingeld wird von zeitgenössischen Ökonom*innen als primitive Form des Geldes gesehen. Es dient oft als Beispiel, um die These zu veranschaulichen, dass der Wert mancher Geldarten ausschließlich auf gemeinsamem Glauben an dessen Wert fußt.[^5] Das heutige Geld wird ebenfalls durch nichts gedeckt. Es wurde durch staatliche Verordnung etabliert und zum gesetzlichen Zahlungsmittel erklärt. Nur deswegen wird staatliches Geld verwendete und wird als wertvoll angesehen.
+Das Rai Steingeld wird von zeitgenössischen Ökonom*innen als primitive Form des Geldes gesehen. Es dient oft als Beispiel, um die These zu veranschaulichen, dass der Wert mancher Geldarten ausschließlich auf gemeinsamem Glauben an dessen Wert fußt.[^5] Das heutige Geld wird ebenfalls durch nichts gedeckt. Es wurde durch staatliche Verordnung etabliert und zum gesetzlichen Zahlungsmittel erklärt. Nur deswegen wird staatliches Geld verwendete und als wertvoll angesehen.
 
 ## Wie Geld entsteht
 
