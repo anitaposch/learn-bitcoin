@@ -133,11 +133,11 @@ Falls Sie mehr darüber erfahren möchten, hören Sie sich meinen Podcast über 
 **Eigenschaften eines Ponzi-Systems**
 
 * Ein Ponzi-System hat einen zentralen Akteur, einen Anführer oder eine Organisation, die bekannt ist, Geld einsammelt und sich letztlich mit dem Geld absetzt.
-* Ponzi-Systeme sind nicht überprüfbar oder transparent. Niemand außer dem Erfinder weiß, was mit dem eingesammelten Geld passiert. 
+* Ponzi-Systeme sind nicht überprüfbar oder transparent. Niemand außer dem zentralen Akteur weiß, was mit dem eingesammelten Geld passiert. 
 * Bei einem Ponzi-System werden so lange Schuldscheine ausgegeben bis es zusammenstürzt - es gibt keine maximale Ausgabemenge.
-* Die Schwierigkeit, die Investoren auszubezahlen: je mehr Geld in das System fließt, desto schwieriger wird es, das Geld zurückzuzahlen und für den Erfinder die Maschine zu stoppen.  
-* Das System muss eines Tages zusammenbrechen, es gibt keinen Ausweg.
-* Die Betrüger verdienen Geld für das Verleihen von Vermögen, ohne etwas real zur wirtschaftlichen Leistung eines Landes beizutragen. 
+* Die Schwierigkeit, die Investoren auszubezahlen: je mehr Geld in das System fließt, desto schwieriger wird es, das Geld zurückzuzahlen und für den Initiator die Maschine zu stoppen.  
+* Das System muss eines Tages zusammenbrechen, es gibt keinen anderen Ausweg.
+* Die Betrüger verdienen Geld für das Verleihen von Vermögen, ohne etwas real zur wirtschaftlichen Leistung der Gesellschaft beizutragen. 
 * Gier ist der Motor des Ponzi-Systems. Privatanleger, die früh in das System einsteigen, erhalten Gewinne und erzählen es anderen, die auch schnell reich werden wollen. 
 
 Vergleichen wir dieses System mit der heutigen Schaffung von Geld. 
