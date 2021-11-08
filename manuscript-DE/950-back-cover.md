@@ -8,4 +8,4 @@
 
 IMAGE https://blotcdn.com/blog_378314d0a9ec45bfa46b3bc7d3718410/_image_cache/33e02f7d-d199-46ab-89a0-9fa5b575ba2b.png
 
-Anita Posch ist Bitcoin-Expertin, Autorin, Solopreneurin und Gastgeberin der Anita Posch Show. Sie ist Vorstandsmitglied des Vereines Bitcoin Austria.
+Anita Posch ist Bitcoin-Expertin, Autorin und Podcast-Gastgeberin. Sie ist Vorstandsmitglied des gemeinnützigen Vereines Bitcoin Austria.
