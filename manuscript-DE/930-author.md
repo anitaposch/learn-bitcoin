@@ -3,9 +3,9 @@
 
 Anita Posch ist Bitcoin-Expertin, Autorin und Podcast-Gastgeberin. Sie ist Vorstandsmitglied des gemeinnützigen Vereines Bitcoin Austria.
 
-Anitas Ziel ist es, Bitcoin durch ihre Aufklärungsarbeit Milliarden von Menschen näherzubringen. Sie hat einen Bitcoin-Podcast und einen YouTube-Kanal aufgebaut und das Buch (L)earn Bitcoin geschrieben. Außerdem hat sie Menschen aus der ganzen Welt interviewt, darunter auch einige aus Entwicklungsländern wie Nigeria, Südafrika, Venezuela und Afghanistan, um über die Auswirkungen von Bitcoin auf die Freiheit der Menschen zu sprechen.
+Anita möchte mit ihrer Arbeit Millionen Menschen Bitcoin näherbringen. Sie hat einen Bitcoin-Podcast und einen YouTube-Kanal aufgebaut und das Buch (L)earn Bitcoin geschrieben. Außerdem hat sie Menschen aus der ganzen Welt interviewt, darunter auch einige aus Entwicklungsländern wie Nigeria, Südafrika, Venezuela und Afghanistan, um über die Auswirkungen von Bitcoin auf die Freiheit der Menschen zu sprechen.
 
-Anfang 2020 war sie die erste Bitcoinerin, die Simbabwe besuchte, um die Währungssituation des Landes sowie die Akzeptanz von Bitcoin zu erforschen und in ihrem Podcast über die Ergebnisse zu berichten. Ihr Ziel war es, durch Interviews eine Brücke zwischen Menschen, die unter fehlerhaften Demokratien oder autoritären Regimen leben, und dem Rest der Welt zu schlagen und zu zeigen, wie Bitcoin ihre Lebensbedingungen und ihre finanzielle Freiheit verbessern könnte.
+Anfang 2020 war sie die erste Bitcoin-Podcasterin, die Simbabwe besuchte, um die Währungssituation des Landes sowie die Akzeptanz von Bitcoin zu erforschen und in ihrem Podcast über die Ergebnisse zu berichten. Ihr Ziel war es, durch Interviews eine Brücke zwischen Menschen, die unter fehlerhaften Demokratien oder autoritären Regimen leben, und dem Rest der Welt zu schlagen und zu zeigen, wie Bitcoin ihre Lebensbedingungen und ihre finanzielle Freiheit verbessern könnte.
 
 Bitcoin ist Geld vom Volk, für das Volk. Seine mathematischen Regeln können nicht korrumpiert werden - weder von Regierungen noch von Milliardären. Dies garantiert ein Maß an Fairness, das in traditionellen, von Menschenhand gesteuerten Systemen nicht erreicht werden kann. Es gibt unterprivilegierten Personen, wie Menschen aus Entwicklungsländern, Frauen und unterdrückten Minderheitengruppen, die Möglichkeit, frei und privat miteinander global zu handeln. Diese Freiheit, Werte auszutauschen und die Kreativität und Innovation der Menschen freizusetzen, ist es, was Anita Posch antreibt.
 
@@ -19,4 +19,4 @@ Anita hat zwei Bände von "Das Internet des Geldes" von Andreas M. Antonopoulos 
 
 Anita Posch twittert regelmäßig auf [https://twitter.com/anitaposch](https://twitter.com/anitaposch).
 
-Mehr über Anita finden Sie auf ihrer Website unter [https://anitaposch.com](https://anitaposch.com), die Anita Posch Show unter [https://anita.link/show](https://anita.link/show) und Informationen über dieses Buch unter [https://learnbitcoin.link](https://learnbitcoin.link).
+Mehr über Anita finden Sie auf ihrer Website unter [https://anitaposch.com](https://anitaposch.com), deutschsprachige Inhalte unter [https://bitcoinundco.com/de/](https://bitcoinundco.com/de/) und Informationen über dieses Buch unter [https://learnbitcoin.link](https://learnbitcoin.link).
