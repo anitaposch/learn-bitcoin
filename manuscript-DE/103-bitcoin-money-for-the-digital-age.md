@@ -1,6 +1,6 @@
 ## Bitcoin - Geld für das digitale Zeitalter
 
-Wenn ich gefragt werde, was Bitcoin ist, dann ist meine erste und kürzeste Antwort: es ist digitales Bargeld. Es ist wie die Banknoten und Münzen in Ihrer Tasche. Es gehört Ihnen und niemand kann Sie daran hindern, es auszugeben. Angenommen Sie kaufen ein Fahrrad. Sie gehen in einen Laden und bezahlen mit Bargeld. Dabei müssen Sie niemandem vertrauen. Denn Sie haben ihr Fahrrad, der Laden Ihr Geld. Der Verkauf ist abgeschlossen, ohne persönliche Datenangabe oder Kreditkarte. 
+Wenn ich gefragt werde, was Bitcoin ist, dann ist meine erste und kürzeste Antwort: es ist digitales Bargeld. Es ist wie die Banknoten und Münzen in Ihrer Tasche. Es gehört Ihnen und niemand kann Sie daran hindern, es auszugeben. Angenommen Sie kaufen ein Fahrrad. Sie gehen in einen Laden und bezahlen mit Bargeld. Dabei müssen Sie niemandem vertrauen. Denn Sie haben ihr Fahrrad, der Laden ihr Geld. Der Verkauf ist abgeschlossen, ohne persönliche Datenangabe oder Kreditkarte. 
 
 Genauso verhält es sich mit Bitcoin. Wenn Sie etwas mit Bitcoin bezahlen, sei es im Internet oder in einem Laden, dann wird das Geld direkt von Ihnen zur anderen Person geschickt. Ohne Bank, ohne PayPal und ohne Kreditkarte. Gleichzeitig ist diese Transaktion hochsicher, unfälschbar und unveränderbar - das ist revolutionär.
 
