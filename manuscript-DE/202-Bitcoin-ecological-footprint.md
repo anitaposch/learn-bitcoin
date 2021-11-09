@@ -52,19 +52,19 @@ Eine Bitcoin-On-Chain-Transaktion kann nicht einfach mit einer VISA-Zahlung verg
 
 ![False comparison between a bitcoin transaction and VISA](assets/_VISA-BTC-comparison.png) [^43]
 
-Let's take a look at the average transaction volume of VISA and Bitcoin.
+Werfen wir einen Blick auf das durchschnittliche Transaktionsvolumen von VISA und Bitcoin.
 
 ![Average value of a single credit card transaction worldwide in 2012, USD](assets/_average-VISA-transaction.png) [^44]
 
 ![Average value of a single Bitcoin transaction](assets/_average-transaction-value-bitcoin.png) [^45]
 
-The average bitcoin transaction value was 258,766 USD on April 21st, 2021, while the average VISA transaction was 91 USD in 2012. Bitcoin transactions transport magnitudes more value in comparison to credit card payments. Assuming Bitcoin gains mass adoption then it might one day settle millions of dollars worth like the Fedwire system at very low fees compared to the banking system.
+Der durchschnittliche Bitcoin-Transaktionswert betrug am 21. April 2021 258.766 USD, während die durchschnittliche VISA-Transaktion im Jahr 2012 91 USD betrug. Bitcoin-Transaktionen transportieren im Vergleich zu Kreditkartenzahlungen ein Vielfaches an Wert. Wenn sich Bitcoin massenhaft durchsetzt, könnte es eines Tages wie das Fedwire-System Millionen von Dollar zu sehr niedrigen Gebühren im Vergleich zum Bankensystem abwickeln.
 
-The average transaction value per Fedwire transfer was 4.5 million USD in February 2021. [^46]
+Der durchschnittliche Transaktionswert pro Fedwire-Überweisung lag im Februar 2021 bei 4,5 Millionen USD. [^46]
 
 ![Settlement of banking versus Bitcoin](assets/_settlement-compared.png) [^^47]
 
-Bitcoin transactions are settled every 10 minutes, 24 hours per day, 365 days per year. Compare this to ACH transactions which can take up to two years to be finally settled. [^48] Not to forget: Bitcoin and Lightning transactions are permissionless and trustless while the traditional payment system only works because intermediaries take custody of fraud and chargebacks.
+Bitcoin-Transaktionen werden alle 10 Minuten, 24 Stunden am Tag und 365 Tage im Jahr abgewickelt. Vergleichen Sie dies mit ACH-Transaktionen, bei denen es bis zu zwei Jahre dauern kann, bis sie endgültig abgewickelt werden. [^48] Nicht zu vergessen: Bitcoin- und Lightning-Transaktionen sind genehmigungsfrei und benötigen kein Vertrauen in Intermediäre, während das herkömmliche Zahlungssystem nur funktioniert, weil Vermittler sich um Betrug und Rückbuchungen kümmern.
 
 **Assumption 4: Equating Energy Consumption With Pollution**  
 People say, for example, that "every transaction pollutes" or "bitcoin's pollution is increasing" or "bitcoin produces pollution as a result of its energy consumption" - that's simply not true. There is no direct correlation between energy usage and pollution because it depends entirely on what type of energy is being used. If you're producing energy with coal, that causes pollution and environmental impact. If you're producing energy with hydroelectric dams or wind or solar for example, then you're not actually polluting. In fact, you're subsidizing those energy mechanisms and incentivizing the creation of more solar, wind, geothermal, off-gassing and other forms of energy through the application of bitcoin as an economic factor in the production of that energy.
