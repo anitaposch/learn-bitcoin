@@ -11,7 +11,7 @@ Die Bitcoin-Blockchain gehört niemandem, jeder und jede kann sie herunterladen 
 
 **Öffentliche und genehmigungsbasierte Blockchains**
 
-Bitte beachten Sie den Unterschied zwischen öffentlichen Blockchains wie Bitcoin, während zum Beispiel "Diem" (das Geldprojekt von Facebook) oder der digitale Yuan Chinas und der digitale Euro geschlossene und zentralisierte Blockchains sind. 
+Bitte beachten Sie den Unterschied zwischen öffentlichen Blockchains wie Bitcoin, während zum Beispiel "Diem" (das Geldprojekt von Facebook) oder der digitale Yuan Chinas und der noch in Diskussion befindliche digitale Euro geschlossene und zentralisierte Blockchains sind. 
 
 Eine offene Blockchain ist inklusiv. Sie ist für alle Menschen nutzbar, sie ist dezentral, transparent, unzensierbar und neutral. Erst dadurch wird Bitcoin zum revolutionären Geld, das es ist: ein globales, Internet-natives System, offen für alle, unabhängig von Alter, Hautfarbe, Status, Geschlecht oder Nation. Bitcoin kann sogar von Maschinen genutzt werden. Niemand kann Sie davon abhalten, Bitcoin von Mensch zu Mensch weltweit, zu senden.
 
