@@ -12,7 +12,7 @@ Satoshi Nakamoto programmierte diese Intervalle in die Bitcoin Core Software. Di
 
 ![Erklärung von Andreas M. Antonopoulos](assets/_aantonop-21-million.png) [^24]
 
-Der Algorithmus legt fest, dass es maximal 21 Millionen Bitcoin geben wird. Derzeit sind es etwa 18,7 Millionen. Im Jahr 2140 werden alle 21 Millionen erzeugt und im Umlauf sein. Das Mining wird weiter stattfinden, die Miner werden jedoch ausschließlich durch die Transaktionsgebühren ihre Kosten decken müssen. Es wird angenommen, dass das Bitcoin-Netzwerk zu diesem Zeitpunkt so stark genutzt wird, dass die Transaktionsgebühren hoch genug sind, um die Kosten des Minings zu decken.
+Der Algorithmus legt auch fest, dass es maximal 21 Millionen Bitcoin geben wird. Derzeit sind es etwa 18,7 Millionen. Im Jahr 2140 werden alle 21 Millionen erzeugt und im Umlauf sein. Das Mining wird weiter stattfinden, die Miner werden jedoch ausschließlich durch die Transaktionsgebühren ihre Kosten decken müssen. Es wird angenommen, dass das Bitcoin-Netzwerk zu diesem Zeitpunkt so stark genutzt wird, dass die Transaktionsgebühren hoch genug sind, um die Kosten des Minings zu decken.
 
 ![Gesamte Bitcoin Menge über die Zeit](assets/_Total_bitcoins_over_time.png) [^25]
 
