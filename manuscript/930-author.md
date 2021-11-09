@@ -19,4 +19,4 @@ Anita translated two volumes of "The Internet of Money" by Andreas M. Antonopoul
 
 Anita Posch regularly tweets on [https://twitter.com/anitaposch](https://twitter.com/anitaposch).
 
-You can find more about Anita on her website on [https://anitaposch.com](https://anitaposch.com), the Anita Posch show on [https://anita.link/show](https://anita.link/show) and information about this book on [https://learnbitcoin.link](https://learnbitcoin.link).
+You can find more about Anita on her website on [https://anitaposch.com](https://anitaposch.com), the Anita Posch show on [https://anita.link/show](https://anita.link/show), Anita's YouTube channel at [https://www.youtube.com/anitaposch](https://www.youtube.com/anitaposch), and information about this book on [https://learnbitcoin.link](https://learnbitcoin.link).
