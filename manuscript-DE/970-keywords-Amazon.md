@@ -1,18 +1,18 @@
 ### e-book keywords:
 
-Bitcoin for Dummies  
-Bitcoin best book  
+Bitcoin für Dummies  
+bestes Bitcoin Buch  
 Bitcoin investment  
-Bitcoin beginner  
-Bitcoin books  
+Bitcoin für Anfänger  
+Bitcoin Buch 
 Bitcoin guide  
-Cryptocurrency book  
+Kryptowährung verstehen 
 
 ### print book keywords
-learn bitcoin  
-learning bitcoin  
-Bitcoin investing  
-Bitcoin dummies  
-Bitcoin beginner  
-Bitcoin money  
-Bitcoin book  
+bitcoin lernen
+bitcoin wissen
+Bitcoin kaufen  
+Bitcoin einfach erklärt 
+Bitcoin anfänger  
+Bitcoin Geld  
+Bitcoin Buch
