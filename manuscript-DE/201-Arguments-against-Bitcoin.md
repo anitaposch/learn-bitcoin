@@ -54,12 +54,12 @@ _In besser entwickelten Regionen der Welt sind Einlagen auf Bankkonten versicher
 
 Das ist richtig. Mit großer Freiheit kommt große Verantwortung. Wenn Sie Ihre Bitcoin selbst verwahren, sind Sie allein verantwortlich. Es gibt keine Versicherung. Aber: im Fall eines Zusammenbruchs des Bankensystems wird ihnen diese Versicherung möglicherweise nichts nützen. Während der Finanzkrise in Zypern im Jahr 2013 wurden 47,5% aller Konten mit Einlagen von mehr als 100.000 Euro beschlagnahmt. Niemand kann Ihre Bitcoin beschlagnahmen, wenn Sie die privaten Schlüssel selbst verwalten.
 
-In Europa sind wir an ein größtenteils gut funktionierendes Bankensystem gewöhnt. Doch 2 Milliarden Menschen besitzen kein Bankkonto, 80 % der Weltbevölkerung lebt in autoritären Staaten. Für diese Menschen macht unzensierbares Geld, über das man die volle Kontrolle hat, Sinn. In diesen Ländern, in denen die Menschen berechtigterweise null Vertrauen in das Bankensystem haben, bietet das Bitcoin-Netzwerk Sicherheit. 
+In Europa sind wir an ein größtenteils gut funktionierendes Bankensystem gewöhnt. Doch zwei Milliarden Menschen besitzen kein Bankkonto, 80 % der Weltbevölkerung lebt in autoritären Staaten. Für diese Menschen macht unzensierbares Geld, über das man die volle Kontrolle hat, Sinn. In diesen Ländern, in denen die Menschen berechtigterweise wenig Vertrauen in das Bankensystem haben, bietet das Bitcoin-Netzwerk Sicherheit. 
 
 ###  Ich kann mir Bitcoin nicht leisten
 _Ein Bitcoin ist zu teuer, ich kann mir keinen kaufen._
 
-Kein Problem, Sie müssen keinen ganzen Bitcoin kaufen. Ein Bitcoin besteht aus winzigen Einheiten, viel kleiner als ein Euro Cent. Sie können einen Teil eines Bitcoins kaufen, zum Beispiel für 20 Euro oder weniger. 
+Kein Problem, Sie müssen keinen ganzen Bitcoin kaufen. Ein Bitcoin besteht aus winzigen Einheiten, viel kleiner als ein Euro Cent. Sie können jeden beliebigen Teil eines Bitcoins kaufen, zum Beispiel für 20 Euro oder weniger. 
 
 Die bessere Alternative ist es, Bitcoin zu verdienen. Mehr darüber im Kapitel 9 "Bitcoin verdienen".
 
