@@ -26,7 +26,7 @@ Es gibt viele Theorien, wieso Satoshi Nakamoto genau die Zahl 21 Millionen gewä
 ### Bitcoin Einheiten
 Die kleinste Einheit eines Bitcoin ist ein Satoshi. 1 Bitcoin besteht aus 100 Millionen Satoshis; 1 Satoshi ist ein Einhundertmillionstel eines Bitcoin (0,00000001).
 
-Sie müssen also nicht einen ganzen Bitcoin kaufen oder versenden, Sie können klein beginnen und Mini-Teile eines Bitcoin senden.
+Sie müssen also nicht einen ganzen Bitcoin kaufen oder versenden, Sie können mit Mini-Teilen eines Bitcoin beginnen.
 
 ### Bitcoin, eher nicht Bitcoins, aber niemals BitCoin
 
