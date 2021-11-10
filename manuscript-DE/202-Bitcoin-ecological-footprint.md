@@ -66,7 +66,7 @@ Die durchschnittliche Transaktionshöhe einer Fedwire-Überweisung lag im Februa
 
 Bitcoin-Transaktionen werden alle 10 Minuten, 24 Stunden am Tag und 365 Tage im Jahr abgewickelt. Vergleichen Sie dies mit ACH-Transaktionen, bei denen es bis zu zwei Jahre dauern kann, bis sie endgültig abgewickelt werden. [^48] Nicht zu vergessen: Bitcoin- und Lightning-Transaktionen sind genehmigungsfrei und benötigen kein Vertrauen in Intermediäre, während das herkömmliche Zahlungssystem nur funktioniert, weil Vermittler sich um Betrug und Rückbuchungen kümmern.
 
-**Assumption 4: Equating Energy Consumption With Pollution**  
+**Annahme Nr. 4: Equating Energy Consumption With Pollution**  
 People say, for example, that "every transaction pollutes" or "bitcoin's pollution is increasing" or "bitcoin produces pollution as a result of its energy consumption" - that's simply not true. There is no direct correlation between energy usage and pollution because it depends entirely on what type of energy is being used. If you're producing energy with coal, that causes pollution and environmental impact. If you're producing energy with hydroelectric dams or wind or solar for example, then you're not actually polluting. In fact, you're subsidizing those energy mechanisms and incentivizing the creation of more solar, wind, geothermal, off-gassing and other forms of energy through the application of bitcoin as an economic factor in the production of that energy.
 
 Bitcoin miners are profit-driven, so they will always look for the cheapest energy, which is renewable. Coal and oil will always be more expensive than hydroelectric, geothermal, stranded gas, wind and solar power. Not to forget nuclear, which is also an option that many count as green energy.
