@@ -42,7 +42,6 @@ Angesichts dieser jährlichen Inflationsraten wissen die Menschen, dass sie ihr 
 Als ich auf meiner Simbabwe-Reise 2020 die Unterschiede zwischen lokaler Währung und Bitcoin erklärte, haben die Menschen sofort den Sinn und Nutzen von Bitcoin verstanden.
 
 **Fremdwährungskontrollen**
-
 Länder mit schwachen Volkswirtschaften und mangelhaften Demokratien setzen Devisenkontrollen ein, um die - wie sie es nennen - Spekulation gegen ihre schwachen Währungen zu begrenzen. Autoritäre Führer wollen die Möglichkeiten der Menschen ihr repressives System zu umgehen, einschränken und kontrollieren. Daher wenden sie Regelungen wie die Folgenden an:
 
 * Die argentinischen Kapitalverkehrskontrollen erlauben es den Menschen nur einen Höchstbetrag von 200 Dollar pro Monat von argentinischen Pesos in USD zu tauschen.
@@ -127,14 +126,14 @@ Bitcoin abzutun, weil es noch nicht alle Funktionen von Geld erfüllt, ist verfe
 
 ### Die Eigenschaften des Geldes im Vergleich
 
-Im Jahr 2014 hat Ryan Walker die Konzepte von Darwins Theorie der natürlichen Selektion genutzt, um die Evolution der verschiedenen Geldformen zu vergleichen. Die folgende Tabelle zeigt, inwieweit Gold, Fiatgeld und Bitcoin die traditionell anerkannten Eigenschaften von Geld erfüllen (Zeile 1 - 8). Die staatliche Ausgabe misst den Grad der Zentralisierung und Kontrolle durch die Behörden (Zeile 9).
+Im Jahr 2014 hat Ryan Walker die Konzepte von Darwins Theorie der natürlichen Selektion genutzt, um die Evolution der verschiedenen Geldformen zu vergleichen. Die folgende Tabelle zeigt, inwieweit Gold, Fiat-Geld und Bitcoin die traditionell anerkannten Eigenschaften von Geld erfüllen (Zeile 1 - 8). Die Zeile Staatsmacht zeigt den Grad der Zentralisierung und Kontrolle durch die Behörden an (Zeile 9).
 
-> Die Einführung von Kryptowährungen hat neue Schlüsseleigenschaften ermöglicht, die bei traditionellen Geldformen nicht möglich waren. Darüber hinaus wird die Verwirklichung dieser Eigenschaften wahrscheinlich einen dramatischen Einfluss auf das Umfeld haben, in dem diese Währungen konkurrieren. In den Zeilen 10 und 11 wird die Besonderheit von Kryptowährungen im Vergleich zu den traditionellen und neu realisierten Eigenschaften von Geld bewertet." - **Ryan Walker**
+> Das Aufkommen von Kryptowährungen hat wichtige neue Eigenschaften ermöglicht, die bei herkömmlichen Geldformen nicht möglich waren. Darüber hinaus wird die Anwendung dieser Eigenschaften wahrscheinlich einen dramatischen Einfluss auf das Umfeld haben, in dem diese Währungen konkurrieren. In den Zeilen 10 und 11 wird die Besonderheit von Kryptowährungen im Vergleich zu den traditionellen und neu realisierten Eigenschaften von Geld bewertet." - **Ryan Walker**
 
 ![Die Eigenschaften von Geld](assets/_table-characteristics-money.PNG)[^67]
-Dies zeigt, in welchem Maße Gold, Fiat- und Kryptowährungen die traditionell anerkannten Eigenschaften von Geld sowie die neuen Eigenschaften, die durch die Entdeckung von Bitcoin möglich wurden, erfüllen.
+Diese Tabelle zeigt, in welchem Maß Gold, Fiat- und Kryptowährungen die traditionell anerkannten Eigenschaften von Geld, sowie die neuen Eigenschaften, die durch die Entdeckung von Bitcoin möglich wurden, erfüllen.
 
-Wie Sie sehen können, sprengt Bitcoin den traditionellen Rahmen dessen, was Geld ist. Er entwickelt sich zu einer völlig neuen Dimension dessen, was Geld leisten kann und worauf in Zukunft Anwendungen aufbauen werden.
+Wie Sie sehen können, sprengt Bitcoin den traditionellen Rahmen dessen, was Geld ist. Es entwickelt sich zu einer völlig neuen Dimension dessen, was Geld leisten kann und worauf in Zukunft Anwendungen aufbauen werden.
 
 [^56]: [Clifford Stoll](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
 
