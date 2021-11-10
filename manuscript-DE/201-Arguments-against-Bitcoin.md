@@ -54,7 +54,7 @@ _In besser entwickelten Regionen der Welt sind Einlagen auf Bankkonten versicher
 
 Das ist richtig. Mit großer Freiheit kommt große Verantwortung. Wenn Sie Ihre Bitcoin selbst verwahren, sind Sie allein verantwortlich. Es gibt keine Versicherung. Aber: im Fall eines Zusammenbruchs des Bankensystems wird ihnen diese Versicherung möglicherweise nichts nützen. Während der Finanzkrise in Zypern im Jahr 2013 wurden 47,5% aller Konten mit Einlagen von mehr als 100.000 Euro beschlagnahmt. Niemand kann Ihre Bitcoin beschlagnahmen, wenn Sie die privaten Schlüssel selbst verwalten.
 
-In Europa sind wir an ein größtenteils gut funktionierendes Bankensystem gewöhnt. Doch zwei Milliarden Menschen besitzen kein Bankkonto, 80 % der Weltbevölkerung lebt in autoritären Staaten. Für diese Menschen macht unzensierbares Geld, über das man die volle Kontrolle hat, Sinn. In diesen Ländern, in denen die Menschen berechtigterweise wenig Vertrauen in das Bankensystem haben, bietet das Bitcoin-Netzwerk Sicherheit. 
+In Europa sind wir an ein größtenteils gut funktionierendes Bankensystem gewöhnt. Doch zwei Milliarden Menschen besitzen kein Bankkonto, 80% der Weltbevölkerung lebt in autoritären Staaten. Für diese Menschen macht unzensierbares Geld, über das man die volle Kontrolle hat, Sinn. In diesen Ländern, in denen die Menschen berechtigterweise wenig Vertrauen in das Bankensystem haben, bietet das Bitcoin-Netzwerk Sicherheit. 
 
 ###  Ich kann mir Bitcoin nicht leisten
 _Ein Bitcoin ist zu teuer, ich kann mir keinen kaufen._
@@ -67,11 +67,11 @@ Die bessere Alternative ist es, Bitcoin zu verdienen. Mehr darüber im Kapitel 9
 
 _Bitcoin ist eine neue Technologie. Es ist die erste ihrer Art. Vergleichen wir das mit den ersten Computer Herstellern in den 1980er-Jahren oder den Internet-Plattformen des Dot com Booms, fast keine dieser Firmen hat bis heute überlebt. Bitcoin war die erste Blockchain und könnte genauso enden._
 
-Bitcoin ist seit seiner Entstehung im Jahr 2009 die weltweit am häufigsten verwendete Kryptowährung. Ich gebe zu, dass es keine Garantien dafür gibt, dass dies so bleiben wird. Die Marktdominanz von Bitcoin lag bis 2017 bei über 80%. Das bedeutet, dass von all den Tausenden von Kryptowährungen auf dem Markt über 80% aller Investitionen in Bitcoin gehalten wurden. Dies änderte sich 2017–18, als es einen "Krieg" zwischen verschiedenen Ideen darüber gab, wie Bitcoin als Technologie weitergehen sollte. Die Debatte über die zukünftige Blockgröße endete mit einer Hard-Fork, einem Split der Blockchain in zwei Gabeln: Bitcoin (BTC) und Bitcoin Cash (BCH). Zur selben Zeit gewannen andere Krypto-Projekte wie Ethereum an Bedeutung. Vier Jahre später ist BCH im Vergleich zu BTC in die Bedeutungslosigkeit gerutscht. Bitcoin hielt seine Dominanz mit über 60 % bis zur aktuellen Hausse, wo er zum Zeitpunkt der Erstellung dieses Buches auf 40 % fiel. Ein Bull-Run führt zu mehr Aufmerksamkeit in Mainstream-Medien, viele schlecht informierte Artikel erscheinen (meist nur über den Preis) und bestimmte Milliardäre streuen Gerüchte und Spekulationen. Dadurch werden Altcoins in den Fokus gerückt und die durch den Preis angelockten Marktteilnehmer kaufen diese.
+Bitcoin ist seit seiner Entstehung im Jahr 2009 die weltweit am häufigsten verwendete Kryptowährung. Ich gebe zu, dass es keine Garantien dafür gibt, dass dies so bleiben wird. Die Marktdominanz von Bitcoin lag bis 2017 bei über 80%. Das bedeutet, dass von all den Tausenden von Kryptowährungen auf dem Markt über 80% aller Investitionen in Bitcoin gehalten wurden. Dies änderte sich 2017–18, als es einen "Krieg" zwischen verschiedenen Ideen darüber gab, wie Bitcoin als Technologie weitergehen sollte. Die Debatte über die zukünftige Blockgröße endete mit einer Hard-Fork, einem Split der Blockchain in zwei Gabeln: Bitcoin (BTC) und Bitcoin Cash (BCH). Zur selben Zeit gewannen andere Krypto-Projekte wie Ethereum an Bedeutung. Vier Jahre später ist BCH im Vergleich zu BTC in die Bedeutungslosigkeit gerutscht. Bitcoin hielt seine Dominanz mit über 60% bis zur aktuellen Hausse, wo er zum Zeitpunkt der Erstellung dieses Buches auf 40% fiel. Ein Bull-Run führt zu mehr Aufmerksamkeit in Mainstream-Medien, viele schlecht informierte Artikel erscheinen (meist nur über den Preis) und bestimmte Milliardäre streuen Gerüchte und Spekulationen. Dadurch werden Altcoins in den Fokus gerückt und die durch den Preis angelockten Marktteilnehmer kaufen diese.
 
 ![Prozentsatz der gesamten Marktkapitalisierung](assets/_Market-dominance.png) [^31]
 
-Die Wiederherstellung der Vorrangstellung Bitcoins nach der kritischen Phase im Jahr 2017 war für viele Experten wie die Makro-Ökonomin Lyn Alden und den US-Investor Michael Saylor ein Zeichen der Stärke. Dies veranlasste sie, an das Potenzial von Bitcoin als die in der Zukunft stärkste Kryptowährung zu glauben. Und selbst wenn es technologische Innovationen bei Altcoins gäbe, die sie vor Bitcoin katapultieren, besteht kein Zweifel daran, dass die Bitcoin-Entwickler diese Innovationen auch in Bitcoin übernehmen würden.
+Die Wiederherstellung der Vorrangstellung Bitcoins nach der kritischen Phase im Jahr 2017 war für viele Experten wie die Makro-Ökonomin Lyn Alden und den US-Investor Michael Saylor ein Zeichen der Stärke. Dies veranlasste sie, an das Potenzial von Bitcoin als die in der Zukunft stärkste Kryptowährung zu glauben. Und selbst wenn es technologische Innovationen bei Altcoins gäbe, die sie vor Bitcoin katapultieren, besteht kein Zweifel daran, dass die Bitcoin-Entwickler diese Innovationen für Bitcoin übernehmen würden.
 
 ### Bitcoin ist gescheitert
 
@@ -94,7 +94,7 @@ Wenn Sie mehr über Bitcoin in Nigeria erfahren möchten, öffnen Sie Ihren Brow
 ### Bitcoins Transaktionsgrenze
 _Das Bitcoin-Netzwerk ist in der Lage nur sieben Transaktionen pro Sekunde zu verarbeiten. Das ist nicht genug, um ein globales Zahlungsnetzwerk zu bedienen. Wenn alle Menschen Bitcoin nutzen würden, wäre das Netzwerk überlastet._
 
-Das Lightning-Netzwerk wurde Anfang 2018 gestartet und wird laufend weiter entwickelt. Dabei handelt es sich um ein Protokoll, das eine Ebene über der Bitcoin-Blockchain angesiedelt ist. Das Lightning Netzwerk wickelt bereits tausende Mikrozahlungen pro Sekunde ab und hat sich als sehr erfolgreich für globale, schnelle, und günstige Geldsendungen erwiesen. Das Wachstum von Lightning ist exponentiell. In ein paar Jahren können Bitcoin-Zahlungen mittels Lightning, technisch die Transaktionsanzahl von Visa oder Mastercard übersteigen. Die Bitcoin-Blockchain wird als die elementare Abrechnungsebene für große Transaktionen verwendet werden, während kleine Zahlungen, wie für den Besuch im Kaffeehaus, über das Lightning Netzwerk erfolgen. Für den täglichen Gebrauch muss niemand wissen, wie das funktioniert. Die meisten von uns wissen nicht, was hinter Netflix oder dem Senden einer E-Mail steckt, dennoch tun wir es laufend.
+Das Lightning-Netzwerk wurde Anfang 2018 gestartet und wird laufend weiter entwickelt. Dabei handelt es sich um ein Protokoll, das eine Ebene über der Bitcoin-Blockchain angesiedelt ist. Das Lightning-Netzwerk wickelt bereits tausende Mikrozahlungen pro Sekunde ab und hat sich als sehr erfolgreich für globale, schnelle, und günstige Geldsendungen erwiesen. Das Wachstum von Lightning ist exponentiell. In ein paar Jahren können Bitcoin-Zahlungen mittels Lightning, technisch die Transaktionsanzahl von Visa oder Mastercard übersteigen. Die Bitcoin-Blockchain wird als die elementare Abrechnungsebene für große Transaktionen verwendet werden, während kleine Zahlungen, wie für den Besuch im Kaffeehaus, über das Lightning-Netzwerk erfolgen. Für den täglichen Gebrauch muss niemand wissen, wie das funktioniert. Die meisten von uns wissen nicht, was hinter Netflix oder dem Senden einer E-Mail steckt, dennoch tun wir es laufend.
 
 
 ### Mining-Pool Konzentration
@@ -106,20 +106,20 @@ Es stimmt zwar, dass sich in bestimmten Gebieten oder Ländern verstärkt Mining
 
 Der Hard-Fork-Split zwischen Bitcoin und Bitcoin Cash im Jahr 2017 ist ein zweites Beispiel dafür, wie sich Bitcoin selbst reguliert. Miner und große Börsen wollten die Blockgröße eines jeden Bitcoin-Blocks erhöhen, um eine höhere Transaktionsanzahl pro Block zu erreichen.
 
-Die Bitcoin-Community, die Knotenbetreiber und Bitcoin Nutzer, waren dagegen, da Menschen in Regionen mit schlechter Internet-Bandbreite benachteiligt worden wären. Stattdessen haben sie sich für 2nd-Layer-Lösungen wie das Lightning Network entschieden, um dieses Problem zu lösen. Dies führte zum "Blocksize-War" (Blockgrößen-Krieg), bei dem Miner und große Unternehmen versuchten, dem Netzwerk die Änderung aufzuzwingen. Dies führte zu einer Hardfork: Bitcoin spaltete sich in Bitcoin und Bitcoin Cash. Vier Jahre später ist Bitcoin Cash fast vergessen, während Bitcoin immer noch die größte Kryptowährung ist. Das zeigt, dass die Miner nicht mehr Macht haben als andere Nutzer.
+Die Bitcoin-Community, die Knotenbetreiber und Bitcoin-Nutzer, waren dagegen, da Menschen in Regionen mit schlechter Internet-Bandbreite benachteiligt worden wären. Stattdessen haben sie sich für 2nd-Layer-Lösungen wie das Lightning-Netzwerk entschieden, um dieses Problem zu lösen. Dies führte zum "Blocksize-War" (Blockgrößen-Krieg), bei dem Miner und große Unternehmen versuchten, dem Netzwerk die Änderung aufzuzwingen. Dies führte zu einer Hard-Fork: Bitcoin spaltete sich in Bitcoin und Bitcoin Cash. Vier Jahre später ist Bitcoin Cash fast vergessen, während Bitcoin immer noch die größte Kryptowährung ist. Das zeigt, dass die Miner nicht mehr Macht haben als andere Nutzer.
 
-[^27]: [Quelle Charlie Bilello](https://twitter.com/charliebilello/status/1370722188739891202/photo/1)
+[^27]: [Quelle: Charlie Bilello](https://twitter.com/charliebilello/status/1370722188739891202/photo/1)
 
-[^28]: [Quelle CoinGecko](https://www.coingecko.com/en/coins/bitcoin/usd), June 7, 2021
+[^28]: [Quelle: CoinGecko](https://www.coingecko.com/en/coins/bitcoin/usd), June 7, 2021
 
-[^29]: [Quelle Pladizow](https://twitter.com/Pladizow/status/1358545292782497792/photo/1)
+[^29]: [Quelle: Pladizow](https://twitter.com/Pladizow/status/1358545292782497792/photo/1)
 
-[^30]: [Quelle CoinGecko](https://www.coingecko.com/en/coins/bitcoin/usd), June 7, 2021
+[^30]: [Quelle: CoinGecko](https://www.coingecko.com/en/coins/bitcoin/usd), June 7, 2021
 
-[^31]: [Quelle CoinMarketCap](https://coinmarketcap.com/charts/) June 7, 2021
+[^31]: [Quelle: CoinMarketCap](https://coinmarketcap.com/charts/) June 7, 2021
 
-[^32]: [Quelle Cambridge Center for Alternative Finance, 3rd Global Cryptoasset Benchmarking Study, Fig. 34, Illustration: Anita Posch](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/3rd-global-cryptoasset-benchmarking-study)
+[^32]: [Quelle: Cambridge Center for Alternative Finance, 3rd Global Cryptoasset Benchmarking Study, Fig. 34, Illustration: Anita Posch](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/3rd-global-cryptoasset-benchmarking-study)
 
-[^33]: [Quelle Statista](https://www.statista.com/chart/18345/crypto-currency-adoption/)
-[^33a]: [2nd global cryptoasset benchmarking study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study/)
-[^34]: [Quelle CoinShares, Bitcoin Mining, Dec. 2019](https://coinshares.com/de/research/bitcoin-mining-network-december-2019)
+[^33]: [Quelle: Statista](https://www.statista.com/chart/18345/crypto-currency-adoption/)
+[^33a]: [Quelle: 2nd global cryptoasset benchmarking study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study/)
+[^34]: [Quelle: CoinShares, Bitcoin Mining, Dec. 2019](https://coinshares.com/de/research/bitcoin-mining-network-december-2019)
