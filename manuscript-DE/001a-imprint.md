@@ -9,7 +9,7 @@ Verlag: PoshMedia e.U., Seilerstätte 24, 4. Stock, 1010 Wien
 
 Die englische Originalausgabe erschien im Juni 2021 unter dem Titel *(L)earn Bitcoin - Become Financially Sovryn*
 
-Deutsche Übersetzung und Lektorat: Michael Fischer, Gustav Hemmelmayr, Anita Posch, Deborah Thielert
+Deutsche Übersetzung und Lektorat: Michael Fischer, Gustav Hemmelmayr, Anita Posch, Deborah Thielert  
 Lektorat: Mark Kersley  
 Satz: Couper Street Type Co.  
 Cover Design/Art Direction: tzu jan | 自然  
