@@ -58,7 +58,6 @@ Countries with weak economies and flawed democracies use foreign exchange contro
 * In 2020 as much as 1 billion USD have been sent as remittances to Zimbabwe. Over one-third of the population relies on remittances from relatives abroad. A lot of Zimbabweans live in South Africa and of the money they send, up to 20-30% are lost through banking fees and official exchange rates. [^60]
 
 **Barriers for Women**
-
 Using a basic bank account is beyond the reach of almost one billion women worldwide. Varying degrees of gender inequality permitted or mandated by law deny women full financial participation in many countries around the world. Depending on the country, women are discriminated against in inheritance laws and are required to obtain their husband's permission to legally work, get a bank account, register a business or sign a contract; many women are banned from entering certain professions. Women may also find it more difficult to access legal ID cards due to existing laws or restrictive registration requirements, and such identification is commonly required to use financial products and services.
 
 Other hurdles that prevent women from accessing financial services are the need to travel long distances, the risk of being robbed while accessing money, and lack of privacy that would allow them to protect their savings from others.
@@ -80,7 +79,6 @@ Bitcoin can lower the cost of receiving payments, leaving people with more of th
 For more insights about the living conditions of people in Zimbabwe and their real-life use of Bitcoin in Venezuela, Argentina, Afghanistan, Nigeria, and more, [listen to my podcast interviews](https://anita.link/show). Regarding the advantages for women using Bitcoin, look up the section "Women in Bitcoin".
 
 ### Slow, But Safe
-
 One criticism of Bitcoin is that its development is slow and clunky. In fact, reality shows that Bitcoin is the longest standing and technically safest blockchain. It has never been hacked or altered. The reason for this is a community of independent, open-source developers whose first interest is to contribute to the broader social good. Listen to [Adam Back](https://anita.link/12), [Gloria Zhao](https://anita.link/82), [Tim Akinbo](https://anita.link/63), [Amiti Uttawar](https://anita.link/62) or [Matt Corrallo](https://anita.link/19) to understand how thoughtful and driven they are by their mission. Secondly, the pace of development is deliberately slow. The Silicon Valley mantra of "Move fast and break things" is the opposite of what you want for a 600 billion USD digital asset that is at the same time, live software.
 
 ### Internet of Things
