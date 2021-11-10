@@ -30,16 +30,16 @@ Sie müssen also nicht einen ganzen Bitcoin kaufen oder versenden, Sie können m
 
 ### Bitcoin, eher nicht Bitcoins, aber niemals BitCoin
 
-Im Englischen wird Bitcoin im Großbuchstaben in Bezug auf das Bitcoin-Netzwerk, die Blockchain, die Community und das gesamte Ganze verwendet, während bitcoin die Währung bezeichnet.
+Im Englischen wird "Bitcoin" mit einem Großbuchstaben zu Beginn geschrieben, wenn das Bitcoin-Netzwerk, die Blockchain, die Community und das gesamte Ganze gemeint ist, während "bitcoin" die Währung bezeichnet.
 
 Auf Deutsch wird in beiden Fällen der Großbuchstabe vorangestellt.
 
-Münze ist im Grunde ein irreführender Begriff für das digitale Gut. Technisch gesehen besteht ein Bitcoin aus vielen UTXOs (unspent transaction output) - auf Deutsch etwa "nicht ausgegebener Transaktionsoutput". Dies ist die Menge der Einheiten, die an einer bestimmten Bitcoin-Adresse verzeichnet ist. Deshalb herrscht Uneinigkeit, ob es den Begriff Bitcoins überhaupt gibt, da keine einzelnen Münzen existieren, sondern nur Mengen von Einheiten an bestimmten Adressen. Da Satoshi Nakamoto selbst den Begriff "bitcoins" nutzte, wird er auch verwendet. Leute wie ich, die auf den Unterschied Wert legen, verwenden Bitcoin für die Ein- und Mehrzahl. Ich spreche auf Deutsch nie von Münzen, weil es irreführend ist.
+Münze ist im Grunde ein irreführender Begriff für das digitale Gut. Technisch gesehen besteht ein Bitcoin aus vielen UTXOs (unspent transaction output) - auf Deutsch etwa "nicht ausgegebener Transaktions-Output". Dies ist die Menge der Einheiten, die an einer bestimmten Bitcoin-Adresse verzeichnet ist. Deshalb herrscht Uneinigkeit, ob es den Begriff Bitcoins überhaupt gibt, da keine einzelnen Münzen existieren, sondern nur Mengen von Einheiten an bestimmten Adressen. Da Satoshi Nakamoto selbst den Begriff "bitcoins" nutzte, wird er auch verwendet. Leute wie ich, die auf den Unterschied Wert legen, verwenden Bitcoin für die Ein- und Mehrzahl. Ich spreche auf Deutsch nie von Münzen, weil es irreführend ist.
 
 Scams wie das betrügerische BitClub-Netzwerk verwendeten die Schreibweise BitCoin und diese falsche Schreibweise wird gelegentlich auch von vielen Anfänger*innen übernommen.
 
-[^24]: [Source Andreas M. Antonopoulos](https://twitter.com/aantonop/status/1257366095515848716?s=20)
+[^24]: [Quelle: Andreas M. Antonopoulos](https://twitter.com/aantonop/status/1257366095515848716?s=20)
 
-[^25]: [Source: Insti](https://commons.wikimedia.org/wiki/File:Total_bitcoins_over_time.png)
+[^25]: [Quelle: Insti](https://commons.wikimedia.org/wiki/File:Total_bitcoins_over_time.png)
 
-[^26]: [Source plan99.net](https://plan99.net/~mike/satoshi-emails/thread1.html)
+[^26]: [Quelle: plan99.net](https://plan99.net/~mike/satoshi-emails/thread1.html)
