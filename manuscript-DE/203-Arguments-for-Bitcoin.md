@@ -80,11 +80,12 @@ Bitcoin senkt die Kosten für den Erhalt von Zahlungen, sodass die Menschen mehr
 
 Weitere Einblicke in die Lebensbedingungen der Menschen in Simbabwe und ihre konkrete Nutzung von Bitcoin in Venezuela, Argentinien, Afghanistan, Nigeria und anderen Ländern erhalten Sie [in meinen Podcast-Interviews] (https://anita.link/show). Betreffend der Vorteile für Frauen wählen Sie den Punkt "Women in Bitcoin".
 
---------- hier weiter
-
 ### Langsam, aber sicher
 
-Eine Kritik an Bitcoin lautet, dass seine Entwicklung langsam und schwerfällig ist. Tatsächlich zeigt die Realität, dass Bitcoin die am längsten bestehende und technisch sicherste Blockchain ist. Sie wurde noch nie gehackt oder verändert. Der Grund dafür ist eine Gemeinschaft unabhängiger, quelloffener Entwickler, deren erstes Interesse darin besteht, einen Beitrag zum allgemeinen gesellschaftlichen Wohl zu leisten. Hören Sie [Adam Back](https://anita.link/12), [Gloria Zhao](https://anita.link/82), [Tim Akinbo](https://anita.link/63), [Amiti Uttawar](https://anita.link/62) oder [Matt Corrallo](https://anita.link/19) zu, um zu verstehen, wie durchdacht das System ist und wie stark sie von ihrer Mission getrieben sind. Zweitens ist das Tempo der Entwicklung absichtlich langsam. Das Silicon-Valley-Mantra "Schnell handeln und Dinge kaputt machen" ist das Gegenteil von dem, was Sie sich für einen 600 Milliarden USD schweren digitalen Vermögenswert wünschen, der gleichzeitig eine lebende Software ist.
+Eine Kritik an Bitcoin ist, dass die Entwicklung langsam und schwerfällig ist. Tatsächlich zeigt sich, dass Bitcoin die am längsten existierende und technisch sicherste Blockchain ist. Sie wurde noch nie gehackt oder verändert. 
+
+
+Der Grund dafür ist eine Gemeinschaft unabhängiger, quelloffener Entwickler, deren erstes Interesse darin besteht, einen Beitrag zum allgemeinen gesellschaftlichen Wohl zu leisten. Hören Sie [Adam Back](https://anita.link/12), [Gloria Zhao](https://anita.link/82), [Tim Akinbo](https://anita.link/63), [Amiti Uttawar](https://anita.link/62) oder [Matt Corrallo](https://anita.link/19) zu, um zu verstehen, wie durchdacht das System ist und wie stark sie von ihrer Mission getrieben sind. Zweitens ist das Tempo der Entwicklung absichtlich langsam. Das Silicon-Valley-Mantra "Schnell handeln und Dinge kaputt machen" ist das Gegenteil von dem, was Sie sich für einen 600 Milliarden USD schweren digitalen Vermögenswert wünschen, der gleichzeitig eine lebende Software ist.
 
 ### Internet der Dinge
 Ein internetbasiertes Geld wie Bitcoin kann auch von Maschinen verwendet werden. Selbstfahrende Elektroautos wie Robotaxis werden sich an Ladestationen aufladen und automatisch mit Bitcoin bezahlen können. Das ist keine Science-Fiction, das ist die nahe Zukunft. Andy Schroder aus Kentucky [lädt seinen Tesla bereits mit Echtzeit-Maschine-zu-Maschine-Mikropayments über das Bitcoin Lightning Network](http://andyschroder.com/DistributedCharge/). Dies wird nicht die einzige Innovation sein, die sich aus den Schnittpunkten von neuer Technologie, Geld und Kommunikation ergeben wird.
