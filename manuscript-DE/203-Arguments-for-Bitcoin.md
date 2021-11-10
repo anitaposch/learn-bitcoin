@@ -2,7 +2,7 @@
 > "Bitcoin ist ein Opt-in-System. Sie entscheiden sich dafür, es zu benutzen. Sie wählen aus, welche Anwendungen Sie verwenden wollen. Sie wählen aus, mit wem Sie interagieren wollen. Sie wählen die Spielregeln, nach denen Sie interagieren wollen. Deshalb wird Bitcoin gewinnen. Es bietet Innovationen, die die Verbraucher wollen und brauchen." - **Andreas M. Antonopoulos**
 
 ### Paradigmenwechsel
-Ich bin ein "digital native" im Körper einer Angehörigen der Generation X. Ich kann mich an ein Leben ohne Internet erinnern, sogar ohne Videorecorder. Wir hatten einen einzigen Fernsehsender in Österreich, das war es. Das erste Telefon kam in mein Elternhaus als ich 12 war. Mit 14 benutzte ich meinen ersten Computer, 1997 installierte ich meinen ersten Internetanschluss und E-Mail zu Hause. Im selben Jahr gab es weltweit nur 1 Million Websites und Google und Amazon existierten international noch nicht.
+Ich gehöre zur Generation X und bin trotzdem ein "digital native". Ich kann mich an ein Leben ohne Internet erinnern, sogar ohne Videorecorder. Wir hatten einen einzigen Fernsehsender in Österreich, das war es. Das erste Telefon kam in mein Elternhaus als ich 12 war. Mit 14 benutzte ich meinen ersten Computer, 1997 installierte ich meinen ersten Internetanschluss und E-Mail zu Hause. Im selben Jahr gab es weltweit nur 1 Million Websites und Google und Amazon existierten international noch nicht.
 
 Viele Leute taten das Internet als einen Trend ab, der wieder verschwinden würde. 1995 schrieb der US-Astronom und Autor Clifford Stoll einen Artikel für Newsweek mit dem Titel "The Internet? Bah!"
 
@@ -58,7 +58,6 @@ Länder mit schwachen Volkswirtschaften und mangelhaften Demokratien setzen Devi
 * Im Jahr 2020 wurden bis zu 1 Milliarde USD als Überweisungen nach Simbabwe geschickt. Mehr als ein Drittel der Bevölkerung ist auf Überweisungen von Verwandten im Ausland angewiesen. Viele Simbabwer*innen leben in Südafrika und von dem Geld, das sie zu ihren Familien schicken, gehen bis zu 20-30% durch Bankgebühren und offizielle Wechselkurse verloren. [^60]
 
 **Hürden für Frauen**
-
 Die Nutzung eines einfachen Bankkontos ist für fast eine Milliarde Frauen weltweit unmöglich. In vielen Ländern wird den Frauen die volle finanzielle Teilhabe verwehrt, weil die Ungleichbehandlung der Geschlechter in unterschiedlichem Maße gesetzlich erlaubt oder sogar vorgeschrieben ist. 
 Je nach Land werden Frauen im Erbrecht diskriminiert und müssen die Erlaubnis ihres Ehemannes einholen, um legal zu arbeiten, ein Bankkonto zu erhalten, ein Unternehmen anzumelden oder einen Vertrag zu unterzeichnen; vielen Frauen ist der Zugang zu bestimmten Berufen untersagt. Für Frauen kann es aufgrund bestehender Gesetze oder restriktiver Meldevorschriften auch schwieriger sein, einen gültigen Ausweis zu erhalten, der für die Nutzung von Finanzprodukten und -dienstleistungen in der Regel erforderlich ist
 
@@ -80,55 +79,53 @@ Bitcoin senkt die Kosten für den Erhalt von Zahlungen, sodass die Menschen mehr
 
 Weitere Einblicke in die Lebensbedingungen der Menschen in Simbabwe und ihre konkrete Nutzung von Bitcoin in Venezuela, Argentinien, Afghanistan, Nigeria und anderen Ländern erhalten Sie [in meinen Podcast-Interviews] (https://anita.link/show). Betreffend der Vorteile für Frauen wählen Sie den Punkt "Women in Bitcoin".
 
-### Langsam, aber sicher
+### Langsam, dafür sicher
+Eine Kritik an Bitcoin ist, dass die Entwicklung langsam und schwerfällig ist. Tatsächlich ist Bitcoin die am längsten existierende und technisch sicherste Blockchain. Sie wurde noch nie gehacked oder von außen verändert. 
 
-Eine Kritik an Bitcoin ist, dass die Entwicklung langsam und schwerfällig ist. Tatsächlich zeigt sich, dass Bitcoin die am längsten existierende und technisch sicherste Blockchain ist. Sie wurde noch nie gehackt oder verändert. 
-
---- hier weiter ---
-Der Grund dafür ist eine Gemeinschaft unabhängiger, quelloffener Entwickler, deren erstes Interesse darin besteht, einen Beitrag zum allgemeinen gesellschaftlichen Wohl zu leisten. Hören Sie [Adam Back](https://anita.link/12), [Gloria Zhao](https://anita.link/82), [Tim Akinbo](https://anita.link/63), [Amiti Uttawar](https://anita.link/62) oder [Matt Corrallo](https://anita.link/19) zu, um zu verstehen, wie durchdacht das System ist und wie stark sie von ihrer Mission getrieben sind. Zweitens ist das Tempo der Entwicklung absichtlich langsam. Das Silicon-Valley-Mantra "Schnell handeln und Dinge kaputt machen" ist das Gegenteil von dem, was Sie sich für einen 600 Milliarden USD schweren digitalen Vermögenswert wünschen, der gleichzeitig eine lebende Software ist.
+Grund dafür ist die Community unabhängiger Open-Source-Entwickler*innen, deren oberstes Ziel es ist, einen Beitrag zum allgemeinen gesellschaftlichen Wohl zu leisten. Hören Sie [Adam Back](https://anita.link/12), [Gloria Zhao](https://anita.link/82), [Tim Akinbo](https://anita.link/63), [Amiti Uttawar](https://anita.link/62) oder [Matt Corrallo](https://anita.link/19) um zu verstehen, wie sorgfältig und engagiert sie sich für ihre Aufgabe einsetzen. Darüber hinaus ist das Entwicklungstempo absichtlich langsam. Das Silicon-Valley-Mantra " Mach schnell und zerstöre Dinge" ist das Gegenteil von dem, was man sich für ein 600 Milliarden USD schweres digitales Asset wünscht, das gleichzeitig eine Live-Software ist.
 
 ### Internet der Dinge
-Ein internetbasiertes Geld wie Bitcoin kann auch von Maschinen verwendet werden. Selbstfahrende Elektroautos wie Robotaxis werden sich an Ladestationen aufladen und automatisch mit Bitcoin bezahlen können. Das ist keine Science-Fiction, das ist die nahe Zukunft. Andy Schroder aus Kentucky [lädt seinen Tesla bereits mit Echtzeit-Maschine-zu-Maschine-Mikropayments über das Bitcoin Lightning Network](http://andyschroder.com/DistributedCharge/). Dies wird nicht die einzige Innovation sein, die sich aus den Schnittpunkten von neuer Technologie, Geld und Kommunikation ergeben wird.
+Internetbasiertes Geld wie Bitcoin kann auch von Maschinen verwendet werden. Selbstfahrende Elektroautos wie Robotaxis werden sich an Ladestationen aufladen und automatisch mit Bitcoin bezahlen können. Das ist keine Science-Fiction, das ist nahe Zukunft. Andy Schroder aus Kentucky [lädt seinen Tesla bereits mit Echtzeit-Maschine-zu-Maschine-Mikropayments über das Bitcoin Lightning-Netzwerk](http://andyschroder.com/DistributedCharge/). Dies wird nicht die einzige Innovation sein, die sich aus der Verknüpfung von neuer Technologie, Geld und Kommunikation ergeben wird.
 
 ### Bitcoin, das Rettungsboot
-Wie ich in Kapitel 1 dargelegt habe, stellt sich nicht die Frage, ob das derzeitige Finanzsystem fallen wird, sondern wann. Schon bevor sich die COVID-19-Pandemie im Frühjahr 2020 weltweit ausbreitete, waren die Nationalstaaten hoch verschuldet; die verheerenden Auswirkungen waren an den globalen und regionalen Vermögensunterschieden abzulesen. Seit vielen Jahren haben Experten die Öffentlichkeit davor gewarnt. Simon Dixon hatte bereits 2011 die Große Depression der 2020er-Jahre ausgerufen. Nomi Prins erklärte die Absprachen der Zentralbanken in ihrem gleichnamigen Buch von 2018. Satoshi Nakamoto wies im Whitepaper auf die Gefahren eines auf Schulden und der Finanzkrise aufgebauten Geldsystems hin.
+Wie ich in Kapitel 1 dargelegt habe, stellt sich nicht die Frage, ob das derzeitige Finanzsystem fallen wird, sondern wann. Schon bevor sich die COVID-19-Pandemie im Frühjahr 2020 weltweit ausbreitete, waren die Nationalstaaten hoch verschuldet; die verheerenden Auswirkungen waren an den globalen und regionalen Vermögensunterschieden abzulesen. Seit vielen Jahren haben Expert*innen die Öffentlichkeit davor gewarnt. Simon Dixon hatte bereits 2011 die Große Depression der 2020er-Jahre ausgerufen. Nomi Prins erklärte die Machenschaften der Zentralbanken in ihrem 2018 erschienenen Buch "Collusion". Satoshi Nakamoto wies im Whitepaper auf die Gefahren eines auf Schulden und der Finanzkrise aufgebauten Geldsystems hin.
 
-Bitcoin ist schuldenfreies Geld. Man bläst nicht einfach das Angebot auf. Es ist die perfekte Alternative, um aus dem Fiat-System auszusteigen. Um sich gegen die drohende Krise abzusichern, ist es sinnvoll, Investitionen auf verschiedene Vermögenswerte zu verteilen und so das systemische Risiko zu verringern. Gold, Aktien, Anleihen, Immobilien, Uhren und Oldtimer sind bekannte Wertsicherungsanlagen. Bitcoin ist ein digitaler Wertspeicher.
+Bitcoin ist Geld, das nicht durch Kredit und Schuld entsteht. Man kann das Angebot nicht einfach aufblähen. Es ist die perfekte Alternative, um aus dem Fiat-System auszusteigen. Um sich gegen die drohende Krise abzusichern, ist es sinnvoll, Investitionen auf verschiedene Vermögenswerte zu verteilen und so das Systemrisiko zu reduzieren. Gold, Aktien, Anleihen, Immobilien, Uhren und Oldtimer sind bekannte Wertsicherungsanlagen. Bitcoin ist ein digitaler Wertspeicher.
 
-Als CEOs von börsennotierten Unternehmen wie Elon Musk und Michael Saylor begannen, USD-Bargeldbestände in Bitcoin zu tauschen, sicherten sie sich ihren Platz auf dem Bitcoin-Rettungsboot. Bitcoin wurde für Privatpersonen geschaffen. Für Menschen wie Sie und mich. Jetzt ist Ihre Chance, das sinkende Boot der Fiat-Währungen zu verlassen. Es ist noch nicht zu spät, Sie sind noch früh dran.
+Als die CEOs börsennotierter Unternehmen wie Elon Musk und Michael Saylor anfingen, ihre USD-Bargeldbestände in Bitcoin zu investieren, sicherten sie sich bereits ihren Platz auf dem Bitcoin-Rettungsboot. Bitcoin wurde für Menschen geschaffen. Für Sie und mich. Jetzt ist Ihre Chance, vom sinkenden Boot der Fiat-Währungen auf das Rettungsboot zu springen. Es ist noch nicht zu spät, Sie sind noch früh dran. Überlassen Sie das Rettungsboot nicht den CEOs und Institutionen.
 
-### Bitcoin ist Gemeingut
-Das Bitcoin-Netzwerk ist eine öffentliche Infrastruktur; es ist ein dezentrales Kommunikationsnetzwerk, das immer noch vor unseren Augen aufgebaut wird. Wir als Einzelpersonen konnten uns nicht direkt am Aufbau des Internets finanziell beteiligen. Die meisten von uns besaßen keine Aktien von Apple, Google oder Facebook. Viele Hürden schließen Milliarden von Menschen davon aus, in Start-ups zu investieren. Bitcoin ist für jeden offen, um in seine Infrastruktur zu investieren. Sie können sich Bitcoin auch anhand von Häusern als digitales Eigentum vorstellen; es gibt nur 21 Millionen Häuser und Sie können einen Bruchteil eines Hauses kaufen, bis hin zu einer Türklinke.
+### Bitcoin ist Allgemeingut
+Das Bitcoin-Netzwerk ist eine öffentliche Infrastruktur; ein dezentrales Kommunikationsnetz, das direkt vor unseren Augen entsteht. Wir Einzelpersonen konnten uns nicht finanziell direkt am Aufbau des Internets beteiligen. Die meisten von uns besaßen keine Aktien von Apple, Google oder Facebook. Viele Hürden schließen Milliarden Menschen davon aus, in Start-ups zu investieren. Bitcoin ist für alle offen, die in seine Infrastruktur investieren möchten. Sie können Bitcoin auch als digitales Eigentum betrachten; angenommen es gibt 21 Millionen Häuser weltweit. Sie können mehrere Häuser, den Bruchteil eines Hauses, bis hin zu einer Türklinke kaufen.
 
-### Bitcoin fördert das Sparen
-Bitcoin ist ideal für langfristiges Sparen. Wenn Sie glauben, dass der Wert in Zukunft steigen wird, werden Sie ermutigt, Ihre Bitcoin zu halten und nicht für Dinge auszugeben, die nicht wirklich notwendig sind.
+### Bitcoin regt zum Sparen an
+Bitcoin ist ideal für langfristiges Sparen. Wenn Sie annehmen, dass sein Wert in Zukunft steigen wird, werden Sie eher Ihre Bitcoin halten als sie für Dinge auszugeben, die nicht wirklich notwendig sind.
 
 ### Sie können sich Bitcoin leisten
-Sie müssen nicht gleich einen ganzen Bitcoin kaufen. Ein Bitcoin ist in hundert Millionen Einheiten teilbar. Die kleinste Einheit wird als "Satoshi" bezeichnet - nach dem pseudonymen Gründer Satoshi Nakamoto. Sie können Teile eines Bitcoins kaufen und zum Beispiel mit nur 20 Euro beginnen.
+Sie müssen nicht gleich einen ganzen Bitcoin kaufen. Ein Bitcoin ist in hundert Millionen Einheiten teilbar. Die kleinste Einheit wird als "Satoshi" bezeichnet - nach dem pseudonymen Gründerfigur Satoshi Nakamoto. Sie können Teile eines Bitcoins kaufen und zum Beispiel nur 20 Euro einsetzen.
 
 ### Bitcoin und die Funktionen des Geldes
-Viele Lehrbuch-Ökonomen beharren darauf, dass Bitcoin kein Geld ist, weil er die drei funktionalen Kriterien, die Geld haben muss, nicht erfüllt. Diese Funktionen wurden 1875 von William Stanley Jevons[^66] definiert und seine Analyse ist seitdem in makroökonomischen Lehrbüchern weitverbreitet.
+Viele Lehrbuch-Ökonomen beharren darauf, dass Bitcoin kein Geld ist, weil es die drei funktionalen Kriterien, die Geld haben muss, nicht erfüllt. Diese Funktionen wurden 1875 von William Stanley Jevons[^66] definiert und seine Analyse ist seitdem in makroökonomischen Lehrbüchern weitverbreitet.
 
-Nach Jevons ist Bitcoin nur dann Geld, wenn er diese Funktionen erfüllt:
-1. Wertaufbewahrung - der Wert muss im Laufe der Zeit stabil bleiben
-2. Tauschmittel - er wird weithin im Tausch gegen Waren und Dienstleistungen akzeptiert
-3. Rechnungsmedium - er wird als Maßstab für Preise, Kosten und Gewinne verwendet
+Nach Jevons wäre Bitcoin Geld, wenn es diese Funktionen erfüllt:
+1. Wertaufbewahrungsmittel - der Wert muss im Laufe der Zeit stabil bleiben
+2. Tauschmittel - es wird weithin im Tausch gegen Waren und Dienstleistungen akzeptiert
+3. Rechnungseinheit - es wird als Maßstab für Preise, Kosten und Gewinne verwendet
 Quelle: https://en.wikipedia.org/wiki/Money
 
 **1. Wertaufbewahrungsmittel**
-Kritiker sagen, dass Bitcoin aufgrund der Volatilität und des Potenzials für kurzfristige Verluste kein Wertaufbewahrungsmittel ist. Nun, wie ich in Kapitel 3.1 dargelegt habe, ist dies auf lange Sicht nicht wirklich der Fall. Außerdem stelle ich die Definition von "langfristig stabil" infrage. Was ist der Zeitrahmen? Die Inflation des Fiat-Geldes in Österreich lag in den letzten zehn Jahren bei 20%. Alle anderen Fiat-Währungen wie der Euro sind aus genau diesem Grund ähnlich unzuverlässige Wertaufbewahrungsmittel.
+Kritiker sagen, dass Bitcoin aufgrund der Volatilität und des Potenzials für kurzfristige Verluste nicht als Wertaufbewahrungsmittel geeignet ist. Nun, wie ich in Kapitel 3.1 dargelegt habe, ist dies auf lange Sicht nicht wirklich der Fall. Außerdem stelle ich die Definition von "langfristig stabil" infrage. Was ist der Zeitrahmen? Die Inflation des Euro betrug in Österreich über die letzten zehn Jahre gesamt 20%. Alle anderen Fiat-Währungen sind ähnlich unzuverlässige oder noch schlechtere Wertaufbewahrungsmittel.
 
 **2. Tauschmittel**
-Sie können Bitcoin als Tauschmittel verwenden, wenn Sie das wollen. Ja, zum Zeitpunkt der Erstellung dieses Artikels gibt es nur eine kleine Anzahl von Unternehmen, Dienstleistungen und Restaurants, die Bitcoin als Zahlungsmittel akzeptieren. Aber dafür können Sie verschiedene Tools und Dienste nutzen, die Sie mit Bitcoin füllen und in Fiat ausgeben können. Überdies gibt es viele Unternehmen in diesem Bereich, die bereits Bitcoin als Zahlungsmittel akzeptieren und damit bezahlen.
+Sie können Bitcoin als Tauschmittel verwenden, wenn Sie das wollen. Zugegeben zum Zeitpunkt der Erstellung dieses Buchs gab es nur eine kleine Anzahl von Unternehmen, Dienstleistungen und Restaurants, die Bitcoin als Zahlungsmittel akzeptieren. Aber Sie könnten z.B. eine Kreditkarte mit Bitcoin aufladen und damit in Euro bezahlen. Darüber hinaus gibt es viele Unternehmen im Bitcoin-Sektor, die es als Zahlungsmittel akzeptieren und ihre Mitarbeiter*innen und Dienstleister, wenn gewünscht, in Bitcoin bezahlen.
 
-**3. Medium des Kontos**
-Fiat-Geld ist gesetzlich als Kontomedium vorgeschrieben. Wir haben einfach keine Wahl. Bitcoin basiert auf freiwilliger Nutzung, es ist ein Opt-in; wenn wir darauf spekulieren, dass der Wert steigt, werden wir es nicht ausgeben. Da die Volatilität von Bitcoin mit der Zeit abnimmt, wird der Wert eines Tages ein Plateau erreichen und die Menschen werden anfangen, Bitcoin auszugeben. Schon früher werden mehr und mehr Unternehmen beginnen, Bitcoin zu akzeptieren, da sie darauf vertrauen, dass er nicht an Wert verliert, sondern eher an Wert gewinnt.
+**3. Rechnungseinheit**
+Der Euro ist als gesetzliches Zahlungsmittel als Rechnungseinheit vorgeschrieben. Wir müssen ihn verwenden. Bitcoin basiert auf Freiwilligkeit, es ist ein Opt-in; wenn wir darauf spekulieren, dass der Wert steigt, werden wir es nicht ausgeben. Die Volatilität von Bitcoin ist mit der Zeit abnehmend, eines Tages wird der Wert ein Plateau erreichen und wir werden anfangen, Bitcoin als Zahlungsmittel zu verwenden. Schon davor werden mehr und mehr Unternehmen Bitcoin akzeptieren, da sie darauf vertrauen, dass es nicht an Wert verliert, sondern an Wert gewinnt.
 
-Eine neue Form des Geldes, die uns nicht aufgezwungen wird, sondern für die wir uns entscheiden können, muss bestimmte Stufen in dieser Reihenfolge durchlaufen: Zuerst muss es ein Wertaufbewahrungsmittel werden, dann muss Vertrauen aufgebaut werden, dann werden die Menschen es als Tauschmittel verwenden. Erst dann wird es als Kontomedium verwendet werden.
+Eine neue Geldform, die uns nicht aufgezwungen wird, sondern für die wir uns freiwillig entscheiden können, muss bestimmte Stufen in dieser Reihenfolge durchlaufen: Zuerst ist es Wertaufbewahrungsmittel, in der Zeit danach muss Vertrauen in die Stabilität wachsen, danach werden Menschen Bitcoin als Tauschmittel verwenden. Erst in dieser Phase kann es als Rechnungseinheit dienen.
 
-Bitcoin abzulehnen, weil es noch nicht alle Funktionen von Geld erfüllt, geht am Thema vorbei.
+Bitcoin abzutun, weil es noch nicht alle Funktionen von Geld erfüllt, ist verfehlt.
 
-### Vergleich der Eigenschaften von Geld
+### Die Eigenschaften des Geldes im Vergleich
 
 Im Jahr 2014 hat Ryan Walker die Konzepte von Darwins Theorie der natürlichen Selektion genutzt, um die Evolution der verschiedenen Geldformen zu vergleichen. Die folgende Tabelle zeigt, inwieweit Gold, Fiatgeld und Bitcoin die traditionell anerkannten Eigenschaften von Geld erfüllen (Zeile 1 - 8). Die staatliche Ausgabe misst den Grad der Zentralisierung und Kontrolle durch die Behörden (Zeile 9).
 
