@@ -40,11 +40,11 @@ In einem Bärenmarkt, wenn der Kurs immens fällt, werden Sie das Gefühl haben,
 
 > Investieren Sie nur soviel in Bitcoin, wie Sie gewillt sind zu verlieren. Wenn Ihnen der Kursverfall schlaflose Nächte bereitet, halten Sie vermutlich zuviel von einem riskanten Asset wie Bitcoin.
 
-### Kein Widerrufsrecht? No Recourse
+### Kein Widerrufsrecht
   
 _Senden Sie Bitcoin an eine falsche Adresse, sind sie für Sie verloren. Sie können sie nicht zurückfordern._
 
-Kontrollieren Sie eine Bitcoin-Adresse  mehrmals, bevor Sie Bitcoin senden. Zahlungen können nicht rückgängig gemacht werden. Wenn Sie etwas in einem online Shop mit Bitcoin bezahlen und die Ware retournieren, obliegt es dem Händler genauso wie bei Fiat-Geld Ihnen den Betrag zurückzuerstatten.
+Kontrollieren Sie eine Bitcoin-Adresse mehrmals, bevor Sie Bitcoin senden. Zahlungen können nicht rückgängig gemacht werden. Wenn Sie etwas in einem online Shop mit Bitcoin bezahlen und die Ware retournieren, obliegt es dem Händler genauso wie bei Fiat-Geld Ihnen den Betrag zurückzuerstatten.
 
 Falls Sie sich vertippen und es die Adresse nicht gibt, sollten Sie eine Fehlermeldung angezeigt bekommen, da Bitcoin-Adressen einer Integritätsprüfung unterliegen.
 
@@ -94,7 +94,7 @@ Wenn Sie mehr über Bitcoin in Nigeria erfahren möchten, öffnen Sie Ihren Brow
 ### Bitcoins Transaktionsgrenze
 _Das Bitcoin-Netzwerk ist in der Lage nur sieben Transaktionen pro Sekunde zu verarbeiten. Das ist nicht genug, um ein globales Zahlungsnetzwerk zu bedienen. Wenn alle Menschen Bitcoin nutzen würden, wäre das Netzwerk überlastet._
 
-Das Lightning-Netzwerk wurde Anfang 2018 gestartet und wird laufend weiter entwickelt. Dabei handelt es sich um ein Protokoll, das eine Ebene über der Bitcoin-Blockchain angesiedelt ist. Das Lightning-Netzwerk wickelt bereits tausende Mikrozahlungen pro Sekunde ab und hat sich als sehr erfolgreich für globale, schnelle, und günstige Geldsendungen erwiesen. Das Wachstum von Lightning ist exponentiell. In ein paar Jahren können Bitcoin-Zahlungen mittels Lightning, technisch die Transaktionsanzahl von Visa oder Mastercard übersteigen. Die Bitcoin-Blockchain wird als die elementare Abrechnungsebene für große Transaktionen verwendet werden, während kleine Zahlungen, wie für den Besuch im Kaffeehaus, über das Lightning-Netzwerk erfolgen. Für den täglichen Gebrauch muss niemand wissen, wie das funktioniert. Die meisten von uns wissen nicht, was hinter Netflix oder dem Senden einer E-Mail steckt, dennoch tun wir es laufend.
+Das Lightning-Netzwerk wurde Anfang 2018 gestartet und wird laufend weiter entwickelt. Dabei handelt es sich um ein Protokoll, das eine Ebene über der Bitcoin-Blockchain angesiedelt ist. Das Lightning-Netzwerk wickelt bereits tausende Mikrozahlungen pro Sekunde ab und hat sich als sehr erfolgreich für globale, schnelle, und günstige Geldsendungen erwiesen. Das Wachstum von Lightning ist exponentiell. In ein paar Jahren können Bitcoin-Zahlungen mittels Lightning, technisch die Transaktionsanzahl von Visa oder Mastercard übersteigen. Die Bitcoin-Blockchain wird als die finale Verrechnungsebene für große Transaktionen verwendet werden, während kleine Zahlungen, wie für den Besuch im Kaffeehaus, über das Lightning-Netzwerk erfolgen. Für den täglichen Gebrauch muss niemand wissen, wie das funktioniert. Die meisten von uns wissen nicht, was hinter Netflix oder dem Senden einer E-Mail steckt, dennoch tun wir es laufend.
 
 
 ### Mining-Pool Konzentration
