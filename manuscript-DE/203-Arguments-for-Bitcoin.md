@@ -84,7 +84,7 @@ Weitere Einblicke in die Lebensbedingungen der Menschen in Simbabwe und ihre kon
 
 Eine Kritik an Bitcoin ist, dass die Entwicklung langsam und schwerfällig ist. Tatsächlich zeigt sich, dass Bitcoin die am längsten existierende und technisch sicherste Blockchain ist. Sie wurde noch nie gehackt oder verändert. 
 
-
+--- hier weiter ---
 Der Grund dafür ist eine Gemeinschaft unabhängiger, quelloffener Entwickler, deren erstes Interesse darin besteht, einen Beitrag zum allgemeinen gesellschaftlichen Wohl zu leisten. Hören Sie [Adam Back](https://anita.link/12), [Gloria Zhao](https://anita.link/82), [Tim Akinbo](https://anita.link/63), [Amiti Uttawar](https://anita.link/62) oder [Matt Corrallo](https://anita.link/19) zu, um zu verstehen, wie durchdacht das System ist und wie stark sie von ihrer Mission getrieben sind. Zweitens ist das Tempo der Entwicklung absichtlich langsam. Das Silicon-Valley-Mantra "Schnell handeln und Dinge kaputt machen" ist das Gegenteil von dem, was Sie sich für einen 600 Milliarden USD schweren digitalen Vermögenswert wünschen, der gleichzeitig eine lebende Software ist.
 
 ### Internet der Dinge
