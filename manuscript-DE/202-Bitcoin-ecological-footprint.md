@@ -66,74 +66,72 @@ Die durchschnittliche Transaktionshöhe einer Fedwire-Überweisung lag im Februa
 
 Bitcoin-Transaktionen werden alle 10 Minuten, 24 Stunden am Tag und 365 Tage im Jahr abgewickelt. Vergleichen Sie dies mit ACH-Transaktionen, bei denen es bis zu zwei Jahre dauern kann, bis sie endgültig abgewickelt werden. [^48] Nicht zu vergessen: Bitcoin- und Lightning-Transaktionen sind genehmigungsfrei und benötigen kein Vertrauen in Intermediäre, während das herkömmliche Zahlungssystem nur funktioniert, weil Vermittler sich um Betrug und Rückbuchungen kümmern.
 
-**Annahme Nr. 4: Equating Energy Consumption With Pollution**  
-People say, for example, that "every transaction pollutes" or "bitcoin's pollution is increasing" or "bitcoin produces pollution as a result of its energy consumption" - that's simply not true. There is no direct correlation between energy usage and pollution because it depends entirely on what type of energy is being used. If you're producing energy with coal, that causes pollution and environmental impact. If you're producing energy with hydroelectric dams or wind or solar for example, then you're not actually polluting. In fact, you're subsidizing those energy mechanisms and incentivizing the creation of more solar, wind, geothermal, off-gassing and other forms of energy through the application of bitcoin as an economic factor in the production of that energy.
+**Annahme Nr. 4: Energieverbrauch mit Umweltverschmutzung gleichsetzen**  
+Die Leute sagen zum Beispiel, dass "jede Transaktion die Umwelt verschmutzt" oder dass "die Umweltverschmutzung durch Bitcoin zunimmt" oder dass "Bitcoin durch seinen Energieverbrauch Umweltverschmutzung verursacht" - das ist einfach nicht wahr. Es gibt keinen direkten Zusammenhang zwischen Energieverbrauch und Umweltverschmutzung, da es ganz darauf ankommt, welche Art von Energie verwendet wird. Wenn aus Kohle Energie erzeugt wird, führt das zu Umweltverschmutzung und Umweltbelastung. Wird Energie z. B. mit Wasserkraftwerken, Wind- oder Solarkraftwerken gewonnen, wird die Umwelt nicht unbedingt belastet. In Wirklichkeit werden diese Energieformen durch den Einsatz von Bitcoin als ökonomischen Faktor bei der Energieerzeugung subventioniert, was Anreize für mehr Solar-, Wind-, Erdwärme- und andere Energiequellen schafft. Bitcoin-Miner sind gewinnorientiert und werden daher immer nach der billigsten Energie suchen, und das ist die erneuerbare. Kohle und Öl werden immer kostspieliger sein als Wasserkraft, Geothermie, gestrandetes Gas, Wind- und Sonnenenergie. Nicht zu vergessen die Atomenergie, die von vielen ebenfalls als grüne Energie angesehen wird.
 
-Bitcoin miners are profit-driven, so they will always look for the cheapest energy, which is renewable. Coal and oil will always be more expensive than hydroelectric, geothermal, stranded gas, wind and solar power. Not to forget nuclear, which is also an option that many count as green energy.
+Fakt ist, dass Bitcoin-Miner ansonsten verschwendete Energie nutzen. Ich habe mit zwei Minern [Sébastien Gouspillou](https://anita.link/103) und [Philippe Bekhazi](https://anita.link/101) gesprochen. Sie nutzen Wasserkraft und bestätigen obenstehende Argumente.
 
-Indisputably, Bitcoin miners are using otherwise wasted energy. I spoke with [Sébastien Gouspillou](https://anita.link/103) and [Philippe Bekhazi](https://anita.link/101) two miners using hydropower, who confirmed the above statements.
+**Zusammensetzung der Stromproduktion nach Energieträgern**  
+Bitcoin-Miner sind ziemlich gut über den gesamten Globus verteilt. Während es einfach ist, den Strombedarf zu berechnen, ist es schwieriger, die Stromquellen zu ermitteln, da das Bitcoin-Mining nach wie vor ein sehr privat betriebenes und pseudonymisiertes Geschäft ist. Untersuchungen über den Stromverbrauch im Mining gehen daher davon aus, dass die Nutzung erneuerbarer Energien zwischen 39 % (Cambridge Center, CBECI.org) und 73 % im CoinShares Mining Whitepaper schwankt, welches zu dem Schluss kommt:
 
-**Energy Mix of Electricity Production**  
-Bitcoin miners are fairly well distributed across the globe. While it is easy to quantify the electricity demand, it is more difficult to quantify the electricity sources since the Bitcoin mining industry remains a highly private and pseudonymous industry. Therefore, research on the electricity used in mining estimates renewable energy usage varies from 39% (Cambridge Center, CBECI.org) to 73% in the CoinShares Mining Whitepaper, which concludes:
+"Anhand einer Kombination aus Schätzungen der weltweiten Mining-Standorte und der regionalen Verbreitung erneuerbarer Energien haben wir erneut berechnet, dass die Bitcoin-Mining-Industrie stark von erneuerbaren Energien angetrieben wird. Unser momentan geschätzter Prozentsatz der erneuerbaren Energie im Bitcoin-Mining-Mix liegt bei 73% und damit etwa viermal so hoch wie der weltweite Schnitt. Insgesamt bestätigt das Ergebnis unsere Ansicht, dass das Bitcoin-Mining als globaler Stromkäufer letzter Instanz fungiert (den Strom kauft, den niemand anderer nutzen kann) und sich daher um vergleichsweise ungenutzte Infrastrukturen für erneuerbare Energie konzentriert. Dies könnte dazu beitragen, verlustbringende Projekte im Sektor der erneuerbaren Energien rentabel zu machen, und könnte mit der Zeit - wenn die Branche reift und sich als feste Größe in der Öffentlichkeit etabliert - als Motor für die Entwicklung zusätzlicher erneuerbarer Energiequellen an Standorten wirken, die zuvor unwirtschaftlich waren." [^49]
 
-"Using a combination of estimates of global mining locations and regional renewables penetrations we again calculate the Bitcoin mining industry to be heavily renewables-driven. Our current approximate percentage of renewable power generation in the Bitcoin mining energy mix stands at 73%, around four times the global average. Overall, our findings reaffirm our view that Bitcoin mining is acting as a global electricity buyer of last resort and therefore tends to cluster around comparatively under-utilised renewables infrastructure. This could help turn loss making renewables projects profitable and in time - as the industry matures and settles as permanent in the public eye - could act as a driver of new renewables developments in locations that were previously uneconomical." [^49]
+Die Frage ist nicht, wie viel Energie benötigt wird, sondern wie diese Elektrizität erzeugt wird? Wie hoch ist der CO2-Ausstoß? Wenn wir als Gesellschaft beschließen, dass wir keine umweltschädliche Energie wollen, dann sollten wir die Energieproduktion regulieren und die Verwendung umweltschädlicher Systeme nicht zulassen. Es geht um die Regulierung der Energieerzeugung und nicht um die Regulierung des Energieverbrauchs in einem bestimmten Wirtschaftszweig, der zufällig Bitcoin ist.
 
-The question is not how much energy is required, but how is electricity produced? How much CO2 is emitted? If we decide as a society that we don't want polluting energy, then we should regulate the production of energy and not allow the use of polluting systems. This is about regulating energy production and not about regulating the consumption of energy in one particular sector of the economy which happens to be Bitcoin.
+Bitcoin nutzt einen höheren Anteil an Elektrizität aus erneuerbarer Energie als das Netz in China, den USA und der ganzen Welt.
+![Strom-Mix, Bitcoin verglichen mit China, USA und der Welt, 2020](assets/_Bitcoin-electricity-sources.jpg) [^50]
 
-Bitcoin uses a higher amount of electricity from renewables than the grid in China the USA and the wider world.
-![Electricity Mix, Bitcoin vs. China vs. USA vs. The World, 2020](assets/_Bitcoin-electricity-sources.jpg) [^50]
+**CO2-Emissionen**  
+Einige Untersuchungen haben versucht, die CO2-Emissionsströme und die Nachhaltigkeit von Bitcoin anhand der Prognose der künftigen Nachfrage zu bewerten, was auf falschen Annahmen beruht. In einem Bericht wird zum Beispiel behauptet, dass: "Der jährliche Energieverbrauch der Bitcoin-Blockchain in China wird voraussichtlich im Jahr 2024 mit 296,59 Twh seinen Höhepunkt erreichen und dementsprechend 130,50 Millionen Tonnen Kohlenstoffemissionen verursachen." [^51]
 
-**Carbon Emissions**  
-Some research has tried to assess the carbon emission flows and sustainability of Bitcoin through estimating future demand, based on false assumptions. One paper for instance is claiming that: "the annual energy consumption of the Bitcoin blockchain in China is expected to peak in 2024 at 296.59 Twh and generate 130.50 million metric tons of carbon emission correspondingly." [^51]
+> "Es sticht sofort ins Auge, dass die Autoren den zukünftigen Kohlenstoffverbrauch von Bitcoin auf zwei Dezimalstellen genau angeben, obwohl die Zahl realistischerweise nur in einer Größenordnung geschätzt werden kann.", stellt **Nic Carter** fest. [^52]
 
-> "It’s an immediate red flag that the authors confidently declare Bitcoin’s future carbon outlay to two decimal places, when realistically the number can only be estimated to within an order of magnitude.", states **Nic Carter**. [^52]
+Laut der [Studie von Hass McCook](https://bitcoinmagazine.com/business/bitcoin-vs-financial-sector-energy-use) verursacht Bitcoin weniger als 2% der CO2-Emissionen des globalen militärisch-industriellen Komplexes und weniger als 5% der CO2-Emissionen des traditionellen Finanzsektors. Der jährliche globale Treibhausgasausstoß beträgt ca. 50.000 Millionen Tonnen CO2-Äquivalente. Bitcoin verursacht nur 0,11% davon.
 
-Based on the [work of Hass McCook](https://bitcoinmagazine.com/business/bitcoin-vs-financial-sector-energy-use) Bitcoin emits less than 2% of the world's military-industrial complex and less than 5% of the legacy financial sector's carbon emissions. The annual global greenhouse gas emissions are approx. 50,000 million ton carbon dioxide equivalent. Bitcoin emits only 0.11% of those.
+![Jährliche Treibhausgasemissionen, Hass McCook, Juni 2021](assets/_annual-GHG-emissions2021.png.png) [^53]
 
-![Annual Greenhouse Gas Emissions, Hass McCook, June 2021](assets/_annual-GHG-emissions2021.png.png) [^53]
+**Letzte Annahme: Bitcoin ist nutzlos, daher ist jeder Einsatz von Energie für Bitcoin Verschwendung**  
 
-**Final Assumption: Bitcoin Isn't Useful, Therefore Any Use of Energy for a Bitcoin Is Wasteful**  
+Wenn Sie der Meinung sind, dass Bitcoin nicht sinnvoll ist, dann ist das eine sehr subjektive Meinung. Bitcoin mag für Sie keinen Sinn ergeben, aber für viele andere Menschen sehr wohl. Wenn Sie so argumentieren, müssen Sie zugeben, dass es viele andere Formen der Energienutzung gibt, die auf den ersten Blick nutzlos oder sogar schädlich sind, und die nicht so genau unter die Lupe genommen werden.
 
-If you decide Bitcoin isn't useful, then this is a very subjective opinion. Bitcoin might not make sense to you, but it might make sense for many other people. If you are making this argument, you must agree that there are many other forms of energy use that are prima facie useless or even damaging in their use, and they don't receive the same amount of scrutiny.
+Wir schalten jedes Jahr Milliarden von Weihnachtslampen ein, um Weihnachtsstimmung zu verbreiten, was für Milliarden von Menschen mit anderen Anschauungen völlig sinnlos ist. Der größte Energieverbraucher in den Vereinigten Staaten außerhalb der öffentlichen Haushalte ist das Verteidigungsministerium. Die US-Regierung verbraucht enorme Mengen an Energie und ist der größte Umweltverschmutzer des Landes, und zwar aus keinem anderen legitimen Grund als dem Streben nach extremer Kontrolle.
 
-We can light up billions of Christmas lights every year for a display of Christmas spirit, which might be completely pointless for billions of people of other beliefs. The number one use of energy for example in the United States, for example, outside of civilian markets is the Department of Defense. The US government uses enormous amounts of energy and is the largest polluter in the country, arguably for no legitimate reason other than seeking extreme control.
+![US-Militär emittiert mehr CO2 als viele andere Nationen](assets/_military-co2.png) [^54]
 
-![US military emits more CO2 than many nations](assets/_military-co2.png) [^54]
+Dies wiederum führt zurück zum Kapitel über den Petrodollar, die Verbindung zwischen dem US-Dollar und der OPEC, die die USA zum weltweit dominierenden Machtzentrum werden ließ und durch das US-Militär und die Kriege in der Golfregion abgesichert ist.
 
-This leads back to the chapter about the Petrodollar, the linkage between the US dollar and the OPEC, which makes the USA the globally dominant powerhouse and is secured by the US military and wars in the Gulf region.
+Ist die Kriegsmaschinerie eine nützliche Sache für unsere Gesellschaft? Bevor Sie "Whataboutism!" schreien, und sagen, dass hier zwei verschiedene Dinge miteinander verglichen werden, und verlangen, dass wir sowohl den Einsatz der Kriegsmaschinerie als auch die Verwendung von Bitcoin einschränken sollten, sollten Sie nicht vergessen, dass ein sehr wichtiges Detail fehlt. Die Kriegsmaschinerie auf der ganzen Welt wird direkt durch Fiat-Schulden finanziert, die mittels Inflation erzeugt und abbezahlt werden. Dies wird durch das unkontrollierte Drucken von Geld durch die Zentralbank ermöglicht, wofür letztendlich Sie, der oder die Steuerzahlende, die Rechnung begleichen muss. Bitcoin ist nicht nur eine Lösung für eine offen zugängliche Wirtschaft, sondern auch eine Methode, die Regierungen davon abhält, Geld in unangemessenem Ausmaß zu schaffen und die Inflation als versteckte Form der Steuer zu nutzen, um die Kriegsmaschinerie zu finanzieren, die letztendlich mehr verschmutzt und Schaden anrichtet als alles andere, was es gibt. Bitcoin ist nicht nur ein Ersatz für die allgemeine Wirtschaftstätigkeit, sondern auch eine direkte Kontrolle der Kriegsmaschinerie, die die Umwelt verschmutzt und viel mehr Energie verbraucht, nur um Menschen zu töten. Meiner Meinung nach sind diese beiden Dinge also sehr eng miteinander verbunden. Aber das ist nur Andreas M. Antonopoulos' und meine eigene Meinung.
 
-Is the war machine a useful thing to have in our society? Before you scream "Whataboutism!", say that it's comparing two different things and demand we should reduce the use of the war machine as well as the use of bitcoin, do not forget there's a very important link that is missing. The war machine all around the world is funded directly by fiat debt that is produced and paid off through inflation that is enabled through the uncontrolled central bank printing money, which in the end you, the taxpayer, are fronting the bill for. Bitcoin isn't just a solution for an open economy, it's a solution that constrains governments from producing currency at unreasonable rates and using inflation as a hidden form of taxation to fund the war machine, which ultimately pollutes and damages more than anything else in existence. Bitcoin isn't simply a substitute for general economic activity, it's also a direct control on the war machine that pollutes and uses far more energy simply to kill people. So in my opinion those two things are very closely tied. But that's just Andreas M. Antonopoulos' and my own opinion.
+**Fazit: Die Vorteile von Bitcoin**  
+Bitcoin ist unzensurierbar, nicht bestechlich und ermöglicht Milliarden von Menschen einen Zugang zu einem globalen Geldsystem, unabhängig von Hautfarbe, Geschlecht, Vermögen und Status. Außerdem ist es unsere einzige Chance, in einer Welt der digitalen Überwachung unsere finanzielle Privatsphäre oder zumindest Pseudonymität zu sichern.
 
-**Conclusion: The Benefits of Bitcoin**  
-Bitcoin is uncensorable, incorruptible, and allows billions of people open access to a global money system, regardless of color, gender, wealth, and status. Furthermore, it is our only chance to secure financial privacy, or at least pseudonymity, in a world of digital surveillance.
+Das Bitcoin-Netzwerk sichert das Vermögen von rund 100 Millionen Nutzern weltweit im Wert von über 600 Milliarden USD (Juni 2021). Es gibt keine Obergrenze für den Wert, den Bitcoin speichern kann. Das alles erfordert weder militärische Macht noch führt es zu Währungskriegen.
 
-The Bitcoin network secures assets for about 100 million users globally, worth over 600 billion USD (June 2021) without any upper limit and does not rely on military power or currency wars.
+Hier ist eine abschließende Betrachtung von ARK Invest: "Entgegen der landläufigen Meinung glauben wir, dass die Umweltauswirkungen des Bitcoin-Minings minimal sind. Erneuerbare Energien, insbesondere Wasserkraft, machen einen großen Anteil am Energieverbrauch von Bitcoin aus. Wie Castle Island Ventures-Partner Nic Carter feststellte, werden die Miner auf ihrer Suche nach der günstigsten Form von Elektrizität weiterhin in Regionen mit einem Überangebot an erneuerbarer Elektrizität strömen und gestrandete Energieressourcen als 'Stromkäufer der letzten Instanz erschließen, wodurch eine äußerst mobile Grundnachfrage nach allen Elektrizitätsquellen entsteht, die in der Lage sind, zu niedrigeren Preisen als die derzeitigen Erzeuger zu produzieren, unabhängig vom Standort.' Aus der Perspektive des Umweltschutzes könnte sich das Bitcoin-Mining daher als positiv erweisen." [^55]
 
-Here is a conclusion, as put by ARK Invest: "Contrary to consensus thinking, we believe the environmental impact of bitcoin mining is de minimis. Renewables, particularly hydroelectric power, accounts for a large percentage of bitcoin’s energy mix. As Castle Island Ventures partner, Nic Carter, has noted, in their search for the cheapest form of electricity, miners will continue to flock to regions offering a glut of renewable electricity, unlocking stranded energy assets as 'electricity buyer's of last resort, creating a highly mobile base-demand for any electricity sources able to produce at prices below current producers, regardless of location.' As a result, from a climate perspective, bitcoin mining could be a net positive." [^55]
+[^35]: [Quelle: Newsweek, 12/11/2017](https://www.newsweek.com/bitcoin-mining-track-consume-worlds-energy-2020-744036)
 
-[^35]: [Source Newsweek, 12/11/2017](https://www.newsweek.com/bitcoin-mining-track-consume-worlds-energy-2020-744036)
+[^36]: [Quelle: Cambridge Center for Alternative Finance, March 2021](https://cbeci.org/cbeci/comparisons/)
 
-[^36]: [Source Cambridge Center for Alternative Finance, March 2021](https://cbeci.org/cbeci/comparisons/)
+[^37]: [Quelle:Cambridge Center for Alternative Finance](https://cbeci.org/cbeci/comparisons/)
 
-[^37]: [Cambridge Center for Alternative Finance](https://cbeci.org/cbeci/comparisons/)
-
-[^38]: [Source Energy Flow Chart, Lawrence Livermore National Laboratory](https://flowcharts.llnl.gov/)
+[^38]: [Quelle: Energy Flow Chart, Lawrence Livermore National Laboratory](https://flowcharts.llnl.gov/)
 
 [^39]: [Conner Brown, Bitcoin: a bold american future](https://journal.bitcoinreserve.com/bitcoin-a-bold-american-future/)
 
 [^40]: [Cambridge Center for Alternative Finance, March 2021](https://cbeci.org/cbeci/comparisons/)
 
-[^41]: [Source, ARK Invest, Bitcoin myths](https://ark-invest.com/articles/analyst-research/bitcoin-myths/)
+[^41]: [Quelle: ARK Invest, Bitcoin myths](https://ark-invest.com/articles/analyst-research/bitcoin-myths/)
 
-[^42]: [ARK Invest Bitcoin myths](https://ark-invest.com/articles/analyst-research/bitcoin-myths/)
+[^42]: [Quelle: ARK Invest Bitcoin myths](https://ark-invest.com/articles/analyst-research/bitcoin-myths/)
 
-[^43]: [Source Statista](https://www.statista.com/statistics/881541/bitcoin-energy-consumption-transaction-comparison-visa/)
+[^43]: [Quelle: Statista](https://www.statista.com/statistics/881541/bitcoin-energy-consumption-transaction-comparison-visa/)
 
-[^44]: [Source Statista](https://www.statista.com/statistics/279308/average-credit-card-transaction-value-worldwide/)
+[^44]: [Quelle: Statista](https://www.statista.com/statistics/279308/average-credit-card-transaction-value-worldwide/)
 
-[^45]: [Source BitInfoCharts](https://bitinfocharts.com/comparison/bitcoin-transactionvalue.html#1y)
+[^45]: [Quelle: BitInfoCharts](https://bitinfocharts.com/comparison/bitcoin-transactionvalue.html#1y)
 
-[^46]: [Source The Federal Reserve Services](https://frbservices.org/resources/financial-services/wires/volume-value-stats/monthly-stats.html)
+[^46]: [Quelle: The Federal Reserve Services](https://frbservices.org/resources/financial-services/wires/volume-value-stats/monthly-stats.html)
 
 [^47]: Anita Posch
 
@@ -141,14 +139,14 @@ Here is a conclusion, as put by ARK Invest: "Contrary to consensus thinking, we 
 
 [^49]:[CoinShares, Bitcoin Mining Whitepaper 2019](https://coinshares.com/research/bitcoin-mining-network-december-2019)
 
-[^50]: [Source: Hass McCook](https://bitcoinmagazine.com/business/what-elon-musk-gets-wrong-about-bitcoin)
+[^50]: [Quelle: Hass McCook](https://bitcoinmagazine.com/business/what-elon-musk-gets-wrong-about-bitcoin)
 
-[^51]: [Nature communications](https://www.nature.com/articles/s41467-021-22256-3)
+[^51]: [Quelle: Nature communications](https://www.nature.com/articles/s41467-021-22256-3)
 
 [^52]: [Nic Carter, On Bitcoin, the Gray Lady Embraces Climate Lysenkoism](https://medium.com/@nic__carter/on-bitcoin-the-gray-lady-embraces-climate-lysenkoism-a2d31e465ec0)
 
-[^53]: [Source Annual Greenhouse Gas Emissions, Hass McCook, June 2021](https://bitcoinmagazine.com/culture/bitcoin-vs-world-military-emissions)
+[^53]: [Quelle: Annual Greenhouse Gas Emissions, Hass McCook, June 2021](https://bitcoinmagazine.com/culture/bitcoin-vs-world-military-emissions)
 
-[^54]: [Source Statista](https://www.statista.com/chart/18359/estimated-military-carbon-dioxide-emissions/)
+[^54]: [Quelle: Statista](https://www.statista.com/chart/18359/estimated-military-carbon-dioxide-emissions/)
 
-[^55]: [ARK Invest Bitcoin myths](https://ark-invest.com/articles/analyst-research/bitcoin-myths/)
+[^55]: [Quelle: ARK Invest Bitcoin myths](https://ark-invest.com/articles/analyst-research/bitcoin-myths/)
