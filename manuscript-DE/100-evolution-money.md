@@ -62,7 +62,7 @@ Fiat ist "Geld per Verordnung". Es wird uns durch die implizite Androhung von Ge
 * Geld wird von den Banken durch Kredite geschaffen.
 
 ### Geld entsteht durch Schulden
-Den letztgenannten Punkt kennen wir alle. Mittels Krediten finanzieren wir Wohnungseigentum, Unternehmensgründungen oder kaufen ein Auto. Der Prozess ist einfach für jene, die privilegiert sind. Wer keine Sicherheiten vorweisen kann, ein Kleinunternehmen startet, kein fixes Einkommen hat oder eine Frau in einem Land ist, in dem Frauen kein Recht auf Eigentum besitzen, wird aller Voraussicht nach keinen Kredit erhalten.
+Den letztgenannten Punkt kennen wir alle. Mittels Kredite finanzieren wir Wohnungseigentum, Unternehmensgründungen oder kaufen ein Auto. Der Prozess ist einfach für jene, die privilegiert sind. Wer keine Sicherheiten vorweisen kann, ein Kleinunternehmen startet, kein fixes Einkommen hat oder eine Frau in einem Land ist, in dem Frauen kein Recht auf Eigentum besitzen, wird aller Voraussicht nach keinen Kredit erhalten.
 
 Angenommen Ihnen wird ein Kredit gewährt. Die Bank fügt einen Eintrag in ihrem System hinzu und addiert die Kreditsumme zu ihrem Kontenbuch. Sie schulden der Bank die Kreditsumme plus Zinsen. Sie müssen jetzt das Geld erwirtschaften und samt Zinsen zurückzahlen. Das ist ein großartiges Geschäft für die Bank. Sie leistet nichts, außer einem Eintrag in einer Datenbank, verdient aber an den Zinsen und Gebühren, die Sie für das Kreditgeschäft zahlen mussten. 
 
