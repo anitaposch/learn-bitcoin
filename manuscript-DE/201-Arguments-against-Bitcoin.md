@@ -44,7 +44,7 @@ In einem Bärenmarkt, wenn der Kurs immens fällt, werden Sie das Gefühl haben,
   
 _Senden Sie Bitcoin an eine falsche Adresse, sind sie für Sie verloren. Sie können sie nicht zurückfordern._
 
-Kontrollieren Sie eine Bitcoin-Adresse mehrmals, bevor Sie Bitcoin senden. Zahlungen können nicht rückgängig gemacht werden. Wenn Sie etwas in einem online Shop mit Bitcoin bezahlen und die Ware retournieren, obliegt es dem Händler genauso wie bei Fiat-Geld Ihnen den Betrag zurückzuerstatten.
+Kontrollieren Sie eine Bitcoin-Adresse mehrmals, bevor Sie Bitcoin senden. Zahlungen können nicht rückgängig gemacht werden. Wenn Sie etwas in einem Onlineshop mit Bitcoin bezahlen und die Ware retournieren, obliegt es dem Händler genauso wie bei Fiat-Geld Ihnen den Betrag zurückzuerstatten.
 
 Falls Sie sich vertippen und es die Adresse nicht gibt, sollten Sie eine Fehlermeldung angezeigt bekommen, da Bitcoin-Adressen einer Integritätsprüfung unterliegen.
 
@@ -79,7 +79,7 @@ _Es nutzen doch wirklich wenig Menschen Bitcoin. Nach 12 Jahren des Bestehens so
 
 Da die Nutzung von Bitcoin im Prinzip nicht an Identitäten gebunden ist, ist es statistisch unmöglich zu wissen, wie viele Menschen Bitcoin wirklich nutzen. Auch die Anzahl der Bitcoin-Adressen gibt uns keinen Aufschluss darüber, wie viele Menschen Bitcoin nutzen. Eine Person kann Millionen von Adressen haben. Zentrale Bitcoin-Börsen können die Bitcoin tausender Personen auf einigen wenigen Adressen halten.
 
-Diese zentralisierten Tauschbörsen müssen Ihre persönliche Identität mittels Ausweispapieren, Meldebestätigung etc. verifizieren, bevor Sie Euro in Bitcoin tauschen dürfen. Daher ist es möglich die folgende Statistik zu erstellen, die zeigt, dass weltweit über 101 Millionen Menschen ein Konto bei einer dieser Börsen besitzt. Darin nicht enthalten sind all jene, die bereits in den Jahren bevor es diese Börsen gab an Bitcoin gekommen sind und jene, die aus Gründen der Privatsphäre ihre Bitcoin außerhalb der zentralen Börsen erstehen oder durch Arbeit verdienen.
+Diese zentralisierten Tauschbörsen müssen Ihre persönliche Identität mittels Ausweispapiere, Meldebestätigung etc. verifizieren, bevor Sie Euro in Bitcoin tauschen dürfen. Daher ist es möglich die folgende Statistik zu erstellen, die zeigt, dass weltweit über 101 Millionen Menschen ein Konto bei einer dieser Börsen besitzt. Darin nicht enthalten sind all jene, die bereits in den Jahren bevor es diese Börsen gab an Bitcoin gekommen sind und jene, die aus Gründen der Privatsphäre ihre Bitcoin außerhalb der zentralen Börsen erstehen oder durch Arbeit verdienen.
 
 ![Anzahl der identitätsgeprüften Nutzer von Kryptowährungen in Millionen](assets/_number-users-2020.png) [^32]
 
