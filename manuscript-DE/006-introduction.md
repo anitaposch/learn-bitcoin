@@ -4,7 +4,7 @@
 
 (L)earn Bitcoin ist das beste Buch für Ihren Einstieg in die neue Welt des Internets der Werte. Es präsentiert Bitcoin in all seinen Facetten und umfassend. Von den technischen, ökonomischen, politischen und sozialen Auswirkungen bis hin zu Bitcoins Entwicklung in der aktuellen Währungslandschaft. 
 
-Es beinhaltet einen schrittweisen Fahrplan, wie Sie diese neue finanzielle Welt navigieren und gibt konkrete Empfehlungen, wie Sie Bitcoin auf sicheren Wegen bekommen und verdienen sowie auf sichere Art aufbewahren können. Dadruch erreichen Sie eine höhere Stufe an finanzieller Unabhängigkeit, die Ihnen mehr persönliche Freiheit und Kontrolle über Ihr Geld gibt.
+Es beinhaltet einen schrittweisen Fahrplan, wie Sie diese neue finanzielle Welt navigieren und gibt konkrete Empfehlungen, wie Sie Bitcoin auf sicheren Wegen bekommen und verdienen sowie auf sichere Art aufbewahren können. Dadurch erreichen Sie eine höhere Stufe an finanzieller Unabhängigkeit, die Ihnen mehr persönliche Freiheit und Kontrolle über Ihr Geld gibt.
 
 Sie werden in diesem Buch unter anderem Antworten auf diese Fragen finden: Was ist Geld? Wie entsteht es? Wie sieht die historische Entwicklung von Geld und insbesondere die von Blockchain-Technologie und Bitcoin aus?  Es gibt Antworten auf die Fragen, warum und wie man Bitcoin nutzen kann, und räumt dabei mit gängigen Mythen und Missverständnissen rund um Kryptowährungen auf. Zusätzlich zum Blick auf die Historie von Bitcoins Entwicklung seit 2008 gebe ich einen Ausblick auf zukünftige Anwendungsmöglichkeiten von Bitcoin.
 
