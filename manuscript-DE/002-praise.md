@@ -16,7 +16,7 @@
 
 > "Es ist fantastisch Anitas Reise in den vergangenen Jahren miterlebt zu haben. Sie hat die Besten der Branche interviewed, dabei viel gelernt und macht dieses Wissen nun für Alle verfügbar. Anita ist eine der Engagiertesten im Bitcoin-Bereich und eine herausragende Persönlichkeit, von der man viel lernen kann!" - **Hass McCook, Zivil-Ingenieur und Bitcoin Evangelist**
 
-> "Anita Posch ist eine der inspirierenden Stimmen der Bitcoin-Welt. Ihr inklusiver Ansatz und der mitreissende Schreibstil machen aus dem Buch sowohl einen leichten Einstieg für Bitcoin Anfänger*innen als auch spannende Lektüre für Fortgeschrittene. Große Empfehlung für alle, die sich für Crypto interessieren." - **Jukka Blomberg, Marketingleiter, LocalBitcoins**
+> "Anita Posch ist eine der inspirierenden Stimmen der Bitcoin-Welt. Ihr inklusiver Ansatz und der mitreißende Schreibstil machen aus dem Buch sowohl einen leichten Einstieg für Bitcoin Anfänger*innen als auch spannende Lektüre für Fortgeschrittene. Große Empfehlung für alle, die sich für Crypto interessieren." - **Jukka Blomberg, Marketingleiter, LocalBitcoins**
 
 > "Bitcoin zu kaufen, ist heute einfacher als je zuvor. Bitcoin langfristig sicher aufzubewahren, erfordert ein Mindestmaß an technischem und ökonomischem Verständnis. Dieses Buch vermittelt das notwendige Wissen, damit Sie die Kontrolle über Ihr Geld behalten. Wo auch immer uns die Bitcoin Reise hinführt, eine Investition in dieses Buch ist mit Sicherheit ein Gewinn." - **Johannes Grill, Präsident Bitcoin Austria**
 
