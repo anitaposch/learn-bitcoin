@@ -1,5 +1,5 @@
 ## Wallet Navigator
-Es gibt eine Vielzahl von Wallet-Anbietern und mit der Zeit kommen weitere hinzu. Sie müssen sich entscheiden, ob Sie eine Wallet nur für Bitcoin oder eine für mehrere Münzen wollen. Jede Wallet bietet unterschiedliche Funktionen, Sicherheitsstufen und Unterstützungsstufen für verschiedene Münzgruppen. Die folgenden Fragen helfen Ihnen bei der Auswahl des grundlegenden Typs einer Geldbörse, der Ihren Bedürfnissen entspricht. Sie werden noch recherchieren müssen, welcher Hersteller welche Münzen unterstützt.
+Es gibt eine Vielzahl von Wallet-Anbietern und mit der Zeit kommen weitere hinzu. Sie müssen sich entscheiden, ob Sie eine Wallet nur für Bitcoin oder eine für mehrere Coins wollen. Jede Wallet bietet unterschiedliche Funktionen, Sicherheitsstufen und Unterstützungsstufen für verschiedene Coins. Die folgenden Fragen helfen Ihnen bei der Auswahl des grundlegenden Typs einer Geldbörse, der Ihren Bedürfnissen entspricht. Sie werden noch recherchieren müssen, welcher Hersteller welche Coins unterstützt.
 
 ### Schritt 1 - Wallet auswählen
 **Möchten Sie regelmäßig mit der Wallet bezahlen können?
@@ -8,8 +8,8 @@ Wenn Sie weder ein Mobiltelefon noch einen Computer benutzen und keine Zahlungen
 **Möchten Sie die Software und ein Gerät auf dem neuesten Stand halten?
 Nein? Dann ist auch hier die Card Wallet die richtige Wahl für Sie. Sie müssen sich nicht um die Wartung eines Geräts kümmern.
 
-**Der Betrag, den Sie auf der Brieftasche haben wollen, ist...**
-*Ähnlich wie die normale Brieftasche in Ihrer Tasche*: Normalerweise ist eine mobile Brieftasche ausreichend. Sie ist kostenlos und für kleine Beträge ausreichend.
+**Der Betrag, den Sie auf der Wallet haben wollen, ist...**
+*Ähnlich wie die normale Brieftasche in Ihrer Tasche*: Normalerweise ist eine mobile Wallet ausreichend. Sie ist kostenlos und für kleine Beträge ausreichend.
 
 *Ähnlich wie Ihr Bankkonto*: Verwenden Sie eine Hardware-Geldbörse. Hardware-Geldbörsen sind bei Bitcoin-Bullenläufen sehr begehrt und oft ausverkauft (denken Sie bei Ihrer Planung daran).
 
