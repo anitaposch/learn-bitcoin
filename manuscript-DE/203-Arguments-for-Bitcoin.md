@@ -126,7 +126,7 @@ Bitcoin abzutun, weil es noch nicht alle Funktionen von Geld erfüllt, greift zu
 
 ### Die Eigenschaften des Geldes im Vergleich
 
-Im Jahr 2014 hat Ryan Walker die Konzepte von Darwins Theorie der natürlichen Selektion genutzt, um die Evolution der verschiedenen Geldformen zu vergleichen. Die folgende Tabelle zeigt, inwieweit Gold, Fiat-Geld und Bitcoin die traditionell anerkannten Eigenschaften von Geld erfüllen (Zeile 1 - 8). Die Zeile "Government issued" zeigt den Grad der Kontrolle durch staatliche Stellen an (Zeile 9).
+Im Jahr 2014 hat Ryan Walker die Konzepte von Darwins Theorie der natürlichen Selektion genutzt, um die Evolution der verschiedenen Geldformen zu vergleichen. Die folgende Tabelle zeigt, inwieweit Gold, Fiat-Geld und Bitcoin die traditionell anerkannten Eigenschaften von Geld erfüllen (Zeile 1 - 8). Die Zeile "Staatsmacht" zeigt den Grad der Kontrolle durch staatliche Stellen an (Zeile 9).
 
 > Das Aufkommen von Kryptowährungen hat wichtige neue Eigenschaften ermöglicht, die bei herkömmlichen Geldformen nicht möglich waren. Darüber hinaus wird die Anwendung dieser Eigenschaften wahrscheinlich einen dramatischen Einfluss auf das Umfeld haben, in dem diese Währungen konkurrieren. In den Zeilen 10 und 11 wird die Besonderheit von Kryptowährungen im Vergleich zu den traditionellen und neu realisierten Eigenschaften von Geld bewertet." - **Ryan Walker**
 
