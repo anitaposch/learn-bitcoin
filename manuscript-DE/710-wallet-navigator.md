@@ -1,5 +1,5 @@
 ## Wallet Navigator
-Es gibt eine Vielzahl von Wallet-Anbietern und mit der Zeit kommen weitere hinzu. Sie müssen sich entscheiden, ob Sie eine Wallet nur für Bitcoin oder eine für mehrere Coins wollen. Jede Wallet bietet unterschiedliche Funktionen, Sicherheitsstufen und Unterstützungsstufen für verschiedene Coins. Die folgenden Fragen helfen Ihnen bei der Auswahl des grundlegenden Typs einer Geldbörse, der Ihren Bedürfnissen entspricht. Sie werden noch recherchieren müssen, welcher Hersteller welche Coins unterstützt.
+Es gibt eine Vielzahl von Wallet-Anbietern und laufend kommen weitere hinzu. Sie müssen sich entscheiden, ob Sie eine Wallet nur für Bitcoin oder eine für mehrere Coins wollen. Jede Wallet bietet unterschiedliche Funktionen, Sicherheitsstufen und Unterstützungsstufen für verschiedene Coins. Die folgenden Fragen helfen Ihnen bei der Auswahl des grundlegenden Typs einer Geldbörse, der Ihren Bedürfnissen entspricht. Sie werden noch recherchieren müssen, welcher Hersteller welche Coins unterstützt.
 
 ### Schritt 1 - Wallet auswählen
 **Möchten Sie regelmäßig mit der Wallet bezahlen können?
