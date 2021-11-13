@@ -11,9 +11,9 @@ Bitcoin ist ein offener Markt. Die Aufgabe des Marktes ist es, den tatsächliche
 Wenn Sie den Wechselkurs für Bitcoin in verschiedenen Ländern nachschlagen, werden Sie Unterschiede zwischen den Nationen feststellen. Zum Beispiel ist der Kauf von Bitcoin in Simbabwe in der Landeswährung teurer als in USD. Das liegt nicht daran, dass Bitcoin in Simbabwe teurer ist, sondern daran, dass die Nachfrage nach der Landeswährung geringer ist. Sie können Ihren Simbabwe-Dollar nicht außer Landes bringen; selbst Simbabwer bevorzugen den USD. Die Menschen müssen also einen Aufpreis zahlen, um Bitcoin zu kaufen, wenn sie eine Währung mit geringerem Wert verwenden.
 
 ## Allzeithoch Tracker
-Eine schöne Seite, auf der Sie die Zeit seit dem letzten All-Time High (ATH) herausfinden können, ist Coingecko https://anita.link/ath
+Eine gut gemachte Seite, auf der Sie die Zeit seit dem letzten All-Time High (ATH) herausfinden können, ist Coingecko https://anita.link/ath
 
 ## Bitcoin-Rechner
 Was die Schwierigkeiten bei der Umrechnung von Satoshi in andere Währungen angeht, z.B. die Frage "Wie viel sind 0,05 Bitcoin oder 10.000 Satoshi in meiner Fiat-Währung?":
-Hier ist ein einfach zu benutzender Rechner: https://anita.link/calc
-Bitcoin-Währungsumrechner: http://preev.com
+Hier sind ein einfach zu benutzender Rechner: https://anita.link/calc 
+und ein Bitcoin-Währungsumrechner: http://preev.com
