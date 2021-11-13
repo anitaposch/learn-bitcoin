@@ -19,8 +19,8 @@ Kanada: [Bull Bitcoin](https://bullbitcoin.com/)
 Nigeria: [Bitnob](https://bitnob.com/)
 USA: [Swan Bitcoin](https://www.swanbitcoin.com/), [River](https://river.com/)
 
-### Handel
-Es gibt zahllose Handelsexperten im Internet, die Anfängern erzählen, wie man "den Markt timen" und die Entwicklung des Bitcoin-Kurses vorhersagen kann. Sie versuchen, Ihnen Handelssoftware und Seminare zu verkaufen. Hören Sie auf. Vergeuden Sie nicht Ihre Zeit und Ihr Geld für solche Versuche. Sie können den Markt nicht timen. Die großen Spieler werden Sie "rektifizieren". Ferner werden Sie eine Menge Handelsgebühren zahlen und bedenken Sie, dass Sie aus steuerlichen Gründen alle Handelsbewegungen verfolgen müssen. In einigen Ländern sind Ihre Bitcoin-Gewinne steuerfrei, wenn Sie die Coins 12 Monate lang nicht umtauschen. Jeder Handel kann ein neues steuerpflichtiges Ereignis darstellen.
+### Trading
+Es gibt zahllose Trader im Internet, die Anfängern erzählen, wie man "den Markt timen" und die Entwicklung des Bitcoin-Kurses vorhersagen kann. Sie versuchen, Ihnen Trading-Software und Seminare zu verkaufen. Hören Sie auf. Vergeuden Sie nicht Ihre Zeit und Ihr Geld für solche Versuche. Sie können den Markt nicht timen. Die großen Spieler werden Sie "rektifizieren". Ferner werden Sie eine Menge Gebühren zahlen und bedenken Sie, dass Sie aus steuerlichen Gründen alle Handelsbewegungen verfolgen müssen. In einigen Ländern sind Ihre Bitcoin-Gewinne steuerfrei, wenn Sie die Coins 12 Monate lang nicht umtauschen. Jeder Trade kann ein neues steuerpflichtiges Ereignis darstellen.
 
 ### Altcoins
 Altcoins ist die Abkürzung für alternative Coins. Dies sind alle Krypto-Assets, die nach Bitcoin entstanden sind. Viele Anfänger folgen dem Rat, "ihr Portfolio zu diversifizieren" und beginnen, ihre Bitcoin mit Altcoins zu handeln. Tausende von Altcoins sind auf [Coinmarketcap](https://coinmarketcap.com/) gelistet. Sie können nicht alle recherchieren und die meisten werden nicht mehr entwickelt und sind wertlos. Bitcoin ist der First-Mover und der Vermögenswert mit dem größten Netzwerkeffekt. Meine persönliche Meinung ist: Wenn Sie diversifizieren wollen, dann tun Sie es mit Ihrem Wissen. Tauchen Sie tiefer in den Bitcoin-Kaninchenbau ein, lernen Sie, wie man sich selbst verwahrt, lernen Sie, wie man einen Knotenpunkt einrichtet, lernen Sie etwas über neue Entwicklungen wie DeFi auf Bitcoin oder lernen Sie, wie man Bitcoin verdient.
@@ -33,6 +33,6 @@ Wenn Sie Bitcoin schon 2011 gekauft hätten, wären Sie jetzt sehr reich. Das is
 ![Hier denkt jemand, dass er 2013 zu spät dran war](assets/_too-late.png) [^73]
 
 ### Steuern
-Ich bin kein Steuerberater, aber was ich sagen kann, ist, dass Sie sich über die Vorschriften und steuerlichen Anforderungen in Ihrer Gerichtsbarkeit informieren sollten. Die Bitcoin-Blockchain ist transparent und immer mehr Steuerbehörden werden von den Börsen verlangen, dass sie ihnen ihre Handelsdaten aushändigen. Bewahren Sie Belege für Ihre Käufe auf, falls die Behörden Nachforschungen anstellen.
+Ich bin kein Steuerberater, aber was ich sagen kann, ist, dass Sie sich über die Vorschriften und steuerlichen Anforderungen in Ihrer Gerichtsbarkeit informieren sollten. Die Bitcoin-Blockchain ist transparent und immer mehr Steuerbehörden werden von den Börsen verlangen, dass sie ihnen ihre Trading-Daten aushändigen. Bewahren Sie Belege für Ihre Käufe auf, falls die Behörden Nachforschungen anstellen.
 
 [^73]: [Quelle BitcoinTalk](https://bitcointalk.org/index.php?topic=170725.0)
