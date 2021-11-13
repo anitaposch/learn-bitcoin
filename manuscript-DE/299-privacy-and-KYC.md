@@ -8,4 +8,4 @@ Wenn Sie Ihre Bitcoin-Adresse im Internet veröffentlichen oder irgendwo anders 
 
 Bitcoin ist nicht so anonym, wie es oft angenommen wird. Alle Zahlungsströme können mit ausreichendem Aufwand analysiert werden. Unternehmen, wie Chainalysis haben sich auf diese Big-Data-Auswertungen spezialisiert und Kunden, wie z.B. Banken, zahlen für dieses Service. Es wird daran gearbeitet, die Privatsphäre von Bitcoin zu verbessern. In den nächsten zwei Jahren wird es hier Innovationen geben, die die Nutzbarkeit von Bitcoin erhöhen und mehr Datenschutz bieten.
 
-Die Kryptowährung Monero, die es seit 2014 gibt, bietet bereits einen eingebauten Schutz der Privatsphäre. Hier sind die Adressen nicht öffentlich sichtbar und damit eine Blockchain-Analyse nicht möglich.
+Die Kryptowährung Monero, die es seit 2014 gibt, bietet bereits einen eingebauten Schutz der Privatsphäre. Hier sind die Adressen nicht öffentlich einsehbar und damit eine Blockchain-Analyse nicht möglich.
