@@ -14,6 +14,5 @@ Wenn Sie den Wechselkurs für Bitcoin in verschiedenen Ländern nachschlagen, we
 Eine gut gemachte Seite, auf der Sie die Zeit seit dem letzten All-Time High (ATH) herausfinden können, ist Coingecko https://anita.link/ath
 
 ## Bitcoin-Rechner
-Was die Schwierigkeiten bei der Umrechnung von Satoshi in andere Währungen angeht, z.B. die Frage "Wie viel sind 0,05 Bitcoin oder 10.000 Satoshi in meiner Fiat-Währung?":
-Hier sind ein einfach zu benutzender Rechner: https://anita.link/calc 
-und ein Bitcoin-Währungsumrechner: http://preev.com
+Was die Schwierigkeiten bei der Umrechnung von Satoshi in andere Währungen angeht, z.B. die Frage "Wie viel sind 0,05 Bitcoin oder 10.000 Satoshi in meiner Fiat-Währung?": Hier sind ein einfach zu benutzender Rechner Satoshi/USD: https://anita.link/calc 
+und ein genereller Bitcoin-Währungsumrechner: http://preev.com
