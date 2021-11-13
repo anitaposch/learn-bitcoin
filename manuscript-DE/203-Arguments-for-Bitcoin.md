@@ -53,7 +53,7 @@ Länder mit schwachen Volkswirtschaften und mangelhaften Demokratien setzen Devi
 * Die Nutzung des Bankensystems ist auch in westlichen Ländern mit viel Bürokratie verbunden, aber in diesen Ländern ist es in vielerlei Hinsicht erheblich schlimmer.
 
 **Geldsendungen**
-* Wenn Sie Geld aus dem Ausland über das traditionelle Bankensystem erhalten, wird es zum offiziellen Bankkurs in argentinische Pesos umgerechnet. Dies bedeutet im Grunde eine Beschlagnahmung von 30% des Wertes.
+* Wenn Sie in Argentienien Geld aus dem Ausland über das traditionelle Bankensystem erhalten, wird es zum offiziellen Bankkurs in argentinische Pesos umgerechnet. Dies bedeutet im Grunde eine Beschlagnahmung von 30% des Wertes.
 * Im Jahr 2020 wurden bis zu 1 Milliarde USD als Überweisungen nach Simbabwe geschickt. Mehr als ein Drittel der Bevölkerung ist auf Überweisungen von Verwandten im Ausland angewiesen. Viele Simbabwer*innen leben in Südafrika und von dem Geld, das sie zu ihren Familien schicken, gehen bis zu 20-30% durch Bankgebühren und offizielle Wechselkurse verloren. [^60]
 
 **Hürden für Frauen**
