@@ -34,7 +34,7 @@ Der Proof-of-Work-Mining-Mechanismus ist ein fundamentales Element der Bitcoin B
 
 Bitcoin kann Transaktionen ohne Zwischenhändler nur deshalb abwickeln, weil spezielle, eigens dafür vorgesehene Hardware transparent nachweist, dass der Computer eine komplexe Rechenoperation erfolgreich durchgeführt hat. Proof-of-Work verankert das digitale Geld in der realen Welt. Hugo Nguyen von Chaincode Labs erklärt: "Beim Proof-of-Work-Mining wird kinetische Energie (Strom) in einen Ledger-Block umgewandelt. Indem man Energie an einen Block bindet, gibt man ihm eine "Form", so dass er in der physischen Welt tatsächlich ein Gewicht und entsprechende Konsequenzen erhält." [^42]
 
-Proof-of-Work ist auch der einzige Mechanismus, der eine gleichmäßig verteilte, dezentrale und faire Schaffung von Coins ermöglicht, während andere Methoden anfängliche Token-Drops und Token-Generierungs-Events erfordern, die es zentralen Akteuren ermöglichen, Vorteile aus bereits zuvor geprägten Coins zu ziehen (Proof-of-Stake).
+Proof-of-Work ist auch der einzige Mechanismus, der eine gleichmäßig verteilte, dezentrale und faire Schaffung von Coins ermöglicht, während andere Methoden in einem ersten Schritt mit Token-Drops oder Token-Generierungs-Events initiale Token schaffen und verteilen müssen, die es damit zentralen Akteuren ermöglichen, Vorteile aus diesen zuvor geschaffenen und erworbenen Coins zu ziehen (Proof-of-Stake).
 
 **Annahme Nr. 1: Für eine einzige Transaktion werden X Kilowatt benötigt**  
 Das ist fehlerhafte Mathematik. Der Energieverbrauch für Bitcoin hängt nicht von der Anzahl der Transaktionen ab. 
