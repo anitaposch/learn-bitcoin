@@ -36,12 +36,12 @@ Im Idealfall überspringen Sie die erste Etage und gehen so schnell wie möglich
 
 Von hier an sind die Schritte für erfahrene Benutzer. Sie geben Ihnen noch mehr Souveränität, Privatsphäre und Kontrolle über Ihre Bitcoin.
 
-**3. Stufe** Sie erhalten die volle Souveränität über Ihre Gelder, indem Sie Ihre Hardware-Wallet mit Ihrem eigenen Full Node verbinden. Mit diesem können Sie nicht nur Informationen über Ihre Transaktionen einsehen und erhalten, sondern auch geminte Blöcke und Transaktionen verifizieren, ohne sich auf Dritte verlassen zu müssen. Sie brauchen niemandem mehr zu vertrauen und haben ein hohes Maß an Privatsphäre und Kontrolle. **"Sie sind Ihre eigene Bank "** und haben nun die **"Don't trust, verify "** Stufe erreicht.
+**3. Stufe** Sie erhalten die volle Souveränität über Ihre Gelder, indem Sie Ihre Hardware-Wallet mit Ihrem eigenen Full Node verbinden. Mit diesem können Sie nicht nur Informationen über Ihre Transaktionen einsehen und erhalten, sondern auch geminte Blöcke und Transaktionen verifizieren, ohne sich auf Dritte verlassen zu müssen. Sie brauchen niemandem mehr zu vertrauen und haben ein hohes Maß an Privatsphäre und Kontrolle. **"Sie sind Ihre eigene Bank "** und haben nun die **"Nicht vertrauen, verifizieren "** Stufe erreicht.
 
 Sie können diese Sicherheits- und Unabhängigkeitsmaßnahmen mit Air-Gapped-Lösungen, Multi-Sig-Setups und mehr noch weiter ausbauen.
 
 Auf dieser Treppe entstehen dezentrale Finanzlösungen wie das Leihen und Verleihen von Bitcoin.
 
-Wenn Sie sich letztlich nur gegen die Inflation absichern und Bitcoin als Wertaufbewahrungsmittel nutzen wollen, ist **das Erreichen der 2. Etage, "Ihre Schlüssel, Ihre Münzen" das Ziel**. Ich werde Ihnen in den nächsten Kapiteln zeigen, wie Sie diese Stufe der Souveränität erreichen können.
+Wenn Sie sich letztlich nur gegen die Inflation absichern und Bitcoin als Wertaufbewahrungsmittel nutzen wollen, ist **das Erreichen der 2. Etage, "Ihre Schlüssel, Ihre Bitcoin" das Ziel**. Ich werde Ihnen in den nächsten Kapiteln zeigen, wie Sie diese Stufe der Souveränität erreichen können.
 
 [^68]: Anita Posch
