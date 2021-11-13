@@ -1,7 +1,7 @@
 # Coins sicher aufbewahren
 
 ## Sicherheitsmaßnahmen
-Alle Datenbanken können gehackt werden. Durchsuchen Sie Ihre E-Mail auf https://haveibeenpwned.com/ - wenn Sie Glück haben, wurden Sie nicht geknackt, aber Milliarden anderer Konten schon. Daher ist es wichtig, allgemeine Sicherheitsmaßnahmen zu befolgen, die bei der Verwendung von Bitcoin noch mehr gelten.
+Alle Datenbanken können gehackt werden. Durchsuchen Sie Ihre E-Mail auf https://haveibeenpwned.com/ - wenn Sie Glück haben, wurden Sie nicht noch nicht gehackt, aber Milliarden anderer Konten schon. Daher ist es wichtig, allgemeine Sicherheitsmaßnahmen zu befolgen, die bei der Verwendung von Bitcoin noch mehr gelten.
 
 ### Hardware- und Software-Einrichtung
 Sie können gängige Browser wie Firefox, Opera, Brave oder Chrome verwenden. Browser-Erweiterungen, die Javascript und Cookies blockieren, werden empfohlen. Ghostery, NoScript und ScriptSafe sind die Art von Erweiterungen, die Sie Ihrem Browser hinzufügen können. "HTTPS überall" erzwingt eine SSL-Verbindung zu allen Websites, auch zu denen, die noch kein SSL anbieten.
@@ -14,10 +14,10 @@ Es ist wichtig, dass Sie Ihre Geräte sicher halten.
 Dieser Ratschlag gilt für alle Ihre Geräte: Führen Sie alle empfohlenen Software-Updates durch. Sowohl für das Betriebssystem Ihres Computers als auch für Ihr Smartphone. Verwenden Sie immer die aktuellste Version Ihrer Wallet- und Firmware-Software auf Ihrer Hardware-Wallet.
 
 ### E-Mail-Adressen
-Verwenden Sie nicht eine E-Mail-Adresse für alles. Besorgen Sie sich Wegwerf-E-Mail-Adressen, die Sie nur einmalig verwenden. Sie können auch eine Domain kaufen, die Sie nur für gefälschte E-Mail-Adressen verwenden, die Sie an Ihre Hauptadresse weiterleiten.
+Verwenden Sie nicht eine E-Mail-Adresse für alles. Besorgen Sie sich Wegwerf-E-Mail-Adressen, die Sie nur einmalig verwenden. Sie können auch eine Domain kaufen, die Sie nur für Schein-Adressen verwenden, die Sie an Ihre Hauptadresse weiterleiten.
 
 ### Sichere Passwörter
-Verwenden Sie sichere Passwörter für alle Online-Dienste. Ihr Geburtstag, Ihr Wohnort, der Name Ihrer Katze oder 1234567 sind keine sicheren Passwörter. Ganze Sätze mit Ziffern, Leerzeichen, Groß- und Kleinbuchstaben und Sonderzeichen sind sichere Passwörter.
+Verwenden Sie sichere Passwörter für alle Online-Dienste. Ihr Geburtstag, Ihr Wohnort, der Name Ihrer Katze oder 1234567 sind keine sicheren Passwörter. Ganze Datensätze mit Ziffern, Leerzeichen, Groß- und Kleinbuchstaben und Sonderzeichen sind sichere Passwörter.
 
 Verwenden Sie für jede Website, bei der Sie sich anmelden, ein anderes Passwort. Andernfalls kann ein Hacker mit nur einem Passwort auf alle Dienste zugreifen, bei denen Sie angemeldet sind. Speichern Sie diese Passwörter nicht in einer Word-Datei oder etwas Ähnlichem auf Ihrem Computer. Ein Word-Dokument ist für Hacker leicht zu stehlen und zu lesen.
 
