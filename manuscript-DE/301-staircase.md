@@ -26,7 +26,7 @@ Stephanie Murphy, Co-Moderatorin des Podcasts "Speaking of Bitcoin", stellt das 
 
 ![3 Schritte zur finanziellen Souveränität](assets/_staircase-sovereignty-3-steps.png) [^68]
 
-**Erdgeschoss** Sie sind ein Pre-Coiner, da Sie mein Buch lesen, müssen Sie sich für Bitcoin interessieren, aber Sie besitzen keinen.
+**Erdgeschoss** Sie sind ein Pre-Coiner, da Sie mein Buch lesen, sind Sie wohl an Bitcoin interessiert, aber Sie besitzen vielleicht noch keinen.
 
 **1. Stock** Sie lernen BTC mit einer Depotlösung an einer zentralen Börse kennen, aber Sie haben keine Kontrolle über die Schlüssel. Sie haben eine gewisse Unabhängigkeit, weil Sie in eine Kryptowährung investiert sind und nicht mehr ausschließlich in Fiat. Aber es ist keine große Unabhängigkeit, denn Sie verlassen sich auf einen Dritten, was die oben erwähnten Risiken für die Gegenpartei mit sich bringt. Sie befinden sich auf der Ebene **"nicht Ihre Schlüssel, nicht Ihre Münzen "**.
 
