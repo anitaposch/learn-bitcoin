@@ -28,7 +28,7 @@ Stephanie Murphy, Co-Moderatorin des Podcasts "Speaking of Bitcoin", stellt das 
 
 **Erdgeschoss** Sie sind vielleicht ein Pre-Coiner. Sie lesen mein Buch, sind wohl an Bitcoin schon interessiert, aber Sie besitzen vielleicht noch keinen.
 
-**1. Stock** Sie lernen BTC mit einer Depotlösung an einer zentralen Börse kennen, aber Sie haben keine Kontrolle über die Schlüssel. Sie haben eine gewisse Unabhängigkeit, weil Sie in eine Kryptowährung investiert sind und nicht mehr ausschließlich in Fiat. Aber es ist keine große Unabhängigkeit, denn Sie verlassen sich auf einen Dritten, was die oben erwähnten Risiken für die Gegenpartei mit sich bringt. Sie befinden sich auf der Ebene **"nicht Ihre Schlüssel, nicht Ihre Münzen "**.
+**1. Stock** Sie lernen BTC mit einer Depotlösung an einer zentralen Börse kennen, aber Sie haben keine Kontrolle über die Schlüssel. Sie haben eine gewisse Unabhängigkeit, weil Sie in eine Kryptowährung investiert sind und nicht mehr ausschließlich in Fiat. Aber es ist keine große Unabhängigkeit, denn Sie verlassen sich auf einen Dritten, was die oben erwähnten Risiken für die Gegenpartei mit sich bringt. Sie befinden sich auf der Ebene **"Ohne Ihre Schlüssel, keine Bitcoin "**.
 
 Im Idealfall überspringen Sie die erste Etage und gehen so schnell wie möglich in die 2.
 
