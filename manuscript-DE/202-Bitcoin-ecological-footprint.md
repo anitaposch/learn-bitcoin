@@ -61,7 +61,7 @@ Werfen wir einen Blick auf das durchschnittliche Transaktionsvolumen von VISA un
 
 ![Durchschnittliche Höhe einer Bitcoin-Transaktion](assets/_average-transaction-value-bitcoin.png) [^45]
 
-Die durchschnittliche Bitcoin-Transaktionshöhe betrug am 21. April 2021 258.766 USD, während die durchschnittliche VISA-Transaktion im Jahr 2012 91 USD betrug. Bitcoin-Transaktionen transportieren im Vergleich zu Kreditkartenzahlungen ein Vielfaches an Wert. Wenn sich Bitcoin massenhaft durchsetzt, könnte es eines Tages wie das Fedwire-System Millionen von Dollar abwickeln und das im Vergleich zum Bankensystem mit sehr niedrigen Gebühren.
+Die durchschnittliche Bitcoin-Transaktionshöhe betrug am 21. April 2021 umgerechnet 258.766 USD, während die durchschnittliche VISA-Transaktion im Jahr 2021 nur 91 USD betrug. Bitcoin-Transaktionen transportieren also im Vergleich zu Kreditkartenzahlungen ein Vielfaches an Wert. Wenn sich Bitcoin als alltägliches Zahlungsmittel durchsetzt, könnte genau wie das Fedwire-System täglich Millionen von Dollar abwickeln und das im Vergleich zum Bankensystem mit sehr niedrigen Gebühren.
 
 Die durchschnittliche Transaktionshöhe einer Fedwire-Überweisung lag im Februar 2021 bei 4,5 Millionen USD. [^46]
 
