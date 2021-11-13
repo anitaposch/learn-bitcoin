@@ -1,6 +1,6 @@
 ## Wallet-Typen
 
-Es gibt verschiedene Arten von Wallets, je nach Gerät, Sicherheitsanforderungen und unterstützten Kryptowährungen. Um zu entscheiden, welche Wallet für Sie am besten geeignet ist, werde ich Ihnen einige grundsätzliche Überlegungen und Standards als Orientierungshilfe anbieten. Letztlich müssen Sie selbst entscheiden, welche Wallet für Sie die Beste ist. Da Bitcoin eine so neue Technologie ist, ändert sich die Wallet-Software ständig. Sie müssen damit rechnen, dass Sie Upgrades durchführen und manchmal den Wallet-Hersteller wegen neuer Funktionen wechseln müssen, denn es sind ständig neue Wallets auf dem Markt. Das sollte Sie nicht abschrecken, ich möchte Sie nur darauf aufmerksam machen. In den letzten Jahren habe ich immer mehr Wallets verwendet, um sie zu testen oder um neue Funktionen nutzen zu können. Daher werde ich Ihnen Wallets empfehlen, die ich selbst genutzt habe und die unter Experten als zuverlässig gelten.
+Es gibt verschiedene Arten von Wallets, je nach Gerät, Sicherheitsanforderungen und unterstützten Kryptowährungen. Um zu entscheiden, welche Wallet für Sie am besten geeignet ist, werde ich Ihnen einige grundsätzliche Überlegungen und allgemeine Standards als Orientierungshilfe anbieten. Letztlich müssen Sie selbst entscheiden, welche Wallet für Sie die Beste ist. Da Bitcoin eine so neue Technologie ist, ändert sich die Wallet-Software ständig. Sie müssen damit rechnen, dass Sie Upgrades durchführen und manchmal den Wallet-Hersteller wegen neuer Funktionen wechseln müssen, denn es sind ständig neue Wallets auf dem Markt. Das sollte Sie nicht abschrecken, ich möchte Sie nur darauf aufmerksam machen. In den letzten Jahren habe ich immer mehr Wallets verwendet, um sie zu testen oder um neue Funktionen nutzen zu können. Daher werde ich Ihnen Wallets empfehlen, die ich selbst genutzt habe und die unter Experten als zuverlässig gelten.
 
 ### Wallet-Sicherheit
 
@@ -10,12 +10,12 @@ Außerdem ist Ihr Smartphone, ob Android oder iOS, sicherer als Ihr Laptop oder 
 
 Zusätzlich zu diesen Überlegungen müssen Sie eine Wallet verwenden, die Ihre bevorzugten Kryptowährungen unterstützt. Da dies ein BTC-Leitfaden ist, schlage ich vor, dass Sie eine reine Bitcoin-Brieftasche verwenden. Je mehr Kryptowährungen eine Software wie eine Wallet-App verwalten muss, desto komplexer ist die Entwicklung und Wartung der Software aufseiten des Herstellers. Mehr Komplexität birgt ein höheres Risiko von Fehlern und Sicherheitslücken.
 
-In den Jahren seit der Veröffentlichung von Bitcoin hat sich die Verwendung einer Hardware-Wallet als der beste Weg erwiesen, um Ihre privaten Schlüssel zu speichern. Eine Hardware-Wallet ist ein kleines Gerät, das private Schlüssel offline speichert, ähnlich wie ein USB-Stick.
+Über die Jahren hat sich die Verwendung einer Hardware-Wallet als der beste Weg erwiesen, um privaten Schlüssel zu speichern. Eine Hardware-Wallet ist ein kleines Gerät, das private Schlüssel offline speichert, ähnlich wie ein USB-Stick.
 
-Hardware-Wallets erfordern Wartung und einen Computer oder ein Smartphone. Wenn Sie sich nicht um Software-Updates kümmern möchten oder kein solches Gerät besitzen, können Sie die Card Wallet als kalte Speicheralternative verwenden. Es ist ein Produkt des ältesten österreichischen Bitcoin-Brokers Coinfinity und der österreichischen Staatsdruckerei.
+Hardware-Wallets erfordern Wartung und einen Computer oder ein Smartphone. Wenn Sie sich nicht um Software-Updates kümmern möchten oder kein solches Gerät besitzen, können Sie beispielsweise die Card Wallet als kalte Speicheralternative verwenden. Diese ist ein Produkt des ältesten österreichischen Bitcoin-Brokers Coinfinity und der Österreichischen Staatsdruckerei.
 
-### Industriestandards
-In jedem Fall müssen Sie den Wallet-Herstellern mehr oder weniger vertrauen. Die von der **Industrie bevorzugten und empfohlenen Cold Storage-Lösungen sind Hardware-Wallets**.
+### Allgemeine Standards
+In jedem Fall müssen Sie den Wallet-Herstellern mehr oder weniger vertrauen. Die **allgemein bevorzugten und empfohlenen Cold Storage-Lösungen sind Hardware-Wallets**.
 
 Je nachdem, wie viel Ihr Wallet zu verwalten hat, ist es üblich, eine Kombination aus **einem Smartphone-Wallet für kleine Beträge, die Sie unterwegs dabei haben möchten** und **Hardware-Wallets für große Beträge wie Ersparnisse auf Ihrem Bankkonto** zu verwenden.
 
@@ -74,4 +74,5 @@ Wenn Sie sich eine Hardware-Wallet einfach nicht leisten können, verwenden Sie 
 **Card Wallet**
 Die Card Wallet (Produkt) ist im Prinzip eine Paper Wallet, wird aber von Profis mit hohen Sicherheitsstandards hergestellt. Allerdings müssen Sie den Herstellern vertrauen, dass sie die privaten Schlüssel nicht auf der Karte speichern. Sie können die Card Wallet als Alternative verwenden, wenn Sie keinen Computer oder kein Smartphone besitzen oder sich nicht um die Wartung Ihrer Hardware-Wallet kümmern möchten. https://cardwallet.com/anita (meine Leser erhalten 20% Rabatt)
 
-Die von der Industrie bevorzugte und **empfohlene Cold Storage-Lösung sind Hardware-Wallets**.
+
+Die im Allgemeinen bevorzugte und **empfohlene Cold Storage-Lösung sind Hardware-Wallets**.
