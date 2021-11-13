@@ -4,19 +4,19 @@ In diesem Kapitel werden wir die verschiedenen Möglichkeiten untersuchen, wie S
 ## Bitcoin kaufen - Custodial
 In vielen Fällen erfolgt der erste Kontakt mit Kryptowährungen über Depotbörsen wie Kraken, Coinbase, Binance, Bitpanda und Bitfinex, um nur einige zu nennen.
 
-Sie werden als Depotbanken bezeichnet, weil sie die Schlüssel für Ihre Bitcoin besitzen. Auf diesen Plattformen erhalten Sie zwar eine Brieftasche, die aber eher einem Bankkonto gleicht und Risiken wie Hacking, Beschlagnahme oder Konfiszierung durch Regierungen birgt.
+Sie werden auch als Verwahrer (Custodials) bezeichnet, weil sie die Schlüssel für Ihre Bitcoin besitzen. Auf diesen Plattformen erhalten Sie zwar eine Wallet, diese gleicht aber eher einem Bankkonto und Risiken wie Hacking, Pfändung oder Konfiszierung durch Regierungen birgt.
 
 Der Handel auf diesen Börsen findet außerhalb der Blockchain statt, d. h. die Transaktionen werden nicht auf der Blockchain abgewickelt, sondern nur in den Datenbanken der Plattform verwaltet. Dies erhöht die Geschwindigkeit der Transaktionen, führt aber gleichzeitig zu einem Mangel an Transparenz und Sicherheit.
 
-Um Bitcoin ins Depot zu erwerben, müssen Sie ein Konto eröffnen, einen KYC- und AML-Registrierungsprozess durchlaufen und dann Fiat-Geld auf das Konto der Plattform einzahlen. Nachdem Ihr Geld angekommen ist, können Sie es gegen Bitcoin oder andere Kryptowährungen eintauschen.
+Um Bitcoin bei einem Verwahrer zu erwerben, müssen Sie ein Konto eröffnen, einen KYC- und AML-Registrierungsprozess durchlaufen und dann Fiat-Geld auf das Konto der Plattform einzahlen. Nachdem Ihr Geld angekommen ist, können Sie es gegen Bitcoin oder andere Kryptowährungen eintauschen.
 
-Wie bereits in Kapitel 4 "Die Treppe der finanziellen Souveränität" erwähnt, sollten Sie Ihr Geld entweder auf Ihre eigene Wallet überweisen oder diese Börsen überspringen und sofort auf Non-Custodial Wallets umsteigen, um die Gegenparteirisiken von Custodial Wallets zu vermeiden.
+Wie bereits in Kapitel 4 "Die Treppe der finanziellen Souveränität" erwähnt, sollten Sie Ihre erworbenen Bitcoin entweder direkt auf Ihre eigene Wallet überweisen oder diese Börsen überspringen und sofort auf Non-Custodial Wallets umsteigen, um die Risiken von Custodial Wallets zu vermeiden.
 
 ## Bitcoin kaufen - Non-Custodial
 Das Halten von Bitcoin in einer Non-Custodial-Wallet (selbst gehostet) ist das gewünschte Ergebnis. Es macht Ihre Transaktionen unzensierbar und gibt Ihnen maximale Freiheit über Ihr Geld. Dies können Sie erreichen, indem Sie Bitcoin zunächst an der richtigen Stelle kaufen.
 
 ### Bitcoin-Broker
-Ein Broker ist ein Unternehmen, das es Ihnen ermöglicht, Bitcoin ohne Pfand zu kaufen. Da es sich um registrierte Unternehmen handelt, sind sie vollständig reguliert und Sie müssen sich identifizieren und die AML/KYC-Verfahren durchlaufen. Bitcoin-Broker senden den von Ihnen gekauften Bitcoin-Betrag direkt an Ihre Bitcoin-Adresse (Ihre Brieftasche, in der Sie den Seed halten).
+Ein Broker ist ein Unternehmen, das es Ihnen ermöglicht, Bitcoin ohne Pfand zu kaufen. Da es sich um registrierte Unternehmen handelt, sind sie vollständig reguliert und Sie müssen sich identifizieren und die AML/KYC-Verfahren durchlaufen. Bitcoin-Broker senden den von Ihnen gekauften Bitcoin-Betrag direkt an Ihre Bitcoin-Adresse (Ihre Wallet, in der Sie den Seed halten).
 
 Um nur ein paar Beispiele für Bitcoin-Broker zu nennen:
 
@@ -41,7 +41,7 @@ Ein Bitcoin-Geldautomat ist ein Automat, der einem Geldautomaten ähnelt, an dem
 * [CoinATM Radar](https://coinatmradar.com/)
 
 ### Bitcoin-Geschenkkarten und -Gutscheine
-In Österreich ist es unter anderem möglich, an Tankstellen und in Kiosken 'Bitcoinbon'-Geschenkkarten zu kaufen. Diese Geschenkkarten finden Sie oft in den Verkaufsständern, in denen auch Karten für Handyguthaben oder Amazon-Geschenke usw. verkauft werden. Sie können Bitcoin-Geschenkkarten kaufen, ohne eine Brieftasche einzurichten und ohne Registrierung. Wenn Sie den Wert der Karten in Münzen umwandeln möchten, richten Sie eine Brieftasche ein und lösen die Münzen ein.
+In Österreich ist es unter anderem möglich, an Tankstellen und in Kiosken 'Bitcoinbon'-Geschenkkarten zu kaufen. Diese Geschenkkarten finden Sie oft in den Verkaufsständern, in denen auch Karten für Handyguthaben oder Amazon-Geschenke usw. verkauft werden. Sie können Bitcoin-Geschenkkarten kaufen, ohne eine Wallet einzurichten und ohne Registrierung. Wenn Sie den Wert der Karten in Coins umwandeln möchten, richten Sie eine Wallet ein und lösen die Coins ein.
 
 * [Azteco](https://azte.co/)
 * [Bitcoinbon](http://www.bitcoinbon.at/)
