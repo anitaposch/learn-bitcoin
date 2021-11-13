@@ -85,7 +85,7 @@ Bitcoin nutzt einen höheren Anteil an Elektrizität aus erneuerbarer Energie al
 ![Strom-Mix, Bitcoin verglichen mit China, USA und der Welt, 2020](assets/_Bitcoin-electricity-sources.jpg) [^50]
 
 **CO2-Emissionen**  
-Einige Untersuchungen haben versucht, die CO2-Emissionsströme und die Nachhaltigkeit von Bitcoin anhand der Prognose der künftigen Nachfrage zu bewerten, was auf falschen Annahmen beruht. In einem Bericht wird zum Beispiel behauptet, dass: "Der jährliche Energieverbrauch der Bitcoin-Blockchain in China wird voraussichtlich im Jahr 2024 mit 296,59 Twh seinen Höhepunkt erreichen und dementsprechend 130,50 Millionen Tonnen Kohlenstoffemissionen verursachen." [^51]
+Einige Untersuchungen haben versucht, die CO2-Emissionsströme und die Nachhaltigkeit von Bitcoin anhand der Prognose der künftigen Nachfrage zu bewerten, oft leider basierend auf falschen Annahmen . In einem Bericht wird zum Beispiel behauptet: "Der jährliche Energieverbrauch der Bitcoin-Blockchain in China wird voraussichtlich im Jahr 2024 mit 296,59 Terawattstunden (Twh) seinen Höhepunkt erreichen und dementsprechend 130,50 Millionen Tonnen Kohlenstoffemissionen verursachen." [^51]
 
 > "Es sticht sofort ins Auge, dass die Autoren den zukünftigen Kohlenstoffverbrauch von Bitcoin auf zwei Dezimalstellen genau angeben, obwohl die Zahl realistischerweise nur in einer Größenordnung geschätzt werden kann.", stellt **Nic Carter** fest. [^52]
 
@@ -95,9 +95,9 @@ Laut der [Studie von Hass McCook](https://bitcoinmagazine.com/business/bitcoin-v
 
 **Letzte Annahme: Bitcoin ist nutzlos, daher ist jeder Einsatz von Energie für Bitcoin Verschwendung**  
 
-Wenn Sie der Meinung sind, dass Bitcoin nicht sinnvoll ist, dann ist das eine sehr subjektive Meinung. Bitcoin mag für Sie keinen Sinn ergeben, aber für viele andere Menschen sehr wohl. Wenn Sie so argumentieren, müssen Sie zugeben, dass es viele andere Formen der Energienutzung gibt, die auf den ersten Blick nutzlos oder sogar schädlich sind, und die nicht so genau unter die Lupe genommen werden.
+Selbst wenn Sie zu dem Schluss kommen, dass Sie Bitcoin für nutzlos halten, finden doch finden viele anderen Menschen Bitcoin sehr wichtig. In diesem Zusammenhang müssen Sie jedenfalls zugeben, dass es viele andere Formen der Energienutzung gibt, die auf den ersten Blick nutzlos oder sogar schädlich sind, und die nicht so genau unter die Lupe genommen werden.
 
-Wir schalten jedes Jahr Milliarden von Weihnachtslampen ein, um Weihnachtsstimmung zu verbreiten, was für Milliarden von Menschen mit anderen Anschauungen völlig sinnlos ist. Der größte Energieverbraucher in den Vereinigten Staaten außerhalb der öffentlichen Haushalte ist das Verteidigungsministerium. Die US-Regierung verbraucht enorme Mengen an Energie und ist der größte Umweltverschmutzer des Landes, und zwar aus keinem anderen legitimen Grund als dem Streben nach extremer Kontrolle.
+Wir schalten jedes Jahr Milliarden von Weihnachtslampen ein, um Weihnachtsstimmung zu verbreiten, was für Milliarden von Menschen mit anderen Anschauungen völlig sinnlos ist. Der größte Energieverbraucher in den Vereinigten Staaten außerhalb der öffentlichen Haushalte ist das Verteidigungsministerium. Dafür wendet die US-Regierung  enorme Mengen an Energie auf und ist der größte Umweltverschmutzer des Landes, und zwar aus keinem anderen Grund als zur Ausübung und zum Erhaltung ihrer weltweiter Macht.
 
 ![US-Militär emittiert mehr CO2 als viele andere Nationen](assets/_military-co2.png) [^54]
 
