@@ -51,17 +51,17 @@ Eine Hochrechnung des Energieverbrauch auf Basis von Transaktionen ist insofern 
 Darüberhinaus nimmt die Effizienz der Mining-Ausrüstung nimmt zu, sodass die Miner mit der Zeit weniger Energie für die gleiche Rechenleistung benötigen, und verbessern die Bitcoin-Entwickler den Code, indem sie die Datengröße von Transaktionen minimieren, damit mehr Transaktionen in einem Block geschürft werden können.
 
 **Annahme Nr. 3: Vergleiche zwischen VISA und Bitcoin**  
-Eine Bitcoin-On-Chain-Transaktion kann nicht einfach mit einer VISA-Zahlung verglichen werden. Im traditionellen Bankwesen gibt es verschiedene Abwicklungsebenen, d.h. sie unterscheiden sich in ihrem Sicherheits- und Abwicklungsniveau. Nehmen wir als Beispiel das US-System für VISA-Zahlungen, das vergleichbar ist mit anderen weltweit existierenden Systemen zur Abwicklung von VISA-Zahlungen. Die Basisebene besteht aus Fedwire-, CHIPS- und SWIFT-Netzwerken, während Debit- und Kreditkartenzahlungen eine oder zwei Ebenen darüber mit vielen Zwischenhändlern abgewickelt werden. Der Basislayer von Bitcoin ist vergleichbar mit Fedwire, CHIPS und SWIFT. Nur jene Lösungen auf der zweiten Ebene - wie schnelle Mikrozahlungen über das Lightning-Netzwerk - können mit VISA verglichen werden.
+Eine Bitcoin-On-Chain-Transaktion kann nicht einfach mit einer VISA-Zahlung verglichen werden. Im traditionellen Bankwesen gibt es unterschiedliche Abwicklungsebenen, die miteinander interagieren. Nehmen wir als Beispiel das US-System für VISA-Zahlungen, das vergleichbar ist mit anderen internationalen Systemen zur Abwicklung von VISA-Zahlungen. Die Basisebene besteht aus Fedwire-, CHIPS- und SWIFT-Netzwerken, während Debit- und Kreditkartenzahlungen eine oder zwei Ebenen darüber mit vielen Zwischenhändlern abgewickelt werden. Der Basislayer von Bitcoin ist vergleichbar mit Fedwire, CHIPS und SWIFT. Nur jene Lösungen auf der zweiten Ebene - wie Mikrozahlungen über das Lightning-Netzwerk - können mit VISA verglichen werden.
 
 ![Falscher Vergleich zwischen einer Bitcoin-Transaktion und VISA](assets/_VISA-BTC-comparison.png) [^43]
 
-Werfen wir einen Blick auf das durchschnittliche Transaktionsvolumen von VISA und Bitcoin.
+Werfen wir einen Blick auf das durchschnittliche Transaktionsvolumen von VISA und vergleichen wir es mit dem von Bitcoin.
 
 ![Durchschnittlicher Höhe einer einzelnen Kreditkarten-Transaktion weltweit in US-Dollar im Jahr 2012](assets/_average-VISA-transaction.png) [^44]
 
 ![Durchschnittliche Höhe einer Bitcoin-Transaktion](assets/_average-transaction-value-bitcoin.png) [^45]
 
-Die durchschnittliche Bitcoin-Transaktionshöhe betrug am 21. April 2021 258.766 USD, während die durchschnittliche VISA-Transaktion im Jahr 2012 91 USD betrug. Bitcoin-Transaktionen transportieren im Vergleich zu Kreditkartenzahlungen ein Vielfaches an Wert. Wenn sich Bitcoin massenhaft durchsetzt, könnte es eines Tages wie das Fedwire-System Millionen von Dollar zu sehr niedrigen Gebühren im Vergleich zum Bankensystem abwickeln.
+Die durchschnittliche Bitcoin-Transaktionshöhe betrug am 21. April 2021 258.766 USD, während die durchschnittliche VISA-Transaktion im Jahr 2012 91 USD betrug. Bitcoin-Transaktionen transportieren im Vergleich zu Kreditkartenzahlungen ein Vielfaches an Wert. Wenn sich Bitcoin massenhaft durchsetzt, könnte es eines Tages wie das Fedwire-System Millionen von Dollar abwickeln und das im Vergleich zum Bankensystem mit sehr niedrigen Gebühren.
 
 Die durchschnittliche Transaktionshöhe einer Fedwire-Überweisung lag im Februar 2021 bei 4,5 Millionen USD. [^46]
 
