@@ -49,8 +49,8 @@ Länder mit schwachen Volkswirtschaften und mangelhaften Demokratien setzen Devi
 
 **Das Bankensystem ist nicht verfügbar oder funktioniert nicht**
 * Lokale Unternehmen in Simbabwe dürfen USD verwenden, um Rechnungen an einen lokalen Lieferanten zu stellen. Die eingenommenen US-Dollar müssen innerhalb von 30 Tagen wieder ausgeben werden oder das Geld wird zwangsweise zum Bankkurs in RTGS gewechselt, also in jenen simbabwischen Dollar, der diese ungewöhnlich hohen Inflationsraten aufweist. Damit wird verunmmöglicht in USD zu sparen um der Inflation zu entkommen.
-* Wenn Sie bei einer argentinischen Bank Devisen kaufen, wird der offizielle Bankwechselkurs verwendet (der für die Bank günstig ist, aber nicht für den Kunden) und außerdem wird eine 65%ige Steuer abgezogen.
-* Die Nutzung des Bankensystems ist auch in westlichen Ländern mit viel Bürokratie verbunden, aber in diesen Ländern ist es noch viel schlimmer.
+* Wenn Sie bei einer argentinischen Bank Devisen kaufen, wird der offizielle Bankwechselkurs verwendet (der für die Bank günstig ist, aber nicht für den Kunden) und zusätzlich eine 65%ige Steuer abgezogen.
+* Die Nutzung des Bankensystems ist auch in westlichen Ländern mit viel Bürokratie verbunden, aber in diesen Ländern ist es in vielerlei Hinsicht erheblich schlimmer.
 
 **Geldsendungen**
 * Wenn Sie Geld aus dem Ausland über das traditionelle Bankensystem erhalten, wird es zum offiziellen Bankkurs in argentinische Pesos umgerechnet. Dies bedeutet im Grunde eine Beschlagnahmung von 30% des Wertes.
