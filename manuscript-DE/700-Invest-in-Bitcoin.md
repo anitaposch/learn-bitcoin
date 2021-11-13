@@ -16,7 +16,7 @@ Wie bereits in Kapitel 4 "Die Treppe der finanziellen Souveränität" erwähnt, 
 Das Halten von Bitcoin in einer Non-Custodial-Wallet (selbst gehostet) ist das gewünschte Ergebnis. Es macht Ihre Transaktionen unzensierbar und gibt Ihnen maximale Freiheit über Ihr Geld. Dies können Sie erreichen, indem Sie Bitcoin zunächst an der richtigen Stelle kaufen.
 
 ### Bitcoin-Broker
-Bei einem Bitcoin-Broker können Sie Bitcoin direkt kaufen ohne diese in Wallets bei diesen Brokern empfangen zu müssen. Da es sich um registrierte Unternehmen handelt, sind sie vollständig reguliert und Sie müssen sich identifizieren und die AML/KYC-Verfahren durchlaufen. Bitcoin-Broker senden aber den von Ihnen gekauften Bitcoin-Betrag direkt an Ihre Bitcoin-Adresse (Ihre Wallet, in der Sie den Seed halten).
+Bei einem Bitcoin-Broker können Sie Bitcoin direkt kaufen. Da es sich um registrierte Unternehmen handelt, sind sie vollständig reguliert und Sie müssen sich identifizieren und die AML/KYC-Verfahren durchlaufen. Bitcoin-Broker senden aber den von Ihnen gekauften Bitcoin-Betrag direkt an Ihre Bitcoin-Adresse (Ihre Wallet, in der Sie den Seed halten).
 
 Um nur ein paar Beispiele für Bitcoin-Broker zu nennen:
 
