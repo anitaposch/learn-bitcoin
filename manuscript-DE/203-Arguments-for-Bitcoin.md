@@ -100,7 +100,7 @@ Das Bitcoin-Netzwerk ist eine öffentliche Infrastruktur; ein dezentrales Kommun
 Bitcoin ist ideal für langfristiges Sparen. Wenn Sie annehmen, dass sein Wert in Zukunft steigen wird, werden Sie eher Ihre Bitcoin halten als sie für Dinge auszugeben, die nicht wirklich notwendig sind.
 
 ### Sie können sich Bitcoin leisten
-Sie müssen nicht gleich einen ganzen Bitcoin kaufen. Ein Bitcoin ist in hundert Millionen Einheiten teilbar. Die kleinste Einheit wird als "Satoshi" bezeichnet - nach dem pseudonymen Gründerfigur Satoshi Nakamoto. Sie können Teile eines Bitcoins kaufen und zum Beispiel nur 20 Euro einsetzen.
+Sie müssen nicht gleich einen ganzen Bitcoin kaufen. Ein Bitcoin ist in hundert Millionen Einheiten teilbar. Die kleinste Einheit wird als "Satoshi" bezeichnet - nach der pseudonymen Gründerfigur Satoshi Nakamoto. Sie können Teile eines Bitcoins kaufen und zum Beispiel nur 20 Euro einsetzen.
 
 ### Bitcoin und die Funktionen des Geldes
 Viele Lehrbuch-Ökonomen beharren darauf, dass Bitcoin kein Geld ist, weil es die drei funktionalen Kriterien, die Geld haben muss, nicht erfüllt. Diese Funktionen wurden 1875 von William Stanley Jevons[^66] definiert und seine Analyse ist seitdem in makroökonomischen Lehrbüchern weitverbreitet.
