@@ -1,6 +1,6 @@
 ## Sichern Sie Ihr Geld
 
-Wie im vorherigen Kapitel erwähnt, ist es unser Ziel, die Stufe "Ihre Schlüssel, Ihre Münzen" zu erreichen.
+Wie im vorherigen Kapitel erwähnt, ist es unser Ziel, die Stufe "Ihre Schlüssel, Ihre Bitcoin" zu erreichen.
 
 Um Bitcoin zu kaufen, zu verwenden und aufzubewahren, benötigen Sie:
 
