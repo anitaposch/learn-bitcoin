@@ -1,6 +1,6 @@
 ### Privatsphäre im digitalen Zeitalter
 
-Bitcoin ist pseudonym. Das bedeutet, dass Ihre Wallet und Ihre Bitcoin-Adressen nicht mit Ihrer Identität in Verbindung gebracht werden können, da weder Ihr Name, Ihr Wohnort noch Ihre IP-Adresse bei der Nutzung gespeichert werden.
+Bitcoin ist pseudonym. Das bedeutet, dass Ihre Wallet und Ihre Bitcoin-Adressen nicht direkt mit Ihrer Identität in Verbindung gebracht werden können, da weder Ihr Name, Ihr Wohnort noch Ihre IP-Adresse bei der Nutzung gespeichert werden.
 
 Eine Ausnahme ist die Erstellung eines Benutzerkontos bei einer zentralen Bitcoin-Börse, wenn Sie Fiat in Bitcoin tauschen. Hier wird, wie bei traditionellen Banken, ein Identitätsnachweis und eine Registrierung verlangt. Unter bestimmten Umständen können Finanzämter und Behörden eine Börse zwingen, Ihre Identifikationsdaten und die zugehörigen Bitcoin-Adressen herauszugeben.
 
