@@ -72,7 +72,7 @@ Ich glaube zwar nicht, dass Regierungen in der Lage sein werden, die Verwendung 
 
 Die Executive Order 6102, die am 5. April 1933 von US-Präsident Franklin D. Roosevelt unterzeichnet wurde, verbot das Horten von Gold. Im Jahr 1975 konnten die Amerikaner wieder legal Gold besitzen. Satoshi Nakamoto gab seinen Geburtstag als 5. April 1975 an. Das ist natürlich kein Zufall. Es zeigt die Absichten von Satoshi, dass es bei Bitcoin um finanzielle Freiheit geht.
 
-Wenn Sie mehr darüber erfahren möchten, wie unfair das derzeitige Finanzsystem gegenüber Milliarden von Menschen auf der ganzen Welt ist, hören Sie sich mein [Podcast-Interview mit Zachary Kelman,](https://anita.link/80) an. Einem Anwalt, der sich auf politische, rechtliche und regulatorische Fragen rund um Bitcoin spezialisiert hat.
+Wenn Sie mehr darüber erfahren möchten, wie unfair das derzeitige Finanzsystem gegenüber Milliarden von Menschen auf der ganzen Welt ist, hören Sie sich mein [Podcast-Interview mit Zachary Kelman,](https://anita.link/80) an, einem Anwalt, der sich auf politische, rechtliche und regulatorische Fragen rund um Bitcoin spezialisiert hat.
 
 ### Non-KYC Bitcoin kaufen
 
