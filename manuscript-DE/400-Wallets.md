@@ -4,7 +4,7 @@ Es gibt verschiedene Arten von Wallets, je nach Gerät, Sicherheitsanforderungen
 
 ### Wallet-Sicherheit
 
-Je besser die Software einer Wallet vor Angriffen von außen über das Internet geschützt ist, desto sicherer ist sie. Daher wird grundsätzlich zwischen Hot-Storage- und Cold-Storage-Lösungen unterschieden. Hot Wallets, wie z. B. mobile Wallets und Desktop Wallets, sind Apps, die sich mit dem Internet verbinden und daher durch Hacker, Viren oder regulatorische Risiken und Gegenparteirisiken gefährdet sind. Kalte Speicherlösungen wie Hardware-Geldbörsen sind nicht immer online und daher viel sicherer.
+Je besser die Software einer Wallet vor Angriffen geschützt ist, desto sicherer ist sie. Daher wird grundsätzlich zwischen Hot-Storage- und Cold-Storage-Lösungen unterschieden. Hot Wallets, wie z. B. mobile Wallets und Desktop Wallets, sind Apps, die sich mit dem Internet verbinden und daher durch Hacker, Viren oder regulatorische Risiken und Gegenparteirisiken gefährdet sind. Kalte Speicherlösungen wie Hardware-Geldbörsen sind nicht immer online und daher viel sicherer.
 
 Außerdem ist Ihr Smartphone, ob Android oder iOS, sicherer als Ihr Laptop oder PC. Desktop-Windows-Systeme sind zum Zeitpunkt der Erstellung dieses Artikels weniger sicher als Apple-Geräte. Bei den verschiedenen Smartphone-Betriebssystemen gibt es weniger Unterschiede in Bezug auf das Sicherheitsniveau.
 
