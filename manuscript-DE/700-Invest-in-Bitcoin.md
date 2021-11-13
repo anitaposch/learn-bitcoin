@@ -84,15 +84,14 @@ Um Bitcoin ohne Benutzeridentifikation zu erwerben, können Sie:
 * von einem Freund oder bei einem lokalen Treffen kaufen
 * an einem Bitcoin-Geldautomaten kaufen
 * Bitcoin-Geschenkkarten kaufen
-* gehen Sie in physische Geschäfte, wo Sie Bitcoin kaufen oder verkaufen können
-* nutzen Sie dezentrale Börsen wie
-* [Hodlhodl](https://hodlhodl.com)
-* [Bisq](https://bisq.network/)
-* [LocalCoinSwap](https://localcoinswap.com/buy-sell/BTC)
-* [LocalCryptos](https://localcryptos.com/Bitcoin)
-* [Sovryn](https://live.sovryn.app)
-
-Tauschquellen: https://kycnot.me/, https://github.com/cointastical/P2P-Trading-Exchanges/, https://bitcoiner.guide/nokyconly/
+* in physische Geschäfte gehen, wo Sie Bitcoin kaufen oder verkaufen können
+* dezentrale Börsen nutzen wie
+*  - [Hodlhodl](https://hodlhodl.com)
+*  - [Bisq](https://bisq.network/)
+*  - [LocalCoinSwap](https://localcoinswap.com/buy-sell/BTC)
+*  - [LocalCryptos](https://localcryptos.com/Bitcoin)
+*  - [Sovryn](https://live.sovryn.app)
+* Tauschquellen nutzen wie: https://kycnot.me/, https://github.com/cointastical/P2P-Trading-Exchanges/, https://bitcoiner.guide/nokyconly/
 
 ## Kosten für den Kauf von Bitcoin
 Wenn Sie Kryptowährungen kaufen, müssen Sie Gebühren für den Dienstleister zahlen, genau wie beim Umtausch in eine Fremdwährung, wenn Sie in ein anderes Land reisen. Der Preis, zu dem Sie umtauschen, wird vom Dienstanbieter festgelegt (siehe Kapitel Bitcoin-Preis). In der Regel handelt es sich dabei um den Marktpreis zuzüglich eines Aufschlags für den Service. Da jede Börse ihren eigenen Bitcoin-Preis und unterschiedliche Gebührenstrukturen hat, gibt es große Unterschiede bei den Handelskosten zwischen den einzelnen Börsen. Sie können Geld sparen, wenn Sie bei der Auswahl einer bestimmten Plattform die Handelsgebühren vergleichen.
