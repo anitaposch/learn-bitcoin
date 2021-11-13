@@ -26,7 +26,7 @@ Um nur ein paar Beispiele für Bitcoin-Broker zu nennen:
 * [Coinnexus](https://coinnexus.ch/en) arbeitet ohne Verifizierung bis zu CHF 1.000 pro Jahr.
 
 ### Peer-to-Peer-Kauf vor Ort
-Sie können einen der vielen Bitcoin-Treffs auf der ganzen Welt besuchen, mit anderen Bitcoinern in Kontakt treten und diese bitten, Ihnen Bitcoin gegen Bargeld zu verkaufen. In vielen Ländern treffen sich Menschen in Telegram- oder Facebook-Gruppen, um Gleichgesinnte für einen persönlichen Austausch zu finden.
+Sie können einen der vielen Bitcoin-Treffs auf der ganzen Welt besuchen, mit anderen Bitcoinern in Kontakt treten und diese bitten, Ihnen Bitcoin gegen Bargeld zu verkaufen. In vielen Ländern treffen sich Menschen in Telegram- oder Facebook-Gruppen, um direkt und persönlich Bitcoin zu traden.
 
 ### Peer-to-Peer Online-Kauf
 Die weltweit führenden P2P-Börsen
