@@ -19,7 +19,7 @@ Es gibt einen [erweiterten Helfer auf der Website Bitcoin.org](https://bitcoin.o
 Notieren Sie sich den mnemonischen Seed - 12 bis 24 englische Wörter, den Namen, den Typ und die Softwareversion Ihrer Wallet und bewahren Sie sie an einem sicheren Ort auf (Kapitel 5.3).
 
 ### Schritt 3 - Bitcoin kaufen
-Die meisten Wallets bieten die Möglichkeit, Bitcoin direkt über ihre Schnittstelle zu kaufen. Die Hersteller von Wallets arbeiten mit Börsen zusammen, die ihnen im Gegenzug eine Provision zahlen. Wenn ich eine Börse benutzen muss, ziehe ich es vor, diese vorher und außerhalb des Wallets auszuwählen. Auf diese Weise bleibe ich unabhängig vom Wallet-Typ, kann diese eine Börse nutzen, um Bitcoin an alle meine verschiedenen Wallets zu senden, und muss meine KYC-Daten nur bei dieser einen Börse hinterlegen, was das Risiko von Datenschutzverletzungen verringert. Die Verwendung von non-custodial Börsen ohne KYC (Kapitel 7.3), ist diesbezüglich sogar noch besser.
+Die meisten Wallets bieten die Möglichkeit, Bitcoin direkt über ihre Schnittstelle zu kaufen. Die Hersteller von Wallets arbeiten mit Börsen zusammen, die ihnen im Gegenzug eine Provision zahlen. Wenn ich eine Börse benutzen muss, ziehe ich es vor, diese vorher und außerhalb des Wallets auszuwählen. Auf diese Weise bleibe ich unabhängig vom Wallet-Typ, kann diese eine Börse nutzen, um Bitcoin an alle meine verschiedenen Wallets zu senden, und muss meine KYC-Daten nur bei dieser einen Börse hinterlegen, was das Risiko von Datenschutzverletzungen verringert. Die Verwendung von non-custodial Börsen ohne KYC (Kapitel 7.3) ist diesbezüglich sogar noch besser.
 
 ![Wie man Bitcoin bekommt](assets/_Buying-methods.png) [^72] 
 
