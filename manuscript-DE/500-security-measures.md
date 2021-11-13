@@ -59,7 +59,7 @@ Browser wie Opera und Chrome warnen Sie, aber Firefox tut dies standardmäßig n
 ## 3-2-1-Regel für die Speicherung Ihres Seeds
 Der Seed besteht aus 12 - 24 englischen Wörtern. Heutzutage verwenden mehr Geldbörsen zwölf Wörter anstelle von 24, weil sie ein ausreichend hohes Maß an Sicherheit bieten und leichter zu merken und zu speichern sind.
 
-Schreiben Sie den Seed von Hand auf ein Blatt Papier, wenn Sie Ihre Wallet zum ersten Mal initialisieren. Vergewissern Sie sich, dass die Reihenfolge stimmt und überprüfen Sie die geschriebenen Wörter mehrmals. Notieren Sie auch den Hersteller, das Modell und die Software der Wallet. Sie benötigen diese Informationen, falls Sie Ihre Wallet später wiederherstellen möchten.
+Schreiben Sie den Seed von Hand auf ein Blatt Papier, wenn Sie Ihre Wallet zum ersten Mal initialisieren. Vergewissern Sie sich, dass die Reihenfolge stimmt und überprüfen Sie die geschriebenen Wörter mehrmals. Notieren Sie auch den Hersteller, das Modell und die Software der Wallet. Sie benötigen diese Informationen, falls Sie Ihre Wallet einmal später wiederherstellen möchten.
 
 Wenn Sie eine Hardware-Geldbörse eingerichtet haben, sollten Sie einen kleinen Betrag an Bitcoin dorthin schicken, um sicherzustellen, dass alles funktioniert. Nachdem Sie den kleinen Betrag erhalten haben, löschen Sie die Software von dem Gerät und stellen es mit den Worten wieder her, die Sie zuvor aufgeschrieben haben. Dies ist ein wichtiger Schritt, den Sie nicht auslassen sollten.
 
@@ -71,7 +71,7 @@ Danach ist es ratsam, die folgenden Sicherheitsmaßnahmen zu ergreifen, um zu ve
 
 **1**: Bewahren Sie zusätzlich eine Sicherungskopie an einem anderen Ort auf, vorzugsweise mindestens 100 Kilometer entfernt.
 
-Jameson Lopp, einer meiner Podcast-Gäste, testet Stahlplatten, die zur langfristigen Sicherung des Saatguts verwendet werden können. Er setzt sie Feuer und Druck aus, um ihre Langlebigkeit zu prüfen. Nicht alle Produkte sind aus Stahl oder Titan gefertigt, weshalb sie im Feuer schmelzen. Die Tests können Sie hier nachlesen: [anita.link/metalseed](https://anita.link/metalseed)
+Jameson Lopp, einer meiner Podcast-Gäste, testet Stahlplatten, die zur langfristigen Sicherung des Seeds verwendet werden können. Er setzt sie Feuer und Druck aus, um ihre Langlebigkeit zu prüfen. Nicht alle Produkte sind aus Stahl oder Titan gefertigt, weshalb sie im Feuer schmelzen. Die Tests können Sie hier nachlesen: [anita.link/metalseed](https://anita.link/metalseed)
 
 Werden Sie nicht kreativ! Es ist ein häufiger Fehler, die Wörter in zwei oder mehr Teile aufzuteilen und sie an verschiedenen Orten aufzubewahren. Sie brauchen nur einen Teil zu verlieren und schon haben Sie keinen Zugriff mehr auf Ihre Coins.
 
@@ -85,7 +85,7 @@ Werden Sie nicht kreativ! Es ist ein häufiger Fehler, die Wörter in zwei oder 
 ### Passphrase
 Eine Passphrase ist eine zusätzliche Möglichkeit, Ihr Geld zusätzlich zum Seed zu sichern. Wenn Sie eine Passphrase hinzufügen, erstellt die Software eine zusätzliche Wallet, mit der Sie sich vor physischen Angriffen schützen können. Wenn jemand Ihren Seed in die Hände bekommt, kann er trotzdem nicht auf Ihr Geld zugreifen, weil er die Passphrase nicht hat.
 
-Beispiel: Sie könnten eine Minderheit Ihrer Gelder in der Basis-Wallet "ohne Passphrase" belassen und den Großteil Ihrer Gelder in eine passphrasengeschützte Wallet verschieben. Die Idee dahinter ist, dass Sie, falls Sie jemals in eine Situation geraten, in der jemand versucht, Lösegeld von Ihnen zu erpressen oder Sie unter Druck setzt, Ihre Wallet sicher entsperren können. Dadurch erlangt der Angreifer nur Zugriff auf die normale Wallet (die lediglich eine geringe Menge an Geldmitteln enthält) geben.
+Beispiel: Sie könnten einen kleinen Teil Ihrer Gelder in der Basis-Wallet "ohne Passphrase" belassen und den Großteil Ihrer Gelder in eine passphrasengeschützte Wallet verschieben. Die Idee dahinter ist, dass Sie, falls Sie jemals in eine Situation geraten, in der jemand versucht, Lösegeld von Ihnen zu erpressen oder Sie unter Druck setzt, Ihre Wallet sicher entsperren können. Dadurch erlangt der Angreifer nur Zugriff auf die normale Wallet (die lediglich eine geringe Menge an Geldmitteln enthält).
 
 Das klingt großartig, birgt aber auch Risiken.
 
@@ -106,7 +106,7 @@ Installieren Sie für Ihre ersten Versuche eine Wallet auf Ihrem Telefon, suchen
 
 Die beste Zeit dafür ist in der Regel das Wochenende, wenn der Mempool nicht mit Transaktionen überfüllt ist und die Gebühren niedriger sind.
 
-Verwenden Sie verschiedene Wallet-Software, installieren Sie den Wallet-Seed von Wallet A nach B, verwenden Sie den Seed auf verschiedenen Geräten. Sie werden sich immer sicherer fühlen, wenn Sie Ihre Fähigkeiten beibehalten.
+Verwenden Sie verschiedene Wallet-Software, installieren Sie den Wallet-Seed von Wallet A nach B, verwenden Sie den Seed auf verschiedenen Geräten. Je mehr Sie üben, desto sicherer werden Sie sich fühlen.
 
 ### Test-Empfangsadresse
 Bevor Sie zum ersten Mal einen größeren Betrag versenden, vergewissern Sie sich, dass die Adresse wirklich vom Empfänger stammt und führen Sie eine kleine Testtransaktion durch. Überprüfen Sie die Bitcoin-Adresse immer zwei- oder dreimal, bevor Sie die Transaktion senden. Vergleichen Sie die ersten und letzten Ziffern der Adresse. Bitcoin, die Sie an eine falsche Adresse senden, sind verloren.
