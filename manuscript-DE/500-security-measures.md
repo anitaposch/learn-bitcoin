@@ -24,7 +24,7 @@ Verwenden Sie für jede Website, bei der Sie sich anmelden, ein anderes Passwort
 Sie können Software wie 1Password, Bitwarden oder KeePass (kostenlos und Open Source) verwenden. Dabei handelt es sich um verschlüsselte Passwortdatenbanken, in denen Sie alle Ihre Passwörter generieren und speichern können und sich nur ein einziges Passwort merken müssen, um sie zu öffnen.
 
 ### PIN
-Richten Sie eine PIN für Ihre Brieftaschensoftware ein, damit niemand Ihre Brieftasche auf Ihrem Gerät einfach öffnen kann.
+Richten Sie eine PIN für Ihre Wallet-Software ein, damit niemand Ihre Wallet auf Ihrem Gerät einfach öffnen kann.
 
 ### 2FA
 Verwenden Sie eine 2-Faktor-Authentifizierungsmethode, um Ihre Konten zu sichern. Verwenden Sie keine SMS als 2-Faktor-Authentifizierungsmethode, da SIM-Swapping-Angriffe möglich sind. Installieren Sie stattdessen eine Authentifizierungs-App wie OTP oder TOTP auf Ihrem Telefon.
@@ -59,7 +59,7 @@ Browser wie Opera und Chrome warnen Sie, aber Firefox tut dies standardmäßig n
 ## 3-2-1-Regel für die Speicherung Ihres Seeds
 Der Seed besteht aus 12 - 24 englischen Wörtern. Heutzutage verwenden mehr Geldbörsen zwölf Wörter anstelle von 24, weil sie ein ausreichend hohes Maß an Sicherheit bieten und leichter zu merken und zu speichern sind.
 
-Schreiben Sie den Seed von Hand auf ein Blatt Papier, wenn Sie Ihre Brieftasche zum ersten Mal initialisieren. Vergewissern Sie sich, dass die Reihenfolge stimmt und überprüfen Sie die geschriebenen Wörter mehrmals. Notieren Sie auch den Hersteller, das Modell und die Software der Brieftasche. Sie benötigen diese Informationen, falls Sie Ihr Geld zurückerhalten möchten.
+Schreiben Sie den Seed von Hand auf ein Blatt Papier, wenn Sie Ihre Wallet zum ersten Mal initialisieren. Vergewissern Sie sich, dass die Reihenfolge stimmt und überprüfen Sie die geschriebenen Wörter mehrmals. Notieren Sie auch den Hersteller, das Modell und die Software der Wallet. Sie benötigen diese Informationen, falls Sie Ihr Geld zurückerhalten möchten.
 
 Wenn Sie eine Hardware-Geldbörse eingerichtet haben, sollten Sie einen kleinen Betrag an Bitcoin dorthin schicken, um sicherzustellen, dass alles funktioniert. Nachdem Sie den kleinen Betrag erhalten haben, löschen Sie die Software von dem Gerät und stellen es mit den Worten wieder her, die Sie zuvor aufgeschrieben haben. Dies ist ein wichtiger Schritt, den Sie nicht auslassen sollten.
 
@@ -83,21 +83,21 @@ Werden Sie nicht kreativ! Es ist ein häufiger Fehler, die Wörter in zwei oder 
 * Richten Sie einen Nachlassplan ein - im schlimmsten Fall können Ihre Bitcoins verloren gehen, wenn Sie Ihre Begünstigten nicht richtig instruieren. Ich empfehle das Buch von Pamela Morgan über "Cryptoasset Inheritance Planning".
 
 ### Passphrase
-Eine Passphrase ist eine zusätzliche Möglichkeit, Ihr Geld zusätzlich zum Seed zu sichern. Wenn Sie eine Passphrase hinzufügen, erstellt die Software eine zusätzliche Brieftasche, mit der Sie sich vor physischen Angriffen schützen können. Wenn jemand Ihren Seed in die Hände bekommt, kann er trotzdem nicht auf Ihr Geld zugreifen, weil er die Passphrase nicht hat.
+Eine Passphrase ist eine zusätzliche Möglichkeit, Ihr Geld zusätzlich zum Seed zu sichern. Wenn Sie eine Passphrase hinzufügen, erstellt die Software eine zusätzliche Wallet, mit der Sie sich vor physischen Angriffen schützen können. Wenn jemand Ihren Seed in die Hände bekommt, kann er trotzdem nicht auf Ihr Geld zugreifen, weil er die Passphrase nicht hat.
 
-Beispiel: Sie könnten eine Minderheit Ihrer Gelder in der Basis-Wallet "ohne Passphrase" belassen und den Großteil Ihrer Gelder in eine passphrasengeschützte Wallet verschieben. Die Idee dahinter ist, dass Sie, falls Sie jemals in eine Situation geraten, in der jemand versucht, Lösegeld von Ihnen zu erpressen oder Sie unter Druck setzt, Ihre Brieftasche sicher entsperren können. Dadurch erlangt der Angreifer nur Zugriff auf die normale Brieftasche (die lediglich eine geringe Menge an Geldmitteln enthält) geben.
+Beispiel: Sie könnten eine Minderheit Ihrer Gelder in der Basis-Wallet "ohne Passphrase" belassen und den Großteil Ihrer Gelder in eine passphrasengeschützte Wallet verschieben. Die Idee dahinter ist, dass Sie, falls Sie jemals in eine Situation geraten, in der jemand versucht, Lösegeld von Ihnen zu erpressen oder Sie unter Druck setzt, Ihre Wallet sicher entsperren können. Dadurch erlangt der Angreifer nur Zugriff auf die normale Wallet (die lediglich eine geringe Menge an Geldmitteln enthält) geben.
 
 Das klingt großartig, birgt aber auch Risiken.
 
 1. Da die Passphrase nirgendwo automatisch gespeichert wird, müssen Sie **alle notwendigen Vorkehrungen** treffen, um sicherzustellen, dass die Passphrase sicher und zugänglich bleibt, z.B. indem Sie ein physisches Backup erstellen.
-2. Wenn die Passphrase verloren geht, können Sie **nicht mehr auf diese Brieftasche** zugreifen und alle in dieser Brieftasche gespeicherten Coins werden unzugänglich.
+2. Wenn die Passphrase verloren geht, können Sie **nicht mehr auf diese Wallet** zugreifen und alle in dieser Wallet gespeicherten Coins werden unzugänglich.
 
 Bei einer Passphrase müssen Sie nicht nur Ihren Seed speichern, sondern auch die Passphrase. Jetzt müssen Sie einen sicheren Langzeitspeicher für den Seed UND die Passphrase finden, was den Prozess komplizierter macht. Seien Sie sich bewusst: Um eine solche Wallet wiederherzustellen, benötigen Sie Ihren Seed UND die Passphrase, die Sie für diese Wallet verwendet haben, um den Zugriff auf die Gelder wiederherzustellen.
 
 Da physische Angriffe eher selten vorkommen, sollte die Speicherung des Seeds mit der 3-2-1-Methode ausreichend sein.
 
 ### Alternative Backups
-Einige Wallets verwenden andere Mechanismen für das Backup. Die Muun-Brieftasche beispielsweise verwendet eine Kombination aus einem Wiederherstellungscode - den Sie wie einen Seed aufschreiben müssen - und einem Notfallkit.
+Einige Wallets verwenden andere Mechanismen für das Backup. Die Muun-Wallet beispielsweise verwendet eine Kombination aus einem Wiederherstellungscode - den Sie wie einen Seed aufschreiben müssen - und einem Notfallkit.
 
 ## Learning by Doing
 Es kann einschüchternd sein, mit Bitcoin zu beginnen, weil es sich um echtes Geld handelt. Deshalb ist es eine gute Praxis, mit geringen Beträgen zu beginnen.
@@ -117,10 +117,10 @@ Bevor Sie größere Beträge auf einer neuen Hardware-Wallet speichern, sollten 
 
 Bei der Ersteinrichtung erstellt das Gerät den Seed für Sie, den Sie handschriftlich notieren (zusätzlich den Hersteller, das Modell und die Softwareversion). Anschließend verwenden Sie die Software des Herstellers (oder eine andere Software wie Electrum) und erstellen die erste Bitcoin-Adresse in Ihrer Hardware-Wallet, indem Sie auf "Empfangen" klicken. Senden Sie dann einen kleinen Betrag von Ihrer zuvor installierten Smartphone-Wallet an diese Adresse. Wenn der Betrag auf der Hardware-Wallet wie bestätigt angekommen ist, war der erste Test erfolgreich.
 
-Versuchen Sie auch, von Ihrer Hardware-Brieftasche an eine andere Brieftasche zu senden. Sie können zum Beispiel einen kleinen Betrag an Ihre Smartphone-Wallet oder an eine andere Adresse Ihrer Hardware-Wallet senden. Das ist nicht besonders wichtig. Die Hauptsache ist, dass Sie eine Zahlung auch von der Hardware-Wallet aus testen. Dazu müssen Sie die Empfängeradresse in der Hardware-Wallet überprüfen und den Versand mit einem oder mehreren Klicks direkt in der Hardware-Wallet bestätigen. Diese manuelle Bestätigung auf dem Gerät macht Hardware-Wallets sicher, da nur Sie die Tasten drücken können und niemand die Tasten virtuell über das Internet drücken kann.
+Versuchen Sie auch, von Ihrer Hardware-Wallet an eine andere Wallet zu senden. Sie können zum Beispiel einen kleinen Betrag an Ihre Smartphone-Wallet oder an eine andere Adresse Ihrer Hardware-Wallet senden. Das ist nicht besonders wichtig. Die Hauptsache ist, dass Sie eine Zahlung auch von der Hardware-Wallet aus testen. Dazu müssen Sie die Empfängeradresse in der Hardware-Wallet überprüfen und den Versand mit einem oder mehreren Klicks direkt in der Hardware-Wallet bestätigen. Diese manuelle Bestätigung auf dem Gerät macht Hardware-Wallets sicher, da nur Sie die Tasten drücken können und niemand die Tasten virtuell über das Internet drücken kann.
 
-**Wiederherstellen Ihrer Brieftasche**
-Stellen Sie dann sicher, dass Sie Ihr Backup/Seed haben! Löschen Sie anschließend alle Daten auf Ihrer Hardware-Geldbörse. Einige Anbieter nennen das "Werksreset", "wipe" oder "das Gerät zurücksetzen". Ihre Brieftasche ist leer. Stellen Sie nun Ihr Guthaben und Ihre Brieftasche mit dem Seed wieder her. Dies wird als "Wiederherstellen vom Wiederherstellungswort", "Wallet wiederherstellen" oder "Seed importieren" bezeichnet. Geben Sie dann Ihre Seed-Phrase auf dem Hardware-Gerät ein. Wenn alles korrekt ist, wird die Brieftasche wiederhergestellt und Sie können Ihre früheren Transaktionen und Ihren Kontostand sehen.
+**Wiederherstellen Ihrer Wallet**
+Stellen Sie dann sicher, dass Sie Ihr Backup/Seed haben! Löschen Sie anschließend alle Daten auf Ihrer Hardware-Geldbörse. Einige Anbieter nennen das "Werksreset", "wipe" oder "das Gerät zurücksetzen". Ihre Wallet ist leer. Stellen Sie nun Ihr Guthaben und Ihre Wallet mit dem Seed wieder her. Dies wird als "Wiederherstellen vom Wiederherstellungswort", "Wallet wiederherstellen" oder "Seed importieren" bezeichnet. Geben Sie dann Ihre Seed-Phrase auf dem Hardware-Gerät ein. Wenn alles korrekt ist, wird die Wallet wiederhergestellt und Sie können Ihre früheren Transaktionen und Ihren Kontostand sehen.
 
 **Firmware und Software aktualisieren**
 Sperren Sie das Gerät nicht einfach weg. Sie sollten mindestens alle 6 Monate nach Updates für die Software oder nach Firmware-Upgrades Ausschau halten. Die Kryptowährungsbranche ist schnelllebig und neue Entwicklungen werden regelmäßig in die Wallet-Software integriert.
@@ -129,7 +129,7 @@ Sperren Sie das Gerät nicht einfach weg. Sie sollten mindestens alle 6 Monate n
 
 ### Verlust, Diebstahl oder Fehlfunktion Ihres Geräts
 
-Wenn Ihr Gerät gestohlen wird, denken Sie daran, dass Ihre Bitcoins immer noch in der Blockchain unter Ihrem privaten Schlüssel aufgeführt sind. Da Sie eine Zugangs-PIN für die Brieftasche festgelegt haben, kann der Dieb sie nicht öffnen. Dennoch wird er versuchen, einen Weg zu finden, Ihre PIN zu knacken.
+Wenn Ihr Gerät gestohlen wird, denken Sie daran, dass Ihre Bitcoins immer noch in der Blockchain unter Ihrem privaten Schlüssel aufgeführt sind. Da Sie eine Zugangs-PIN für die Wallet festgelegt haben, kann der Dieb sie nicht öffnen. Dennoch wird er versuchen, einen Weg zu finden, Ihre PIN zu knacken.
 
 Sie sollten sofort eine neue Wallet installieren und den Seed importieren, den Sie sicher aufbewahrt haben, um wieder Zugang zu Ihren Geldern zu erhalten (siehe "Wiederherstellung Ihrer Wallet"). Verschieben Sie dann die Coins aus Ihrer gestohlenen Wallet so schnell wie möglich auf eine neue Bitcoin-Adresse in Ihrer neuen Wallet und wiederholen Sie die gleichen Sicherheitseinstellungen für die neue Wallet.
 
