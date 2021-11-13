@@ -64,9 +64,7 @@ Kaufen Sie niemals eine Hardware-Wallet von Fremden auf eBay oder Amazon, und na
 Zusätzlich zum Gerät liefert der Anbieter eine Wallet-Software zur Verwaltung Ihrer Coins. Aus Gründen des Datenschutzes nehmen viele Benutzer die Wallet des Herstellers nur für die Initialisierung und Sicherung des Geräts (Aufschreiben des Seeds) und für Firmware-Updates. Danach verwenden sie eine Wallet wie Electrum für die Verwaltung der Coins.
 
 **Offline-Wallets**
-
 **Paper Wallets**
-
 Im Internet finden Sie Empfehlungen für die Verwendung von Paper Wallets. Dabei handelt es sich um selbst generierte Bitcoin-Adressen mit ihren privaten und öffentlichen Schlüsseln, die Sie auf Papier ausdrucken können. Da Sie sie selbst generieren und ausdrucken, müssen Sie dafür kein Geld ausgeben. Aber es ist schwierig, sie sicher zu generieren. Die Sicherheitsmaßnahmen, die Sie ergreifen müssen, sind extrem hoch. **Ich rate Ihnen von der Verwendung ab**.
 
 Wenn Sie wirklich nicht die 50 - 100 USD bezahlen wollen, die für den Kauf einer Hardware-Wallet erforderlich sind, um höhere Beträge zu sichern, als Sie bequem auf Ihrem Telefon mit sich herumtragen, dann sollten Sie die Verwendung von Bitcoin als Wertaufbewahrungsmittel überhaupt noch einmal überdenken.
