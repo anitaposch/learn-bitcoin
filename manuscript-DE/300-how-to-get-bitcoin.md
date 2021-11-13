@@ -1,7 +1,7 @@
 ## Wie bekomme ich Bitcoin?
 
 Sie können Bitcoin auf drei Arten erwerben:
-* Sie tauschen gegen Euro
+* Sie tauschen gegen Euro oder andere Währungen
 * Sie verdienen sie
 * Sie schürfen sie
 
