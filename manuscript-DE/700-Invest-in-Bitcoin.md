@@ -1,5 +1,5 @@
 # Wie man in Bitcoin investiert
-In diesem Kapitel werden wir die verschiedenen Möglichkeiten untersuchen, wie Sie Bitcoin erwerben können. In der Regel geschieht dies durch den Kauf von Bitcoin, indem Sie sie in Fiat-Währung tauschen, oder durch das Verdienen von Bitcoin. Die Methoden unterscheiden sich durch den Grad der Selbstbestimmung und der Privatsphäre, den Sie erreichen können.
+In diesem Kapitel werden wir die verschiedenen Möglichkeiten untersuchen, wie Sie Bitcoin erwerben können. In der Regel geschieht dies durch den Kauf von Bitcoin, indem Sie sie gegen Fiat-Währung tauschen, oder durch das Verdienen von Bitcoin. Die Methoden unterscheiden sich jeweils durch den Grad an Selbstbestimmung und Privatsphäre, den Sie erreichen können.
 
 ## Bitcoin kaufen - Custodial
 In vielen Fällen erfolgt der erste Kontakt mit Kryptowährungen über Depotbörsen wie Kraken, Coinbase, Binance, Bitpanda und Bitfinex, um nur einige zu nennen.
