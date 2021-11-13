@@ -1,4 +1,4 @@
-# Münzen sicher aufbewahren
+# Coins sicher aufbewahren
 
 ## Sicherheitsmaßnahmen
 Alle Datenbanken können gehackt werden. Durchsuchen Sie Ihre E-Mail auf https://haveibeenpwned.com/ - wenn Sie Glück haben, wurden Sie nicht geknackt, aber Milliarden anderer Konten schon. Daher ist es wichtig, allgemeine Sicherheitsmaßnahmen zu befolgen, die bei der Verwendung von Bitcoin noch mehr gelten.
@@ -73,7 +73,7 @@ Danach ist es ratsam, die folgenden Sicherheitsmaßnahmen zu ergreifen, um zu ve
 
 Jameson Lopp, einer meiner Podcast-Gäste, testet Stahlplatten, die zur langfristigen Sicherung des Saatguts verwendet werden können. Er setzt sie Feuer und Druck aus, um ihre Langlebigkeit zu prüfen. Nicht alle Produkte sind aus Stahl oder Titan gefertigt, weshalb sie im Feuer schmelzen. Die Tests können Sie hier nachlesen: [anita.link/metalseed](https://anita.link/metalseed)
 
-Werden Sie nicht kreativ! Es ist ein häufiger Fehler, die Wörter in zwei oder mehr Teile aufzuteilen und sie an verschiedenen Orten aufzubewahren. Sie brauchen nur einen Teil zu verlieren und schon haben Sie keinen Zugriff mehr auf Ihre Münzen.
+Werden Sie nicht kreativ! Es ist ein häufiger Fehler, die Wörter in zwei oder mehr Teile aufzuteilen und sie an verschiedenen Orten aufzubewahren. Sie brauchen nur einen Teil zu verlieren und schon haben Sie keinen Zugriff mehr auf Ihre Coins.
 
 * Geben Sie den Seed niemals jemandem, dem Sie Ihr Geld nicht anvertrauen!
 * Geben Sie den Seed nicht auf Websites oder elektronischen Geräten ein!
@@ -90,7 +90,7 @@ Beispiel: Sie könnten eine Minderheit Ihrer Gelder in der Basis-Wallet "ohne Pa
 Das klingt großartig, birgt aber auch Risiken.
 
 1. Da die Passphrase nirgendwo automatisch gespeichert wird, müssen Sie **alle notwendigen Vorkehrungen** treffen, um sicherzustellen, dass die Passphrase sicher und zugänglich bleibt, z.B. indem Sie ein physisches Backup erstellen.
-2. Wenn die Passphrase verloren geht, können Sie **nicht mehr auf diese Brieftasche** zugreifen und alle in dieser Brieftasche gespeicherten Münzen werden unzugänglich.
+2. Wenn die Passphrase verloren geht, können Sie **nicht mehr auf diese Brieftasche** zugreifen und alle in dieser Brieftasche gespeicherten Coins werden unzugänglich.
 
 Bei einer Passphrase müssen Sie nicht nur Ihren Seed speichern, sondern auch die Passphrase. Jetzt müssen Sie einen sicheren Langzeitspeicher für den Seed UND die Passphrase finden, was den Prozess komplizierter macht. Seien Sie sich bewusst: Um eine solche Wallet wiederherzustellen, benötigen Sie Ihren Seed UND die Passphrase, die Sie für diese Wallet verwendet haben, um den Zugriff auf die Gelder wiederherzustellen.
 
@@ -131,9 +131,9 @@ Sperren Sie das Gerät nicht einfach weg. Sie sollten mindestens alle 6 Monate n
 
 Wenn Ihr Gerät gestohlen wird, denken Sie daran, dass Ihre Bitcoins immer noch in der Blockchain unter Ihrem privaten Schlüssel aufgeführt sind. Da Sie eine Zugangs-PIN für die Brieftasche festgelegt haben, kann der Dieb sie nicht öffnen. Dennoch wird er versuchen, einen Weg zu finden, Ihre PIN zu knacken.
 
-Sie sollten sofort eine neue Wallet installieren und den Seed importieren, den Sie sicher aufbewahrt haben, um wieder Zugang zu Ihren Geldern zu erhalten (siehe "Wiederherstellung Ihrer Wallet"). Verschieben Sie dann die Münzen aus Ihrer gestohlenen Wallet so schnell wie möglich auf eine neue Bitcoin-Adresse in Ihrer neuen Wallet und wiederholen Sie die gleichen Sicherheitseinstellungen für die neue Wallet.
+Sie sollten sofort eine neue Wallet installieren und den Seed importieren, den Sie sicher aufbewahrt haben, um wieder Zugang zu Ihren Geldern zu erhalten (siehe "Wiederherstellung Ihrer Wallet"). Verschieben Sie dann die Coins aus Ihrer gestohlenen Wallet so schnell wie möglich auf eine neue Bitcoin-Adresse in Ihrer neuen Wallet und wiederholen Sie die gleichen Sicherheitseinstellungen für die neue Wallet.
 
-Wenn Ihr Gerät beschädigt wird, befolgen Sie dieselben Schritte, aber Sie brauchen sich nicht zu beeilen, um die Münzen zu verschieben. Stellen Sie einfach die Software-Wallet wieder her, und das war's.
+Wenn Ihr Gerät beschädigt wird, befolgen Sie dieselben Schritte, aber Sie brauchen sich nicht zu beeilen, um die Coins zu verschieben. Stellen Sie einfach die Software-Wallet wieder her, und das war's.
 
 [^70]: Anita Posch
 
