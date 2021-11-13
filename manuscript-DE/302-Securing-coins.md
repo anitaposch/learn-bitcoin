@@ -15,7 +15,7 @@ Stellen Sie sich eine Wallet wie ein öffentliches Schließfach mit mehreren Abt
 
 Die Wallet ist eine App auf Ihrem Telefon oder eine Software auf Ihrem Computer, die alles im Hintergrund erledigt - Ihre privaten Schlüssel, Ihre Adressen und das Senden und Empfangen von Bitcoin.
 
-Bitcoin-Wallets enthalten Schlüssel, keine Münzen. Jeder Benutzer hat eine Brieftasche mit Schlüsseln. Wallets sind eigentlich Schlüsselbunde mit Paaren von privaten/öffentlichen Schlüsseln. Ihr Geld wird in der Bitcoin-Blockchain gespeichert.
+Bitcoin-Wallets enthalten Schlüssel, keine Coins. Jeder Benutzer hat eine Brieftasche mit Schlüsseln. Wallets sind eigentlich Schlüsselbunde mit Paaren von privaten/öffentlichen Schlüsseln. Ihr Geld wird in der Bitcoin-Blockchain gespeichert.
 
 ### Bitcoin-Adresse
 Um Bitcoin zu erhalten, benötigen Sie eine Bitcoin-Adresse, an die Ihnen jemand Bitcoin schicken kann. Die Bitcoin-Adresse besteht aus einer langen Reihe von Ziffern und Buchstaben.
