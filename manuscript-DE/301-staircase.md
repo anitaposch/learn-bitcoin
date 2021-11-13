@@ -2,9 +2,9 @@
 
 > "Keine eigenen Schlüssel, keine Bitcoin." - **Andreas M. Antonopoulos**
 
-Wie Sie in den vorangegangenen Kapiteln gelesen haben, liegt die Hauptstärke von Bitcoin in seiner Unzensierbarkeit, die Ihnen finanzielle Souveränität verleiht. Das ist - neben der fixen Menge von 21 Millionen - das Hauptunterscheidungsmerkmal zu allen anderen Formen von Geld. Es schützt Sie vor Bail-Ins wie in Zypern 2014 und vor der Inflation, die Ihr Geld entwertet. Halten Sie die Schlüssel selbst, können Ihre Bitcoin von der Finanzindustrie nicht zur Schaffung zusätzlicher Finanzprodukte verwendet werden. Es gibt Ihnen die volle Kontrolle über Ihr Geld und ermöglicht weltweit mobil zu sein und dabei Ihr Geld mitzunehmen. Es ist eine Alternative, ein Ausstieg aus dem Fiat-System - alles, was Sie brauchen, sind zwölf Wörter: Ihre Seed-Phrase.
+Wie Sie in den vorangegangenen Kapiteln gelesen haben, liegt die Hauptstärke von Bitcoin in seiner Unzensierbarkeit, die Ihnen finanzielle Souveränität verleiht. Das ist - neben der fixen Menge von 21 Millionen - das Hauptunterscheidungsmerkmal zu allen anderen Formen von Geld. Es schützt Sie vor Bail-Ins wie in Zypern 2014 und vor der Inflation, die Ihr Geld entwertet. Halten Sie die Schlüssel selbst, können sie verhindern, dass Dritte Ihr Geld für ihre eigenen Zwecke verwenden, wie beispielsweise Banken Einlagen regelmäßig für eigene Geschäfte verwenden. Es gibt Ihnen die volle Kontrolle über Ihr Geld und ermöglicht weltweit mobil zu sein und dabei Ihr Geld mitzunehmen. Es ist eine Alternative, ein Ausstieg aus dem Fiat-System - alles, was Sie brauchen, sind zwölf Wörter: Ihre Seed-Phrase.
 
-> "Die wichtigsten Eigenschaften Bitcoins sind die Unzensierbarkeit und die fixe Menge." - **Anita Posch**
+> "Die wichtigsten Eigenschaften Bitcoins sind die Unzensurierbarkeit und die fixe Menge." - **Anita Posch**
 
 Ohne Seed-Phrase haben Sie die oben genannten Privilegien und Freiheiten nicht.
 
