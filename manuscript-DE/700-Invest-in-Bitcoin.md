@@ -74,9 +74,9 @@ Die Executive Order 6102, die am 5. April 1933 von US-Präsident Franklin D. Roo
 
 Wenn Sie mehr darüber erfahren möchten, wie unfair das derzeitige Finanzsystem gegenüber Milliarden von Menschen auf der ganzen Welt ist, hören Sie sich mein [Podcast-Interview mit Zachary Kelman,](https://anita.link/80) an, einem Anwalt, der sich auf politische, rechtliche und regulatorische Fragen rund um Bitcoin spezialisiert hat.
 
-### Non-KYC Bitcoin kaufen
+### Non-KYC Bitcoin erwerben
 
-Um Bitcoin ohne Benutzeridentifikation zu kaufen, können Sie:
+Um Bitcoin ohne Benutzeridentifikation zu erwerben, können Sie:
 
 * sie verdienen
 * etwas von Wert bauen und um Spenden bitten
