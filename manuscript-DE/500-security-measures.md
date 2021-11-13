@@ -59,7 +59,7 @@ Browser wie Opera und Chrome warnen Sie, aber Firefox tut dies standardmäßig n
 ## 3-2-1-Regel für die Speicherung Ihres Seeds
 Der Seed besteht aus 12 - 24 englischen Wörtern. Heutzutage verwenden mehr Geldbörsen zwölf Wörter anstelle von 24, weil sie ein ausreichend hohes Maß an Sicherheit bieten und leichter zu merken und zu speichern sind.
 
-Schreiben Sie den Seed von Hand auf ein Blatt Papier, wenn Sie Ihre Wallet zum ersten Mal initialisieren. Vergewissern Sie sich, dass die Reihenfolge stimmt und überprüfen Sie die geschriebenen Wörter mehrmals. Notieren Sie auch den Hersteller, das Modell und die Software der Wallet. Sie benötigen diese Informationen, falls Sie Ihr Geld zurückerhalten möchten.
+Schreiben Sie den Seed von Hand auf ein Blatt Papier, wenn Sie Ihre Wallet zum ersten Mal initialisieren. Vergewissern Sie sich, dass die Reihenfolge stimmt und überprüfen Sie die geschriebenen Wörter mehrmals. Notieren Sie auch den Hersteller, das Modell und die Software der Wallet. Sie benötigen diese Informationen, falls Sie Ihre Wallet später wiederherstellen möchten.
 
 Wenn Sie eine Hardware-Geldbörse eingerichtet haben, sollten Sie einen kleinen Betrag an Bitcoin dorthin schicken, um sicherzustellen, dass alles funktioniert. Nachdem Sie den kleinen Betrag erhalten haben, löschen Sie die Software von dem Gerät und stellen es mit den Worten wieder her, die Sie zuvor aufgeschrieben haben. Dies ist ein wichtiger Schritt, den Sie nicht auslassen sollten.
 
