@@ -133,7 +133,7 @@ Im Jahr 2014 hat Ryan Walker die Konzepte von Darwins Theorie der natürlichen S
 ![Die Eigenschaften von Geld](assets/_table-characteristics-money.PNG)[^67]
 Diese Tabelle zeigt, in welchem Maß Gold, Fiat- und Kryptowährungen die traditionell anerkannten Eigenschaften von Geld, sowie die neuen Eigenschaften, die durch die Erfindung von Bitcoin möglich wurden, erfüllen.
 
-Wie Sie sehen können, sprengt Bitcoin den traditionellen Rahmen dessen, was Geld ist. Es entwickelt sich zu einer völlig neuen Dimension dessen, was Geld leisten kann und worauf in Zukunft Anwendungen aufbauen werden.
+Wie Sie sehen, sprengt Bitcoin den traditionellen Rahmen und entwickelt völlig neue Dimensionen dessen, was Geld leisten kann und worauf zukünftige Anwendungen aufbauen können.
 
 [^56]: [Clifford Stoll](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
 
