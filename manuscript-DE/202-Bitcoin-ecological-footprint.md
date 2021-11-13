@@ -36,8 +36,8 @@ Bitcoin kann Transaktionen ohne Zwischenhändler nur deshalb abwickeln, weil spe
 
 Proof-of-Work ist auch der einzige Mechanismus, der eine gleichmäßig verteilte, dezentrale und faire Schaffung von Coins ermöglicht, während andere Methoden in einem ersten Schritt mit Token-Drops oder Token-Generierungs-Events initiale Token schaffen und verteilen müssen, die es damit zentralen Akteuren ermöglichen, Vorteile aus diesen zuvor geschaffenen und erworbenen Coins zu ziehen (Proof-of-Stake).
 
-**Annahme Nr. 1: Für eine einzige Transaktion werden X Kilowatt benötigt**  
-Das ist fehlerhafte Mathematik. Der Energieverbrauch für Bitcoin hängt nicht von der Anzahl der Transaktionen ab. 
+**Annahme Nr. 1: Pro Transaktion werden X Kilowatt benötigt**  
+Der Energieverbrauch für Bitcoin hängt nicht von der Anzahl der Transaktionen ab. 
 
 Die Anzahl der Transaktionen, die auf der Blockchain stattfinden, und die Anzahl der Transaktionen, die außerhalb der Blockchain stattfinden - z. B. auf Technologien der zweiten Ebene wie dem Lightning-Netzwerk oder über Bitcoin-Börsen, die viele Transaktionen zu einzelnen zusammenfügen - stehen in keinerlei Zusammenhang mit den Kosten des Minings. 80-90% des Minings werden durch den Bitcoin-Preis beeinflusst, die restlichen 10-20% durch Gebühren. Je höher der mögliche Gewinn für die Miner ist, desto größer ist die Wahrscheinlichkeit, dass sie neue Mining-Anlagen errichten. Sobald der Preis einbricht, stellen viele von ihnen ihre Maschinen ab.
 
