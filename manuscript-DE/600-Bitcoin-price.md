@@ -3,7 +3,7 @@
 ## Preisfindung
 Es gibt keinen offiziell festgesetzten Preis für Bitcoin. Er wird in Echtzeit separat an Börsen wie Kraken, Bitstamp, Coinbase, Binance usw. ermittelt. Es gibt Websites wie CoinMarketCap, CoinGecko und BitcoinAverage https://anita.link/average, die Ihnen einen globalen Durchschnitt der Preise mehrerer Börsen anzeigen. Oder Sie können direkt auf die Website einer der Börsen gehen und dort nachsehen.
 
-Der Preis - also der Wechselkurs - wird durch die Aktivitäten von Käufern und Verkäufern der Kryptowährung bestimmt, die diese in Echtzeit handeln. Mehr Nachfrage, höherer Preis. Weniger Angebot, höherer Preis. Ebendarum ist die Halbierung ein wichtiges Ereignis. Selbst wenn die Nachfrage gleich bleibt, wird das geringere Angebot den Preis in die Höhe treiben.
+Der Preis - also der Wechselkurs - wird durch die Aktivitäten von Käufern und Verkäufern der Kryptowährung bestimmt, die diese in Echtzeit handeln. Mehr Nachfrage, höherer Preis. Weniger Angebot, höherer Preis. Ebendarum ist das Halfing-Event auch für den Preis immer ein wichtiges Ereignis, weil dann bei gleichbleibender Nachfrage das geringere Angebot den Preis in die Höhe treibt.
 
 Bitcoin ist ein offener Markt. Die Aufgabe des Marktes ist es, den tatsächlichen Wert von Bitcoin zu ermitteln. Der aktuelle Preis einer Ware auf einem offenen Markt ist der Durchschnitt der Preise, auf die sich die Menschen in der Vergangenheit tatsächlich geeinigt und gehandelt haben. Niemand legt den Wechselkurs fest, der Preis von Bitcoin wird gefunden.
 
