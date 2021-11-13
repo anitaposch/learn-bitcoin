@@ -131,7 +131,7 @@ Sperren Sie das Gerät nicht einfach weg. Sie sollten mindestens alle 6 Monate n
 
 Wenn Ihr Gerät gestohlen wird, denken Sie daran, dass Ihre Bitcoins immer noch in der Blockchain unter Ihrem privaten Schlüssel aufgeführt sind. Da Sie eine Zugangs-PIN für die Wallet festgelegt haben, kann der Dieb sie nicht öffnen. Dennoch wird er versuchen, einen Weg zu finden, Ihre PIN zu knacken.
 
-Sie sollten sofort eine neue Wallet installieren und den Seed importieren, den Sie sicher aufbewahrt haben, um wieder Zugang zu Ihren Geldern zu erhalten (siehe "Wiederherstellung Ihrer Wallet"). Verschieben Sie dann die Coins aus Ihrer gestohlenen Wallet so schnell wie möglich auf eine neue Bitcoin-Adresse in Ihrer neuen Wallet und wiederholen Sie die gleichen Sicherheitseinstellungen für die neue Wallet.
+Sie sollten sofort eine neue Wallet installieren und den Seed importieren, den Sie sicher aufbewahrt haben, um wieder Zugang zu Ihren Geldern zu erhalten (siehe "Wiederherstellung Ihrer Wallet"). Verschieben Sie dann die Coins aus Ihrer gestohlenen Wallet so schnell wie möglich auf eine neue Bitcoin-Adresse in Ihrer neuen Wallet und sichern Sie Ihre neue Wallet wieder.
 
 Wenn Ihr Gerät beschädigt wird, befolgen Sie dieselben Schritte, aber Sie brauchen sich nicht zu beeilen, um die Coins zu verschieben. Stellen Sie einfach die Software-Wallet wieder her, und das war's.
 
