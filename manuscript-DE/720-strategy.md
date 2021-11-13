@@ -1,7 +1,7 @@
 ## Strategie
 
 ### Wie Sie der Volatilität trotzen
-Es gibt eine ausgezeichnete Möglichkeit, die Volatilität von Bitcoin zu vermeiden, wenn Sie es als Zahlungsmittel verwenden. Wenn Sie Bitcoin für etwas ausgeben, füllen Sie Ihre Brieftasche sofort wieder auf, indem Sie die Bitcoin nach der Transaktion mit Fiatgeld zurückkaufen. Auf diese Weise verlieren Sie kein Geld, da der Preis von Bitcoin in einer so kurzen Zeitspanne fast gleich bleibt.
+Es gibt eine ausgezeichnete Möglichkeit, die Volatilität von Bitcoin zu vermeiden, wenn Sie es als Zahlungsmittel verwenden. Wenn Sie Bitcoin für etwas ausgeben, füllen Sie Ihre Brieftasche sofort wieder auf, indem Sie die Bitcoin nach der Transaktion mit Fiat Geld zurückkaufen. Auf diese Weise verlieren Sie kein Geld, da der Preis von Bitcoin in einer so kurzen Zeitspanne fast gleich bleibt.
 
 ### Erstellen Sie einen Sparplan
 Beschaffen Sie sich regelmäßig einen kleinen Betrag an Bitcoin - jeden Tag/Woche/Monat. Dies ist auch bekannt als Dollar Cost Averaging (DCA) - oder Fiat Cost Averaging (FCA). Indem Sie Ihre Käufe in regelmäßigen Abständen tätigen, gleichen Sie die Volatilität des Bitcoin-Preises über einen längeren Zeitraum aus.
@@ -28,7 +28,7 @@ Altcoins ist die Abkürzung für alternative Münzen. Dies sind alle Krypto-Asse
 Sie könnten jedoch versucht sein, es auszuprobieren. Nutzen Sie die Website [If you had bought crypto] (https://ifyouhadboughtcrypto.com/), um Ihren Verdienst der letzten Jahre zu vergleichen, wenn Sie in Bitcoin oder Ethereum, Dash, Ripple, Cardano, Dogecoin, Litecoin oder Bitcoin Cash investiert hätten.
 
 ### Hätte ich nur...ich bin zu spät
-Wenn Sie Bitcoin schon 2011 gekauft hätten, wären Sie jetzt sehr reich. Das ist wahr und ich würde Sie neidlos beglückwünschen, denn Sie waren einer der wenigen Menschen, die an Bitcoin geglaubt haben und bereit waren, Ihr hart verdientes Geld in ein riskantes Experiment zu stecken. Keiner, der frühen Anwender wusste, dass Bitcoin so steigen würde, wie er es getan hat. Damals war es sehr schwierig, Ihre Schlüssel zu sichern und viele Bitcoin gingen verloren oder wurden gestohlen. Wenn Sie durchgehalten und Ihre Münzen bewahrt hätten, hätten Sie vielleicht 2014 oder 2017 alles verkauft? Es ist sinnlos, über "was wäre wenn" nachzudenken. Wir befinden uns noch in den Anfängen. Wenn Sie jetzt damit beginnen, sich zu informieren und Bitcoin zu nutzen, sind Sie der Masse immer noch eine Nasenlänge voraus. Es ist nie zu spät, sich über Bitcoin zu informieren.
+Wenn Sie Bitcoin schon 2011 gekauft hätten, wären Sie jetzt sehr reich. Das ist wahr und ich würde Sie neidlos beglückwünschen, denn Sie waren einer der wenigen Menschen, die an Bitcoin geglaubt haben und bereit waren, Ihr hart verdientes Geld in ein riskantes Experiment zu stecken. Keiner, der frühen Anwender wusste, dass Bitcoin so steigen würde, wie er es getan hat. Damals war es sehr schwierig, Ihre Schlüssel zu sichern und viele Bitcoin gingen verloren oder wurden gestohlen. Wenn Sie durchgehalten und Ihre Münzen bewahrt hätten, hätten Sie vielleicht 2014 oder 2017 alles verkauft? Es ist sinnlos, über "was wäre, wenn" nachzudenken. Wir befinden uns noch in den Anfängen. Wenn Sie jetzt damit beginnen, sich zu informieren und Bitcoin zu nutzen, sind Sie der Masse immer noch eine Nasenlänge voraus. Es ist nie zu spät, sich über Bitcoin zu informieren.
 
 ![Hier denkt jemand, dass er 2013 zu spät dran war](assets/_too-late.png) [^73]
 
