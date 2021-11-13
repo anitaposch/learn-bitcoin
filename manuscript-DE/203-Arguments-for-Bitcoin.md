@@ -10,7 +10,7 @@ Viele Leute taten das Internet als einen Trend ab, der wieder verschwinden würd
 
 Spulen Sie vor, ins Jahr 2019 und Amazon ist unter den zehn größten Unternehmen der Welt, Google und YouTube sind die größten Suchmaschinen und es gibt 1,8 Milliarden aktive Websites. Mein erster Kontakt mit Bitcoin und Blockchains war im April 2017, als ich einen Vortrag von Shermin Voshmgir hörte. Es hat sofort Klick gemacht. 20 Jahre nachdem ich meinen Beruf als Stadtplanerin an den Nagel gehängt hatte, um Internetunternehmerin zu werden, erkannte ich das immense Potential von Bitcoin genauso wie die Anfänge des Internets im Jahr 1997.
 
-Die Entdeckung von Bitcoin war der Startschuss einer neuen Technologie, die auf dem Internet aufsetzt, das wir für Medien und Kommunikation nutzen. Das Internet des Geldes ermöglicht uns, Werte weltweit grenzenlos auszutauschen. Die Kommunikation über das Internet hat die Welt in den letzten Jahrzehnten massiv verändert. Was glauben Sie, welche Auswirkungen der freie Verkehr von Wert haben wird? Bitcoin und andere offene, öffentliche, digitale Vermögenswerte werden die Machtdynamik zwischen den Nationen verändern, da es plötzlich möglich ist, immense Geldbeträge schnell und ohne große Schwierigkeiten zu bewegen, unabhängig vom derzeitigen Finanzsystem.
+Die Entdeckung von Bitcoin war der Startschuss einer neuen Technologie, die auf dem Internet aufsetzt, das wir für Medien und Kommunikation nutzen. Das Internet des Geldes ermöglicht uns, Werte weltweit grenzenlos auszutauschen. Die Kommunikation über das Internet hat die Welt in den letzten Jahrzehnten massiv verändert. Was glauben Sie, welche Auswirkungen der freie Verkehr von Werten haben wird? Bitcoin und andere offene, öffentliche, digitale Vermögenswerte werden die Machtdynamik zwischen den Nationen verändern, da es plötzlich möglich ist, immense Geldbeträge schnell und ohne große Schwierigkeiten zu bewegen, unabhängig vom derzeitigen Finanzsystem.
 
 Bitcoin ist eine neue Technologie. Wenn wir seine Entwicklung mit der des Internets vergleichen, sind wir ziemlich genau da, wo das Internet 1997 war.
 
@@ -34,7 +34,7 @@ Diese Tabelle des Internationalen Währungsfonds zeigt die jährliche Veränderu
 * Nigeria verzeichnete im Jahr 2020 eine Inflationsrate von 16%.
 * Die Inflationsrate der Türkei lag 2020 bei 13,6%.
 
-Von Mai 2020 bis April 2021 stieg das Bitcoin-Handelsvolumen in Nigeria um 40% von 287 Millionen Dollar auf 399 Millionen Dollar. Eine Umfrage aus dem Jahr 2020 zeigt, dass 32 % der befragten Nigerianer Kryptowährungen verwendet oder besessen haben. In den entwickelten demokratischen Ländern wie Deutschland und den USA haben dagegen nur 5-6% Kryptowährungen genutzt oder besessen.
+Von Mai 2020 bis April 2021 stieg das Bitcoin-Handelsvolumen in Nigeria um 40% von 287 Millionen Dollar auf 399 Millionen Dollar. Eine Umfrage aus dem Jahr 2020 zeigt, dass 32% der befragten Nigerianer Kryptowährungen verwendet oder besessen haben. In den entwickelten demokratischen Ländern wie Deutschland und den USA haben dagegen nur 5-6% Kryptowährungen genutzt oder besessen.
 
 ![Handelsvolumen auf P2P-Bitcoin-Börsen in Ländern südlich der Sahara von Mai 2020 bis April 2021](assets/_Nigeria-trading-volume-BTC.png) [^59]
 
@@ -42,7 +42,7 @@ Angesichts dieser jährlichen Inflationsraten wissen die Menschen, dass sie ihr 
 Als ich auf meiner Simbabwe-Reise 2020 die Unterschiede zwischen lokaler Währung und Bitcoin erklärte, haben die Menschen sofort den Sinn und Nutzen von Bitcoin verstanden.
 
 **Fremdwährungskontrollen**
-Länder mit schwachen Volkswirtschaften und mangelhaften Demokratien setzen Devisenkontrollen ein, um die - wie sie es nennen - Spekulation gegen ihre schwachen Währungen zu begrenzen. Autoritäre Führer wollen die Möglichkeiten der Menschen ihr repressives System zu umgehen, einschränken und kontrollieren. Daher wenden sie Regelungen wie die Folgenden an:
+Länder mit schwachen Volkswirtschaften und mangelhaften Demokratien setzen Devisenkontrollen ein, um die - wie sie es nennen - Spekulation gegen ihre schwachen Währungen zu begrenzen. Autoritäre Führer wollen ihre Untertanen darin einschränken ihre repressives System zu umgehen. Daher wenden sie Regelungen wie die Folgenden an:
 
 * Die argentinischen Kapitalverkehrskontrollen erlauben es den Menschen nur einen Höchstbetrag von 200 Dollar pro Monat von argentinischen Pesos in USD zu tauschen.
 * In Simbabwe gelten ganz ähnliche strenge Vorschriften. Wenn Sie ein Unternehmen führen und Waren importieren wollen, müssen Sie die Zentralbank um Erlaubnis bitten, USD ins Ausland zu schicken. "Angenommen, ich bin in der Solarbranche tätig und möchte 20 Paneele kaufen, um sie hier zu verkaufen. Ich habe 30 Tage Zeit, die Rechnung durch die Bank zu begleichen, bevor meine USD zwangsweise in wertlose Lokalwährung umgewandelt wird. Die Zentralbank kann sich aber mit der Entscheidung so lange Zeit lassen, dass die Frist verfällt. Das ist ein weiterer Grund, warum USD-Bargeld, in Simbabwe so viel mehr Wert hat.", sagte mir ein simbabwischer Interviewpartner im März 2020.
