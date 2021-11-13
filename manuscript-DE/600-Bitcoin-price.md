@@ -15,4 +15,4 @@ Eine gut gemachte Seite, auf der Sie die Zeit seit dem letzten All-Time High (AT
 
 ## Bitcoin-Rechner
 Was die Schwierigkeiten bei der Umrechnung von Satoshi in andere Währungen angeht, z.B. die Frage "Wie viel sind 0,05 Bitcoin oder 10.000 Satoshi in meiner Fiat-Währung?": Hier sind ein einfach zu benutzender Rechner Satoshi/USD: https://anita.link/calc 
-und ein genereller Bitcoin-Währungsumrechner: http://preev.com
+und ein genereller Bitcoin-USD-Rechner: http://preev.com
