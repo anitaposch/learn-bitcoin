@@ -100,7 +100,7 @@ Das Bitcoin-Netzwerk ist eine öffentliche Infrastruktur; ein dezentrales Kommun
 Bitcoin ist ideal für langfristiges Sparen. Wenn Sie annehmen, dass sein Wert in Zukunft steigen wird, werden Sie eher Ihre Bitcoin halten als sie für Dinge auszugeben, die nicht wirklich notwendig sind.
 
 ### Sie können sich Bitcoin leisten
-Sie müssen nicht gleich einen ganzen Bitcoin kaufen. Ein Bitcoin ist in hundert Millionen Einheiten teilbar. Die kleinste Einheit wird als "Satoshi" bezeichnet - nach der pseudonymen Gründerfigur Satoshi Nakamoto. Sie können Teile eines Bitcoins kaufen und zum Beispiel nur 20 Euro einsetzen.
+Sie müssen nicht gleich einen ganzen Bitcoin kaufen. Ein Bitcoin ist in hundert Millionen Einheiten teilbar. Die kleinste Einheit wird als "Satoshi" bezeichnet - nach der pseudonymen Gründerfigur Satoshi Nakamoto. Sie können Teile eines Bitcoins kaufen und zum Beispiel mit nur 20 Euro beginnen.
 
 ### Bitcoin und die Funktionen des Geldes
 Viele Lehrbuch-Ökonomen beharren darauf, dass Bitcoin kein Geld ist, weil es die drei funktionalen Kriterien, die Geld haben muss, nicht erfüllt. Diese Funktionen wurden 1875 von William Stanley Jevons[^66] definiert und seine Analyse ist seitdem in makroökonomischen Lehrbüchern weitverbreitet.
@@ -118,11 +118,11 @@ Kritiker sagen, dass Bitcoin aufgrund der Volatilität und des Potenzials für k
 Sie können Bitcoin als Tauschmittel verwenden, wenn Sie das wollen. Zugegeben zum Zeitpunkt der Erstellung dieses Buchs gab es nur eine kleine Anzahl von Unternehmen, Dienstleistungen und Restaurants, die Bitcoin als Zahlungsmittel akzeptieren. Aber Sie könnten z.B. eine Kreditkarte mit Bitcoin aufladen und damit in Euro bezahlen. Darüber hinaus gibt es viele Unternehmen im Bitcoin-Sektor, die es als Zahlungsmittel akzeptieren und ihre Mitarbeiter*innen und Dienstleister, wenn gewünscht, in Bitcoin bezahlen.
 
 **3. Rechnungseinheit**
-Der Euro ist als gesetzliches Zahlungsmittel als Rechnungseinheit vorgeschrieben. Wir müssen ihn verwenden. Bitcoin basiert auf Freiwilligkeit, es ist ein Opt-in; wenn wir darauf spekulieren, dass der Wert steigt, werden wir es nicht ausgeben. Die Volatilität von Bitcoin ist mit der Zeit abnehmend, eines Tages wird der Wert ein Plateau erreichen und wir werden anfangen, Bitcoin als Zahlungsmittel zu verwenden. Schon davor werden mehr und mehr Unternehmen Bitcoin akzeptieren, da sie darauf vertrauen, dass es nicht an Wert verliert, sondern an Wert gewinnt.
+Der Euro ist in weiten Teilne Eropas als gesetzliches Zahlungsmittel und damit als Rechnungseinheit vorgeschrieben. Wir müssen ihn verwenden. Bitcoin basiert auf Freiwilligkeit, es ist ein Opt-in; wenn wir darauf spekulieren, dass der Wert steigt, werden wir es nicht ausgeben. Die Volatilität von Bitcoin ist mit der Zeit abnehmend, eines Tages wird der Wert ein Plateau erreichen und wir werden anfangen, Bitcoin als Zahlungsmittel zu verwenden. Schon davor werden mehr und mehr Unternehmen Bitcoin akzeptieren, da sie darauf vertrauen, dass es nicht an Wert verliert, sondern an Wert gewinnt.
 
 Eine neue Geldform, die uns nicht aufgezwungen wird, sondern für die wir uns freiwillig entscheiden können, muss bestimmte Stufen in dieser Reihenfolge durchlaufen: Zuerst ist es Wertaufbewahrungsmittel, in der Zeit danach muss Vertrauen in die Stabilität wachsen, danach werden Menschen Bitcoin als Tauschmittel verwenden. Erst in dieser Phase kann es als Rechnungseinheit dienen.
 
-Bitcoin abzutun, weil es noch nicht alle Funktionen von Geld erfüllt, ist verfehlt.
+Bitcoin abzutun, weil es noch nicht alle Funktionen von Geld erfüllt, greift zu kurz.
 
 ### Die Eigenschaften des Geldes im Vergleich
 
