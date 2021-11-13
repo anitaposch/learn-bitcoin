@@ -99,4 +99,4 @@ Wenn Sie Kryptowährungen kaufen, müssen Sie Gebühren für den Dienstleister z
 Es gibt drei Punkte, die die Kosten für den Kauf von Bitcoin bestimmen, jeder Dienstleister hat seine eigenen:
 * Bitcoin-Marktpreis
 * Handelsgebühren für ihren Service
-* Transaktionsgebühren, die in der Handelsgebühr enthalten sein können.
+* Transaktionsgebühren, die in der Handelsgebühr enthalten sein können oder separat zu bezahlen sind.
