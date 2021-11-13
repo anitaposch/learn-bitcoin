@@ -21,7 +21,7 @@ Je nachdem, wie viel Ihr Wallet zu verwalten hat, ist es üblich, eine Kombinati
 
 Wenn Ihre Bitcoin-Gelder einen Betrag erreichen, den Sie lieber noch stärker abgesichert haben möchten, dann sollten Sie sich nach Lösungen mit mehreren Signaturen umsehen. Aber seien Sie sich bewusst: Multi-Sig-Lösungen sind **nicht für Anfänger**! Sie müssen wirklich wissen, was Sie tun.
 
-Als Alternative können Sie ein Unternehmen namens Casa und seine branchenführenden Multi-Sig-Lösungen nutzen. Oder Sie besorgen sich mehrere Hardware-Wallets, um Ihre Gelder auf mehrere Geräte aufzuteilen, was das Risiko von Geräte- oder Herstellerfehlern verringert.
+Als Alternative können Sie beispielsweise die branchenführenden Multi-Sig-Lösungen von Casa nutzen. Oder Sie besorgen sich mehrere Hardware-Wallets, um Ihre Gelder auf mehrere Geräte aufzuteilen, was das Risiko von Geräte- oder Herstellerfehlern verringert.
 
 ## Wallet-Empfehlungen Übersicht
 
