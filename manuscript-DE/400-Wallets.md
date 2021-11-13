@@ -12,7 +12,7 @@ Zusätzlich zu diesen Überlegungen müssen Sie eine Wallet verwenden, die Ihre 
 
 Über die Jahren hat sich die Verwendung einer Hardware-Wallet als der beste Weg erwiesen, um privaten Schlüssel zu speichern. Eine Hardware-Wallet ist ein kleines Gerät, das private Schlüssel offline speichert, ähnlich wie ein USB-Stick.
 
-Hardware-Wallets erfordern Wartung und einen Computer oder ein Smartphone. Wenn Sie sich nicht um Software-Updates kümmern möchten oder kein solches Gerät besitzen, können Sie beispielsweise die Card Wallet als kalte Speicheralternative verwenden. Diese ist ein Produkt des ältesten österreichischen Bitcoin-Brokers Coinfinity und der Österreichischen Staatsdruckerei.
+Hardware-Wallets erfordern Wartung und einen Computer oder ein Smartphone. Wenn Sie sich nicht um Software-Updates kümmern möchten oder kein solches Gerät besitzen, können Sie die Card Wallet als kalte Speicheralternative verwenden. Diese ist ein Produkt des ältesten österreichischen Bitcoin-Brokers Coinfinity und der Österreichischen Staatsdruckerei.
 
 ### Allgemeine Standards
 In jedem Fall müssen Sie den Wallet-Herstellern mehr oder weniger vertrauen. Die **allgemein bevorzugten und empfohlenen Cold Storage-Lösungen sind Hardware-Wallets**.
@@ -21,7 +21,7 @@ Je nachdem, wie viel Ihr Wallet zu verwalten hat, ist es üblich, eine Kombinati
 
 Wenn Ihre Bitcoin-Gelder einen Betrag erreichen, den Sie lieber noch stärker abgesichert haben möchten, dann sollten Sie sich nach Lösungen mit mehreren Signaturen umsehen. Aber seien Sie sich bewusst: Multi-Sig-Lösungen sind **nicht für Anfänger**! Sie müssen wirklich wissen, was Sie tun.
 
-Als Alternative können Sie beispielsweise die branchenführenden Multi-Sig-Lösungen von Casa nutzen. Oder Sie besorgen sich mehrere Hardware-Wallets, um Ihre Gelder auf mehrere Geräte aufzuteilen, was das Risiko von Geräte- oder Herstellerfehlern verringert.
+Als Alternative können Sie die branchenführenden Multi-Sig-Lösungen von Casa nutzen. Oder Sie besorgen sich mehrere Hardware-Wallets, um Ihre Gelder auf mehrere Geräte aufzuteilen, was das Risiko von Geräte- oder Herstellerfehlern verringert.
 
 ## Wallet-Empfehlungen Übersicht
 
