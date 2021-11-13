@@ -5,7 +5,7 @@ _Bitcoin verbraucht viel Strom. In Zeiten des Klimawandels ist das unverantwortl
 
 Obiger Screenshot ist ein Artikel aus Newsweek aus der Zeit des Bull-Runs 2017-2018. Er basiert auf der Arbeit von Alex de Vries (Digiconomist), einem ehemaligen Datenanalysten für die niederländische Zentralbank. Viele Forschungsarbeiten und Artikel in den Mainstream-Medien basieren auf seinen falschen Annahmen, wie dem Vergleich des Energieverbrauchs von Bitcoin-Transaktionen mit VISA-Zahlungen und der Berechnung des CO2-Fußabdrucks auf dieser Grundlage. Ich behaupte, dass ein großer Teil dieser Arbeit dazu dient, falsche Behauptungen zu verbreiten, um Bitcoin zu verteufeln.
 
-> "Jedes Mal, wenn wir eine Rally bei Bitcoin haben, sehen wir all diese negative Aufmerksamkeit auf die Umweltauswirkungen von Bitcoin. Anscheinend ist es nur wichtig, wenn der Preis hoch ist." - **Andreas M. Antonopoulos**
+> "Jedes Mal, wenn wir eine Rally bei Bitcoin haben, hören wir all diese Kritik an den Umweltschäden durch Bitcoin. Anscheinend ist es nur wichtig, wenn der Preis hoch ist." - **Andreas M. Antonopoulos**
 
 Lassen Sie uns das genauer betrachten. Bitcoin-Kritiker erwähnen oft, dass Bitcoin mehr Energie verbraucht als es Nutzen hat. Es ist unbestreitbar, dass das Bitcoin-Mining viel Strom verbraucht. Es wird geschätzt, dass weltweit zwischen 80 und 118 TWh pro Jahr für das Mining genutzt werden, was dem gesamten Stromverbrauch von Ländern wie den Niederlanden entspricht.
 
