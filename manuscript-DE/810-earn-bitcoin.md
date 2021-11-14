@@ -1,5 +1,5 @@
 # Bitcoin verdienen
-Bitcoin zu verdienen ist eigentlich der beste Weg, sie zu erwerben: begrenzte oder keine Registrierung, begrenzte oder keine KYC-Identitätsprüfung und keine Handelsgebühren. Einige dieser Dienste sind nur in den USA oder anderen bestimmten Regionen der Welt verfügbar. Da sich die Bitcoin-Branche in rasanter Entwicklung befindet, kann dieses Kapitel nur ein Ausblick auf das sein, was noch kommen wird.
+Bitcoin zu verdienen ist eigentlich der beste Weg, sie zu erwerben: oft nur eine einfache Registrierung, minimale oder gar keine KYC-Identitätsprüfung und keine Handelsgebühren. Einige dieser Dienste sind nur in den USA oder anderen bestimmten Regionen der Welt verfügbar. Da sich die Bitcoin-Branche in einer rasanten Entwicklung befindet, kann dieses Kapitel nur einen kleiner Ausblick auf das bieten, was noch kommen wird.
 
 ## Bitcoin Jobbörsen
 Finden Sie einen Job oder einen Kunden, um Bitcoin für Ihre Arbeit zu verdienen.
