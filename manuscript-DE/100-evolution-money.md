@@ -122,9 +122,9 @@ Streng genommen entsteht Inflation, wenn die Geldmenge das nominale BIP-Wachstum
 
 ### Ponzi-System
 
-> Ponzi-System: "Eine Betrugsform, bei der der Glaube an den Erfolg eines fiktiven Unternehmens durch schnelle Gewinne der Erstinvestoren aus den Investitionen der Nachfolgenden geschürt wird." - **Oxford English Dictionary**
+> Ponzi-System (auch Ponzi-Schema oder Ponzi-Spiel; englisch Ponzi-scheme) : "Eine Betrugsform, bei der der Glaube an den Erfolg eines fiktiven Unternehmens durch schnelle Gewinne der Erstinvestoren aus den Investitionen der Nachfolgenden geschürt wird." - **Oxford English Dictionary**
 
-Bitcoin-Gegner nennen Bitcoin ein Ponzi-System. Ich behaupte, sie verstehen entweder Bitcoin oder echte Ponzi-Systeme nicht. Vielleicht haben sie aber auch einfach ein persönliches Interesse daran, dass Bitcoin nicht erfolgreich ist. Charles Ponzi wurde 1920 in den USA festgenommen, nachdem er zehntausende Opfer um 20 Millionen Dollar erleichtert hatte. Sein Versprechen war, dass er ihr Geld innerhalb von drei Monaten verdoppeln würde. Für das eingelegte Geld erhielten die "Investoren" Schuldscheine, die das ursprüngliche Investment plus 50 Prozent Zinsen garantierten. Diese Schuldscheine wurden "Ponzi-Noten" genannt, da sie Charles Ponzis Stempel trugen.
+Bitcoin-Gegner nennen Bitcoin oft ein Ponzi-System. Wer soetwas behautet hat allerdings entweder Bitcoin oder  Ponzi-Systeme nicht verstanden. Vielleicht haben sie aber auch einfach ein persönliches Interesse daran, dass Bitcoin nicht erfolgreich ist. Charles Ponzi wurde 1920 in den USA festgenommen, nachdem er zehntausende Opfer um 20 Millionen Dollar erleichtert hatte. Sein Versprechen war, dass er ihr Geld innerhalb von drei Monaten verdoppeln würde. Für das eingelegte Geld erhielten die "Investoren" Schuldscheine, die das ursprüngliche Investment plus 50 Prozent Zinsen garantierten. Diese Schuldscheine wurden "Ponzi-Noten" genannt, da sie Charles Ponzis Stempel trugen.
 
 > "Mein Geschäft war einfach. Es war das alte Spiel, Peter zu berauben, um Paul zu bezahlen. Sie gaben mir hundert Dollar und ich gab Ihnen einen Schuldschein, um Ihnen in drei Monaten hundertfünfzig Dollar zu zahlen... Meine Schuldscheine wurden wertvoller als amerikanisches Geld... Dann kam der Ärger. Die Operation war gescheitert." - **Charles Ponzi**
 
