@@ -71,11 +71,11 @@ Es gibt eine Reihe von Anwendungsfällen für Liquid:
 Liquid zeigt, dass Sie mit Bitcoin alles machen können. Sie benötigen weder eine neue Blockchain noch einen neuen Token. Die native Währung von Liquid ist L-BTC, bei der Sie Ihre Bitcoin einbinden und dafür die gleiche Menge an L-BTC erhalten. Daher kann es maximal nur 21 Millionen L-BTC geben. Liquid-Transaktionen sind billiger, schneller und privater als Bitcoin-Transaktionen. Obwohl es sich nur um eine verbundene Sidechain handelt, können Transaktionen nicht zensiert werden. Die Funktionäre sind Black Boxes, die nur von den Betreibern abgeschaltet werden können. Der Kompromiss besteht darin, dass Bitcoin-Peg-Out-Transaktionen über ein Liquid-Mitglied abgewickelt werden müssen.
 
 #### RGB
-RGB ist ein Smart Contract System, das auf Layer 2 und 3 auf Bitcoin und dem Lightning Network arbeitet. Es wurde mit Blick auf Vertraulichkeit und Skalierbarkeit entwickelt.
+RGB ist ein Smart Contract System, das auf Layer 2 und 3 auf Bitcoin und dem Lightning Network arbeitet. Es ist auf Vertraulichkeit und Skalierbarkeit ausgelegt.
 
 Mögliche Anwendungsfälle sind:
-- Ausgabe von digitalen fungiblen Vermögenswerten, wie Aktien, Anleihen und anderen Formen von Wertpapieren
-- Erstellen Sie verschiedene Formen von Sammlerstücken (nicht vertretbare Vermögenswerte)
+- Ausgabe von digitalen fungiblen (also gegeneinander austauschbaren) Vermögenswerten, wie Aktien, Anleihen und anderen Formen von Wertpapieren
+- Erstellen Sie verschiedene Formen von Sammlerstücken (nicht-fungible Vermögenswerte)
 - Erstellen und Verwalten souveräner/dezentraler Identitäten
 - Andere Formen beliebig komplexer Smart Contracts entwerfen und ausführen
 
