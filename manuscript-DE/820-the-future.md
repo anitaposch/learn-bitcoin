@@ -41,7 +41,7 @@ Babelfish, benannt nach dem Übersetzungsgerät in Douglas Adams' "Per Anhalter 
 
 Der Prozess folgt denselben Schritten wie die klassische Ausgabe von Fiat-Stablecoin-Token: Ein Nutzer schickt eine Art von Stablecoin und das Protokoll prägt konvertierbare Stablecoins (XUSD) für den Nutzer. Das Protokoll investiert die ursprünglichen Stablecoins über DeFi-Plattformen, um eine Rendite zu erwirtschaften, mit der dann die Governance und ein Bitcoin-Layer-2-Versicherungspool finanziert werden; die Rendite wird wöchentlich in einen gemeinschaftseigenen Bitcoin-Pool reinvestiert - für die Absicherung des Wertes. 
 
-Die Verwaltung des Protokolls wird von der Gemeinschaft kontrolliert. Jedes Mal, wenn jemand das Protokoll nutzt und geprägte XUSD erhält, erhält er auch FISH-Token. FISH ist der Governance-Token, auf den das Stimmrecht übertragen wird. Daher können die Nutzer mit diesen FISH-Tokens über die Richtung des Protokolls abstimmen.
+Die Verwaltung des Protokolls wird von der Gemeinschaft kontrolliert. Jedes Mal, wenn jemand das Protokoll nutzt und geprägte XUSD erhält, erhält er auch FISH-Token. FISH ist der Governance-Token, auf den das Stimmrecht übertragen wird. Daher können die Nutzer mit diesen FISH-Tokens über die Zukunft des Protokolls mitbestimmen.
 
 Babelfish wird seinen ersten Token-Verkauf auf der Origin-Plattform von Sovryn starten - einem dezentralen Startplatz, der von der Sovryn Bitocracy verwaltet wird.
 
