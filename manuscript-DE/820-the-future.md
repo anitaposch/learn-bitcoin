@@ -45,14 +45,14 @@ Die Verwaltung des Protokolls wird von der Gemeinschaft kontrolliert. Jedes Mal,
 
 Babelfish wird seinen ersten Token-Verkauf auf der Origin-Plattform von Sovryn starten - einem dezentralen Startplatz, der von der Sovryn Bitocracy verwaltet wird.
 
-#### Geld auf der Kette
+#### Money on Chain
 Money on Chain (MoC) ist ein DeFi-Protokoll, das vier bedeutende Token enthält. Die Idee ist, Bitcoinern mehr Optionen zu bieten, um ihre Bitcoin-Performance und Anwendungsfälle zu verbessern und ihnen gleichzeitig die volle Kontrolle über ihre privaten Schlüssel zu geben. Money on Chain arbeitet ebenfalls im RSK-Netzwerk und behält seinen Bitcoin-Fokus bei.
 
 Der erste Token, den MoC anbietet, ist Dollar on Chain (DoC). Dies ist der erste zu 100 % mit Bitcoin besicherte Token, der 1:1 an den US-Dollar gekoppelt ist. 
 
-Als nächstes folgt BPRO, ein Token, der passives Einkommen durch die Verteilung von gepoolten Gewinnen und andere Mittel liefert. BPRO-Inhaber können von kostenlosen Long-Leverages profitieren, die von DoC-Token-Inhabern zur Verfügung gestellt werden. BPRO-Inhaber verdienen auch am Liquidity Mining und an den Gebühren, die durch das MoC-Protokoll generiert werden. Im Grunde ist das Halten von BPRO wie das Halten von Bitcoin, nur mit einem leichten Hebel und einem passiven Einkommen aus Ihrem Bitcoin.
+Als nächstes folgt BPRO, ein Token, der passives Einkommen beispielsweise durch die Verteilung von gepoolten Gewinnen liefert. BPRO-Inhaber können von kostenlosen Long-Leverages profitieren, die von DoC-Token-Inhabern zur Verfügung gestellt werden. BPRO-Inhaber verdienen auch am Liquidity Mining und an den Gebühren, die durch das MoC-Protokoll generiert werden. Im Grunde ist das Halten von BPRO wie das Halten von Bitcoin, nur mit einem leichten Hebel und einem passiven Einkommen aus Ihrem Bitcoin.
 
-Der dritte von MoC angebotene Token ist ein BTC/USD-Instrument namens BTCx. BTCx ist im Wesentlichen eine tokenisierte Darstellung einer gehebelten Bitcoin-Long-Position. Diese Token werden geprägt, wenn ein Nutzer BTC an den intelligenten Vertrag sendet, und werden mit einem variablen Zinssatz verzinst (der bei der Vertragserstellung festgelegt wird). Die Zinszahlungen gehen an die ₿PRO-Inhaber.
+Der dritte von MoC angebotene Token ist ein BTC/USD-Instrument namens BTCx. BTCx ist im Wesentlichen eine tokenisierte Darstellung einer gehebelten Bitcoin-Long-Position. Diese Token werden geprägt, wenn ein Nutzer BTC an den Smart Contract sendet, und werden mit einem variablen Zinssatz verzinst (der bei der Vertragserstellung festgelegt wird). Die Zinszahlungen gehen an die ₿PRO-Inhaber.
 
 Schließlich enthält das MoC-Protokoll auch einen Governance-Token, der praktischerweise Money on Chain-Token (MOC) heißt. Damit können MOC-Inhaber im Gegenzug für Stimm-/Vetorechte und Staking-Belohnungen, sowohl aus den Gebühren der Plattform als auch aus dem Liquiditäts-Mining, einen Einsatz tätigen. Nutzer haben Anspruch auf einen Rabatt auf die Plattformgebühren, wenn sie mit dem MOC-Token bezahlen. 
 
