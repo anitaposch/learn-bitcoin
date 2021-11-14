@@ -21,7 +21,7 @@ Verdienen Sie Satoshis durch die Erledigung kleiner Aufgaben.
 ## Erhalt von Spenden oder Zahlungen
 Als gemeinnützige Organisation, Blogger oder Podcaster können Sie mit diesen Diensten ganz einfach Tipps in Bitcoin/Satoshis erhalten:
 
-* [Tippin.me](https://tippin.me/) ermöglicht es Ihnen, blitzschnell und ohne Gebühren Bitcoin-Tipps auf Ihrer Website und Twitter zu erhalten.
+* [Tippin.me](https://tippin.me/) ermöglicht es Ihnen, Lightning-Bitcoin-Tipps gratis auf Ihrer Website und Twitter zu erhalten.
 * [Tallyco.in](https://tallyco.in/) ist eine Crowdfunding-Plattform, die auf der Bitcoin-Blockchain aufbaut. Sie können Zahlungen in BTC und Mikro-Zahlungen über Lightning ohne Gebühren erhalten.
 * [Lightning Gifts](https://lightning.gifts/) erstellt gebührenfreie Bitcoin-Geschenkgutscheine, die Sie mit Freunden, Familie und Ihrem Publikum teilen können.
 
@@ -39,12 +39,12 @@ Mit der Entwicklung des Lightning Network wurde eine wirklich bahnbrechende neue
 * [LN Cast](https://lncast.com/) Lightning Network Podcasts, zahlen Sie einen kleinen Betrag an Satoshis und spenden Sie, um Ihren Lieblingspodcast zu hören
 * [LN Pay](https://lnpay.co/) Richten Sie Paywalls für Ihre Inhalte ein, zahlbar mit Lightning
 * [WordPress Lightning Paywall](https://lightning-paywall.coincharge.io/)
-* [Scarce.City](https://scarce.city/) Blitzauktionen für Bitcoin-Waren und Kunst - [Interview mit Gründer Chris Tramount](https://anita.link/91)
+* [Scarce.City](https://scarce.city/) Lightning-Auktionen für Bitcoin-Waren und Kunst - [Interview mit Gründer Chris Tramount](https://anita.link/91)
 * [Sparkshot](https://sparkshot.io/) Künstler können ihre Werke für Bitcoin verkaufen
 
 ## Handel
 * [Breez](https://breez.technology/#business) einfach zu bedienende Point-of-Sale-App für Händler, Restaurants, Cafés… um Bitcoin-Zahlungen zu akzeptieren.
-* [BTC Pay Server](https://btcpayserver.org/) ist ein selbst gehosteter, quelloffener Kryptowährungszahlungsprozessor für den elektronischen Handel. Er ist sicher, privat, zensurresistent und kostenlos. Sie können ihn mit Ihrem Online-Shop verbinden, Rechnungen für Ihre Buchhaltung erstellen und blitzschnell Bitcoin verdienen. Mit Integrationen für WooCommerce, Shopify, Drupal, Magento, PrestaShop, Shopware.
+* [BTC Pay Server](https://btcpayserver.org/) ist ein selbst gehosteter, quelloffener Kryptowährungszahlungsprozessor für den elektronischen Handel. Er ist sicher, privat, zensurresistent und kostenlos. Sie können ihn mit Ihrem Online-Shop verbinden, Rechnungen für Ihre Buchhaltung erstellen und Bitcoin über Lightning verdienen. Mit Integrationen für WooCommerce, Shopify, Drupal, Magento, PrestaShop, Shopware.
 * [Confirmo](https://confirmo.net/) akzeptiert Zahlungen mit Plugins für beliebte Online-Shops.
 * [Globee](https://globee.com/) akzeptieren Sie Bitcoin mit GloBee, sie bieten Open-Source-Plugins für alle wichtigen E-Commerce-Plattformen gegen eine Provision (Depot).
 * [OpenNode](https://www.opennode.com/) Bitcoin-Zahlungen und -Auszahlungen für Unternehmen, E-Commerce-Plugins, gehostete Zahlungsseiten (custodial).
