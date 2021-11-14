@@ -34,8 +34,8 @@ Mit der Entwicklung des Lightning Network wurde eine wirklich bahnbrechende neue
 * [Breez](https://breez.technology/) Eine non-custodial Lightning-Wallet zum Anhören von Podcasts
 * [PodFriend](https://web.podfriend.com/) Podcast-Player
 * [Podstation](https://podstation.github.io/) Browser-Erweiterung für Podcasts
-* [Sphinx Chat](https://sphinx.chat/) Chat- und Podcasting-App für Hörer und Podcaster mit eigenem Knotenpunkt
-* [Satoshis.stream](https://satoshis.stream/) einfache Einrichtung für Podcaster ohne eigenen Knotenpunkt
+* [Sphinx Chat](https://sphinx.chat/) Chat- und Podcasting-App für Hörer und Podcaster mit eigener Node
+* [Satoshis.stream](https://satoshis.stream/) einfache Einrichtung für Podcaster ohne eigene Node
 * [LN Cast](https://lncast.com/) Lightning Network Podcasts, zahlen Sie einen kleinen Betrag an Satoshis und spenden Sie, um Ihren Lieblingspodcast zu hören
 * [LN Pay](https://lnpay.co/) Richten Sie Paywalls für Ihre Inhalte ein, zahlbar mit Lightning
 * [WordPress Lightning Paywall](https://lightning-paywall.coincharge.io/)
