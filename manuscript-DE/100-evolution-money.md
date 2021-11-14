@@ -7,7 +7,7 @@ Dieses System hat die folgenden Eigenschaften:
 -   Bitcoin-Transaktionen sind Zensur-resistent.
 -   Bitcoin ist unveränderbar.
 -   Bitcoin kann nicht gefälscht werden.
--   Bitcoin-Transaktionen kommen im Gegensatz zu Banken ohne Intermediäre aus und sind dadurch hochsicher.
+-   Bitcoin-Transaktionen kommen im Gegensatz zu Banken ohne Intermediäre aus und sind dadurch nicht manipulierbar.
 -   Bitcoin-Transaktionen sind transparent, öffentlich einsehbar und können von allen geprüft werden.
 
 ![Eine PayPal Zahlung vs. Bitcoin](assets/_paypal-bitcoin-intermediaries.PNG) [^1]
