@@ -48,7 +48,7 @@ Eine kurze Liste von Karten, die derzeit verfügbar sind:
 Cryptocom Visa, Binance, Bitpanda Visa, Coinbase Visa, Wirex Visa, BlockCard, Cryptopay, Nexo, Bitwala Visa, BitPay Visa, Cash App
 
 ## Ausgeben und Empfangen
-Im Folgenden finden Sie Tools und Dienste, mit denen Sie BTC im täglichen Leben ausgeben und empfangen können.
+Im Folgenden finden Sie Tools und Dienste, mit denen Sie alltägliche Zahlungen in Bitcoin tätigen und empfangen können.
 * [Bity](https://bity.com/products/crypto-online-bill-pay/) Rechnungen online mit Bitcoin bezahlen
 * [Cash App](https://cash.app/bitcoin) kaufen und verkaufen Sie BTC direkt von Ihrem Cash App-Guthaben
 * [Strike](https://global.strike.me/) senden und empfangen Sie sofortige internationale Zahlungen, Sofortüberweisungen und mit vollem Zugang zum Bitcoin-Netzwerk
