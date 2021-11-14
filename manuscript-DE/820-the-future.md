@@ -56,7 +56,7 @@ Der dritte von MoC angebotene Token ist ein BTC/USD-Instrument namens BTCx. BTCx
 
 Schließlich enthält das MoC-Protokoll auch einen Governance-Token, der praktischerweise Money on Chain-Token (MOC) heißt. Damit können MOC-Inhaber im Gegenzug für Stimm-/Vetorechte und Staking-Belohnungen, sowohl aus den Gebühren der Plattform als auch aus dem Liquiditäts-Mining, einen Einsatz tätigen. Nutzer haben Anspruch auf einen Rabatt auf die Plattformgebühren, wenn sie mit dem MOC-Token bezahlen. 
 
-Zusammenfassend lässt sich sagen, dass Money on Chain ein in sich geschlossenes Bitcoin-Ökosystem auf RSK ist, das speziell für Bitcoin-Nutzer mehrere dezentralisierte und nicht-pfändbare Anwendungsfälle bieten soll.
+Zusammenfassend lässt sich sagen, dass Money on Chain ein in sich geschlossenes Bitcoin-Ökosystem auf RSK ist, das speziell für Bitcoin-Nutzer mehrere dezentralisierte und non-custody Anwendungsfälle bieten soll.
 
 #### Liquid Network
 Das Liquid Network ist ein föderiertes Sidechain-basiertes Abwicklungsnetzwerk für Einzelpersonen und Börsen, das schnellere und vertraulichere Bitcoin-Transaktionen und die Ausgabe digitaler Vermögenswerte ermöglicht. Es handelt sich um eine separate Blockchain, die die Funktionalitäten von Bitcoin um mehrschichtige Technologien erweitert. Liquid verwendet kein Proof-of-Work, die Blöcke werden im Minutentakt von 15 Funktionären signiert. Es verbessert die Privatsphäre durch vertrauliche Transaktionen und Vermögenswerte, bei denen der Betrag und die Art des Vermögenswerts, der gesendet wird, verborgen bleibt, während weiterhin kryptographisch garantiert wird, dass nicht mehr Coins ausgegeben werden können, als vorhanden sind.
