@@ -3,7 +3,7 @@
 ## Transaktionsgebühren
 Für jede Bitcoin-Transaktion muss eine Mining-Gebühr gezahlt werden. Diese Gebühren sind für den Fortbestand des Bitcoin-Netzwerks erforderlich. Die Arbeit der Miner wird mit diesen Gebühren und neu geschürften Bitcoin belohnt (siehe Kapitel 2.3). Mining ist ein wesentlicher Faktor im Bitcoin-Protokoll. Nachdem ein Block von Transaktionen gemined wurde, wird er an die Blockchain angehängt. Auf diese Weise wird die Sicherheit des Netzwerks gewährleistet. Da Bitcoin auf maximal 21 Millionen Coins limitiert ist, würden die Miner nach Erreichen dieser Menge keine Vergütung mehr für ihre Leistung erhalten und wären nicht mehr daran interessiert, Transaktionen zu verarbeiten und damit die Blockchain zu erhalten. Daher führte Satoshi Nakamoto zusätzlich Transaktionsgebühren ein. Dem Whitepaper zufolge ist es das Ziel, diese Gebühren niedriger zu halten als die vergleichbaren Gebühren und Kosten des traditionellen Bankensystems. Es ist jedoch nicht so, dass die Transaktion kostenlos sind, nur weil es theoretisch keine Zwischenhändler oder Banken benötigt.
 
-Wenn Sie Bitcoin über eine Börse kaufen, ist die Transaktionsgebühr (Mining-Gebühr) normalerweise nicht anpassbar und wird vom Anbieter festgelegt.
+Wenn Sie Bitcoin über eine Börse kaufen, ist die Transaktionsgebühr (Mining-Gebühr) normalerweise nicht verhandelbar und wird vom Anbieter festgelegt.
 
 In Ihrer non-custodial Bitcoin-Wallet können Sie die Transaktionsgebühr für ausgehende Zahlungen selbst bestimmen. Je höher Sie die Gebühr ansetzen, desto schneller wird Ihre Transaktion von den Minern bearbeitet, da diese die Transaktionen mit den höchsten Gebühren zuerst auswählen. Wenn Ihre Transaktion nicht zeitkritisch ist, können Sie eine niedrigere Gebühr wählen.
 
