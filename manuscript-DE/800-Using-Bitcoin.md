@@ -7,7 +7,7 @@ Wenn Sie Bitcoin über eine Börse kaufen, ist die Transaktionsgebühr (Mining-G
 
 In Ihrer non-custodial Bitcoin-Wallet können Sie die Transaktionsgebühr für ausgehende Zahlungen selbst bestimmen. Je höher Sie die Gebühr ansetzen, desto schneller wird Ihre Transaktion von den Minern bearbeitet, da diese die Transaktionen mit den höchsten Gebühren zuerst auswählen. Wenn Ihre Transaktion nicht zeitkritisch ist, können Sie eine niedrigere Gebühr wählen.
 
-Für mehr Kontrolle können Sie die Gebühr und die Bestätigungsgeschwindigkeit auf Seiten wie [Mempool.space](https://mempool.space/) oder [Johoe's Bitcoin Mempool](https://jochen-hoenicke.de/queue/) abschätzen. Diese Websites zeigen die Anzahl und Größe aller unbestätigten Transaktionen an. Sie bieten eine Echtzeit-Ansicht und zeigen, wie sich der Mempool entwickelt. Die Transaktionen sind nach der Höhe der Gebühr, die sie pro (virtuellem) Byte zahlen, eingefärbt.
+Für mehr Kontrolle können Sie die Gebühr und die Bestätigungsgeschwindigkeit auf Seiten wie [Mempool.space](https://mempool.space/) oder [Johoe's Bitcoin Mempool](https://jochen-hoenicke.de/queue/) im vorhinein prüfen. Diese Websites zeigen die Anzahl und Größe aller unbestätigten Transaktionen an. Sie bieten eine Echtzeit-Ansicht und zeigen, wie sich der Mempool entwickelt. Die Transaktionen sind nach der Höhe der Gebühr, die sie pro (virtuellem) Byte zahlen, eingefärbt.
 
 ![Echtzeit-Ansicht der unbestätigten Transaktionen](assets/_Mempool-space-white-back.png) [^74]
 
