@@ -4,7 +4,7 @@
 Der französische Wirtschaftswissenschaftler Richard Cantillon  stellte fest, dass Inflation allmählich auftritt und dass die neue Geldmenge eine lokale Auswirkung auf die Inflation hat, wodurch das Konzept des nicht-neutralen Geldes entstand. Außerdem stellte er die These auf, dass die ursprünglichen Empfänger des neuen Geldes einen höheren Lebensstandard auf Kosten der späteren Empfänger genießen.[^79]
 
 **Zentralbank**
-Eine Zentralbank, Reservebank oder Währungsbehörde ist eine Institution, die die Währung und die Geldpolitik eines Staates oder einer formellen Währungsunion verwaltet und deren Geschäftsbankensystem überwacht. [^80]
+Eine Zentralbank, Notenbank oder sonsitge Währungsbehörde ist eine Institution, die die Währung und die Geldpolitik eines Staates oder einer formellen Währungsunion verwaltet und deren Geschäftsbankensystem überwacht. [^80]
 
 **Währung**
 Eine Währung ist ein von Regierungen festgelegtes Geldsystem, das allgemein verwendet wird. Viele Länder definieren ihre nationale Währung als gesetzliches Zahlungsmittel, d. h. es handelt sich um Geld, das per Gesetz als gültig für die Zahlung von Schulden erklärt wurde und nicht als Zahlungsmittel abgelehnt werden kann.
