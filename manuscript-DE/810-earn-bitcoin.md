@@ -69,7 +69,7 @@ Mit der Entwicklung des Lightning Network wurde eine wirklich bahnbrechende neue
 * [Blockstream Mining Note, STOKR](https://blockstream.com/finance/bmn/) beteiligen Sie sich am Bitcoin-Mining durch den Kauf des STOKR-Sicherheitstokens
 
 ## Mining
-Seien Sie sich bewusst, dass es eine Menge Mining-Betrug gibt. Sogar ich bin vor einigen Jahren auf einen hereingefallen. Deshalb habe ich diese Möglichkeit nie wieder angerührt. Jetzt gibt es mehr seriöse Unternehmen in diesem Bereich.
+Im Mining gibt es viele Betrügerein, selbst ich bin vor einigen Jahren auf einen hereingefallen und habe seitdem die Finger davon gelassen. Man sollte also immer genau prüfen, ob man einem Services vertrauen kann.  Inzwischen gibt es immer mehr seriöse Unternehmen, die in diesem Bereich tätig sind.
 
 * [Compass](https://compassmining.io/) Ein Service, der beim Kauf, der Installation und dem Hosting von Mining-Hardware hilft.
 * [Blockstream Mining](https://blockstream.com/mining/) hostet Ihre Mining-Rigs mit den Mining-Einrichtungen und dem Management von Blockstream auf Unternehmensebene.
