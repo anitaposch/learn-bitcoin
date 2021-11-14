@@ -16,7 +16,7 @@ Unten sehen Sie die Einstellungen in der Edge-Wallet. Sie können einen der Bere
 Einstellungen für Transaktionsgebühren in der Edge-Wallet](assets/_transaction-fee-setting.png) [^75]
 
 **Ausstehende Transaktion**
-Da alle 10 Minuten neue Blöcke gemined werden, dauert es im Durchschnitt mindestens 10 Minuten, bis Ihre Transaktion bestätigt wird. Wenn Sie die Transaktionsgebühr zu niedrig ansetzen, kann es sein, dass Ihre Transaktion länger aussteht, da der Mempool geleert wird und die Miner beginnen, Transaktionen mit niedrigeren Gebühren wieder aufzunehmen. Hier sehen Sie eine meiner Transaktionen, die seit einem Monat im Mempool gefangen ist.
+Da ungefähr alle 10 Minuten neue Blöcke gemined werden, dauert es im Durchschnitt mindestens 10 Minuten, bis Ihre Transaktion bestätigt wird. Wenn Sie die Transaktionsgebühr zu niedrig ansetzen, kann es sein, dass Ihre Transaktion länger aussteht, da der Mempool geleert wird und die Miner beginnen, Transaktionen mit niedrigeren Gebühren wieder aufzunehmen. Hier sehen Sie eine meiner Transaktionen, die seit einem Monat im Mempool gefangen ist.
 ![Pending transaction](assets/_Pending-transaction-edge.png) [^76]
 Sie können den Status Ihrer Transaktion in einem [Blockchain-Explorer](https://blockchair.com) nachsehen. Wie Sie unten sehen können, ist meine Transaktion 4.717 Ränge davon entfernt, gemined zu werden, bei insgesamt 41.610 Transaktionen im Mempool. Ich habe eine Gebühr von 5 Sat pro Vbyte gewählt.
 [Transaktionsstatus wie im Blockexplorer angezeigt](assets/_Pending-transaction-explorer.png) [^77]
@@ -32,7 +32,7 @@ Sie müssen die folgenden Schritte nicht ausführen, um Ihre ursprüngliche Tran
 Detaillierte Anweisungen dazu finden Sie in der Dokumentation der von Ihnen verwendeten Wallet.
 
 ## Etwas mit Bitcoin kaufen
-Hier sind einige Verzeichnisse mit Geschäften, in denen Sie Bitcoin ausgeben können.
+Hier sind einige Verzeichnisse mit Geschäften, in denen Sie mit Bitcoin bezahlen können.
 * [Accepted here](https://www.acceptedhere.io)
 * [B2B-Dienste, die BTC akzeptieren](https://cryptwerk.com/companies/b2b/btc/)
 * [Coinmap](https://coinmap.org/view/) physische Geschäfte, die Bitcoin akzeptieren
