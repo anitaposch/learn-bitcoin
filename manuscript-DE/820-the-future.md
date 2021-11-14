@@ -2,7 +2,7 @@
 
 > "Die Zukunft ist eine Baustelle." - Anita Posch
 
-Jetzt, da Sie ein tieferes Verständnis von Bitcoin und seiner Verwendung haben, können wir unsere Zehen in zukünftige Entwicklungen tauchen, die meiner Meinung nach enorme Auswirkungen haben werden. Dieser Teil wurde von Mark Kersley mitverfasst, mit Auszügen aus: [Andreas M. Antonopoulos' Vortrag über Bitcoin, Layer 2 Lösungen und den Wilden Westen der Kryptowährung](https://youtu.be/TsbIMg-YHQk)
+Da Sie nun ein tieferes Verständnis von Bitcoin und seiner Verwendung haben, können wir uns mit zukünftigen Entwicklungen beschäftigen, die meiner Meinung nach enorme Auswirkungen haben werden. Dieser Teil wurde von Mark Kersley mitverfasst, Teile stammen aus: [Andreas M. Antonopoulos' Vortrag über Bitcoin, Layer 2 Lösungen und den Wilden Westen der Kryptowährung](https://youtu.be/TsbIMg-YHQk)
 
 ## Dezentralisierte Finanzen - DeFi
 Eine faszinierende Kategorie neuer Anwendungen wird als dezentralisierte Finanzen oder DeFi bezeichnet. Das dezentrale Finanzwesen zielt darauf ab, die von Bitcoin gebotene und inspirierte monetäre Freiheit zu erweitern und diese Funktionen in das gesamte Krypto-Ökosystem einzuführen. Es ist schön und gut, Bitcoin oder andere dezentrale Vermögenswerte zu besitzen, aber wenn die meisten Menschen ihre Vermögenswerte kaufen, verkaufen oder sogar langfristig halten wollen, nutzen sie eine zentrale Einrichtung wie eine Börse. 
