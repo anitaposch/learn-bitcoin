@@ -59,7 +59,7 @@ Browser wie Opera und Chrome warnen Sie, aber Firefox tut dies standardmäßig n
 ## 3-2-1-Regel für die Speicherung Ihres Seeds
 Der Seed besteht aus 12 - 24 englischen Wörtern. Heutzutage verwenden mehr Geldbörsen zwölf Wörter anstelle von 24, weil sie ein ausreichend hohes Maß an Sicherheit bieten und leichter zu merken und zu speichern sind.
 
-Schreiben Sie den Seed von Hand auf ein Blatt Papier, wenn Sie Ihre Wallet zum ersten Mal initialisieren. Vergewissern Sie sich, dass die Reihenfolge stimmt und überprüfen Sie die geschriebenen Wörter mehrmals. Notieren Sie auch den Hersteller, das Modell und die Software der Wallet. Sie benötigen diese Informationen, falls Sie Ihre Wallet einmal später wiederherstellen möchten.
+Schreiben Sie den Seed von Hand auf ein Blatt Papier, wenn Sie Ihre Wallet zum ersten Mal initialisieren. Vergewissern Sie sich, dass die Reihenfolge stimmt, und überprüfen Sie die geschriebenen Wörter mehrmals. Notieren Sie auch den Hersteller, das Modell und die Software der Wallet. Sie benötigen diese Informationen, falls Sie Ihre Wallet einmal später wiederherstellen möchten.
 
 Wenn Sie eine Hardware-Geldbörse eingerichtet haben, sollten Sie einen kleinen Betrag an Bitcoin dorthin schicken, um sicherzustellen, dass alles funktioniert. Nachdem Sie den kleinen Betrag erhalten haben, löschen Sie die Software von dem Gerät und stellen es mit den Worten wieder her, die Sie zuvor aufgeschrieben haben. Dies ist ein wichtiger Schritt, den Sie nicht auslassen sollten.
 
@@ -97,7 +97,7 @@ Bei einer Passphrase müssen Sie nicht nur Ihren Seed speichern, sondern auch di
 Da physische Angriffe eher selten vorkommen, sollte die Speicherung des Seeds mit der 3-2-1-Methode ausreichend sein.
 
 ### Alternative Backups
-Einige Wallets verwenden andere Mechanismen für das Backup. Die Muun-Wallet beispielsweise verwendet eine Kombination aus einem Wiederherstellungscode - den Sie wie einen Seed aufschreiben müssen - und einem Notfallkit.
+Einige Wallets verwenden andere Mechanismen für das Backup. Die Muun-Wallet beispielsweise verwendet eine Kombination aus einem Wiederherstellungscode - den Sie wie einen Seed aufschreiben müssen - und einem Notfall-Kit.
 
 ## Learning by Doing
 Es kann einschüchternd sein, mit Bitcoin zu beginnen, weil es sich um echtes Geld handelt. Deshalb ist es eine gute Praxis, mit geringen Beträgen zu beginnen.
@@ -109,7 +109,7 @@ Die beste Zeit dafür ist in der Regel das Wochenende, wenn der Mempool nicht mi
 Verwenden Sie verschiedene Wallet-Software, installieren Sie den Wallet-Seed von Wallet A nach B, verwenden Sie den Seed auf verschiedenen Geräten. Je mehr Sie üben, desto sicherer werden Sie sich fühlen.
 
 ### Test-Empfangsadresse
-Bevor Sie zum ersten Mal einen größeren Betrag versenden, vergewissern Sie sich, dass die Adresse wirklich vom Empfänger stammt und führen Sie eine kleine Testtransaktion durch. Überprüfen Sie die Bitcoin-Adresse immer zwei- oder dreimal, bevor Sie die Transaktion senden. Vergleichen Sie die ersten und letzten Ziffern der Adresse. Bitcoin, die Sie an eine falsche Adresse senden, sind verloren.
+Bevor Sie zum ersten Mal einen größeren Betrag versenden, vergewissern Sie sich, dass die Adresse wirklich vom Empfänger stammt, und führen Sie eine kleine Testtransaktion durch. Überprüfen Sie die Bitcoin-Adresse immer zwei- oder dreimal, bevor Sie die Transaktion senden. Vergleichen Sie die ersten und letzten Ziffern der Adresse. Bitcoin, die Sie an eine falsche Adresse senden, sind verloren.
 
 ### Testen Sie Ihre Hardware-Wallet
 
@@ -117,7 +117,7 @@ Bevor Sie größere Beträge auf einer neuen Hardware-Wallet speichern, sollten 
 
 Bei der Ersteinrichtung erstellt das Gerät den Seed für Sie, den Sie handschriftlich notieren (zusätzlich den Hersteller, das Modell und die Softwareversion). Anschließend verwenden Sie die Software des Herstellers (oder eine andere Software wie Electrum) und erstellen die erste Bitcoin-Adresse in Ihrer Hardware-Wallet, indem Sie auf "Empfangen" klicken. Senden Sie dann einen kleinen Betrag von Ihrer zuvor installierten Smartphone-Wallet an diese Adresse. Wenn der Betrag auf der Hardware-Wallet wie bestätigt angekommen ist, war der erste Test erfolgreich.
 
-Versuchen Sie auch, von Ihrer Hardware-Wallet an eine andere Wallet zu senden. Sie können zum Beispiel einen kleinen Betrag an Ihre Smartphone-Wallet oder an eine andere Adresse Ihrer Hardware-Wallet senden. Wichtig ist, dass Sie eine Zahlung auch von der Hardware-Wallet aus testen. Dazu müssen Sie die Empfängeradresse in der Hardware-Wallet überprüfen und den Versand mit einem oder mehreren Klicks direkt in der Hardware-Wallet bestätigen. Diese manuelle Bestätigung auf dem Gerät macht Hardware-Wallets sicher, da nur Sie die Tasten drücken können und niemand die Tasten virtuell über das Internet drücken kann.
+Versuchen Sie auch, von Ihrer Hardware-Wallet an eine andere Wallet zu senden. Sie können zum Beispiel einen kleinen Betrag an Ihre Smartphone-Wallet oder an eine andere Adresse Ihrer Hardware-Wallet senden. Wichtig ist, dass Sie eine Zahlung auch von der Hardware-Wallet austesten. Dazu müssen Sie die Empfängeradresse in der Hardware-Wallet überprüfen und den Versand mit einem oder mehreren Klicks direkt in der Hardware-Wallet bestätigen. Diese manuelle Bestätigung auf dem Gerät macht Hardware-Wallets sicher, da nur Sie die Tasten drücken können und niemand die Tasten virtuell über das Internet drücken kann.
 
 **Wiederherstellen Ihrer Wallet**
 Stellen Sie dann sicher, dass Sie Ihr Backup/Seed haben! Löschen Sie anschließend alle Daten auf Ihrer Hardware-Wallet. Einige Anbieter nennen das "factory reset", "wipe" oder "reset the device". Ihre Wallet ist leer. Stellen Sie nun Ihr Guthaben und Ihre Wallet mit dem Seed wieder her. Dies wird als "Restore from recovery word", "Restore wallet" oder "Seed importieren" bezeichnet. Geben Sie dann Ihre Seed-Phrase auf dem Hardware-Gerät ein. Wenn alles korrekt ist, wird die Wallet wiederhergestellt und Sie können Ihre früheren Transaktionen und Ihren Kontostand sehen.
