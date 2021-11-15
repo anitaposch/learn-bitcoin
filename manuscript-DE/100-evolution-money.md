@@ -68,7 +68,7 @@ Angenommen Ihnen wird ein Kredit gewährt. Die Bank fügt einen Eintrag in ihrem
 
 Dazu kommt das sogenannte Mindestreserve-System der Banken. Es erlaubt den Banken mehr Geld zu verleihen als sie selbst und bei der Zentralbank in Reserve hält. Die Minimalmenge, der Mindestreserve-Satz, den die Banken in flüssigen Mitteln halten müssen, wird von der Zentralbank des jeweiligen Landes festgelegt. Diese Rate variiert von Land zu Land. In der Eurozone müssen Banken derzeit mindestens 1% der verliehenen Geldmenge in Reserve halten. Im März 2020 hob die FED (die US-Zentralbank) diese Mindestreservepflicht aufgrund der COVID-19-Pandemie auf. Kanada, Großbritannien, Neuseeland, Australien, Schweden und Hongkong schreiben gar keine Mindestreserven vor.
 
-Wenn wir alle beschließen am selben Tag unsere Bankguthaben abzuheben, würde das Bankensystem zusammenbrechen. Die Banken verleihen viel mehr Geld als sie selbst besitzen, weshalb sie nicht in der Lage wären uns unser Geld zurückzugeben.
+Wenn wir alle beschließen, am selben Tag unsere Bankguthaben abzuheben, würde das Bankensystem zusammenbrechen. Die Banken verleihen viel mehr Geld als sie selbst besitzen, weshalb sie nicht in der Lage wären uns unser Geld zurückzugeben.
 
 Im Jahr 2020 stieg die weltweite Verschuldung um unglaubliche 24 Billionen auf 281 Billionen USD oder 355 % des weltweiten BIP (Bruttoinlandsprodukt). [^6]
 
@@ -134,7 +134,7 @@ Falls Sie mehr darüber erfahren möchten, hören Sie sich meinen Podcast über 
 
 * Ein Ponzi-System hat einen zentralen Akteur, einen Anführer oder eine Organisation, die bekannt ist, Geld einsammelt - und sich letztlich mit dem Geld absetzt.
 * Ponzi-Systeme sind nicht überprüfbar oder transparent. Niemand außer dem zentralen Akteur weiß, was mit dem eingesammelten Geld passiert. 
-* Bei einem Ponzi-System werden so lange Schuldscheine ausgegeben bis es zusammenstürzt - es gibt keine maximale Ausgabemenge.
+* Bei einem Ponzi-System werden so lange Schuldscheine ausgegeben, bis es zusammenstürzt - es gibt keine maximale Ausgabemenge.
 * Die Schwierigkeit, die Investoren auszubezahlen: je mehr Geld in das System fließt, desto schwieriger wird es, das Geld zurückzuzahlen - und für den Initiator die Maschine zu stoppen.  
 * Das System muss eines Tages zusammenbrechen, es gibt keinen anderen Ausweg.
 * Die Betrüger verdienen Geld für das Verleihen von Vermögen, ohne etwas real zur wirtschaftlichen Leistung der Gesellschaft beizutragen. 
