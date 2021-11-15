@@ -10,14 +10,14 @@ Außerdem ist Ihr Smartphone, ob Android oder iOS, sicherer als Ihr Laptop oder 
 
 Zusätzlich zu diesen Überlegungen müssen Sie eine Wallet verwenden, die Ihre bevorzugten Kryptowährungen unterstützt. Da dies ein BTC-Leitfaden ist, schlage ich vor, dass Sie eine reine Bitcoin-Brieftasche verwenden. Je mehr Kryptowährungen eine Software wie eine Wallet-App verwalten muss, desto komplexer ist die Entwicklung und Wartung der Software aufseiten des Herstellers. Mehr Komplexität birgt ein höheres Risiko von Fehlern und Sicherheitslücken.
 
-Über die Jahren hat sich die Verwendung einer Hardware-Wallet als der beste Weg erwiesen, um privaten Schlüssel zu speichern. Eine Hardware-Wallet ist ein kleines Gerät, das private Schlüssel offline speichert, ähnlich wie ein USB-Stick.
+Über die Jahre hat sich die Verwendung einer Hardware-Wallet als der beste Weg erwiesen, um privaten Schlüssel zu speichern. Eine Hardware-Wallet ist ein kleines Gerät, das private Schlüssel offline speichert, ähnlich wie ein USB-Stick.
 
 Hardware-Wallets erfordern Wartung und einen Computer oder ein Smartphone. Wenn Sie sich nicht um Software-Updates kümmern möchten oder kein solches Gerät besitzen, können Sie die Card Wallet als kalte Speicheralternative verwenden. Diese ist ein Produkt des ältesten österreichischen Bitcoin-Brokers Coinfinity und der Österreichischen Staatsdruckerei.
 
 ### Allgemeine Standards
 In jedem Fall müssen Sie den Wallet-Herstellern mehr oder weniger vertrauen. Die **allgemein bevorzugten und empfohlenen Cold Storage-Lösungen sind Hardware-Wallets**.
 
-Je nachdem, wie viel Ihr Wallet zu verwalten hat, ist es üblich, eine Kombination aus **einem Smartphone-Wallet für kleine Beträge, die Sie unterwegs dabei haben möchten** und **Hardware-Wallets für große Beträge wie Ersparnisse auf Ihrem Bankkonto** zu verwenden.
+Je nachdem, wie viel Ihr Wallet zu verwalten hat, ist es üblich, eine Kombination aus **einem Smartphone-Wallet für kleine Beträge, die Sie unterwegs dabeihaben möchten** und **Hardware-Wallets für große Beträge wie Ersparnisse auf Ihrem Bankkonto** zu verwenden.
 
 Wenn Ihre Bitcoin-Gelder einen Betrag erreichen, den Sie lieber noch stärker abgesichert haben möchten, dann sollten Sie sich nach Lösungen mit mehreren Signaturen umsehen. Aber seien Sie sich bewusst: Multi-Sig-Lösungen sind **nicht für Anfänger**! Sie müssen wirklich wissen, was Sie tun.
 
