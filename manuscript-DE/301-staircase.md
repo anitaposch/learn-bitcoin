@@ -32,7 +32,7 @@ Stephanie Murphy, Co-Moderatorin des Podcasts "Speaking of Bitcoin", stellt das 
 
 Im Idealfall überspringen Sie die erste Etage und gehen so schnell wie möglich in die 2.
 
-**2. Stock** Sie übernehmen die Kontrolle über Ihre Schlüssel und verwahren sie selbst sicher mit einer Wallet, die Ihnen Ihren Seed zur Verfügung stellt. Das ist ein viel höheres Maß an finanzieller Souveränität. Sie können dies mit einer mobilen Wallet auf Ihrem Smartphone für kleine Beträge tun oder - der beste Weg und sehr empfehlenswert - mit einer Hardware-Wallet für größere Beträge. Damit ist das Niveau **"Ihre Schlüssel, Ihre Bitcoin" das Ziel** erreicht. Somit haben Sie eine sehr hohe Stufe der Unabhängigkeit erlangt.
+**2. Stock** Sie übernehmen die Kontrolle über Ihre Schlüssel und verwahren sie selbst sicher mit einer Wallet, die Ihnen Ihren Seed zur Verfügung stellt. Das ist ein viel höheres Maß an finanzieller Souveränität. Sie können dies mit einer mobilen Wallet auf Ihrem Smartphone für kleine Beträge tun oder - der beste Weg und sehr empfehlenswert - mit einer Hardware-Wallet für größere Beträge. Damit ist das Niveau **"Ihre Schlüssel, Ihre Bitcoin"** erreicht. Somit haben Sie eine sehr hohe Stufe der Unabhängigkeit erlangt.
 
 Von hier an sind die Schritte für erfahrene Benutzer. Sie geben Ihnen noch mehr Souveränität, Privatsphäre und Kontrolle über Ihre Bitcoin.
 
