@@ -36,7 +36,7 @@ Kommen wir nun zum wichtigsten Teil der Sicherung Ihrer Bitcoin: dem Seed.
 
 Da der Seed die Wurzel aller privaten Schlüssel ist, darf niemand sonst Zugang zu ihm haben. Die Person, die den Seed kennt, hat die ultimative Kontrolle über das Geld.
 
-Der Seed (manchmal auch mnemonische Phrase oder Backup-Phrase genannt) ist eine Folge von 12 oder 24 englischen Wörtern, die Ihnen Zugang zu den privaten Schlüsseln Ihrer Wallet-Adressen und damit zu Ihren Münzen verschafft. Das bedeutet, dass diese Reihenfolge der Wörter geheim bleiben muss. Jeder, der den Seed kennt, kann auf Ihre Coins zugreifen und sie übernehmen. Warum ist das so?
+Der Seed (manchmal auch mnemonische Phrase oder Backup-Phrase genannt) ist eine Folge von 12 oder 24 englischen Wörtern, die Ihnen Zugang zu den privaten Schlüsseln Ihrer Wallet-Adressen und damit zu Ihren Coins verschafft. Das bedeutet, dass diese Reihenfolge der Wörter geheim bleiben muss. Jeder, der den Seed kennt, kann auf Ihre Coins zugreifen und sie übernehmen. Warum ist das so?
 
 Ihre Coins befinden sich nicht in Ihrer digitalen Wallet, so wie sie in Ihrer normalen physischen Brieftasche sind. Stattdessen werden sie in der Blockchain gespeichert. Vergleichen Sie dies mit einer E-Mail und einem Brief. Sie können von überall auf der Welt auf Ihr E-Mail-Konto zugreifen, weil Ihre E-Mails online gespeichert sind, während Ihr Briefkasten stationär ist. Dies gilt in ähnlicher Weise für Bitcoin.
 
