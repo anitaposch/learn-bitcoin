@@ -23,7 +23,7 @@ Bitcoin ist das Geld der Menschen. Bitcoin ist die Evolution des Geldes. Es ist 
 
 ![Die Geschichte des Geldes](assets/_money-history.png) [^2]
 
-Programmierbares kryptographisches Geld oder das "Internet des Geldes", wie es Andreas M. Antonopoulos bezeichnet, ist unaufhaltbar. Wir befinden uns am Beginn einer neuen Ära in der Geschichte der Menschheit.
+Programmiertes Krypto-Geld oder das "Internet des Geldes", wie es Andreas M. Antonopoulos bezeichnet, ist unaufhaltbar. Wir befinden uns am Beginn einer neuen Ära in der Geschichte der Menschheit.
 
 
 ## Rai, Steingeld von Yap
