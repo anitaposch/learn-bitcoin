@@ -75,7 +75,7 @@ Jameson Lopp, einer meiner Podcast-Gäste, testet Stahlplatten, die zur langfris
 
 Werden Sie nicht kreativ! Es ist ein häufiger Fehler, die Wörter in zwei oder mehr Teile aufzuteilen und sie an verschiedenen Orten aufzubewahren. Sie brauchen nur einen Teil zu verlieren und schon haben Sie keinen Zugriff mehr auf Ihre Coins.
 
-* Geben Sie den Seed niemals jemandem, dem Sie Ihr Geld nicht anvertrauen!
+* Geben Sie den Seed niemals jemandem, dem Sie Ihr Geld nicht anvertrauen wollen!
 * Geben Sie den Seed nicht auf Websites oder elektronischen Geräten ein!
 * Der Seed ist nicht erforderlich, um Bitcoin zu senden oder zu empfangen.
 * Keine glaubwürdige Person oder Organisation würde nach Ihrem Seed fragen.
