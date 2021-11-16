@@ -8,7 +8,7 @@ Je besser die Software einer Wallet vor Angriffen geschützt ist, desto sicherer
 
 Außerdem ist Ihr Smartphone, ob Android oder iOS, sicherer als Ihr Laptop oder PC. Desktop-Windows-Systeme sind zum Zeitpunkt der Erstellung dieses Artikels weniger sicher als Apple-Geräte. Bei den verschiedenen Smartphone-Betriebssystemen gibt es weniger Unterschiede in Bezug auf das Sicherheitsniveau.
 
-Zusätzlich zu diesen Überlegungen müssen Sie eine Wallet verwenden, die Ihre bevorzugten Kryptowährungen unterstützt. Da dies ein BTC-Leitfaden ist, schlage ich vor, dass Sie eine reine Bitcoin-Brieftasche verwenden. Je mehr Kryptowährungen eine Software wie eine Wallet-App verwalten muss, desto komplexer ist die Entwicklung und Wartung der Software aufseiten des Herstellers. Mehr Komplexität birgt ein höheres Risiko von Fehlern und Sicherheitslücken.
+Zusätzlich zu diesen Überlegungen müssen Sie eine Wallet verwenden, die Ihre bevorzugten Kryptowährungen unterstützt. Da dies ein BTC-Leitfaden ist, schlage ich vor, dass Sie eine reine Bitcoin-Wallet verwenden. Je mehr Kryptowährungen eine Software wie eine Wallet-App verwalten muss, desto komplexer ist die Entwicklung und Wartung der Software aufseiten des Herstellers. Mehr Komplexität birgt ein höheres Risiko von Fehlern und Sicherheitslücken.
 
 Über die Jahre hat sich die Verwendung einer Hardware-Wallet als der beste Weg erwiesen, um privaten Schlüssel zu speichern. Eine Hardware-Wallet ist ein kleines Gerät, das private Schlüssel offline speichert, ähnlich wie ein USB-Stick.
 
@@ -19,9 +19,9 @@ In jedem Fall müssen Sie den Wallet-Herstellern mehr oder weniger vertrauen. Di
 
 Je nachdem, wie viel Ihr Wallet zu verwalten hat, ist es üblich, eine Kombination aus **einem Smartphone-Wallet für kleine Beträge, die Sie unterwegs dabeihaben möchten** und **Hardware-Wallets für große Beträge wie Ersparnisse auf Ihrem Bankkonto** zu verwenden.
 
-Wenn Ihre Bitcoin-Gelder einen Betrag erreichen, den Sie lieber noch stärker abgesichert haben möchten, dann sollten Sie sich nach Lösungen mit mehreren Signaturen umsehen. Aber seien Sie sich bewusst: Multi-Sig-Lösungen sind **nicht für Anfänger**! Sie müssen wirklich wissen, was Sie tun.
+Wenn Ihr Bitcoin-Vermögen einen Betrag erreichen, den Sie lieber noch stärker abgesichert haben möchten, dann sollten Sie sich nach Lösungen mit mehreren Signaturen umsehen. Aber seien Sie sich bewusst: Multi-Sig-Lösungen sind **nicht für Anfänger**! Sie müssen wirklich wissen, was Sie tun.
 
-Als Alternative können Sie die branchenführenden Multi-Sig-Lösungen von Casa nutzen. Oder Sie besorgen sich mehrere Hardware-Wallets, um Ihre Gelder auf mehrere Geräte aufzuteilen, was das Risiko von Geräte- oder Herstellerfehlern verringert.
+Als Alternative können Sie die branchenführenden Multi-Sig-Lösungen von Casa nutzen. Oder Sie besorgen sich mehrere Hardware-Wallets, um Ihr Vermögen auf mehrere Geräte aufzuteilen, was das Risiko von Geräte- oder Herstellerfehlern verringert.
 
 ## Wallet-Empfehlungen Übersicht
 
@@ -46,7 +46,7 @@ Aufgrund der oben genannten Sicherheitsrisiken verwende ich keine Software-Walle
 ### Cold Storage
 **Hardware-Wallets**
 
-Hardware-Wallets verwalten Ihre Coins, Bitcoin-Adressen und zugehörigen privaten Schlüssel, ohne dass diese jemals das Internet "berühren". Selbst wenn Ihr Gerät mit einem Virus verseucht ist oder gehackt wurde, sind Ihre Gelder sicher und Sie können Zahlungen senden und empfangen. Sie müssen die Transaktionen auf diesen externen Geräten manuell bestätigen - so wird sichergestellt, dass kein Eindringling auf Ihrem Computer Ihre Gelder übernehmen kann.
+Hardware-Wallets verwalten Ihre Coins, Bitcoin-Adressen und zugehörigen privaten Schlüssel, ohne dass diese jemals das Internet "berühren". Selbst wenn Ihr Gerät mit einem Virus verseucht ist oder gehackt wurde, ist Ihr Vermögen sicher und Sie können Zahlungen senden und empfangen. Sie müssen die Transaktionen auf diesen externen Geräten manuell bestätigen - so wird sichergestellt, dass kein Eindringling auf Ihrem Computer Ihre Coins übernehmen kann.
 
 Die folgenden Hersteller und Geräte haben sich in den letzten Jahren auf dem Markt für Hardware-Wallets etabliert. SatoshiLabs aus Prag stellt seit 2012 Hardware-Wallets her. Das Unternehmen Ledger aus Paris wurde im Jahr 2014 gegründet. SHIFT Cryptosecurity aus Zürich ist seit 2015 auf dem Markt und das kanadische Unternehmen Coinkite ist seit 2012 im Bitcoin-Bereich tätig.
 
@@ -65,11 +65,11 @@ Zusätzlich zum Gerät liefert der Anbieter eine Wallet-Software zur Verwaltung 
 
 **Offline-Wallets**
 **Paper Wallets**
-Im Internet finden Sie Empfehlungen für die Verwendung von Paper Wallets. Dabei handelt es sich um selbst generierte Bitcoin-Adressen mit ihren privaten und öffentlichen Schlüsseln, die Sie auf Papier ausdrucken können. Da Sie sie selbst generieren und ausdrucken, müssen Sie dafür kein Geld ausgeben. Aber es ist schwierig, sie sicher zu generieren. Die Sicherheitsmaßnahmen, die Sie ergreifen müssen, sind extrem hoch. **Ich rate Ihnen von der Verwendung ab**.
+Im Internet finden Sie Empfehlungen für die Verwendung von Paper Wallets. Dabei handelt es sich um selbst generierte Bitcoin-Adressen mit ihren privaten und öffentlichen Schlüsseln, die Sie auf Papier ausdrucken können. Da Sie sie selbst generieren und ausdrucken, müssen Sie dafür nichts bezahlen. Aber es ist schwierig, sie sicher zu generieren. Die Sicherheitsmaßnahmen, die Sie ergreifen müssen, sind extrem hoch. **Ich rate Ihnen von der Verwendung ab**.
 
 Wenn Sie wirklich nicht die 50 - 100 USD bezahlen wollen, die für den Kauf einer Hardware-Wallet erforderlich sind, um höhere Beträge zu sichern, als Sie bequem auf Ihrem Telefon mit sich herumtragen, dann sollten Sie die Verwendung von Bitcoin als Wertaufbewahrungsmittel überhaupt noch einmal überdenken.
 
-Wenn Sie sich eine Hardware-Wallet einfach nicht leisten können, verwenden Sie in der Zwischenzeit Ihr Telefon. Sobald Sie genug Geld gespart haben, sollten Sie sich eine Hardware-Wallet zulegen.
+Wenn Sie sich eine Hardware-Wallet einfach nicht leisten können, verwenden Sie in der Zwischenzeit Ihr Telefon. Sobald Sie genug angespart haben, sollten Sie sich eine Hardware-Wallet zulegen.
 
 **Card Wallet**
 Die Card Wallet (Produkt) ist im Prinzip eine Paper Wallet, wird aber von Profis mit hohen Sicherheitsstandards hergestellt. Allerdings müssen Sie den Herstellern vertrauen, dass sie die privaten Schlüssel nicht auf der Karte speichern. Sie können die Card Wallet als Alternative verwenden, wenn Sie keinen Computer oder kein Smartphone besitzen oder sich nicht um die Wartung Ihrer Hardware-Wallet kümmern möchten. https://cardwallet.com/anita (meine Leser erhalten 20% Rabatt)
