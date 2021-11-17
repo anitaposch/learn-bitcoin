@@ -1,5 +1,5 @@
 # Bitcoin verdienen
-Bitcoin zu verdienen ist eigentlich der beste Weg, sie zu erwerben: oft nur eine einfache Registrierung, minimale oder gar keine KYC-Identitätsprüfung und keine Handelsgebühren. Einige dieser Dienste sind nur in den USA oder anderen bestimmten Regionen der Welt verfügbar. Da sich die Bitcoin-Branche in einer rasanten Entwicklung befindet, kann dieses Kapitel nur einen kleiner Ausblick auf das bieten, was noch kommen wird.
+Bitcoin zu verdienen ist eigentlich der beste Weg, sie zu erwerben: oft nur eine einfache Registrierung, minimale oder gar keine KYC-Identitätsprüfung und keine Handelsgebühren. Einige dieser Dienste sind nur in den USA oder anderen bestimmten Regionen der Welt verfügbar. Da sich die Bitcoin-Branche in einer rasanten Entwicklung befindet, kann dieses Kapitel nur einen kleinen Ausblick auf das bieten, was noch kommen wird.
 
 ## Bitcoin Jobbörsen
 Finden Sie einen Job oder einen Kunden, um Ihre Arbeit in Bitcoin bezahlt zu bekommen.
@@ -44,7 +44,7 @@ Mit der Entwicklung des Lightning Network wurde eine wirklich bahnbrechende neue
 
 ## Handel
 * [Breez](https://breez.technology/#business) einfach zu bedienende Point-of-Sale-App für Händler, Restaurants, Cafés… um Bitcoin-Zahlungen zu akzeptieren.
-* [BTC Pay Server](https://btcpayserver.org/) ist ein selbst gehosteter, quelloffener Kryptowährungszahlungsprozessor für den elektronischen Handel. Er ist sicher, privat, zensurresistent und kostenlos. Sie können ihn mit Ihrem Online-Shop verbinden, Rechnungen für Ihre Buchhaltung erstellen und Bitcoin über Lightning verdienen. Mit Integrationen für WooCommerce, Shopify, Drupal, Magento, PrestaShop, Shopware.
+* [BTC Pay Server](https://btcpayserver.org/) ist ein selbst gehosteter, quelloffener Zahlungsprozessor für Kryptowährungen, für den elektronischen Handel. Er ist sicher, privat, zensurresistent und kostenlos. Sie können ihn mit Ihrem Online-Shop verbinden, Rechnungen für Ihre Buchhaltung erstellen und Bitcoin über Lightning verdienen. Mit Integrationen für WooCommerce, Shopify, Drupal, Magento, PrestaShop, Shopware.
 * [Confirmo](https://confirmo.net/) akzeptiert Zahlungen mit Plugins für beliebte Online-Shops.
 * [Globee](https://globee.com/) akzeptieren Sie Bitcoin mit GloBee, sie bieten Open-Source-Plugins für alle wichtigen E-Commerce-Plattformen gegen eine Provision (Depot).
 * [OpenNode](https://www.opennode.com/) Bitcoin-Zahlungen und -Auszahlungen für Unternehmen, E-Commerce-Plugins, gehostete Zahlungsseiten (custodial).
@@ -69,7 +69,7 @@ Mit der Entwicklung des Lightning Network wurde eine wirklich bahnbrechende neue
 * [Blockstream Mining Note, STOKR](https://blockstream.com/finance/bmn/) beteiligen Sie sich am Bitcoin-Mining durch den Kauf des STOKR-Sicherheitstokens
 
 ## Mining
-Im Mining gibt es viele Betrügerein, selbst ich bin vor einigen Jahren auf einen hereingefallen und habe seitdem die Finger davon gelassen. Man sollte also immer genau prüfen, ob man einem Services vertrauen kann.  Inzwischen gibt es immer mehr seriöse Unternehmen, die in diesem Bereich tätig sind.
+Im Mining gibt es viele Betrüger, selbst ich bin vor einigen Jahren auf einen hereingefallen und habe seitdem die Finger davongelassen. Man sollte also immer genau prüfen, ob man einem Services vertrauen kann.  Inzwischen gibt es immer mehr seriöse Unternehmen, die in diesem Bereich tätig sind.
 
 * [Compass](https://compassmining.io/) Ein Service, der beim Kauf, der Installation und dem Hosting von Mining-Hardware hilft.
 * [Blockstream Mining](https://blockstream.com/mining/) hostet Ihre Mining-Rigs mit den Mining-Einrichtungen und dem Management von Blockstream auf Unternehmensebene.
