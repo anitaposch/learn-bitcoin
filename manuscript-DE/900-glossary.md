@@ -4,7 +4,7 @@
 Der französische Wirtschaftswissenschaftler Richard Cantillon  stellte fest, dass Inflation allmählich auftritt und dass die neue Geldmenge eine lokale Auswirkung auf die Inflation hat, wodurch das Konzept des nicht-neutralen Geldes entstand. Außerdem stellte er die These auf, dass die ursprünglichen Empfänger des neuen Geldes einen höheren Lebensstandard auf Kosten der späteren Empfänger genießen.[^79]
 
 **Zentralbank**
-Eine Zentralbank, Notenbank oder sonsitge Währungsbehörde ist eine Institution, die die Währung und die Geldpolitik eines Staates oder einer formellen Währungsunion verwaltet und deren Geschäftsbankensystem überwacht. [^80]
+Eine Zentralbank, Notenbank oder sonstige Währungsbehörde ist eine Institution, die die Währung und die Geldpolitik eines Staates oder einer formellen Währungsunion verwaltet und deren Geschäftsbankensystem überwacht. [^80]
 
 **Währung**
 Eine Währung ist ein von Regierungen festgelegtes Geldsystem, das allgemein verwendet wird. Viele Länder definieren ihre nationale Währung als gesetzliches Zahlungsmittel, d. h. es handelt sich um Geld, das per Gesetz als gültig für die Zahlung von Schulden erklärt wurde und nicht als Zahlungsmittel abgelehnt werden kann.
@@ -20,7 +20,7 @@ Beim Fractional-Reserve-Banking, das von Geschäftsbanken auf der ganzen Welt pr
 Ein Full Node ist ein Softwareprogramm, das Transaktionen und Blöcke vollständig validiert. Sie können einen Full Node auf Ihrem Heimcomputer oder auf einem Rasperry Pi betreiben. Fast alle Full Nodes helfen dem Netzwerk, indem sie Transaktionen und Blöcke von anderen Full Nodes annehmen, diese Transaktionen und Blöcke validieren und sie dann an weitere Full Nodes weiterleiten. Sie sind ein Teil des Peer-to-Peer-Netzwerks.
 
 **Hasher**
-Ein spezielles Computergerät, genannt ASIC, das nur für das Bitcoin-Mining verwendet wird. 
+Ein spezielles Computergerät, genannt ASIC, dass nur für das Bitcoin-Mining verwendet wird. 
 
 **Internationaler Währungsfonds**
 Der IWF ist eine internationale Finanzinstitution mit Sitz in Washington, D.C., der 190 Länder angehören. Sie arbeitet daran, die globale währungspolitische Zusammenarbeit zu fördern, die finanzielle Stabilität zu sichern und den internationalen Handel zu erleichtern. Dabei ist ihr Ziel ein hohes Beschäftigungsniveau und ein nachhaltiges Wirtschaftswachstum zu fördern und die Armut in der Welt zu verringern, wobei sie regelmäßig von den Ressourcen der Weltbank abhängig ist. Sie wurde im Juli 1944 auf der Konferenz von Bretton Woods hauptsächlich auf der Grundlage der Ideen von Harry Dexter White und John Maynard Keynes gegründet. Anschließend nahm sie 1945 mit 29 Mitgliedsländern und dem Ziel, das internationale Währungssystem neu zu gestalten, offiziell ihre Arbeit auf. Heute spielt sie eine zentrale Rolle bei der Bewältigung von Zahlungsbilanzschwierigkeiten und internationalen Finanzkrisen. Die Länder zahlen über ein Quotensystem Mittel in einen Pool ein, aus dem sich Länder mit Zahlungsbilanzproblemen Geld leihen können. [^82]
