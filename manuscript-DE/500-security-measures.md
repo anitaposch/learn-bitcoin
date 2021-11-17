@@ -4,7 +4,7 @@
 Alle Datenbanken können gehackt werden. Durchsuchen Sie Ihre E-Mail auf https://haveibeenpwned.com/ - wenn Sie Glück haben, wurden Sie nicht noch nicht gehackt, aber Milliarden anderer Konten schon. Daher ist es wichtig, allgemeine Sicherheitsmaßnahmen zu befolgen, die bei der Verwendung von Bitcoin noch mehr gelten.
 
 ### Hardware- und Software-Einrichtung
-Sie können gängige Browser wie Firefox, Opera, Brave oder Chrome verwenden. Browser-Erweiterungen, die Javascript und Cookies blockieren, werden empfohlen. Ghostery, NoScript und ScriptSafe sind die Art von Erweiterungen, die Sie Ihrem Browser hinzufügen können. "HTTPS überall" erzwingt eine SSL-Verbindung zu allen Websites, auch zu denen, die noch kein SSL anbieten.
+Sie können gängige Browser wie Firefox, Opera, Brave oder Chrome verwenden. Browser-Erweiterungen, die JavaScript und Cookies blockieren, werden empfohlen. Ghostery, NoScript und ScriptSafe sind die Art von Erweiterungen, die Sie Ihrem Browser hinzufügen können. "HTTPS überall" erzwingt eine SSL-Verbindung zu allen Websites, auch zu denen, die noch kein SSL anbieten.
 
 Beachten Sie, dass einige Online-Shops nicht richtig funktionieren, wenn diese Erweiterungen aktiviert sind, sodass Sie sie manuell deaktivieren müssen.
 
@@ -102,7 +102,7 @@ Einige Wallets verwenden andere Mechanismen für das Backup. Die Muun-Wallet bei
 ## Learning by Doing
 Es kann einschüchternd sein, mit Bitcoin zu beginnen, weil es sich um echtes Geld handelt. Deshalb ist es eine gute Praxis, mit geringen Beträgen zu beginnen.
 
-Installieren Sie für Ihre ersten Versuche eine Wallet auf Ihrem Telefon, suchen Sie nach einem [Bitcoin-Geldautomaten](https://anita.link/atm) in Ihrer Nähe oder besuchen Sie ein lokales Bitcoin-Treffen und tauschen Sie einen kleinen Betrag. Besorgen Sie sich eine Wallet für Ihren Computer und senden Sie Bitcoin zwischen Ihren beiden Wallets an verschiedene Adressen.
+Installieren Sie für Ihre ersten Versuche eine Wallet auf Ihrem Telefon, suchen Sie nach einem [Bitcoin-Geldautomaten](https://anita.link/atm) in Ihrer Nähe oder besuchen Sie ein lokales Bitcoin-Treffen, und tauschen Sie einen kleinen Betrag. Besorgen Sie sich eine Wallet für Ihren Computer und senden Sie Bitcoin zwischen Ihren beiden Wallets an verschiedene Adressen.
 
 Die beste Zeit dafür ist in der Regel das Wochenende, wenn der Mempool nicht mit Transaktionen überfüllt ist und die Gebühren niedriger sind.
 
