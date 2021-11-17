@@ -1,6 +1,6 @@
 # Empfehlungen
 
-> "Anita Posch ist eine der produktivsten und fachkundigsten Stimmen in der Bitcoin-Welt. Ihre Arbeit macht Bitcoin verständlich, nachvollziehbar und spannend für Neulinge und unterstützt Sie auf ihrem Weg zum eigenen Know-How. In einem lauten und verwirrenden Umfeld ist ihr Schaffen sachlich und integer." - **Andreas M. Antonopoulos, Autor "Mastering Bitcoin" und "Das Internet des Geldes"**
+> "Anita Posch ist eine der produktivsten und fachkundigsten Stimmen in der Bitcoin-Welt. Ihre Arbeit macht Bitcoin verständlich, nachvollziehbar und spannend für Neulinge und unterstützt Sie auf ihrem Weg zum eigenen Know-how. In einem lauten und verwirrenden Umfeld ist ihr Schaffen sachlich und integer." - **Andreas M. Antonopoulos, Autor "Mastering Bitcoin" und "Das Internet des Geldes"**
 
 > "Anita hat großartige Arbeit in der Bitcoin-Community geleistet. Nicht ausschließlich, aber ganz besonders ihre Beiträge über die Nutzung von Bitcoin in weniger privilegierten Regionen der Welt. Ihr Buch ist eine kompakte und leicht verständliche Einführung in Bitcoin, die alle wichtigen Themen abdeckt, um den Einstieg zu erleichtern. " - **Lyn Alden, Investment Strategin**
 
