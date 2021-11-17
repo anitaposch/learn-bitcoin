@@ -13,7 +13,7 @@ Für mehr Kontrolle können Sie die Gebühr und die Bestätigungsgeschwindigkeit
 
 Unten sehen Sie die Einstellungen in der Edge-Wallet. Sie können einen der Bereiche der Standard-Transaktionsgebühr oder einen eigenen Wert wählen.
 
-Einstellungen für Transaktionsgebühren in der Edge-Wallet](assets/_transaction-fee-setting.png) [^75]
+[Einstellungen für Transaktionsgebühren in der Edge-Wallet](assets/_transaction-fee-setting.png) [^75]
 
 **Ausstehende Transaktion**
 Da ungefähr alle 10 Minuten neue Blöcke gemined werden, dauert es im Durchschnitt mindestens 10 Minuten, bis Ihre Transaktion bestätigt wird. Wenn Sie die Transaktionsgebühr zu niedrig ansetzen, kann es sein, dass Ihre Transaktion länger aussteht, da der Mempool geleert wird und die Miner beginnen, Transaktionen mit niedrigeren Gebühren wieder aufzunehmen. Hier sehen Sie eine meiner Transaktionen, die seit einem Monat im Mempool gefangen ist.
