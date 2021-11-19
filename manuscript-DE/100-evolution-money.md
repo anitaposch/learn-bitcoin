@@ -4,10 +4,10 @@ Am 3. Januar 2009 wurde Bitcoin geboren. Seither hat das Bitcoin Peer-zu-Peer Pr
 
 Dieses System hat die folgenden Eigenschaften:
 
--   Bitcoin-Transaktionen sind Zensur-resistent.
+-   Bitcoin-Transaktionen sind zensurresistent.
 -   Bitcoin ist unveränderbar.
 -   Bitcoin kann nicht gefälscht werden.
--   Bitcoin-Transaktionen werden (im Gegensatz zu Banken) ohne Intermediäre durchgeführt und sind dadurch nicht manipulierbar.
+-   Bitcoin-Transaktionen sind ohne Intermediäre wie Banken hochsicher.
 -   Bitcoin-Transaktionen sind transparent, öffentlich einsehbar und können von allen geprüft werden.
 
 ![Eine PayPal Zahlung vs. Bitcoin](assets/_paypal-bitcoin-intermediaries.PNG) [^1]
@@ -34,13 +34,13 @@ Das Steingeld sind große Steinscheiben, die auf der Insel Yap im westlichen Paz
 
 ![Rai Steine mit Tragehilfen, 1903](assets/_Stone_Money_of_Uap_1903_Jayne,_String_Figures_p160.jpg) [^3] 
 
-Rai Steine wurden mit dem Boot von Palau nach Yap gebracht. Aufgrund ihrer Größe und Gewichts wurde ihre Lage nach der Ankunft nicht mehr verändert, sondern die Bezahlung erfolgte durch den Besitzerwechsel. Jede Transaktion wurde in der kleinen Gemeinschaft mündlich "gespeichert". Der Besitzstand einzelner Steine wurde zu Allgemeinwissen. Es war also nicht wichtig, dass die Steine ausgetauscht und transportiert wurden, ausschließlich das gemeinsam geführte Gedächtnisbuch zählte. Jedes Mitglied der Gemeinschaft wusste Bescheid. Ein großer Stein fiel bei der Überfahrt nach Yap von Bord und sank. Obwohl niemand ihn sehen oder angreifen konnte, galt der Stein nach wie vor als Geld, da er am Grund des Meeres vorhanden war.
+Rai Steine wurden mit dem Boot von Palau nach Yap gebracht. Aufgrund ihrer Größe und ihres Gewichts wurde ihre Lage nach der Ankunft nicht mehr verändert, sondern die Bezahlung erfolgte durch Besitzwechsel. Jede Transaktion wurde in der kleinen Gemeinschaft mündlich "gespeichert". Der Besitzstand einzelner Steine wurde zu Allgemeinwissen. Es war also nicht wichtig, dass die Steine ausgetauscht und transportiert wurden, ausschließlich das gemeinsam geführte Gedächtnisbuch zählte. Jedes Mitglied der Gemeinschaft wusste Bescheid. Ein großer Stein fiel bei der Überfahrt nach Yap von Bord und sank. Obwohl niemand ihn sehen oder angreifen konnte, galt der Stein am Grund des Meeres liegend nach wie vor als Geld.
 
 Dieses Beispiel ist bedeutend, weil es die Nutzung eines gemeinsamen Kontobuches in einer frühen Kultur demonstriert. Das Wissen über den Eigentumsstand wurde unter den dort Lebenden ausschließlich mündlich weitergegeben, ohne einen einzigen Stein zu bewegen. Alle waren sich einig, wem welcher Stein gehört und jede einzelne Person konnte dies kontrollieren. Ein Konsens wurde gefunden. Genauso können Sie sich die Funktion der Bitcoin-Blockchain vorstellen. Es ist ein öffentliches Kontobuch aller Transaktionen, die gleichzeitig und synchron auf tausenden Computern (Knoten/Nodes) weltweit gespeichert sind. [^4]
 
-Eine weitere Ähnlichkeit zu Bitcoin ist die Schaffung der Rai Steine, die arbeitsintensiv war und eine Form eines Arbeitsnachweises (Proof-of-Work) darstellt. Die Steine wurden mit der Hand aus dem Fels geschlagen, wogen bis zu 5 Tonnen und wurden mit Kanus 400 km über das Meer auf die Insel Yap gebracht. Als es durch neue Technologien und Werkzeuge einfacher wurde, die Steine herzustellen, verloren sie ihre Bedeutung als Geld, weil sie kein verlässlicher Indikator für investierte Energie mehr waren.
+Eine weitere Ähnlichkeit zu Bitcoin ist die Gewinnung der Rai Steine, die arbeitsintensiv war und eine Form eines Arbeitsnachweises (Proof-of-Work) darstellt. Die Steine wurden mit der Hand aus dem Fels geschlagen, wogen bis zu 5 Tonnen und wurden mit Kanus 400 km über das Meer auf die Insel Yap gebracht. Als es durch neue Technologien und Werkzeuge einfacher wurde, die Steine herzustellen, verloren sie ihre Bedeutung als Geld, weil sie kein verlässlicher Indikator für investierte Energie mehr waren.
 
-Das Rai Steingeld wird von zeitgenössischen Ökonom*innen als primitive Form des Geldes gesehen. Es dient oft als Beispiel, um die These zu veranschaulichen, dass der Wert mancher Geldarten ausschließlich auf gemeinsamem Glauben an dessen Wert fußt.[^5] Das heutige Geld wird ebenfalls durch nichts gedeckt. Es wurde durch staatliche Verordnung etabliert und zum gesetzlichen Zahlungsmittel erklärt. Nur deswegen wird staatliches Geld verwendete und als wertvoll angesehen.
+Das Rai Steingeld wird von zeitgenössischen Ökonom*innen als primitive Form des Geldes gesehen. Es dient oft als Beispiel, um die These zu veranschaulichen, dass der Wert mancher Geldarten ausschließlich auf gemeinsamem Glauben an dessen Wert fußt.[^5] Das heutige Geld wird ebenfalls durch nichts gedeckt. Es wurde durch staatliche Verordnung etabliert und zum gesetzlichen Zahlungsmittel erklärt. Nur deswegen wird staatliches Geld verwendet und als wertvoll angesehen.
 
 ## Wie Geld entsteht
 
