@@ -4,7 +4,7 @@ Bevor sie 2017 mit ihrer pädagogischen Bitcoin-Arbeit begann, sammelte Anita ü
 
 Vorstandsmitglied bei NPO Bitcoin Austria, Gast im What Bitcoin Did Podcast, vorgestellt auf CoinDesk und BitcoinMagazine
 
-Bitcoin book;Cryptocurrency book;Bitcoin book best seller;Bitcoin investing;Bitcoin dummies;Bitcoin money;Bitcoin;cryptocurrency for dummies;Bitcoin for dummies;investing bitcoin;Bitcoin guide for beginners;Bitcoin basics book;Bitcoin security;Bitcoin basics;What is bitcoin;Bitcoin guide;bitcoin secure;bitcoin investing book;mastering bitcoin;Bitcoin books;where to invest bitcoin;bitcoin standard;bitcoin education;Bitcoin guidebook;how to use bitcoin;how to earn bitcoin;cryptocurrencies;blockchain book
+Bitcoin Buch;Kryptowährung Buch;Bitcoin Buch Bestseller;Bitcoin investieren;Bitcoin Dummies;Bitcoin Geld;Bitcoin;Kryptowährung für Dummies;Bitcoin für Dummies;Bitcoin investieren;Bitcoin Anleitung für Anfänger;Bitcoin Grundlagen Buch;Bitcoin Sicherheit;Bitcoin Grundlagen; Was ist Bitcoin;Bitcoin Leitfaden;Bitcoin sicher;Bitcoin Investieren Buch;Bitcoin beherrschen;Bitcoin Bücher;wo man Bitcoin investiert;Bitcoin Standard;Bitcoin Bildung;Bitcoin Ratgeber;wie man Bitcoin benutzt;wie man Bitcoin verdient;Kryptowährungen;Blockchain Buch
 
 10 Kapitel darüber, warum Bitcoin wichtig ist und wie Sie Bitcoin sicher nutzen können.
 1.  Die Evolution des Geldes
