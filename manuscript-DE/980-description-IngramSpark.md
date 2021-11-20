@@ -1,8 +1,10 @@
-Anita Posch is a Bitcoin advocate, author, solopreneur and host of the Anita Posch show. Anita's goal is to bring Bitcoin to billions through her educational work. Anita translated two volumes of The Internet of Money by Andreas M. Antonopoulos into German. On her podcast she has interviewed people from all around the world including some from developing countries like Nigeria, South Africa, Venezuela, and Afghanistan about the positive effects of Bitcoin on people's freedom.
+Anita Posch ist Bitcoin-Expertin, Authorin, Solopreneurin und Gastgeberin der Anita Posh Show.
 
-Before she started her educational Bitcoin work in 2017, Anita gained over 20 years of experience in web development, e-commerce, and online business.
+Anita Posch is a Bitcoin advocate, author, solopreneur and host of the Anita Posch show. Anitas Ziel ist es, Bitcoin durch ihre Aufklärungsarbeit Milliarden von Menschen näher zu bringen. Anita hat zwei Bände von "Das Internet des Geldes" von Andreas M. Antonopoulos ins Deutsche übersetzt. In ihrem Podcast hat sie Menschen aus der ganzen Welt über die positiven Auswirkungen von Bitcoin auf die Freiheit der Menschen interviewt, darunter einige aus Ländern des globalen Südens wie Nigeria, Südafrika, Venezuela und Afghanistan.
 
-Member of the board at NPO Bitcoin Austria, Guest on the What Bitcoin Did podcast, featured on CoinDesk and BitcoinMagazine
+Bevor sie 2017 mit ihrer pädagogischen Bitcoin-Arbeit begann, sammelte Anita über 20 Jahre Erfahrung in der Webentwicklung, im E-Commerce und im Online-Geschäft.
+
+Vorstandsmitglied bei NPO Bitcoin Austria, Gast im What Bitcoin Did Podcast, vorgestellt auf CoinDesk und BitcoinMagazine
 
 Bitcoin book;Cryptocurrency book;Bitcoin book best seller;Bitcoin investing;Bitcoin dummies;Bitcoin money;Bitcoin;cryptocurrency for dummies;Bitcoin for dummies;investing bitcoin;Bitcoin guide for beginners;Bitcoin basics book;Bitcoin security;Bitcoin basics;What is bitcoin;Bitcoin guide;bitcoin secure;bitcoin investing book;mastering bitcoin;Bitcoin books;where to invest bitcoin;bitcoin standard;bitcoin education;Bitcoin guidebook;how to use bitcoin;how to earn bitcoin;cryptocurrencies;blockchain book
 
