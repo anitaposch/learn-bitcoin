@@ -6,15 +6,15 @@ Vorstandsmitglied bei NPO Bitcoin Austria, Gast im What Bitcoin Did Podcast, vor
 
 Bitcoin book;Cryptocurrency book;Bitcoin book best seller;Bitcoin investing;Bitcoin dummies;Bitcoin money;Bitcoin;cryptocurrency for dummies;Bitcoin for dummies;investing bitcoin;Bitcoin guide for beginners;Bitcoin basics book;Bitcoin security;Bitcoin basics;What is bitcoin;Bitcoin guide;bitcoin secure;bitcoin investing book;mastering bitcoin;Bitcoin books;where to invest bitcoin;bitcoin standard;bitcoin education;Bitcoin guidebook;how to use bitcoin;how to earn bitcoin;cryptocurrencies;blockchain book
 
-10 Chapters on why Bitcoin is important and how you can use it safely.
-1.  The Evolution of Money
-2.  What Is a Blockchain?
-3.  Why Invest in Bitcoin?
-4.  The Staircase of Financial Sovereignty
-5.  Storing Coins Safely
-6.  Bitcoin's Price
-7.  How to Invest in Bitcoin
-8.  Using Bitcoin
-9.  Earn Bitcoin
-10.  The Future is Now
+10 Kapitel darüber, warum Bitcoin wichtig ist und wie Sie Bitcoin sicher nutzen können.
+1.  Die Evolution des Geldes
+2.  Was ist eine Blockchain?
+3.  In Bitcoin investieren?
+4.  Die Treppe zu finanzieller Unabhängigkeit
+5.  Coins sicher aufbewahren
+6.  Bitcoin-Preis
+7.  Wie bekomme ich Bitcoin?
+8.  Bitcoin verwenden
+9.  Bitcoin verdienen
+10.  Die Zukunft ist jetzt
 
