@@ -1,6 +1,6 @@
 ## Wer ist Satoshi Nakamoto?
 
-Dieses Rätsel wird vermutlich niemals gelöst werden, denn es gibt keine Person namens Satoshi Nakamoto. Der Name ist ein Pseudonym. Es könnte sich um eine Einzelperson oder eine Gruppe von Kryptographinnen, Programmiererinnen und Wissenschaftlern handeln. Am 18. August 2008 registrierte eine unbekannte Person die Domain bitcoin.org. Die Registrierung wurde über eine Firma in Panama durchgeführt, weshalb die Person dahinter bis heute anonym blieb.
+Dieses Rätsel wird vermutlich niemals gelöst werden, denn es gibt keine Person namens Satoshi Nakamoto. Der Name ist ein Pseudonym. Es könnte sich um eine Einzelperson oder eine Gruppe von Kryptographen, Programmiererinnen und Wissenschaftlern handeln. Am 18. August 2008 registrierte eine unbekannte Person die Domain bitcoin.org. Die Registrierung wurde über eine Firma in Panama durchgeführt, weshalb die Person dahinter bis heute anonym blieb.
 
 Am 1. Oktober 2008 tauchte eine Nachricht von Satoshi Nakamoto in der "Kryptographie Mailing Liste" auf, in der erklärt wurde, dass man an einem elektronischen Bargeld-System arbeite und das Bitcoin-Whitepaper auf [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf) veröffentlichte.
 

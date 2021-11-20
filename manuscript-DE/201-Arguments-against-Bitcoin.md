@@ -2,14 +2,14 @@
 
 ### Volatilität
 
-_Der Bitcoin Kurs schwankt so stark, deshalb kann es nicht als Zahlungsmittel dienen._
+_Der Bitcoin-Kurs schwankt stark, deshalb kann es nicht als Zahlungsmittel dienen._
 
 Ja, der Bitcoin Preis ist volatil. Der Wert kann in kurzer Zeit gewaltig steigen oder sinken. Sie können dennoch Bitcoin als Zahlungsmittel verwenden. Tauschen Sie einfach denselben Betrag am selben Tag von Euro in Bitcoin. Ergebnis: keine Volatilität, weder Verlust noch Gewinn.
 
 ### Kursentwicklung
 _Bitcoin ist aufgrund seiner Kursentwicklung kein Wertspeicher._
 
-Betrachten wir Bitcoin als Langzeit-Investment, ist es die am besten performende Anlageformen im letzten Jahrzehnt.
+Betrachten wir Bitcoin als Langzeit-Investment, ist es die am besten performende Anlageform im letzten Jahrzehnt.
 
 ![Bitcoin ist die beste Anlageform der letzten 10 Jahre, Stand 2021](assets/_best-asset-10years.png) [^27]
 
@@ -34,11 +34,11 @@ Seit Bitcoins Start im Jahr 2009 gab es mehrere Kurs-Zusammenbrüche. Sicher ist
 
 ![Bitcoin-Preis in logarithmischer Darstellung](assets/_Bitcoin-price-log.png)  [^30]
 
-> Versuchen Sie nicht cleverer als der Markt zu sein und traden Sie nicht. Halten Sie ihre Bitcoin. Mindestens für fünf Jahre.
+> Versuchen Sie nicht cleverer als der Markt zu sein und traden Sie nicht. Halten Sie Ihre Bitcoin. Mindestens für fünf Jahre.
 
-In einem Bärenmarkt, wenn der Kurs immens fällt, werden Sie das Gefühl haben, dass Ihr Vermögen schrumpft. Es sinkt aber nur der Wert in Fiat-Geld, ihre Menge an Bitcoin bleibt dieselbe. 0,3 Bitcoin im Bärenmarkt sind genauso 0,3 Bitcoin im Bullenmarkt. Dieser Gedanke hat mir durch so manches Tief geholfen. Ihr Verlust entsteht durch den Vergleich des Bitcoin-Kurses zu einer anderen Anlageform oder Euro. Bleiben Sie geduldig, verkaufen Sie nicht. Die Geschichte zeigt, dass langfristiges Halten ein zuverlässiger Weg ist, Ihr Vermögen zu sichern. 
+In einem Bärenmarkt, wenn der Kurs immens fällt, werden Sie das Gefühl haben, dass Ihr Vermögen schrumpft. Es sinkt aber nur der Wert in Fiat-Geld, Ihre Menge an Bitcoin bleibt dieselbe. 0,3 Bitcoin im Bärenmarkt sind genauso 0,3 Bitcoin im Bullenmarkt. Dieser Gedanke hat mir durch so manches Tief geholfen. Ihr Verlust entsteht durch den Vergleich des Bitcoin-Kurses zu einer anderen Anlageform oder Euro. Bleiben Sie geduldig, verkaufen Sie nicht. Die Geschichte zeigt, dass langfristiges Halten ein zuverlässiger Weg ist, Ihr Vermögen zu sichern. 
 
-> Investieren Sie nur soviel in Bitcoin, wie Sie gewillt sind zu verlieren. Wenn Ihnen der Kursverfall schlaflose Nächte bereitet, halten Sie vermutlich zu viel von einem riskanten Asset wie Bitcoin.
+> Investieren Sie nur soviel in Bitcoin, wie Sie gewillt sind, zu verlieren. Wenn Ihnen der Kursverfall schlaflose Nächte bereitet, halten Sie vermutlich zu viel von einem riskanten Asset wie Bitcoin.
 
 ### Kein Widerrufsrecht
   
@@ -52,9 +52,9 @@ Falls Sie sich vertippen und es die Adresse nicht gibt, sollten Sie eine Fehlerm
 
 _In besser entwickelten Regionen der Welt sind Einlagen auf Bankkonten versichert (in Europa bis 100.000 Euro). Das trifft auf Bitcoin nicht zu._
 
-Das ist richtig. Mit großer Freiheit kommt große Verantwortung. Wenn Sie Ihre Bitcoin selbst verwahren, sind Sie allein verantwortlich. Es gibt keine Versicherung. Aber: im Fall eines Zusammenbruchs des Bankensystems wird ihnen diese Versicherung möglicherweise nichts nützen. Während der Finanzkrise in Zypern im Jahr 2013 wurden 47,5% aller Konten mit Einlagen von mehr als 100.000 Euro beschlagnahmt. Niemand kann Ihre Bitcoin beschlagnahmen, wenn Sie die privaten Schlüssel selbst verwalten.
+Das ist richtig. Mit großer Freiheit kommt große Verantwortung. Wenn Sie Ihre Bitcoin selbst verwahren, sind Sie allein verantwortlich. Es gibt keine Versicherung. Aber: im Fall eines Zusammenbruchs des Bankensystems wird Ihnen diese Versicherung möglicherweise nichts nützen. Während der Finanzkrise in Zypern im Jahr 2013 wurden 47,5 % aller Konten mit Einlagen von mehr als 100.000 Euro beschlagnahmt. Niemand kann Ihre Bitcoin beschlagnahmen, wenn Sie die privaten Schlüssel selbst verwalten.
 
-In Europa sind wir an ein größtenteils gut funktionierendes Bankensystem gewöhnt. Doch zwei Milliarden Menschen besitzen kein Bankkonto, 80% der Weltbevölkerung lebt in autoritären Staaten. Für diese Menschen macht unzensierbares Geld, über das man die volle Kontrolle hat, Sinn. In diesen Ländern, in denen die Menschen berechtigterweise wenig Vertrauen in das Bankensystem haben, bietet das Bitcoin-Netzwerk Sicherheit. 
+In Europa sind wir an ein größtenteils gut funktionierendes Bankensystem gewöhnt. Doch zwei Milliarden Menschen besitzen kein Bankkonto, 80 % der Weltbevölkerung lebt in autoritären Staaten. Für diese Menschen macht unzensierbares Geld, über das man die volle Kontrolle hat, Sinn. In diesen Ländern, in denen die Menschen berechtigterweise wenig Vertrauen in das Bankensystem haben, bietet das Bitcoin-Netzwerk Sicherheit. 
 
 ###  Ich kann mir Bitcoin nicht leisten
 _Ein Bitcoin ist zu teuer, ich kann mir keinen kaufen._
@@ -67,7 +67,7 @@ Die bessere Alternative ist es, Bitcoin zu verdienen. Mehr darüber im Kapitel 9
 
 _Bitcoin ist eine neue Technologie. Es ist die erste ihrer Art. Vergleichen wir das mit den ersten Computer Herstellern in den 1980er-Jahren oder den Internet-Plattformen des Dot com Booms, fast keine dieser Firmen hat bis heute überlebt. Bitcoin war die erste Blockchain und könnte genauso enden._
 
-Bitcoin ist seit seiner Entstehung im Jahr 2009 die weltweit am häufigsten verwendete Kryptowährung. Ich gebe zu, dass es keine Garantien dafür gibt, dass dies so bleiben wird. Die Marktdominanz von Bitcoin lag bis 2017 bei über 80%. Das bedeutet, dass von all den Tausenden von Kryptowährungen auf dem Markt über 80% aller Investitionen in Bitcoin gehalten wurden. Dies änderte sich 2017–18, als es einen "Krieg" zwischen verschiedenen Ideen darüber gab, wie Bitcoin als Technologie weitergehen sollte. Die Debatte über die zukünftige Blockgröße endete mit einer Hard-Fork, einem Split der Blockchain in zwei Gabeln: Bitcoin (BTC) und Bitcoin Cash (BCH). Zur selben Zeit gewannen andere Krypto-Projekte wie Ethereum an Bedeutung. Vier Jahre später ist BCH im Vergleich zu BTC in die Bedeutungslosigkeit gerutscht. Bitcoin hielt seine Dominanz mit über 60% bis zur aktuellen Hausse, wo er zum Zeitpunkt der Erstellung dieses Buches auf 40% fiel. Ein Bull-Run führt zu mehr Aufmerksamkeit in Mainstream-Medien, viele schlecht informierte Artikel erscheinen (meist nur über den Preis) und bestimmte Milliardäre streuen Gerüchte und Spekulationen. Dadurch werden Altcoins in den Fokus gerückt und die durch den Preis angelockten Marktteilnehmer kaufen diese.
+Bitcoin ist seit seiner Entstehung im Jahr 2009 die weltweit am häufigsten verwendete Kryptowährung. Ich gebe zu, dass es keine Garantien dafür gibt, dass dies so bleiben wird. Die Marktdominanz von Bitcoin lag bis 2017 bei über 80 %. Das bedeutet, dass von all den Tausenden von Kryptowährungen auf dem Markt über 80 % aller Investitionen in Bitcoin gehalten wurden. Dies änderte sich 2017–18, als es einen "Krieg" zwischen verschiedenen Ideen darüber gab, wie Bitcoin als Technologie weitergehen sollte. Die Debatte über die zukünftige Blockgröße endete mit einer Hard-Fork, einem Split der Blockchain in zwei Gabeln: Bitcoin (BTC) und Bitcoin Cash (BCH). Zur selben Zeit gewannen andere Krypto-Projekte wie Ethereum an Bedeutung. Vier Jahre später ist BCH im Vergleich zu BTC in die Bedeutungslosigkeit gerutscht. Bitcoin hielt seine Dominanz mit über 60 % bis zur aktuellen Hausse, wo er zum Zeitpunkt der Erstellung dieses Buches auf 40 % fiel. Ein Bull-Run führt zu mehr Aufmerksamkeit in Mainstream-Medien, viele schlecht informierte Artikel erscheinen (meist nur über den Preis) und bestimmte Milliardäre streuen Gerüchte und Spekulationen. Dadurch werden Altcoins in den Fokus gerückt und die durch den Preis angelockten Marktteilnehmer kaufen diese.
 
 ![Prozentsatz der gesamten Marktkapitalisierung](assets/_Market-dominance.png) [^31]
 
@@ -75,11 +75,11 @@ Die Wiederherstellung der Vorrangstellung Bitcoins nach der kritischen Phase im 
 
 ### Bitcoin ist gescheitert
 
-_Es nutzen doch wirklich wenig Menschen Bitcoin. Nach 12 Jahren des Bestehens sollten schon viel mehr Menschen Bitcoin verwenden. Bitcon ist gescheitert._
+_Es nutzen doch wirklich wenig Menschen Bitcoin. Nach 12 Jahren des Bestehens sollten schon viel mehr Menschen Bitcoin verwenden. Bitcoin ist gescheitert._
 
 Da die Nutzung von Bitcoin im Prinzip nicht an Identitäten gebunden ist, ist es statistisch unmöglich zu wissen, wie viele Menschen Bitcoin wirklich nutzen. Auch die Anzahl der Bitcoin-Adressen gibt uns keinen Aufschluss darüber, wie viele Menschen Bitcoin nutzen. Eine Person kann Millionen von Adressen haben. Zentrale Bitcoin-Börsen können die Bitcoin tausender Personen auf einigen wenigen Adressen halten.
 
-Diese zentralisierten Tauschbörsen müssen Ihre persönliche Identität mittels Ausweispapiere, Meldebestätigung etc. verifizieren, bevor Sie Euro in Bitcoin tauschen dürfen. Daher ist es möglich die folgende Statistik zu erstellen, die zeigt, dass weltweit über 101 Millionen Menschen ein Konto bei einer dieser Börsen besitzt. Darin nicht enthalten sind all jene, die bereits in den Jahren bevor es diese Börsen gab an Bitcoin gekommen sind und jene, die aus Gründen der Privatsphäre ihre Bitcoin außerhalb der zentralen Börsen erstehen oder durch Arbeit verdienen.
+Diese zentralisierten Tauschbörsen müssen Ihre persönliche Identität mittels Ausweispapieren, Meldebestätigung etc. verifizieren, bevor Sie Euro in Bitcoin tauschen dürfen. Daher ist es möglich die folgende Statistik zu erstellen, die zeigt, dass weltweit über 101 Millionen Menschen ein Konto bei einer dieser Börsen besitzt. Darin nicht enthalten sind all jene, die bereits in den Jahren bevor es diese Börsen gab an Bitcoin gekommen sind und jene, die aus Gründen der Privatsphäre ihre Bitcoin außerhalb der zentralen Börsen erstehen oder durch Arbeit verdienen.
 
 ![Anzahl der identitätsgeprüften Nutzer von Kryptowährungen in Millionen](assets/_number-users-2020.png) [^32]
 
@@ -87,20 +87,19 @@ Rund 1,3 % der Weltbevölkerung hatten Ende 2020 ein Konto bei einer Kryptowähr
 
 ![Befragte, die angegeben haben, dass sie Kryptowährungen verwenden oder besitzen im Jahr 2020](assets/_users_around-world.png) [^33]
 
-Dies ist das Ergebnis einer Umfrage in ausgewählten Ländern, aus der hervorgeht, dass 32 % der nigerianischen Bevölkerung Kryptowährungen verwendet haben oder besitzen. Bedenken Sie, dass die nigerianische Bevölkerung im Durchschnitt 19 Jahre alt ist, verglichen mit den der USA mit 38 Jahren und Deutschland mit einem Durchschnittsalter von 44 Jahren. Sie sind jung, wollen arbeiten, sind technisch versiert und schätzen Kryptowährungen trotz ihrer Volatilität, da ihre eigene nationale Währung Naira 25% ihres Wertes pro Jahr verliert.
+Dies ist das Ergebnis einer Umfrage in ausgewählten Ländern, aus der hervorgeht, dass 32 % der nigerianischen Bevölkerung Kryptowährungen verwendet haben oder besitzen. Bedenken Sie, dass die nigerianische Bevölkerung im Durchschnitt 19 Jahre alt ist, verglichen mit den der USA mit 38 Jahren und Deutschland mit einem Durchschnittsalter von 44 Jahren. Sie sind jung, wollen arbeiten, sind technisch versiert und schätzen Kryptowährungen trotz ihrer Volatilität, da ihre eigene nationale Währung Naira 25 % ihres Wertes pro Jahr verliert.
 
 Wenn Sie mehr über Bitcoin in Nigeria erfahren möchten, öffnen Sie Ihren Browser und gehen zu: anita.link/88, anita.link/66 und anita.link/63
 
 ### Bitcoins Transaktionsgrenze
 _Das Bitcoin-Netzwerk ist in der Lage nur sieben Transaktionen pro Sekunde zu verarbeiten. Das ist nicht genug, um ein globales Zahlungsnetzwerk zu bedienen. Wenn alle Menschen Bitcoin nutzen würden, wäre das Netzwerk überlastet._
 
-Das Lightning-Netzwerk wurde Anfang 2018 gestartet und wird laufend weiterentwickelt. Dabei handelt es sich um ein Protokoll, das eine Ebene über der Bitcoin-Blockchain angesiedelt ist. Das Lightning-Netzwerk wickelt bereits tausende Mikrozahlungen pro Sekunde ab und hat sich als sehr erfolgreich für globale, schnelle, und günstige Geldsendungen erwiesen. Das Wachstum von Lightning ist exponentiell. In ein paar Jahren können Bitcoin-Zahlungen mittels Lightning, technisch die Transaktionsanzahl von Visa oder Mastercard übersteigen. Die Bitcoin-Blockchain wird als die finale Verrechnungsebene für große Transaktionen verwendet werden, während kleine Zahlungen, wie für den Besuch im Kaffeehaus, über das Lightning-Netzwerk erfolgen. Für den täglichen Gebrauch muss niemand wissen, wie das funktioniert. Die meisten von uns wissen nicht, was hinter Netflix oder dem Senden einer E-Mail steckt, dennoch tun wir es laufend.
-
+Das Lightning-Netzwerk wurde Anfang 2018 gestartet und wird laufend weiterentwickelt. Dabei handelt es sich um ein Protokoll, das eine Ebene über der Bitcoin-Blockchain angesiedelt ist. Das Lightning-Netzwerk wickelt bereits tausende Mikrozahlungen pro Sekunde ab und hat sich als sehr erfolgreich für globale, schnelle und günstige Geldsendungen erwiesen. Das Wachstum von Lightning ist exponentiell. In ein paar Jahren können Bitcoin-Zahlungen mittels Lightning, technisch die Transaktionsanzahl von Visa oder Mastercard übersteigen. Die Bitcoin-Blockchain wird als die finale Verrechnungsebene für große Transaktionen verwendet werden, während kleine Zahlungen, wie für den Besuch im Kaffeehaus, über das Lightning-Netzwerk erfolgen. Für den täglichen Gebrauch muss niemand wissen, wie das funktioniert. Die meisten von uns wissen nicht, was hinter Netflix oder dem Senden einer E-Mail steckt, dennoch tun wir es laufend.
 
 ### Mining-Pool Konzentration
 Ein Mining-Pool ist eine Struktur, die Rechenressourcen von angeschlossenen Hashern (Rechnern) bündelt (pooling), um die Wahrscheinlichkeit zu erhöhen, schneller als andere einen neuen Block zu finden, um mehr Bitcoin zu schürfen und mehr Block-Belohnung zu erhalten.
 
-Es stimmt zwar, dass sich in bestimmten Gebieten oder Ländern verstärkt Mining-Pools gebildet haben, wie z. B. in China, bevor die dortige autoritäre Regierung das Bitcoin-Mining im Juni 2021 verboten hat, diese haben aber weniger Einfluss, als man denken würde. Erstens bestehen Mining-Pools aus Tausenden von einzelnen Minern. Nur weil ein Mining-Pool in China ansässig ist, bedeutet das nicht, dass der einzelne Miner in China ansässig sein muss. Die Menschen hinter den Mining-Maschinen wollen zumeist sicherstellen, dass der Pool, zu dem sie beitragen, sich gemäß der Bitcoin-Philosophie verhält. Bei Unstimmigkeiten steht es ihnen frei, den Pool zu verlassen oder zu einem andern zu wechseln. Im Jahr 2013 erreichte der Bitcoin-Mining-Pool GHash.io für einen kurzen Zeitraum mehr als 50% der gesamten Bitcoin-Hashrate, was viele dazu veranlasste, ihre Hashpower proaktiv auf andere Pools zu verlagern, um eine potenziell schädliche Konzentration zu vermeiden. Die geringen Umstiegskosten für den Wechsel des Pools wirken durch das Verhalten der Miner wie ein selbstregulierendes Kontrollsystem. [^^33a]
+Es stimmt zwar, dass sich in bestimmten Gebieten oder Ländern verstärkt Mining-Pools gebildet haben, wie z. B. in China, bevor die dortige autoritäre Regierung das Bitcoin-Mining im Juni 2021 verboten hat, diese haben aber weniger Einfluss, als man denken würde. Erstens bestehen Mining-Pools aus Tausenden von einzelnen Minern. Nur weil ein Mining-Pool in China ansässig ist, bedeutet das nicht, dass der einzelne Miner in China ansässig sein muss. Die Menschen hinter den Mining-Maschinen wollen zumeist sicherstellen, dass der Pool, zu dem sie beitragen, sich gemäß der Bitcoin-Philosophie verhält. Bei Unstimmigkeiten steht es ihnen frei, den Pool zu verlassen oder zu einem andern zu wechseln. Im Jahr 2013 erreichte der Bitcoin-Mining-Pool GHash.io für einen kurzen Zeitraum mehr als 50 % der gesamten Bitcoin-Hashrate, was viele dazu veranlasste, ihre Hashpower proaktiv auf andere Pools zu verlagern, um eine potenziell schädliche Konzentration zu vermeiden. Die geringen Umstiegskosten für den Wechsel des Pools wirken durch das Verhalten der Miner wie ein selbstregulierendes Kontrollsystem. [^^33a]
 
 ![Globaler Überblick über Bitcoin-Mining-Regionen. Regionen mit großen relevanten Regionen sind in Blaugrün dargestellt, Sichuan in Blau und die übrigen kleineren Regionen in Schwarz.](assets/_mining-locations.png) [^34]
 
