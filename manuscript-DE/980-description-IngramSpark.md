@@ -1,6 +1,4 @@
-Anita Posch ist Bitcoin-Expertin, Authorin, Solopreneurin und Gastgeberin der Anita Posh Show.
-
-Anita Posch is a Bitcoin advocate, author, solopreneur and host of the Anita Posch show. Anitas Ziel ist es, Bitcoin durch ihre Aufklärungsarbeit Milliarden von Menschen näher zu bringen. Anita hat zwei Bände von "Das Internet des Geldes" von Andreas M. Antonopoulos ins Deutsche übersetzt. In ihrem Podcast hat sie Menschen aus der ganzen Welt über die positiven Auswirkungen von Bitcoin auf die Freiheit der Menschen interviewt, darunter einige aus Ländern des globalen Südens wie Nigeria, Südafrika, Venezuela und Afghanistan.
+Anita Posch ist Bitcoin-Expertin, Authorin, Solopreneurin und Gastgeberin der Anita Posh Show. Anitas Ziel ist es, Bitcoin durch ihre Aufklärungsarbeit Milliarden von Menschen näher zu bringen. Anita hat zwei Bände von "Das Internet des Geldes" von Andreas M. Antonopoulos ins Deutsche übersetzt. In ihrem Podcast hat sie Menschen aus der ganzen Welt über die positiven Auswirkungen von Bitcoin auf die Freiheit der Menschen interviewt, darunter einige aus Ländern des globalen Südens wie Nigeria, Südafrika, Venezuela und Afghanistan.
 
 Bevor sie 2017 mit ihrer pädagogischen Bitcoin-Arbeit begann, sammelte Anita über 20 Jahre Erfahrung in der Webentwicklung, im E-Commerce und im Online-Geschäft.
 
