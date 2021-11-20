@@ -6,7 +6,7 @@ Derzeit erhalten Miner dafür 6,25 Bitcoin als Belohnung. Diese dient den Minern
 ### Halving
 Die Bitcoin-Regeln legen fest, dass sich die ausbezahlte Menge an Bitcoin alle 210.000 Blöcke - etwa vier Jahre - halbiert. Zu Beginn wurden 50 Bitcoin pro Block geschaffen. Seit Mai 2020 sind es die genannten 6,25. Im Jahr 2024 wird wieder halbiert und die Miner erhalten dann 3,125 Bitcoin pro Block. Dieses Ereignis wird als Halving (Halbierung) bezeichnet. 
 
-Satoshi Nakamoto programmierte diese Intervalle in die Bitcoin Core Software. Die Ausgabemenge halbiert sich regelmäßig, was sich in einer flacher werdenden Kurve ausdrückt.  
+Satoshi Nakamoto programmierte diese Intervalle in die Bitcoin-Core Software. Die Ausgabemenge halbiert sich regelmäßig, was sich in einer flacher werdenden Kurve ausdrückt.  
 
 ![Der Teil des Bitcoin-Core Programmes, der das Halving Intervall festlegt. In C++](assets/_halving-interval.jpg)
 
@@ -34,7 +34,7 @@ Im Englischen wird "Bitcoin" mit einem Großbuchstaben zu Beginn geschrieben, we
 
 Auf Deutsch wird in beiden Fällen der Großbuchstabe vorangestellt.
 
-Münze ist im Grunde ein irreführender Begriff für das digitale Gut. Technisch gesehen besteht ein Bitcoin aus vielen UTXOs (unspent transaction output) - auf Deutsch etwa "nicht ausgegebener Transaktions-Output". Dies ist die Menge der Einheiten, die an einer bestimmten Bitcoin-Adresse verzeichnet ist. Deshalb herrscht Uneinigkeit, ob es den Begriff Bitcoins überhaupt gibt, da keine einzelnen Münzen existieren, sondern nur Mengen von Einheiten an bestimmten Adressen. Da Satoshi Nakamoto selbst den Begriff "bitcoins" nutzte, wird er auch verwendet. Leute wie ich, die auf den Unterschied Wert legen, verwenden Bitcoin für die Ein- und Mehrzahl. Ich spreche auf Deutsch nie von Münzen, weil es irreführend ist.
+Münze ist im Grunde ein irreführender Begriff für das digitale Gut. Technisch gesehen besteht ein Bitcoin aus vielen UTXOs (Unspent Transaction Outputs) - auf Deutsch etwa "nicht ausgegebener Transaktions-Output". Dies ist die Menge der Einheiten, die an einer bestimmten Bitcoin-Adresse verzeichnet ist. Deshalb herrscht Uneinigkeit, ob es den Begriff Bitcoins überhaupt gibt, da keine einzelnen Münzen existieren, sondern nur Mengen von Einheiten an bestimmten Adressen. Da Satoshi Nakamoto selbst den Begriff "bitcoins" nutzte, wird er auch verwendet. Leute wie ich, die auf den Unterschied Wert legen, verwenden Bitcoin für die Ein- und Mehrzahl. Ich spreche auf Deutsch nie von Münzen, weil es irreführend ist.
 
 Scams wie das betrügerische BitClub-Netzwerk verwendeten die Schreibweise BitCoin und diese falsche Schreibweise wird gelegentlich auch von vielen Anfänger*innen übernommen.
 
