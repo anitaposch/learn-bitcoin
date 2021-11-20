@@ -24,8 +24,8 @@ Im zweiten Teil des Buches gehe ich auf die praktische Anwendung von Bitcoin (BT
 
 Dies ist weder eine Finanzberatung noch eine Anleitung zum Handeln mit Kryptowährungen - insbesondere nicht mit den tausenden Altcoins. Wenn Sie an kurzfristigen Gewinnen wie im Casino und an schnellem Geld interessiert sind, dann lassen Sie die Finger von diesem Buch. Es ist für Menschen, die Bitcoin grundlegend verstehen, erwerben und darüber selbstbestimmt und nachhaltig verfügen wollen.
 
-## Recommended by
+## Empfohlen von
 
-[Anita Posch](https://anitaposch.com/) is a Bitcoin advocate, author, [podcaster](https://bitcoinundco.com/en/) and solopreneur. She is a member of the board of Bitcoin Austria - an educational non-profit organization. Bitcoin is money from the people, for the people. Its mathematical rules can't be corrupted - neither by governments nor by billionaires. This guarantees a level of fairness which cannot be achieved in traditional human driven systems. It gives underprivileged individuals, such as people from developing nations, women, and oppressed minority groups, the chance to participate globally in a free and private manner with each other. This freedom to exchange value, unleashing people's creativity and innovation, is what drives Anita Posch.
+[Anita Posch](https://anitaposch.com/) ist eine Bitcoinin, Authorin, [Podcasterin](https://bitcoinundco.com/en/) and Solopreneurin. Sie ist Mitglied des Vorstands von Bitcoin Austria - eines unabhängigen Vereins zur Förderung des Wissens über Bitcoin. Bitcoin, das ist Geld von Menschen, für Menschen. Die mathematischen Regeln von Bitcoin können nicht korrumpiert werden - weder von Regierungen noch von Milliardären. Das garantiert ein Maß an Verlässlichkeit, das in traditionellen, von Menschen gesteuerten Systemen nicht erreicht werden kann. Es gibt unterprivilegierten Individuen, wie Menschen aus Entwicklungsländern, Frauen und unterdrückten Minderheitengruppen, die Chance, frei und privat miteinander global zu agieren. Diese Freiheit, Werte auszutauschen und die Kreativität und Innovation der Menschen freizusetzen, ist das, was Anita Posch antreibt.
 
-Subscribe to my free newsletter to (L)earn Bitcoin
+Abonnieren Sie meinen kostenlosen Newsletter, um Bitcoin zu (er)verdienen
