@@ -20,9 +20,9 @@ Neben Bitcoin gibt es heute mehr als 4.000 andere Krypto-Assets, die alle unters
 
 Das Aufkommen dieser anderen Vermögenswerte kann den Preis von Bitcoin beeinflussen. Eine andere Währung könnte sich zur führenden digitalen Währung entwickeln, auch wenn derzeit der größte Teil der Akzeptanz und des Wachstums auf Bitcoin (BTC) entfällt.
 
-Lassen Sie sich nicht zu schnellen Aktionen hinreißen, weil Ihnen jemand ein "Werde schnell reich"-Angebot macht und verspricht, Bitcoin für Sie zu kaufen und zu verwalten. Leider spielen viele Leute üble Spielchen und inszenieren Multi-Level-Marketing-Angebote oder [Ponzi-Schemata](https://anita.link/ponzi).
+Lassen Sie sich nicht zu schnellen Aktionen hinreißen, weil Ihnen jemand ein "Werde schnell reich"-Angebot macht und verspricht, Bitcoin für Sie zu kaufen und zu verwalten. Leider spielen viele Leute üble Spielchen und inszenieren Multi-Level-Marketing-Angebote oder Ponzi-Schemata.
 
-Wenn Sie jemand auffordert, Bitcoin "beizutreten" oder "BitCoin" schreibt, seien Sie vorsichtig. Sie müssen kein Einstiegspaket oder Ähnliches kaufen, um Bitcoin zu nutzen - höchstwahrscheinlich handelt es sich um Betrug.
+Wenn Sie jemand auffordert, Bitcoin "beizutreten" oder "BitCoin" schreibt, seien Sie vorsichtig. Sie müssen kein Einstiegspaket oder Ähnliches kaufen, um Bitcoin zu nutzen, höchstwahrscheinlich handelt es sich um Betrug.
 
 Wenn Sie darauf warten, einen Bitcoin-ETF zu kaufen, werden Sie Bitcoin 
 weder besitzen noch nutzen. Sie sind nur der Preisentwicklung ausgesetzt. Sie besitzen und kontrollieren Ihre Bitcoin nur, wenn Sie Ihre privaten Schlüssel selbst verwalten. Wie Sie das machen, erfahren Sie auf den folgenden Seiten.
