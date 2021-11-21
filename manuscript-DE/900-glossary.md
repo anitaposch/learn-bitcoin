@@ -1,7 +1,7 @@
 # Glossar
 
 **Cantillon-Effekt**
-Der französische Wirtschaftswissenschaftler Richard Cantillon  stellte fest, dass Inflation allmählich auftritt und dass die neue Geldmenge eine lokale Auswirkung auf die Inflation hat, wodurch das Konzept des nicht-neutralen Geldes entstand. Außerdem stellte er die These auf, dass die ursprünglichen Empfänger des neuen Geldes einen höheren Lebensstandard auf Kosten der späteren Empfänger genießen.[^79]
+Der französische Wirtschaftswissenschaftler Richard Cantillon stellte fest, dass Inflation allmählich auftritt und dass die neue Geldmenge eine lokale Auswirkung auf die Inflation hat, wodurch das Konzept des nicht-neutralen Geldes entstand. Außerdem stellte er die These auf, dass die ursprünglichen Empfänger des neuen Geldes einen höheren Lebensstandard auf Kosten der späteren Empfänger genießen.[^79]
 
 **Zentralbank**
 Eine Zentralbank, Notenbank oder sonstige Währungsbehörde ist eine Institution, die die Währung und die Geldpolitik eines Staates oder einer formellen Währungsunion verwaltet und deren Geschäftsbankensystem überwacht. [^80]
