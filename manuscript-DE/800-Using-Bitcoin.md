@@ -17,8 +17,8 @@ Unten sehen Sie die Einstellungen in der Edge-Wallet. Sie können einen der Bere
 
 **Ausstehende Transaktion**
 Da ungefähr alle 10 Minuten neue Blöcke gemined werden, dauert es im Durchschnitt mindestens 10 Minuten, bis Ihre Transaktion bestätigt wird. Wenn Sie die Transaktionsgebühr zu niedrig ansetzen, kann es sein, dass Ihre Transaktion länger aussteht, da der Mempool geleert wird und die Miner beginnen, Transaktionen mit niedrigeren Gebühren wieder aufzunehmen. Hier sehen Sie eine meiner Transaktionen, die seit einem Monat im Mempool gefangen ist.
-![Pending transaction](assets/_Pending-transaction-edge.png) [^76]
-Sie können den Status Ihrer Transaktion in einem [Blockchain-Explorer](https://blockchair.com) nachsehen. Wie Sie unten sehen können, ist meine Transaktion 4.717 Ränge davon entfernt, gemined zu werden, bei insgesamt 41.610 Transaktionen im Mempool. Ich habe eine Gebühr von 5 Sat pro Vbyte gewählt.
+![Ausstehende Transaktion](assets/_Pending-transaction-edge.png) [^76]
+Sie können den Status Ihrer Transaktion in einem [Blockchain-Explorer](https://blockchair.com) ansehen. Wie Sie unten sehen können, ist meine Transaktion 4.717 Ränge davon entfernt, gemined zu werden, bei insgesamt 41.610 Transaktionen im Mempool. Ich habe eine Gebühr von 5 Sat pro Vbyte gewählt.
 [Transaktionsstatus wie im Blockexplorer angezeigt](assets/_Pending-transaction-explorer.png) [^77]
 
 Sie müssen die folgenden Schritte nicht ausführen, um Ihre ursprüngliche Transaktion bestätigen zu lassen. Die meisten Transaktionen mit niedrigen Gebühren bleiben tagelang gültig und werden schließlich bestätigt. Es gibt jedoch zwei Möglichkeiten, das Problem der stecken gebliebenen Transaktion zu lösen und sie früher bestätigen zu lassen.
@@ -27,7 +27,7 @@ Sie müssen die folgenden Schritte nicht ausführen, um Ihre ursprüngliche Tran
 * Replace-by-fee (RBF): Bei einigen Wallets können Sie diese Option auf "Ja" setzen, bevor Sie eine Transaktion senden. In diesem Fall können Sie, falls die ursprüngliche Transaktion stecken bleibt, eine höhere Gebühr festlegen und die Transaktion erneut senden.
 
 **Eine eingehende Transaktion bleibt stecken**
-* Kind zahlt für Elternteil (CPFP): Sie können sich das so vorstellen, dass ein Elternteil nicht genügend Geld für seine Ausgaben hat, sodass sein Kind die Differenz im Namen des Elternteils bezahlt. CPFP ist eine Technik, mit der Sie Ihre langsam eintreffenden Transaktionen aushebeln können, indem Sie eine neue Transaktion mit höheren Gebühren (Kindertransaktion) mit den Ausgaben (Geldern) der vorherigen Transaktion (Elterntransaktion), die feststeckt, durchführen.
+* Kind zahlt für Elternteil (CPFP): Angenommen ein Elternteil besitzt nicht genug Geld für eine Ausgabe, sodass das Kind die Differenz im Namen des Elternteils bezahlt. CPFP ist eine Technik, mit der Sie Ihre langsam eintreffenden Transaktionsbestätigungen beschleunigen können, indem Sie eine neue Transaktion mit höheren Gebühren (Kind-Transaktion) mit den UTXOs der vorherigen, feststeckenden Transaktion (Eltern-Transaktion) durchführen.
 
 Detaillierte Anweisungen dazu finden Sie in der Dokumentation der von Ihnen verwendeten Wallet.
 
@@ -39,8 +39,8 @@ Hier sind einige Verzeichnisse mit Geschäften, in denen Sie mit Bitcoin bezahle
 * [Spending Bitcoin](https://spending-bitcoin.com/) Verzeichnis
 * [UseBitcoins](https://usebitcoins.info/) Verzeichnis
 
-## Bitcoin Debitkarten
-Mit einer Bitcoin-Debitkarte können Sie wie mit jeder anderen Bank-Debitkarte einkaufen. Der Unterschied ist, dass sie mit Bitcoin oder Altcoins aufgeladen ist. Die Händler werden von der Debitkartengesellschaft in ihrer eigenen Währung bezahlt und die Gebühr wird von Ihrem Bitcoin-Guthaben abgezogen, sodass Sie ausschließlich von Bitcoin leben können.
+## Bitcoin-Debitkarten
+Mit einer Bitcoin-Debitkarte können Sie wie mit jeder anderen Bank-Debitkarte einkaufen. Der Unterschied ist, dass sie mit Bitcoin oder Altcoins aufgeladen wird. Die Händler werden von der Debitkartengesellschaft in Euro bezahlt, während der Betrag von Ihrem Bitcoin-Guthaben abgezogen wird, sodass Sie ausschließlich mit Bitcoin leben können.
 
 Sie müssen Ihre Bitcoin beim Debitkartenunternehmen hinterlegen, d.h. Sie geben die Kontrolle über Ihre Coins an einen Dritten ab. Zahlen Sie nur so viel auf die Karte ein, wie Sie benötigen, und prüfen Sie die Gebühren, die diese Kartenunternehmen verlangen.
 
@@ -50,10 +50,10 @@ Cryptocom Visa, Binance, Bitpanda Visa, Coinbase Visa, Wirex Visa, BlockCard, Cr
 ## Ausgeben und Empfangen
 Im Folgenden finden Sie Tools und Dienste, mit denen Sie alltägliche Zahlungen in Bitcoin tätigen und empfangen können.
 * [Bity](https://bity.com/products/crypto-online-bill-pay/) Rechnungen online mit Bitcoin bezahlen
-* [Cash App](https://cash.app/bitcoin) kaufen und verkaufen Sie BTC direkt von Ihrem Cash App-Guthaben
-* [Strike](https://global.strike.me/) senden und empfangen Sie sofortige internationale Zahlungen, Sofortüberweisungen und mit vollem Zugang zum Bitcoin-Netzwerk
-* [Piixpay](https://www.piixpay.com/?lang=en) bezahlen Sie jeden in EURO mit Ihrer Kryptowährung
-* [Bitrefill](https://www.bitrefill.com/?hl=en) kaufen Sie Geschenkgutscheine und Telefonaufladungen
+* [Cash App](https://cash.app/bitcoin) Kaufen und verkaufen Sie BTC direkt von Ihrem Cash App-Guthaben
+* [Strike](https://global.strike.me/) Senden und empfangen Sie internationale Zahlungen über vollen Zugang zum Bitcoin-Netzwerk
+* [Piixpay](https://www.piixpay.com/?lang=en) Bezahlen Sie in Euro mit Ihrer Kryptowährung
+* [Bitrefill](https://www.bitrefill.com/?hl=en) Kaufen Sie Geschenkgutscheine und Telefonaufladungen
 
 [^74]: [Screenshot von Anita Posch](https://mempool.space)
 
