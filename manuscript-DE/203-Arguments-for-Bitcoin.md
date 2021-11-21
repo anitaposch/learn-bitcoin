@@ -2,7 +2,7 @@
 > "Bitcoin ist ein Opt-in-System. Sie entscheiden, ob sie es nutzen. Sie entscheiden, welche Apps Sie dafür verwenden wollen. Sie entscheiden, mit wem Sie damit interagieren wollen. Sie entscheiden nach welchen Spielregeln Sie interagieren wollen. Deshalb wird Bitcoin sich durchsetzen. Es bietet Innovationen, die die Menschen wollen und brauchen." - **Andreas M. Antonopoulos**
 
 ### Paradigmenwechsel
-Ich gehöre zur Generation X und bin trotzdem ein "digital native". Ich kann mich an ein Leben ohne Internet erinnern, sogar ohne Videorecorder. Wir hatten damals in Österreicheinen einzigen Fernsehsender mit zwei Kanälen, mehr gab es nicht. Das erste Telefon kam in mein Elternhaus als ich 12 war. Mit 14 benutzte ich meinen ersten Computer, 1997 installierte ich meinen ersten Internetanschluss und E-Mail zu Hause. Im selben Jahr gab es weltweit nur 1 Million Websites und Google und Amazon existierten international noch nicht.
+Ich gehöre zur Generation X und bin trotzdem ein "digital native". Ich kann mich an ein Leben ohne Internet erinnern, sogar ohne Videorecorder. Wir hatten damals in Österreich einen einzigen Fernsehsender mit zwei Kanälen, mehr gab es nicht. Das erste Telefon kam in mein Elternhaus als ich 12 war. Mit 14 benutzte ich meinen ersten Computer, 1997 installierte ich meinen ersten Internetanschluss und E-Mail zu Hause. Im selben Jahr gab es weltweit nur 1 Million Websites und Google und Amazon existierten international noch nicht.
 
 Viele Leute taten das Internet als einen Trend ab, der wieder verschwinden würde. 1995 schrieb der US-Astronom und Autor Clifford Stoll einen Artikel für Newsweek mit dem Titel "The Internet? Bah!"
 
@@ -17,9 +17,9 @@ Bitcoin ist eine neue Technologie. Wenn wir seine Entwicklung, mit der des Inter
 ### Sozialer Wandel
 Menschen in entwickelten Ländern mit funktionierenden demokratischen Systemen tun Bitcoin oft als Spekulationsinstrument und Gefahr für den Nationalstaat ab. Daher halten viele den Stromverbrauch für unverantwortlich für die Umwelt. Einige plädieren sogar für ein Verbot. Ich bin sicher, dass diese Art von Kritik in den kommenden Jahren zunehmen wird.
 
-Die Weltbevölkerung beläuft sich auf 7,8 Milliarden Menschen. Nur 8,4% davon leben in vollwertigen Demokratien. 41% leben in mangelhaften Demokratien, 15% in hybriden Regimen und 35,6% müssen unter autoritären Regimen leiden.
+Die Weltbevölkerung beläuft sich auf 7,8 Milliarden Menschen. Nur 8,4 % davon leben in vollwertigen Demokratien. 41 % leben in mangelhaften Demokratien, 15 % in hybriden Regimen und 35,6 % müssen unter autoritären Regimen leiden.
 
-Über 50% der Weltbevölkerung leben in Ländern, die weit von freien und fairen Demokratien entfernt sind! 1,7 Milliarden Menschen haben kein Bankkonto und werden es auch nie haben. Sie benötigen Bitcoin am meisten. [^57]
+Über 50 % der Weltbevölkerung leben in Ländern, die weit von freien und fairen Demokratien entfernt sind! 1,7 Milliarden Menschen haben kein Bankkonto und werden es auch nie haben. Sie benötigen Bitcoin am meisten. [^57]
 
 Es sind die Menschen in Regionen wie Afrika und Südamerika, die die Verbreitung von Bitcoin vorantreiben werden. Die wichtigsten Anwendungsfälle dort sind:
 
@@ -27,14 +27,14 @@ Es sind die Menschen in Regionen wie Afrika und Südamerika, die die Verbreitung
 Diese Tabelle des Internationalen Währungsfonds zeigt die jährliche Veränderung der Verbraucherpreise in Prozent.
 ![Inflationsrate, Durchschnittlicher Verbraucherpreis, Jährliche Änderung in %](assets/_inflation-2021.png) [^58]
 
-* In Venezuela stiegen die Preise um 5.500%. Das Leid der Menschen ist einfach unvorstellbar.
-* Im Sudan stiegen die Preise allein im Jahr 2021 um 200%.
-* Die Bevölkerung von Simbabwe mussten von 2020 bis 2021 eine Verdoppelung der Preise bei einer Inflation von 100% hinnehmen.
-* Für Argentinien lagen dem IWF keine Daten vor, aber mein argentinischer Interviewpartner Franco Amati teilte mir mit, dass die jährliche Inflationsrate 50% beträgt.
-* Nigeria verzeichnete im Jahr 2020 eine Inflationsrate von 16%.
-* Die Inflationsrate der Türkei lag 2020 bei 13,6%.
+* In Venezuela stiegen die Preise um 5.500 %. Das Leid der Menschen ist einfach unvorstellbar.
+* Im Sudan stiegen die Preise allein im Jahr 2021 um 200 %.
+* Die Bevölkerung von Simbabwe mussten von 2020 bis 2021 eine Verdoppelung der Preise bei einer Inflation von 100 % hinnehmen.
+* Für Argentinien lagen dem IWF keine Daten vor, aber mein argentinischer Interviewpartner Franco Amati teilte mir mit, dass die jährliche Inflationsrate 50 % beträgt.
+* Nigeria verzeichnete im Jahr 2020 eine Inflationsrate von 16 %.
+* Die Inflationsrate der Türkei lag 2020 bei 13,6 %.
 
-Von Mai 2020 bis April 2021 stieg das Bitcoin-Handelsvolumen in Nigeria um 40% von 287 Millionen Dollar auf 399 Millionen Dollar. Eine Umfrage aus dem Jahr 2020 zeigt, dass 32% der befragten Nigerianer Kryptowährungen verwendet oder besessen haben. In den entwickelten demokratischen Ländern wie Deutschland und den USA haben dagegen nur 5-6% Kryptowährungen genutzt oder besessen.
+Von Mai 2020 bis April 2021 stieg das Bitcoin-Handelsvolumen in Nigeria um 40 % von 287 Millionen Dollar auf 399 Millionen Dollar. Eine Umfrage aus dem Jahr 2020 zeigt, dass 32 % der befragten Nigerianer Kryptowährungen verwendet oder besessen haben. In den entwickelten demokratischen Ländern wie Deutschland und den USA haben dagegen nur 5-6 % Kryptowährungen genutzt oder besessen.
 
 ![Handelsvolumen auf P2P-Bitcoin-Börsen in Ländern südlich der Sahara von Mai 2020 bis April 2021](assets/_Nigeria-trading-volume-BTC.png) [^59]
 
@@ -42,19 +42,19 @@ Angesichts dieser jährlichen Inflationsraten wissen die Menschen, dass sie ihr 
 Als ich auf meiner Simbabwe-Reise 2020 die Unterschiede zwischen lokaler Währung und Bitcoin erklärte, haben die Menschen sofort den Sinn und Nutzen von Bitcoin verstanden.
 
 **Fremdwährungskontrollen**
-Länder mit schwachen Volkswirtschaften und mangelhaften Demokratien setzen Devisenkontrollen ein, um die - wie sie es nennen - Spekulation gegen ihre schwachen Währungen zu begrenzen. Autoritäre Führer wollen ihre Untertanen darin einschränken ihr dysfunktionales Währungssystem zu umgehen. Daher wenden sie Regelungen wie die Folgenden an:
+Länder mit schwachen Volkswirtschaften und mangelhaften Demokratien setzen Devisenkontrollen ein, um die - wie sie es nennen - Spekulation gegen ihre schwachen Währungen zu begrenzen. Autoritäre Führer wollen ihre Untertanen davon abhalten, ihr dysfunktionales Währungssystem zu umgehen. Daher wenden sie Regelungen wie die Folgenden an:
 
 * Die argentinischen Kapitalverkehrskontrollen erlauben es den Menschen nur einen Höchstbetrag von 200 Dollar pro Monat von argentinischen Pesos in USD zu tauschen.
 * In Simbabwe gelten ähnliche strenge Vorschriften. Wenn Sie ein Unternehmen führen und Waren importieren wollen, müssen Sie die Zentralbank um Erlaubnis bitten, USD ins Ausland zu schicken. "Angenommen, ich bin in der Solarbranche tätig und möchte 20 Paneele kaufen, um sie hier zu verkaufen. Ich habe 30 Tage Zeit, die Rechnung durch die Bank zu begleichen, bevor meine USD zwangsweise in wertlose Lokalwährung umgewandelt wird. Die Zentralbank kann sich aber mit der Entscheidung so lange Zeit lassen, dass die Frist verfällt. Das ist ein weiterer Grund, warum USD-Bargeld, in Simbabwe so viel mehr Wert hat.", sagte mir ein simbabwischer Interviewpartner im März 2020.
 
 **Das Bankensystem funktioniert nicht**
 * Lokale Unternehmen in Simbabwe dürfen USD verwenden, um Rechnungen an einen lokalen Lieferanten zu stellen. Die eingenommenen US-Dollar müssen innerhalb von 30 Tagen wieder ausgeben werden oder das Geld wird zwangsweise zum Bankkurs in RTGS gewechselt, also in jenen simbabwischen Dollar, der diese ungewöhnlich hohen Inflationsraten aufweist. Damit wird es unmöglich in USD zu sparen, um der Inflation zu entkommen.
-* Wenn Sie bei einer argentinischen Bank Devisen kaufen, wird der offizielle Bankwechselkurs verwendet (der für die Bank günstig ist, aber nicht für den Kunden) und zusätzlich eine 65%ige Steuer abgezogen.
-* Die Nutzung des Bankensystems ist auch in westlichen Ländern mit viel Bürokratie verbunden, aber in diesen Ländern ist es in vielerlei Hinsicht erheblich schlimmer.
+* Wenn Sie bei einer argentinischen Bank Devisen kaufen, wird der offizielle Bankwechselkurs verwendet (der für die Bank günstig ist, aber nicht für den Kunden) und zusätzlich eine 65 %ige Steuer abgezogen.
+* Die Nutzung des Bankensystems ist auch in Europa mit viel Bürokratie verbunden, aber in diesen Ländern ist es in vielerlei Hinsicht erheblich schlimmer.
 
 **Geldsendungen**
-* Wenn Sie in Argentinien Geld aus dem Ausland über das traditionelle Bankensystem erhalten, wird es zum offiziellen Bankkurs in argentinische Pesos umgerechnet. Dies bedeutet im Grunde eine Beschlagnahmung von 30% des Wertes.
-* Im Jahr 2020 wurden bis zu 1 Milliarde USD als Überweisungen nach Simbabwe geschickt. Mehr als ein Drittel der Bevölkerung ist auf Überweisungen von Verwandten im Ausland angewiesen. Viele Simbabwer*innen leben in Südafrika und von dem Geld, das sie zu ihren Familien schicken, gehen bis zu 20-30% durch Bankgebühren und offizielle Wechselkurse verloren. [^60]
+* Wenn Sie in Argentinien Geld aus dem Ausland über das traditionelle Bankensystem erhalten, wird es zum offiziellen Bankkurs in argentinische Pesos umgerechnet. Dies bedeutet im Grunde eine Beschlagnahmung von 30 % des Wertes.
+* Im Jahr 2020 wurden bis zu 1 Milliarde USD als Heimatüberweisungen nach Simbabwe geschickt. Mehr als ein Drittel der Bevölkerung ist auf Überweisungen von Verwandten im Ausland angewiesen. Viele Simbabwer*innen leben in Südafrika und von dem Geld, das sie zu ihren Familien schicken, gehen bis zu 20-30 % durch Bankgebühren und offizielle Wechselkurse verloren. [^60]
 
 **Hürden für Frauen**
 Die Nutzung eines einfachen Bankkontos ist für fast eine Milliarde Frauen weltweit unmöglich. In vielen Ländern wird den Frauen die volle finanzielle Teilhabe verwehrt, weil die Ungleichbehandlung der Geschlechter in unterschiedlichem Maße gesetzlich erlaubt oder sogar vorgeschrieben ist. 
@@ -62,17 +62,17 @@ Je nach Land werden Frauen im Erbrecht diskriminiert und müssen die Erlaubnis i
 
 Weitere Hürden, die Frauen vom Zugang zu Finanzdienstleistungen abhalten, sind unter anderem lange Anfahrtswege, das Risiko, beim Geldabheben ausgeraubt zu werden, sowie fehlende Privatsphäre, um ihre Ersparnisse vor anderen zu schützen.
 
-"Mehr als 80 Prozent der von Frauen im Pazifikraum betriebenen Kleinunternehmen werden auf kleineren Märkten abgewickelt", sagte Dr. Sharman Stone, Australiens Botschafterin für Frauen. "Als sie nur Bargeld hatten, war es für sie extrem gefährlich, dieses Bargeld nach Hause zu bringen und es dort zu verwahren." [^61] Mit Bitcoin und Kryptowährungen sind sie physisch sicherer, können die Inflation umgehen und ihr eigenes Geld besitzen.
+"Mehr als 80 Prozent #, der von Frauen im Pazifikraum betriebenen Kleinunternehmen, werden auf kleineren Märkten abgewickelt", sagte Dr. Sharman Stone, Australiens Botschafterin für Frauen. "Als sie nur Bargeld hatten, war es für sie extrem gefährlich, dieses Bargeld nach Hause zu bringen und es dort zu verwahren." [^61] Mit Bitcoin und Kryptowährungen sind sie physisch sicherer, können die Inflation umgehen und ihr eigenes Geld besitzen.
 
-> Frauen sind die Mehrheit der kenianischen Bevölkerung; sie verrichten 70% der landwirtschaftlichen Arbeit, doch sie besitzen weniger als 1% des Bodens und haben kaum Kontrolle über das durch ihre Arbeit erzielte Einkommen. [^62]
+> Frauen sind die Mehrheit der kenianischen Bevölkerung; sie verrichten 70 % der landwirtschaftlichen Arbeit, doch sie besitzen weniger als 1 % des Bodens und haben kaum Kontrolle über das durch ihre Arbeit erzielte Einkommen. [^62]
 
-56% aller Erwachsenen ohne Bankverbindung weltweit sind Frauen. In den meisten Wirtschaftsräumen sind Frauen unter den Banklosen überrepräsentiert. Dies gilt selbst in Räumen, die erfolgreich die Zahl der Kontobesitzer erhöht haben und in denen der Anteil der Erwachsenen ohne Bankverbindung relativ gering ist. In den Vereinigten Staaten, im Nahen Osten und in Nordafrika sind zwei Drittel der Menschen ohne Bankkonto Frauen[^63].[^64]
+56 % aller Erwachsenen ohne Bankverbindung weltweit sind Frauen. In den meisten Wirtschaftsräumen sind Frauen unter den Banklosen überrepräsentiert. Dies gilt selbst in Räumen, die erfolgreich die Zahl der Kontobesitzer erhöht haben und in denen der Anteil der Erwachsenen ohne Bankverbindung relativ gering ist. In den Vereinigten Staaten, im Nahen Osten und in Nordafrika sind zwei Drittel der Menschen ohne Bankkonto Frauen[^63].[^64]
 
-Eine Studie in Kenia ergab, dass der Zugang zu mobilen Zahlungsdiensten große Vorteile bringt, insbesondere für Frauen. Es ermöglichte frauengeführten Haushalten, ihre Ersparnisse um mehr als ein Fünftel zu erhöhen, gab 185.000 Frauen die Möglichkeit, aus der Landwirtschaft auszusteigen, um stattdessen ein Geschäft oder einen Einzelhandel aufzubauen, und trug dazu bei, die extreme Armut von frauengeführten Haushalten um 22% zu verringern.
+Eine Studie in Kenia ergab, dass der Zugang zu mobilen Zahlungsdiensten große Vorteile bringt, insbesondere für Frauen. Es ermöglichte frauengeführten Haushalten, ihre Ersparnisse um mehr als ein Fünftel zu erhöhen, gab 185.000 Frauen die Möglichkeit, aus der Landwirtschaft auszusteigen, um stattdessen ein Geschäft oder einen Einzelhandel aufzubauen, und trug dazu bei, die extreme Armut von frauengeführten Haushalten um 22 % zu verringern.
 
 Mobile Zahlungsdienste wie M-Pesa in Kenia oder EcoCash in Simbabwe haben den Zugang zu Finanzinstrumenten verbessert. Das Problem: Es handelt sich um Dienste von zentralisierten, privaten Unternehmen. Die Regierung kann sich einmischen, Transaktionen können zensiert oder Konten geschlossen werden. So hat die simbabwische Regierung im Juli 2020 Auszahlungen von EcoCash-Konten auf Bankkonten oder als Bargeld gesperrt.
 
-Finanzdienstleistungen tragen auch dazu bei, dass die Menschen Rücklagen bilden und ihre Ausgaben für den täglichen Bedarf erhöhen können. Nach der Einrichtung von Bankkonten sparten Markthändler*innen in Kenia, vor allem Frauen, mehr und investierten 60 Prozent mehr in ihre Unternehmen. Von Frauen geführte Haushalte in Nepal gaben 15% mehr für nahrhafte Lebensmittel (Fleisch und Fisch) und 20% mehr für Bildung aus, nachdem sie kostenlose Sparkonten erhalten hatten. Bauern in Malawi, die ihr Einkommen auf Sparkonten einzahlen ließen, gaben 13% mehr für landwirtschaftliche Geräte aus und steigerten den Wert ihrer Ernte um 15%. [^65]
+Finanzdienstleistungen tragen auch dazu bei, dass die Menschen Rücklagen bilden und ihre Ausgaben für den täglichen Bedarf erhöhen können. Nach der Einrichtung von Bankkonten sparten Markthändler*innen in Kenia, vor allem Frauen, mehr und investierten 60 Prozent mehr in ihre Unternehmen. Von Frauen geführte Haushalte in Nepal gaben 15 % mehr für nahrhafte Lebensmittel (Fleisch und Fisch) und 20 % mehr für Bildung aus, nachdem sie kostenlose Sparkonten erhalten hatten. Bauern in Malawi, die ihr Einkommen auf Sparkonten einzahlen ließen, gaben 13 % mehr für landwirtschaftliche Geräte aus und steigerten den Wert ihrer Ernte um 15 %. [^65]
 
 Bitcoin senkt die Kosten für den Erhalt von Zahlungen, sodass die Menschen mehr von ihrem Geld haben. Während traditionelle Finanzinstrumente einen Identitäts- und Adressnachweis erfordern, steht die Nutzung von Bitcoin allen offen. Daher kann Bitcoin Frauen dabei unterstützen, mehr Freiheit und Selbstbestimmung zu erlangen.
 
@@ -112,7 +112,7 @@ Nach Jevons wäre Bitcoin Geld, wenn es diese Funktionen erfüllt:
 Quelle: https://en.wikipedia.org/wiki/Money
 
 **1. Wertaufbewahrungsmittel**
-Kritiker sagen, dass Bitcoin aufgrund der Volatilität und des Potenzials für kurzfristige Verluste nicht als Wertaufbewahrungsmittel geeignet ist. Nun, wie ich in Kapitel 3.1 dargelegt habe, ist dies auf lange Sicht nicht wirklich der Fall. Außerdem stelle ich die Definition von "langfristig stabil" infrage. Was ist der Zeitrahmen? Die Inflation des Euro betrug in Österreich über die letzten zehn Jahre gesamt 20%. Alle anderen Fiat-Währungen sind ähnlich unzuverlässige oder noch schlechtere Wertaufbewahrungsmittel.
+Kritiker sagen, dass Bitcoin aufgrund der Volatilität und des Potenzials für kurzfristige Verluste nicht als Wertaufbewahrungsmittel geeignet ist. Nun, wie ich in Kapitel 3.1 dargelegt habe, ist dies auf lange Sicht nicht wirklich der Fall. Außerdem stelle ich die Definition von "langfristig stabil" infrage. Was ist der Zeitrahmen? Die Inflation des Euro betrug in Österreich über die letzten zehn Jahre gesamt 20 %. Alle anderen Fiat-Währungen sind ähnlich unzuverlässige oder noch schlechtere Wertaufbewahrungsmittel.
 
 **2. Tauschmittel**
 Sie können Bitcoin als Tauschmittel verwenden, wenn Sie das wollen. Zugegeben zum Zeitpunkt der Erstellung dieses Buchs gab es nur eine kleine Anzahl von Unternehmen, Dienstleistungen und Restaurants, die Bitcoin als Zahlungsmittel akzeptieren. Aber Sie könnten z.B. eine Kreditkarte mit Bitcoin aufladen und damit in Euro bezahlen. Darüber hinaus gibt es viele Unternehmen im Bitcoin-Sektor, die es als Zahlungsmittel akzeptieren und ihre Mitarbeiter*innen und Dienstleister, wenn gewünscht, in Bitcoin bezahlen.
