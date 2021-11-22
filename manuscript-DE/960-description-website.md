@@ -2,7 +2,7 @@
  -   [Introduction](https://learnbitcoin.link/#intro)  
  -   [Testimonials](https://learnbitcoin.link/#recommendation)  
 
-Das Buch "(L)earn Bitcoin - Bitcoin verstehen und verdienen. Der Schlüssel zu finanzieller Unabhängigkeit" ist eine prägnante und leicht verständliche Einführung in alle Aspekte des Themas Bitcoin. Es verdichtet das, was die meisten Bitcoiner jahrelang zusammengetragen haben um es zu verstehen, zu einer schnellen Lektüre. Es gibt Ihnen das Warum und Wie, um damit anzufangen Bitcoin zu verstehen und zu verdienen. Die meisterhafte Organisation und der Fluss von einem Themenbereich zum nächsten helfen die Grundlagen von Bitcoin einfach zu verstehen.
+Das Buch "(L)earn Bitcoin - Bitcoin verstehen und verdienen. Der Schlüssel zu finanzieller Unabhängigkeit" ist eine prägnante und leicht verständliche Einführung in alle Aspekte des Themas Bitcoin. Es verdichtet das, was die meisten Bitcoiner jahrelang zusammengetragen haben um es zu verstehen, zu einer schnellen Lektüre. Es gibt Ihnen das Wie und Warum, um damit anzufangen Bitcoin zu verstehen und zu verdienen. Die meisterhafte Organisation und der Fluss von einem Themenbereich zum nächsten helfen die Grundlagen von Bitcoin einfach zu verstehen.
 
 **Order the [ebook (epub, mobi) with bitcoin**  
 
