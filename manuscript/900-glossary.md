@@ -44,7 +44,7 @@ The panopticon is a type of institutional building and a system of control desig
 A system of equally privileged, equipotent participants without a hierarchy on the network. The Bitcoin peer-to-peer network is a decentralized system of computers running the Bitcoin software that is validating and distributing transactions.
 
 **Rehypothecation**
-The action of a broker who pledges with a bank or other lender securities already left on deposit with him by a customer as a pledge for their purchase on margin.
+Rehypothecation is a practice whereby banks and brokers use, for their own purposes, assets that have been posted as collateral by their clients.
 
 **Seed**
 12-24 words that in most of the wallets available in the market (HD wallets), produce all the private/public keys which will control your funds on the blockchain. Anyone with the seed has the control over these keys and therefore, over the funds on the associated addresses.

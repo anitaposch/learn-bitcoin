@@ -1,7 +1,7 @@
 # Glossar
 
 **Cantillon-Effekt**
-Der französische Wirtschaftswissenschaftler Richard Cantillon stellte fest, dass Inflation allmählich auftritt und dass die neue Geldmenge eine lokale Auswirkung auf die Inflation hat, wodurch das Konzept des nicht-neutralen Geldes entstand. Außerdem stellte er die These auf, dass die ursprünglichen Empfänger des neuen Geldes einen höheren Lebensstandard auf Kosten der späteren Empfänger genießen.[^79]
+Der französische Wirtschaftswissenschaftler Richard Cantillon stellte fest, dass Inflation allmählich auftritt und dass die neue Geldmenge eine lokale Auswirkung auf die Inflation hat, wodurch das Konzept des nicht-neutralen Geldes entstand. Außerdem stellte er die These auf, dass die ersten Empfänger des neuen Geldes einen höheren Lebensstandard auf Kosten der späteren Empfänger genießen.[^79]
 
 **Zentralbank**
 Eine Zentralbank, Notenbank oder sonstige Währungsbehörde ist eine Institution, die die Währung und die Geldpolitik eines Staates oder einer formellen Währungsunion verwaltet und deren Geschäftsbankensystem überwacht. [^80]
@@ -10,7 +10,7 @@ Eine Zentralbank, Notenbank oder sonstige Währungsbehörde ist eine Institution
 Eine Währung ist ein von Regierungen festgelegtes Geldsystem, das allgemein verwendet wird. Viele Länder definieren ihre nationale Währung als gesetzliches Zahlungsmittel, d. h. es handelt sich um Geld, das per Gesetz als gültig für die Zahlung von Schulden erklärt wurde und nicht als Zahlungsmittel abgelehnt werden kann.
 
 **Fiat-Geld** 
-Eine Währung (ein Tauschmittel), die als Geld festgelegt wird, oft durch staatliche Regulierung. Fiat-Geld hat keinen inneren Wert und keinen Gebrauchswert (inhärenter Nutzen, wie z. B. der einer Kuh oder eines Biberfells). Es hat nur deshalb einen Wert, weil eine Regierung seinen Wert aufrechterhält oder weil sich die am Tausch beteiligten Parteien auf seinen Wert einigen.[^81] 
+Eine Währung (ein Tauschmittel), die als Geld festgelegt wird, oft durch staatliche Regulierung. Fiat-Geld hat keinen inneren Wert und keinen Gebrauchswert (inhärenter Nutzen, wie z. B. der einer Kuh oder eines Biberfells). Es hat nur deshalb einen Wert, weil eine Regierung seinen Wert aufrecht erhält oder weil sich die am Tausch beteiligten Parteien auf seinen Wert einigen.[^81] 
 Alle Währungen von Nationalstaaten sind Fiat-Währungen. Seit 1971 sind Fiat-Währungen nicht mehr durch Gold gedeckt. Das Wort "fiat" kommt aus dem Lateinischen und bedeutet "lass es geschehen".
 
 **Bankwesen mit fraktionalen Reserven**
@@ -20,16 +20,16 @@ Beim Fractional-Reserve-Banking, das von Geschäftsbanken auf der ganzen Welt pr
 Ein Full Node ist ein Softwareprogramm, das Transaktionen und Blöcke vollständig validiert. Sie können einen Full Node auf Ihrem Heimcomputer oder auf einem Rasperry Pi betreiben. Fast alle Full Nodes helfen dem Netzwerk, indem sie Transaktionen und Blöcke von anderen Full Nodes annehmen, diese Transaktionen und Blöcke validieren und sie dann an weitere Full Nodes weiterleiten. Sie sind ein Teil des Peer-to-Peer-Netzwerks.
 
 **Hasher**
-Ein spezielles Computergerät, genannt ASIC, dass nur für das Bitcoin-Mining verwendet wird. 
+Ein spezielles Computergerät, genannt ASIC, das nur für Bitcoin-Mining verwendet wird. 
 
 **Internationaler Währungsfonds**
 Der IWF ist eine internationale Finanzinstitution mit Sitz in Washington, D.C., der 190 Länder angehören. Sie arbeitet daran, die globale währungspolitische Zusammenarbeit zu fördern, die finanzielle Stabilität zu sichern und den internationalen Handel zu erleichtern. Dabei ist ihr Ziel ein hohes Beschäftigungsniveau und ein nachhaltiges Wirtschaftswachstum zu fördern und die Armut in der Welt zu verringern, wobei sie regelmäßig von den Ressourcen der Weltbank abhängig ist. Sie wurde im Juli 1944 auf der Konferenz von Bretton Woods hauptsächlich auf der Grundlage der Ideen von Harry Dexter White und John Maynard Keynes gegründet. Anschließend nahm sie 1945 mit 29 Mitgliedsländern und dem Ziel, das internationale Währungssystem neu zu gestalten, offiziell ihre Arbeit auf. Heute spielt sie eine zentrale Rolle bei der Bewältigung von Zahlungsbilanzschwierigkeiten und internationalen Finanzkrisen. Die Länder zahlen über ein Quotensystem Mittel in einen Pool ein, aus dem sich Länder mit Zahlungsbilanzproblemen Geld leihen können. [^82]
 
 **Kreditgeber der letzten Instanz**
-Ein Lender of Last Resort (LOLR) ist die Institution in einem Finanzsystem, die als Liquiditätsgeber für ein Finanzinstitut fungiert, das nicht in der Lage ist, sich auf dem Interbankenmarkt ausreichend Liquidität zu beschaffen, und andere Fazilitäten oder Quellen ausgeschöpft wurden. Es handelt sich dabei um eine staatliche Garantie für die Liquidität der Finanzinstitute. [^83]
+Ein Lender of Last Resort (LOLR) ist die Institution in einem Finanzsystem, die als Liquiditätsgeber für ein Finanzinstitut fungiert, das nicht in der Lage ist, sich auf dem Interbankenmarkt ausreichend Liquidität zu beschaffen, und andere Einrichtungen oder Quellen ausgeschöpft wurden. Es handelt sich dabei um eine staatliche Garantie für die Liquidität der Finanzinstitute. [^83]
 
 **M0 Monetäre Basis**
-Die monetäre Basis (M0) ist der Gesamtbetrag einer Währung in physischem Papier und Münzen, der sich entweder in den Händen der Öffentlichkeit oder in Form von Geschäftsbankeinlagen in den Reserven der Zentralbank befindet. [^84]
+Die monetäre Basis (M0) ist der Gesamtbetrag einer Währung in Banknoten und Münzen, der sich entweder in den Händen der Öffentlichkeit oder in Form von Geschäftsbankeinlagen in den Reserven der Zentralbank befindet. [^84]
 
 **M1 Geldmenge**
 M1 ist ein enger Maßstab für die Geldmenge, der physisches Bargeld, Sichteinlagen, Reiseschecks und andere überprüfbare Einlagen umfasst. M1 umfasst keine Finanzanlagen wie Sparkonten und Anleihen.[^85]
@@ -38,22 +38,22 @@ M1 ist ein enger Maßstab für die Geldmenge, der physisches Bargeld, Sichteinla
 M2 ist ein Maß für die Geldmenge, das Bargeld, Giroeinlagen und leicht konvertierbares geldnahes Vermögen wie Spareinlagen, Geldmarktpapiere und Investmentfonds umfasst. Diese Vermögenswerte sind weniger liquide als M1 und nicht so gut als Tauschmittel geeignet, können aber schnell in Bargeld oder Giroeinlagen umgewandelt werden. M2 wird als Indikator für die Geldmenge und die künftige Inflation sowie als Ziel der Geldpolitik der Zentralbank genau beobachtet.[^86]
 
 **Panoptikum**
-Das Panoptikum ist eine Art institutionelles Gebäude und ein Kontrollsystem, das von dem englischen Philosophen und Gesellschaftstheoretiker Jeremy Bentham im 18. Jahrhundert entworfen wurde. Das Konzept des Panoptikums besteht darin, dass alle Gefangenen einer Anstalt von einem einzigen Wachmann beobachtet werden, ohne dass die Insassen merken, ob sie beobachtet werden.[^87]
+Das Panoptikum ist eine Art Verwaltungsgebäude und ein Kontrollsystem, das von dem englischen Philosophen und Gesellschaftstheoretiker Jeremy Bentham im 18. Jahrhundert entworfen wurde. Das Konzept des Panoptikums besteht darin, dass alle Gefangenen einer Anstalt von einem einzigen Wachmann beobachtet werden, ohne dass die Insassen merken, ob sie beobachtet werden.[^87]
 
 **Peer-to-Peer Netzwerk**
-Ein System von gleichermaßen privilegierten, äquipotenten Teilnehmern ohne Hierarchie im Netzwerk. Das Bitcoin Peer-to-Peer-Netzwerk ist ein dezentrales System von Computern, auf denen die Bitcoin-Software läuft, die Transaktionen validiert und verteilt.
+Ein System von gleichermaßen privilegierten, gleichberechtigten Teilnehmern ohne Hierarchie im Netzwerk. Das Bitcoin Peer-to-Peer-Netzwerk ist ein dezentrales System von Computern, auf denen die Bitcoin-Software läuft, die Transaktionen validiert und verteilt.
 
-**Rehypothecation**
-Die Handlung eines Brokers, der bei einer Bank oder einem anderen Kreditgeber Wertpapiere, die ein Kunde bereits bei ihm hinterlegt hat, als Pfand für deren Kauf auf Marge verpfändet.
+**Rehypothek**
+Die Weiterverpfändung ist eine Praxis, bei der Banken und Makler Vermögenswerte, die ihnen von ihren Kunden als Sicherheiten zur Verfügung gestellt wurden, für ihre eigenen Zwecke nutzen.
 
 **Seed**
-12-24 Wörter, die in den meisten auf dem Markt erhältlichen Wallets (HD-Wallets) alle privaten/öffentlichen Schlüssel erzeugen, die Ihre Gelder auf der Blockchain kontrollieren. Jeder, der den Seed besitzt, hat die Kontrolle über diese Schlüssel und damit über die Gelder auf den zugehörigen Adressen.
+12-24 Wörter, die in den meisten auf dem Markt erhältlichen Wallets (HD-Wallets) alle privaten/öffentlichen Schlüssel erzeugen, die Ihre Bitcoin auf der Blockchain kontrollieren. Jeder, der den Seed besitzt, hat die Kontrolle über diese Schlüssel und damit über die Gelder auf den zugehörigen Adressen.
 
 **Überwachungskapitalismus**
 Ein von Shoshana Zuboff geprägter Begriff. Er beschreibt die systematische Kommerzialisierung persönlicher Daten durch zentralisierte monopolistische Unternehmen mit dem Hauptziel der Gewinnerzielung.
 
 **Wallet**
-Software oder Hardware, die alle Ihre Bitcoin-Adressen und privaten Schlüssel enthält. Damit können Sie Ihre Bitcoins senden, empfangen und speichern.
+Software oder Hardware, die alle Ihre Bitcoin-Adressen und privaten Schlüssel enthält. Damit können Sie Ihre Bitcoin senden, empfangen und speichern.
 
 [^79]: [Cantillon-Effekt auf Wikipedia](https://en.wikipedia.org/wiki/Richard_Cantillon)
 
