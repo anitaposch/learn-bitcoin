@@ -7,7 +7,7 @@ Am 31. Oktober 2008, zu Beginn der größten Finanzkrise, die die Welt je gesehe
 
 Am 3. Januar 2009 wurde der erste öffentliche Block von Bitcoin, der sogenannte Genesis-Block geschürft. Satoshi hinterließ darin folgende Nachricht: "Chancellor on brink of second bailout for banks", was so viel bedeutet wie: "Kanzler steht vor zweiter Bankenrettung". Es war die Schlagzeile der aktuellen Tageszeitung "The Times". Dieser Zeitstempel markiert den Beginn von Bitcoin und kann als Signal von Satoshi interpretiert werden, dass es eine Alternative zum aktuellen Banken- und Finanzsystem sein soll, in dem man bisher, um elektronische Zahlungen durchzuführen, Intermediären vertrauen musste.
 
-Am 9. Juni 2021 beschoss die Regierung von El Salvador als erstes Land der Welt, Bitcoin als gesetzliches Zahlungsmittel festzulegen.
+Am 9. Juni 2021 beschloss die Regierung von El Salvador als erstes Land der Welt, Bitcoin als gesetzliches Zahlungsmittel festzulegen.
 
 Seit den 1990er-Jahren hatten Computer Experten, Mathematiker und Kryptographen - darunter auch einige Frauen - an Konzepten gearbeitet, um digitales Geld zu kreieren. Bitcoin konnte entdeckt werden, weil es auf Schlüsseltechnologien seiner Vorgänger aufbaute.
 
@@ -44,7 +44,7 @@ Der Unterschied zum Bankkonto und den Kontoauszügen, die Sie auch überprüfen 
 
 Das ist revolutionär. Sobald Sie beginnen Ihre eigenen Transaktionen zu überprüfen, sind Sie defacto eine Bank. Das ist, was die Banken tun. Sie überprüfen die Ein- und Ausgänge auf Ihrem Konto. Sie müssen darauf vertrauen, dass Sie einen guten Job machen. Das klappt relativ gut in entwickelten Ländern, aber weltweit gesehen, funktioniert das Bankensystem weit schlechter. Stellen Sie sich vor, Sie können sich nicht auf Ihre Bank verlassen oder besitzen keinen Identifikationsnachweis, aber Sie haben ein Handy und Internetzugang. In afrikanischen Ländern können Sie mobiles Geld über Services wie M-Pesa und EcoCash nutzen oder eine Kryptowährung wie Bitcoin, die man ohne Registrierung verwenden kann. 
 
-Alle Menschen weltweit, die ein internetfähiges Mobiltelefon besitzen, haben Zugang zu Bitcoin. Banken, wie wir sie kennen, sind nicht erforderlich. Sie müssen auch niemanden um Erlaubnis fragen, ob Sie Bitcoin besitzen und nutzen dürfen. Alles, was Sie benötigen, ist ein Smartphone, eine Internetverbindung und eine Bitcoin Wallet.
+Alle Menschen weltweit, die ein internetfähiges Mobiltelefon besitzen, haben Zugang zu Bitcoin. Banken, wie wir sie kennen, sind nicht erforderlich. Sie müssen auch niemanden um Erlaubnis fragen, ob Sie Bitcoin besitzen und nutzen dürfen. Alles, was Sie benötigen, ist ein Smartphone, eine Internetverbindung und eine Bitcoin-Wallet.
 
 [^20]: Collusion von Nomi Prins, Bold Type Books, 2019, S. 1.
 
