@@ -62,7 +62,7 @@ Je nach Land werden Frauen im Erbrecht diskriminiert und müssen die Erlaubnis i
 
 Weitere Hürden, die Frauen vom Zugang zu Finanzdienstleistungen abhalten, sind unter anderem lange Anfahrtswege, das Risiko, beim Geldabheben ausgeraubt zu werden, sowie fehlende Privatsphäre, um ihre Ersparnisse vor anderen zu schützen.
 
-"Mehr als 80 Prozent #, der von Frauen im Pazifikraum betriebenen Kleinunternehmen, werden auf kleineren Märkten abgewickelt", sagte Dr. Sharman Stone, Australiens Botschafterin für Frauen. "Als sie nur Bargeld hatten, war es für sie extrem gefährlich, dieses Bargeld nach Hause zu bringen und es dort zu verwahren." [^61] Mit Bitcoin und Kryptowährungen sind sie physisch sicherer, können die Inflation umgehen und ihr eigenes Geld besitzen.
+"Mehr als 80 Prozent, der von Frauen im Pazifikraum betriebenen Kleinunternehmen, werden auf kleineren Märkten abgewickelt", sagte Dr. Sharman Stone, Australiens Botschafterin für Frauen. "Als sie nur Bargeld hatten, war es für sie extrem gefährlich, dieses Bargeld nach Hause zu bringen und es dort zu verwahren." [^61] Mit Bitcoin und Kryptowährungen sind sie physisch sicherer, können die Inflation umgehen und ihr eigenes Geld besitzen.
 
 > Frauen sind die Mehrheit der kenianischen Bevölkerung; sie verrichten 70 % der landwirtschaftlichen Arbeit, doch sie besitzen weniger als 1 % des Bodens und haben kaum Kontrolle über das durch ihre Arbeit erzielte Einkommen. [^62]
 

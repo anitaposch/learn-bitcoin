@@ -4,7 +4,7 @@ In diesem Kapitel werden wir die verschiedenen Möglichkeiten untersuchen, wie S
 ## Bitcoin kaufen - Custodial
 In vielen Fällen erfolgt der erste Kontakt mit Kryptowährungen über Depotbörsen wie Kraken, Coinbase, Binance, Bitpanda und Bitfinex, um nur einige zu nennen.
 
-Sie werden auch als Verwahrer (Custodials) bezeichnet, weil sie die Schlüssel für Ihre Bitcoin besitzen. Auf diesen Plattformen erhalten Sie zwar eine Wallet, diese gleicht aber eher einem Bankkonto was Risiken wie Hacking, Pfändung oder Konfiszierung durch Regierungen birgt.
+Sie werden auch als Verwahrer (Custodians) bezeichnet, weil sie die Schlüssel für Ihre Bitcoin besitzen. Auf diesen Plattformen erhalten Sie zwar eine Wallet, diese gleicht aber eher einem Bankkonto was Risiken wie Hacking, Pfändung oder Konfiszierung durch Regierungen birgt.
 
 Der Handel auf diesen Börsen findet außerhalb der Blockchain statt, d. h. die Transaktionen werden nicht auf der Blockchain abgewickelt, sondern nur in den Datenbanken der Plattform verwaltet. Dies erhöht die Geschwindigkeit der Transaktionen, führt aber gleichzeitig zu einem Mangel an Transparenz und Sicherheit.
 
