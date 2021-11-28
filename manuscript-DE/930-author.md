@@ -1,4 +1,3 @@
-
 # Autorin
 
 Anita Posch ist Bitcoin-Expertin, Autorin und Podcast-Gastgeberin. Sie ist Vorstandsmitglied des gemeinnützigen Vereines Bitcoin Austria.
