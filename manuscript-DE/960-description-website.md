@@ -2,7 +2,7 @@
  -   [Introduction](https://learnbitcoin.link/#intro)  
  -   [Testimonials](https://learnbitcoin.link/#recommendation)  
 
-Das Buch "(L)earn Bitcoin - Bitcoin verstehen und verdienen. Der Schlüssel zu finanzieller Unabhängigkeit" ist eine prägnante und leicht verständliche Einführung in alle Aspekte des Themas Bitcoin. Die meisten Bitcoiner*innen brauchten Jahre, um all die Informationen zu sammeln, die in diesem Buch zu einer schnellen Lektüre verdichtet sind. Es gibt ausführlich Antworten auf das warum und wie Sie beginnen können, Bitcoin zu verstehen, nutzen und zu verdienen. Die meisterhafte Organisation und der Fluss von einem Themenbereich zum nächsten erleichtern das Verständnis der Grundlagen von Bitcoin.
+Das Buch "(L)earn Bitcoin - Bitcoin verstehen und damit Geld verdienen. Der Schlüssel zu finanzieller Unabhängigkeit" ist eine präzise und leicht verständliche Einführung in alle Aspekte des Themas Bitcoin. Die meisten Bitcoiner*innen brauchten Jahre, um all die Informationen zu sammeln, die in diesem Buch zu einer schnellen Lektüre zusammengefaßt sind. Es gibt ausführliche Antworten auf das warum und wie Sie beginnen können, Bitcoin zu verstehen, zu nutzen und zu verdienen. Die klare Stuktur des Buches und der fließene Übergang von einem Themenbereich zum nächsten erleichtern das Verständnis der Grundlagen von Bitcoin. Es sind keinerlei Vorkenntnisse technischer Natur oder im Finanzbereich nötig. Das Buch kommt ohne komplizierte Fachsprache aus und ist somit ein perfekter Ratgeber für jeden, der sich für die bekannteste aller Kryptowährungen interessiert. 
 
 **Kaufen Sie das [E-Book (epub, mobi) mit Bitcoin**  
 
@@ -14,15 +14,15 @@ Das Buch "(L)earn Bitcoin - Bitcoin verstehen und verdienen. Der Schlüssel zu f
 
 (L)earn Bitcoin ist das beste Buch für Ihren Einstieg in die neue Welt des Internets der Werte. Es präsentiert Bitcoin umfassend in allen Facetten. Von den technischen, ökonomischen, politischen und sozialen Auswirkungen bis hin zu Bitcoins Entwicklung in der aktuellen Währungslandschaft. 
 
-Es beinhaltet einen schrittweisen Fahrplan, wie Sie diese neue finanzielle Welt navigieren und gibt konkrete Empfehlungen, wie Sie Bitcoin auf sicheren Wegen bekommen und verdienen sowie auf sichere Art aufbewahren können. Dadurch erreichen Sie eine höhere Stufe an finanzieller Unabhängigkeit, die Ihnen mehr persönliche Freiheit und Kontrolle über Ihr Geld gibt.
+Es beinhaltet einen schrittweisen Fahrplan, wie Sie diese neue finanzielle Welt navigieren und gibt konkrete Empfehlungen, wie Sie Bitcoin auf sicheren Wegen bekommen und verdienen, sowie auf sichere Art aufbewahren können. Dadurch erreichen Sie  finanzieller Unabhängigkeit in hohem Maße,  für ihre persönliche Freiheit und Kontrolle über Ihr Vermögen. 
 
 Sie werden in diesem Buch unter anderem Antworten auf diese Fragen finden: Was ist Geld? Wie entsteht es? Wie sieht die historische Entwicklung von Geld und insbesondere die von Blockchain-Technologie und Bitcoin aus?  Es gibt Antworten auf die Fragen, warum und wie man Bitcoin nutzen kann, und räumt dabei mit gängigen Mythen und Missverständnissen rund um Kryptowährungen auf. Zusätzlich zum Blick auf die Historie von Bitcoins Entwicklung seit 2008 gibt es einen Ausblick auf zukünftige Anwendungsmöglichkeiten von Bitcoin.
 
-Während viele Medien und Wirtschaftsexpert*innen behaupten, Bitcoin sei nur ein Spekulationsobjekt, ist es mein Ziel zu zeigen, dass Bitcoin finanzielle Fairness und sozialen Wandel ermöglichen kann. Die positiven Auswirkungen eines wirklich erlaubnisfreien, unzensierbaren, neutralen, digitalen Assets mit einer fixen Ausgabemenge sollen aufgezeigt werden.
+Während viele Medien und Wirtschaftsexpert*innen behaupten, Bitcoin sei nur ein Spekulationsobjekt, ist es mein Ziel zu zeigen, dass Bitcoin finanzielle Fairness und sozialen Wandel ermöglichen kann. Die positiven Auswirkungen eines wirklich autarken, unzensierbaren, neutralen und digitalen Kapital Geldmittel (?) mit einer fixen Ausgabemenge sollen aufgezeigt werden.
 
 Im zweiten Teil des Buches gehe ich auf die praktische Anwendung von Bitcoin (BTC) ein und wie man Bitcoin auf sichere Art erlangen, benutzen und verwahren kann. Sie werden erfahren, wie Sie souverän mit dieser neuen Technologie umgehen, wie Sie Risiken minimieren und strategisch und effizient vorgehen, um Ihr Vermögen langfristig zu sichern. 
 
-Dies ist weder eine Finanzberatung noch eine Anleitung zum Handeln mit Kryptowährungen - insbesondere nicht mit den tausenden Altcoins. Wenn Sie an kurzfristigen Gewinnen wie im Casino und an schnellem Geld interessiert sind, dann lassen Sie die Finger von diesem Buch. Es ist für Menschen, die Bitcoin grundlegend verstehen, erwerben und darüber selbstbestimmt und nachhaltig verfügen wollen.
+Dies ist weder eine Finanzberatung noch eine Anleitung zum Handeln mit Kryptowährungen. Wenn Sie an kurzfristigen Gewinnen wie im Casino und an schnellem Geld interessiert sind, dann lassen Sie die Finger von diesem Buch. Es ist für Menschen, die Bitcoin grundlegend verstehen, erwerben und darüber selbstbestimmt und nachhaltig verfügen wollen.
 
 ## Empfohlen von
 
