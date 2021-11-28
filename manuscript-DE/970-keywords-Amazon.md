@@ -2,11 +2,11 @@
 
 Bitcoin für Dummies  
 bestes Bitcoin Buch  
-Bitcoin investment  
+Bitcoin investieren 
 Bitcoin für Anfänger  
 Bitcoin Buch 
 Bitcoin guide  
-Kryptowährung verstehen 
+Kryptowährungen verstehen 
 
 ### print book keywords
 bitcoin lernen
