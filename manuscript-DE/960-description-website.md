@@ -14,7 +14,7 @@ Das Buch "(L)earn Bitcoin - Bitcoin verstehen und verdienen. Der Schlüssel zu f
 
 (L)earn Bitcoin ist das beste Buch für Ihren Einstieg in die neue Welt des Internets der Werte. Es präsentiert Bitcoin umfassend in allen Facetten. Von den technischen, ökonomischen, politischen und sozialen Auswirkungen bis hin zu Bitcoins Entwicklung in der aktuellen Währungslandschaft. 
 
-Es beinhaltet einen schrittweisen Fahrplan, wie Sie diese neue finanzielle Welt navigieren und gibt konkrete Empfehlungen, wie Sie Bitcoin auf seriösen Wegen bekommen und verdienen, sowie auf sichere Art aufbewahren können. Dadurch erreichen Sie finanzielle Unabhängigkeit in hohem Maß, für ihre persönliche Freiheit und Kontrolle über Ihr Vermögen. 
+Es beinhaltet einen schrittweisen Fahrplan, wie Sie diese neue finanzielle Welt navigieren und gibt konkrete Empfehlungen, wie Sie Bitcoin auf seriösen Wegen bekommen und verdienen, sowie auf sichere Art aufbewahren können. Dadurch erreichen Sie in hohem Maß finanzielle Unabhängigkeit, für ihre persönliche Freiheit und Kontrolle über Ihr Vermögen. 
 
 Sie werden in diesem Buch unter anderem Antworten auf diese Fragen finden: Was ist Geld? Wie entsteht es? Wie sieht die historische Entwicklung von Geld und insbesondere die von Blockchain-Technologie und Bitcoin aus?  Es gibt Antworten auf die Fragen, warum und wie man Bitcoin nutzen kann, und räumt dabei mit gängigen Mythen und Missverständnissen rund um Kryptowährungen auf. Zusätzlich zum Blick auf die Historie von Bitcoins Entwicklung seit 2008 gibt es einen Ausblick auf zukünftige Anwendungsmöglichkeiten von Bitcoin.
 
