@@ -1,7 +1,7 @@
 ## 21 Million Bitcoin
 Bitcoin are created, as described in the previous pages, when a mining computer solves a computational task and is the first to successfully attach the newly minted block to the chain.
 
-Miners currently receive a premium of 6.25 bitcoin for this work. This reward is the incentive for miners to behave positively towards the Bitcoin network and not cheat to change transactions in their favor.
+Miners currently receive a premium of 6.25 bitcoin for this work. This reward is the incentive for miners to behave positively towards the Bitcoin network and to prevent them from associating with others and attacking the network.
 
 ### Halving
 The Bitcoin rules stipulate that the reward for the miners will be halved every 210,000 blocks, roughly every four years. At the beginning this reward was 50 bitcoin. Since May 2020 it is 6.25 bitcoin. In 2024 this reward will be halved into 3.125 bitcoin per block. This event is commonly called the Halving.

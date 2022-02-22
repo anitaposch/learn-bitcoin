@@ -34,7 +34,7 @@ The world's leading P2P exchanges
 * [Paxful](https://paxful.com/)
 
 ### Bitcoin ATMs
-A Bitcoin ATM is a machine similar to an ATM, where you can buy bitcoin and other cryptocurrencies with cash. The advantage of Bitcoin ATMs is that you get your bitcoin instantly and in many places, up to a certain threshold, without KYC/AML identification. But be careful as some ATM operators charge above average fees.
+A Bitcoin ATM is a machine similar to an ATM, where you can buy bitcoin and other cryptocurrencies with cash. The advantage of Bitcoin ATMs is that you get your bitcoin instantly and in many places, up to a certain threshold, without KYC/AML identification. But be careful as many ATM operators charge above average fees.
 
 * [Bitcoin ATM Map](https://bitcoinatmmap.com/)
 * [Bitrawr ATMs](https://www.bitrawr.com/bitcoin-atms)

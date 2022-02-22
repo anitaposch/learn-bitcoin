@@ -4,7 +4,7 @@
 
 **Before you get into buying Bitcoin, please read these important notes:**
 
-This guide covers the first Bitcoin blockchain, created by Satoshi Nakamoto in 2009, which operates under the acronym BTC or XBT on exchanges. For information about Bitcoin (BTC), see [https://bitcoin.org](https://bitcoin.org/). On [http://bitcoin.com,](http://bitcoin.com/) on the other hand, you reach the website of Bitcoin Cash (BCH), which is a split off from 2017.
+This guide covers the first Bitcoin blockchain, created by Satoshi Nakamoto in 2009, which operates under the acronym BTC or XBT on exchanges. For information about Bitcoin (BTC), see [https://bitcoin.org](https://bitcoin.org/). On Bitcoin.com on the other hand, you reach the website of Bitcoin Cash (BCH), which is a split off from 2017.
 
 Be aware that there are many spin-offs of the original Bitcoin. They have names like Bitcoin Cash (BCH), Bitcoin SV (BSV), Bitcoin Gold (BTG), Bitcoin Diamond (BCD) or Bitcoin 2 (BTC2). These are not "cheaper" bitcoin, but independent, different assets. They use the same name as Bitcoin to benefit from its notoriety, but do not maintain the same strengths or popularity as the real Bitcoin (BTC).
 
