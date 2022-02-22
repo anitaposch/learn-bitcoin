@@ -9,7 +9,8 @@ Publisher: PoshMedia e.U., Seilerstaette 24, 4. Stock, 1010 Wien, Austria
 
 The original English edition was published in June 2021 under the title _(L)earn Bitcoin - Become Financially Sovryn_
 
-Italian translation and proofreading: ..................
+Italian translation: Ilario Francescutti
+Proofreading: Riccardo G.
 
 Editor: Mark Kersley   
 Typesetting: Couper Street Type Co.  
