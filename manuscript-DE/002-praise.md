@@ -2,7 +2,7 @@
 
 > "Anita Posch ist eine der produktivsten und fachkundigsten Stimmen in der Bitcoin-Welt. Ihre Arbeit macht Bitcoin verständlich, nachvollziehbar und spannend für Neulinge und unterstützt Sie auf ihrem Weg zum eigenen Know-how. In einem lauten und verwirrenden Umfeld ist ihr Schaffen sachlich und integer." - **Andreas M. Antonopoulos, Autor "Mastering Bitcoin" und "Das Internet des Geldes"**
 
-> "Anita hat großartige Arbeit in der Bitcoin-Community geleistet. Nicht ausschließlich, aber ganz besonders ihre Beiträge über die Nutzung von Bitcoin in weniger privilegierten Regionen der Welt. Ihr Buch ist eine kompakte und leicht verständliche Einführung in Bitcoin, die alle wichtigen Themen abdeckt, um den Einstieg zu erleichtern. " - **Lyn Alden, Investment Strategin**
+> "Anita hat großartige Arbeit in der Bitcoin-Community geleistet. Nicht ausschließlich, aber ganz besonders ihre Beiträge über die Nutzung von Bitcoin in weniger privilegierten Regionen der Welt. Ihr Buch ist eine kompakte und leicht verständliche Einführung in Bitcoin, die alle wichtigen Themen abdeckt, um den Einstieg zu erleichtern." - **Lyn Alden, Investment Strategin**
 
 > "'Was ist Bitcoin?' Um diese Frage annähernd beantworten zu können, müssen wir uns zuerst mit der Frage 'Was ist Geld?' beschäftigen. Anita nimmt die Leser*in mit auf eine Lern-Reise über das Geld, wie wir es kennen, um zu begreifen, wieso Bitcoin der nächste große Schritt in der Entwicklung der Finanztechnologie ist. Sobald Sie das 'Was?' verstehen, stellt sich die Frage des 'Wie?' Zu großer Unabhängigkeit gehört große Verantwortung; um in dieser neuen Welt sicher zu navigieren, brauchen Sie die Werkzeuge und Strategien, die in diesem Buch beschrieben werden." - **Jameson Lopp, Mitbegründer & CTO, Casa**
 

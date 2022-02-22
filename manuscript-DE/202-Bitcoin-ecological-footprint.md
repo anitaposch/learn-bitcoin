@@ -85,7 +85,7 @@ Bitcoin nutzt einen höheren Anteil an Elektrizität aus erneuerbarer Energie al
 ![Strom-Mix, Bitcoin verglichen mit China, USA und der Welt, 2020](assets/_Bitcoin-electricity-sources.jpg) [^50]
 
 **CO2-Emissionen**  
-Einige Untersuchungen haben versucht, die CO2-Emissionsströme und die Nachhaltigkeit von Bitcoin anhand der Prognose der künftigen Nachfrage zu bewerten, oft leider basierend auf falschen Annahmen . In einem Bericht wird zum Beispiel behauptet: "Der jährliche Energieverbrauch der Bitcoin-Blockchain in China wird voraussichtlich im Jahr 2024 mit 296,59 Terawattstunden (Twh) seinen Höhepunkt erreichen und dementsprechend 130,50 Millionen Tonnen Kohlenstoffemissionen verursachen." [^51]
+Einige Untersuchungen haben versucht, die CO2-Emissionsströme und die Nachhaltigkeit von Bitcoin anhand der Prognose der künftigen Nachfrage zu bewerten, oft leider basierend auf falschen Annahmen. In einem Bericht wird zum Beispiel behauptet: "Der jährliche Energieverbrauch der Bitcoin-Blockchain in China wird voraussichtlich im Jahr 2024 mit 296,59 Terawattstunden (Twh) seinen Höhepunkt erreichen und dementsprechend 130,50 Millionen Tonnen Kohlenstoffemissionen verursachen." [^51]
 
 > "Es sticht sofort ins Auge, dass die Autoren den zukünftigen Kohlenstoffverbrauch von Bitcoin auf zwei Dezimalstellen genau angeben, obwohl die Zahl realistischerweise nur in einer Größenordnung geschätzt werden kann.", stellt **Nic Carter** fest. [^52]
 
