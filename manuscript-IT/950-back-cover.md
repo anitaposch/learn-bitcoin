@@ -8,4 +8,4 @@
 
 IMAGE https://blotcdn.com/blog_378314d0a9ec45bfa46b3bc7d3718410/_image_cache/33e02f7d-d199-46ab-89a0-9fa5b575ba2b.png
 
-Anita Posch is a Bitcoin advocate, author, solopreneur and host of the Anita Posch show. She is a member of the board of Bitcoin Austria - an educational non-profit organization.
+Anita Posch is a Bitcoin advocate, author, solopreneur and host of the Anita Posch show. She is the founder of Bitcoin for Fairness - an educational non-profit initiative.
