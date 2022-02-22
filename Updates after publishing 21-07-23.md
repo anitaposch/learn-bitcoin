@@ -1,15 +1,3 @@
-900-glossary.md
-
-**Seed**
-
-12-24 words that in most of the wallets available in the market (HD wallets), produce all the private/public keys which will control your funds on the blockchain. Anyone with the seed has the control over these keys and therefore, over the funds on the associated addresses.
-
------
-
-archived 910-endnotes.md because endnotes are footnotes inside textfiles
-added
-[^33a]: [2nd global cryptoasset benchmarking study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study/)  
-
 
 ----
 in 100-evolution-money.md last paragraph changed defence to defense
@@ -114,6 +102,41 @@ But be careful as many ATM operators charge above average fees.
 720-strategy
 Deleted this paragraph:
 However, you might be tempted to give it a try. Use the website [If you had bought crypto](https://ifyouhadboughtcrypto.com/) to compare your earnings in recent years if you had invested in Bitcoin or Ethereum, Dash, Ripple, Cardano, Dogecoin, Litecoin or Bitcoin Cash.
+
+---
+
+900-glossary.md
+
+**Seed**
+
+12-24 words that in most of the wallets available in the market (HD wallets), produce all the private/public keys which will control your funds on the blockchain. Anyone with the seed has the control over these keys and therefore, over the funds on the associated addresses.
+
+-----
+
+archived 910-endnotes.md because endnotes are footnotes inside textfiles
+added
+[^33a]: [2nd global cryptoasset benchmarking study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study/)  
+
+---
+
+930-author
+She is a member of the board of Bitcoin Austria - an educational non-profit organization.
+->
+She is the founder of Bitcoin for Fairness - an educational non-profit initiative.
+
+---
+950-back-cover
+She is a member of the board of Bitcoin Austria - an educational non-profit organization.
+->
+She is the founder of Bitcoin for Fairness - an educational non-profit initiative.
+
+---
+960-description-website
+
+She is a member of the board of Bitcoin Austria - an educational non-profit organization.
+->
+She is the founder of Bitcoin for Fairness - an educational non-profit initiative.
+
 
 ----
 added 2 spaces at the end of each footnote
