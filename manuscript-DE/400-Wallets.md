@@ -4,7 +4,7 @@ Es gibt verschiedene Arten von Wallets, je nach Gerät, Sicherheitsanforderungen
 
 ### Wallet-Sicherheit
 
-Je besser die Software einer Wallet vor Angriffen geschützt ist, desto sicherer ist sie. Daher wird grundsätzlich zwischen sogenannten Hot-Storage- und Cold-Storage-Lösungen unterschieden. Hot Wallets, wie z. B. mobile Wallets und Desktop Wallets, sind Apps, die sich mit dem Internet verbinden und daher durch Hacker, Viren oder regulatorische Risiken und Gegenparteirisiken gefährdet sind. Cold-Storage-Lösungen hingegen, wie etwa Hardware-Wallets, sind nicht immer online und dadurch viel sicherer.
+Je besser die Software einer Wallet vor Angriffen geschützt ist, desto sicherer ist sie. Daher wird grundsätzlich zwischen sogenannten Hot-Storage- und Cold-Storage-Lösungen unterschieden. Hot Wallets, wie z. B. mobile Wallets und Desktop Wallets, sind Apps, die sich mit dem Internet verbinden und daher durch Hacker, Viren oder regulatorische Risiken und Gegenparteirisiken gefährdet sind. Cold-Storage-Lösungen hingegen, wie etwa Hardware-Wallets, sind nie online und dadurch viel sicherer.
 
 Außerdem ist Ihr Smartphone, ob Android oder iOS, sicherer als Ihr Laptop oder PC. Desktop-Windows-Systeme sind zum Zeitpunkt der Erstellung dieses Buches weniger sicher als Apple-Geräte. Bei den verschiedenen Smartphone-Betriebssystemen gibt es weniger Unterschiede in Bezug auf das Sicherheitsniveau.
 
@@ -57,8 +57,6 @@ Die folgenden Hersteller und Geräte haben sich in den letzten Jahren auf dem Ma
 
 Die Coldcard unterscheidet sich von den anderen Modellen, da es sich um ein Air-Gapped-Gerät handelt - es kann verwendet werden, ohne jemals an einen Computer angeschlossen zu sein. Deshalb bezeichnen manche sie auch als Cold-Cold Storage, weil sie noch sicherer ist. Anfängern empfehle ich eines der Geräte der drei erstgenannten Unternehmen.
 
-Einige Hardware-Wallets (keine der oben genannten) verwenden Bluetooth als Verbindungsmethode. Davon rate ich ab, da die Bluetooth-Technologie als relativ unsicher gilt. Es ist besser, die Hardware-Wallet mit dem mitgelieferten USB-Kabel anzuschließen.
-
 Kaufen Sie niemals eine Hardware-Wallet von Fremden auf eBay oder Amazon, und natürlich auch nicht aus zweiter Hand. Kaufen Sie es immer direkt auf der Website des Herstellers, auf der Amazon-Seite des Herstellers oder bei einem Händler Ihres Vertrauens. Vergewissern Sie sich, dass das Gerät, wie auf der Website des Herstellers angegeben, versiegelt ist. Die meisten der oben empfohlenen Geräte haben eine manipulationssichere Verpackung, um sicherzustellen, dass das Gerät zum ersten Mal benutzt und nicht manipuliert wurde. Ledger verzichtet bewusst auf manipulationssichere Verpackungen, da diese potenziell gefälscht werden können. Echte Ledger-Geräte enthalten einen Sicherheitschip, der physische Manipulationen verhindert und es dem Benutzer ermöglicht, die Integrität der Software und Hardware mithilfe der Anleitungen von Ledger zu überprüfen. In jedem Fall gilt: Kein Hersteller verschickt den Seed mit dem Gerät!
 
 Zusätzlich zum Gerät liefert der Anbieter eine Wallet-Software zur Verwaltung Ihrer Coins. Aus Gründen des Datenschutzes nehmen viele Benutzer die Wallet des Herstellers nur für die Initialisierung und Sicherung des Geräts (Aufschreiben des Seeds) und für Firmware-Updates. Danach verwenden sie eine Wallet wie Electrum für die Verwaltung der Coins.
@@ -72,6 +70,6 @@ Wenn Sie wirklich nicht die 50 - 100 USD bezahlen wollen, die für den Kauf eine
 Wenn Sie sich eine Hardware-Wallet einfach nicht leisten können, verwenden Sie in der Zwischenzeit Ihr Telefon. Sobald Sie genug angespart haben, sollten Sie sich eine Hardware-Wallet zulegen.
 
 **Card Wallet**
-Die Card Wallet (Produkt) ist im Prinzip eine Paper-Wallet, wird aber von Profis mit hohen Sicherheitsstandards hergestellt. Allerdings müssen Sie den Herstellern vertrauen, dass sie die privaten Schlüssel nicht auf der Karte speichern. Sie können die Card Wallet als Alternative verwenden, wenn Sie keinen Computer oder kein Smartphone besitzen oder sich nicht um die Wartung Ihrer Hardware-Wallet kümmern möchten. https://cardwallet.com/anita (meine Leser*innen erhalten 20% Rabatt)
+Die Card Wallet (Produkt) ist im Prinzip eine Paper-Wallet, wird aber von Profis mit hohen Sicherheitsstandards hergestellt. Allerdings müssen Sie den Herstellern vertrauen, dass sie die privaten Schlüssel für die Karte nicht kopieren. Sie können die Card Wallet als Alternative verwenden, wenn Sie keinen Computer oder kein Smartphone besitzen oder sich nicht um die Wartung Ihrer Hardware-Wallet kümmern möchten. https://cardwallet.com/anita (meine Leser*innen erhalten 20% Rabatt)
 
 Der branchenweit bevorzugte Standard und die **empfohlene Cold Storage-Lösung sind Hardware-Wallets**.

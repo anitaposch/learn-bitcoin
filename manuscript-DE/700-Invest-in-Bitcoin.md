@@ -34,7 +34,7 @@ Die weltweit führenden P2P-Börsen sind
 * [Paxful](https://paxful.com/)
 
 ### Bitcoin-Geldautomaten
-Ein Bitcoin-Geldautomat ist ein Automat, der einem Geldautomaten ähnelt, an dem Sie Bitcoin und andere Kryptowährungen gegen Bargeld tauschen können. Der Vorteil von Bitcoin-Geldautomaten ist, dass Sie Ihre Bitcoin sofort und an vielen Orten bis zu einem bestimmten Betrag ohne KYC/AML-Identifizierung erhalten. Aber seien Sie vorsichtig, denn einige Geldautomatenbetreiber verlangen überdurchschnittlich hohe Gebühren.
+Ein Bitcoin-Geldautomat ist ein Automat, der einem Geldautomaten ähnelt, an dem Sie Bitcoin und andere Kryptowährungen gegen Bargeld tauschen können. Der Vorteil von Bitcoin-Geldautomaten ist, dass Sie Ihre Bitcoin sofort und an vielen Orten bis zu einem bestimmten Betrag ohne KYC/AML-Identifizierung erhalten. Aber seien Sie vorsichtig, denn viele Geldautomatenbetreiber verlangen überdurchschnittlich hohe Gebühren.
 
 * [Bitcoin ATM Map](https://bitcoinatmmap.com/)
 * [Bitrawr ATMs](https://www.bitrawr.com/bitcoin-atms)

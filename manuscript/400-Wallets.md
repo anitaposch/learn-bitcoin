@@ -4,7 +4,7 @@ There are different types of wallets depending on the device, security requireme
 
 ### Wallet Security
 
-The better protected a wallet's software is from outside attacks over the internet, the more secure it is. Therefore, the basic categorization is between hot storage and cold storage solutions. Hot wallets, like mobile wallets and desktop wallets, are apps that connect to the internet and are therefore at risk from hackers, viruses or regulatory and counter-party risks. Cold storage solutions like hardware wallets are not always-online and therefore are much more secure.
+The better protected a wallet's software is from outside attacks over the internet, the more secure it is. Therefore, the basic categorization is between hot storage and cold storage solutions. Hot wallets, like mobile wallets and desktop wallets, are apps that connect to the internet and are therefore at risk from hackers, viruses or regulatory and counter-party risks. Cold storage solutions like hardware wallets are never online and therefore are much more secure.
 
 Additionally, your smartphone, whether Android or iOS, is more secure than your laptop or PC. Desktop Windows systems are less secure than Apple devices at the time of writing. Within the different smartphone operating systems, there are fewer differences in the level of security.
 
@@ -56,8 +56,6 @@ The following manufacturers and devices have recently established themselves in 
 * Coldcard (for tech-savvy users) https://anita.link/coldcard - Coinkite
 
 The Coldcard is different to the other models because it is an air-gapped device - it can be used without ever being connected to a computer. That's why some people refer to it as cold-cold storage, being even more secure. For novices, I recommend one of the first three company's devices.
-
-Some hardware wallets (none of the above) use Bluetooth as a connection method. I advise against this because Bluetooth technology is considered relatively unsafe. It is better to connect the hardware wallet with the supplied USB cable.
 
 Never buy a hardware wallet from strangers on eBay or Amazon, and of course, don't buy it second hand. Always purchase it directly from the manufacturer's website, the manufacturer's Amazon page or a dealer you trust. Make sure that the device is sealed as stated on the manufacturer's website. Most of the recommended devices above have tamper-evident packaging to make sure that the device is used for the first time and has not been manipulated. Ledger deliberately chooses not to use anti-tamper seals on its packaging because they can potentially be counterfeited. Genuine Ledger devices contain a secure chip that prevents physical tampering and allows users to verify the software and hardware integrity using Ledger's guides. In any case: no manufacturer is sending the seed with the device!
 
