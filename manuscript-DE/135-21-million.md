@@ -1,7 +1,7 @@
 ## 21 Millionen Bitcoin
 Wie auf den vorigen Seiten beschrieben, werden Bitcoin geschaffen, sobald ein Mining-Computer eine Rechenaufgabe löst und als Erster den neu erzeugten Block an die Blockchain anhängt. 
 
-Derzeit erhalten Miner dafür 6,25 Bitcoin als Belohnung. Diese dient den Minern als Anreiz, den Regeln des Netzwerks zu folgen und soll Miner davon abschrecken, Transaktionen in ihrem Sinne zu verändern.
+Derzeit erhalten Miner dafür 6,25 Bitcoin als Belohnung. Diese dient den Minern als Anreiz, den Regeln des Netzwerks zu folgen und soll sie davon abhalten, sich mit anderen zusammen zu schließen und das Netzwerk zu attackieren.
 
 ### Halving
 Die Bitcoin-Regeln legen fest, dass sich die ausbezahlte Menge an Bitcoin alle 210.000 Blöcke - etwa vier Jahre - halbiert. Zu Beginn wurden 50 Bitcoin pro Block geschaffen. Seit Mai 2020 sind es die genannten 6,25. Im Jahr 2024 wird wieder halbiert und die Miner erhalten dann 3,125 Bitcoin pro Block. Dieses Ereignis wird als Halving (Halbierung) bezeichnet. 
