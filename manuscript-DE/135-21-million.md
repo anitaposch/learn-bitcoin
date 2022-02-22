@@ -34,7 +34,9 @@ Im Englischen wird "Bitcoin" mit einem Großbuchstaben zu Beginn geschrieben, we
 
 Auf Deutsch wird in beiden Fällen der Großbuchstabe vorangestellt.
 
-Münze ist im Grunde ein irreführender Begriff für das digitale Gut. Technisch gesehen besteht ein Bitcoin aus vielen UTXOs (Unspent Transaction Outputs) - auf Deutsch etwa "nicht ausgegebener Transaktions-Output". Dies ist die Menge der Einheiten, die an einer bestimmten Bitcoin-Adresse verzeichnet ist. Deshalb herrscht Uneinigkeit, ob es den Begriff Bitcoins überhaupt gibt, da keine einzelnen Münzen existieren, sondern nur Mengen von Einheiten an bestimmten Adressen. Da Satoshi Nakamoto selbst den Begriff "bitcoins" nutzte, wird er auch verwendet. Leute wie ich, die auf den Unterschied Wert legen, verwenden Bitcoin für die Ein- und Mehrzahl. Ich spreche auf Deutsch nie von Münzen, weil es irreführend ist.
+Münze ist im Grunde ein irreführender Begriff für das digitale Gut. Technisch gesehen besteht ein Bitcoin aus vielen UTXOs (Unspent Transaction Outputs) - auf Deutsch etwa "nicht ausgegebener Transaktions-Output". Mehrere UTXOs können die gleiche Adresse haben. Adressen sind überhaupt nur eine seltsame Abstraktion, nämlich Hashes von Dingen wie Output-Skripten oder Public Keys. UTXOs sind tatsächlich die Punkte, die Bitcoins enthalten, und die haben verschiedene Eigenschaften, so wie etwa Adressen.
+
+Deshalb herrscht Uneinigkeit, ob es den Begriff Bitcoins überhaupt gibt, da keine einzelnen Münzen existieren, sondern nur Mengen von Einheiten an bestimmten Adressen. Da Satoshi Nakamoto selbst den Begriff "bitcoins" nutzte, wird er auch verwendet. Leute wie ich, die auf den Unterschied Wert legen, verwenden Bitcoin für die Ein- und Mehrzahl. Ich spreche auf Deutsch nie von Münzen, weil es irreführend ist.
 
 Scams wie das betrügerische BitClub-Netzwerk verwendeten die Schreibweise BitCoin und diese falsche Schreibweise wird gelegentlich auch von vielen Anfänger*innen übernommen.
 

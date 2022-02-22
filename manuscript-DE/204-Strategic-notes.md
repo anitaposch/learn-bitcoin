@@ -4,7 +4,7 @@
 
 **Bevor Sie mit dem Kauf von Bitcoin beginnen, lesen Sie bitte diese wichtigen Hinweise**
 
-Dieser Leitfaden befasst sich mit der ersten Bitcoin-Blockchain, die 2009 von Satoshi Nakamoto ins Leben gerufen wurde und an den Börsen unter dem Akronym BTC oder XBT gehandelt wird. Informationen über Bitcoin (BTC) finden Sie unter [https://bitcoin.org](https://bitcoin.org/). Auf [http://bitcoin.com,](http://bitcoin.com/) hingegen gelangen Sie auf die Website von Bitcoin Cash (BCH), einer Abspaltung aus dem Jahr 2017.
+Dieser Leitfaden befasst sich mit der ersten Bitcoin-Blockchain, die 2009 von Satoshi Nakamoto ins Leben gerufen wurde und an den Börsen unter dem Akronym BTC oder XBT gehandelt wird. Informationen über Bitcoin (BTC) finden Sie unter [https://bitcoin.org](https://bitcoin.org/). Auf Bitcoin.com hingegen gelangen Sie auf die Website von Bitcoin Cash (BCH), einer Abspaltung aus dem Jahr 2017.
 
 Seien Sie sich bewusst, dass es viele Abspaltungen des ursprünglichen Bitcoin gibt. Sie tragen Namen wie Bitcoin Cash (BCH), Bitcoin SV (BSV), Bitcoin Gold (BTG), Bitcoin Diamond (BCD) oder Bitcoin 2 (BTC2). Dies sind keine "günstigeren" Bitcoin, sondern unabhängige, eigenstehende Vermögenswerte. Sie verwenden den gleichen Namen wie Bitcoin, um von dessen Bekanntheit zu profitieren, haben aber nicht die gleiche Stärke oder Popularität wie das echte Bitcoin (BTC).
 
