@@ -32,6 +32,7 @@ For iOS and Android
 * [Blockstream Green](https://blockstream.com/green/) (Bitcoin, Liquid)
 * [Hexa wallet](https://hexawallet.io/)
 * If you want to use Bitcoin and micro-payments on the Lightning Network:
+* [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial and Lightning custodial)
 * [Muun Wallet](https://muun.com/)
 * [Breez Wallet](https://breez.technology/)
 * [Electrum](https://electrum.org)

@@ -32,6 +32,7 @@ Für iOS und Android
 * [Blockstream Green](https://blockstream.com/green/) (Bitcoin, Liquid)
 * [Hexa wallet](https://hexawallet.io/)
 * Wenn Sie Bitcoin und Mikro-Zahlungen über das Lightning Network nutzen möchten:
+* [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial und Lightning custodial)
 * [Muun Wallet](https://muun.com/)
 * [Breez Wallet](https://breez.technology/)
 * [Electrum](https://electrum.org)
@@ -40,7 +41,7 @@ Für iOS und Android
 Aufgrund der oben genannten Sicherheitsrisiken verwende ich keine Software-Wallets auf meinem Computer, es sei denn, ich verwende sie in Kombination mit Hardware-Wallets. Hierfür verwende ich Electrum oder die native Software des Hardware-Herstellers.
 
 * [Blockstream Green](https://blockstream.com/green/) (Bitcoin, Liquid)
-* [Blue Wallet](https://bluewallet.io/) (Bitcoin und Lightning)
+* [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial und Lightning custodial)
 * [Electrum](https://electrum.org) (Bitcoin und Lightning, für technisch versiertere Nutzer)
 
 ### Cold Storage
