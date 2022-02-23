@@ -92,6 +92,13 @@ If the amount on the hardware wallet has arrived as confirmed, the first test wa
 If the amount on the hardware wallet has arrived -status "confirmed" - the first test was successful.
 
 ---
+600-Bitcoin-price
+The current price of any commodity in an open market is the average of the prices that people actually agreed and traded on over the past period of time.
+->
+The current price of any commodity in an open market is the recent price that people actually agreed and traded on.
+
+
+---
 700-invest-in-bitcoin
 
 But be careful as some ATM operators charge above average fees.
