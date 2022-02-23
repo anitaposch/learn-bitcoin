@@ -29,20 +29,19 @@ As an alternative, you can use a company called Casa and their industry-leading 
 
 **Mobile Wallets**
 For iOS and Android
-* [Blockstream Green](https://blockstream.com/green/) (Bitcoin, Liquid)
-* [Hexa wallet](https://hexawallet.io/)
+* [Blockstream Green](https://blockstream.com/green/) (Bitcoin non-custodial, Liquid)
+* [Breez Wallet](https://breez.technology/) (Lightning non-custodial)
 * If you want to use Bitcoin and micro-payments on the Lightning Network:
+* [Muun Wallet](https://muun.com/) (Bitcoin and Lightning non-custodial)
 * [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial and Lightning custodial)
-* [Muun Wallet](https://muun.com/)
-* [Breez Wallet](https://breez.technology/)
-* [Electrum](https://electrum.org)
+* [Electrum](https://electrum.org) (Bitcoin and Lightning non-custodial, for more tech-savvy users)
 
 **Desktop Wallets**
 Because of the security risks stated above, I don't use software wallets on my computer, except for when I use them in combination with hardware wallets. For this, I use Electrum or the hardware manufacturer's native software.
 
-* [Blockstream Green](https://blockstream.com/green/) (Bitcoin, Liquid)
+* [Blockstream Green](https://blockstream.com/green/) (Bitcoin non-custodial, Liquid)
 * [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial and Lightning custodial)
-* [Electrum](https://electrum.org) (Bitcoin and Lightning, for more tech-savvy users)
+* [Electrum](https://electrum.org) (Bitcoin and Lightning non-custodial, for more tech-savvy users)
 
 ### Cold Storage
 **Hardware Wallets**

@@ -29,20 +29,19 @@ Als Alternative können Sie die branchenführenden Multisig-Lösungen von Casa n
 
 **Mobile Wallets**
 Für iOS und Android
-* [Blockstream Green](https://blockstream.com/green/) (Bitcoin, Liquid)
-* [Hexa wallet](https://hexawallet.io/)
+* [Blockstream Green](https://blockstream.com/green/) (Bitcoin non-custodial, Liquid)
+* [Breez Wallet](https://breez.technology/) (Lightning non-custodial)
 * Wenn Sie Bitcoin und Mikro-Zahlungen über das Lightning Network nutzen möchten:
+* [Muun Wallet](https://muun.com/) (Bitcoin und Lightning non-custodial)
 * [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial und Lightning custodial)
-* [Muun Wallet](https://muun.com/)
-* [Breez Wallet](https://breez.technology/)
-* [Electrum](https://electrum.org)
+* [Electrum](https://electrum.org) (Bitcoin und Lightning non-custodial, für technisch versiertere Nutzer)
 
 **Desktop-Wallets**
 Aufgrund der oben genannten Sicherheitsrisiken verwende ich keine Software-Wallets auf meinem Computer, es sei denn, ich verwende sie in Kombination mit Hardware-Wallets. Hierfür verwende ich Electrum oder die native Software des Hardware-Herstellers.
 
-* [Blockstream Green](https://blockstream.com/green/) (Bitcoin, Liquid)
+* [Blockstream Green](https://blockstream.com/green/) (Bitcoin non-custodial, Liquid)
 * [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial und Lightning custodial)
-* [Electrum](https://electrum.org) (Bitcoin und Lightning, für technisch versiertere Nutzer)
+* [Electrum](https://electrum.org) (Bitcoin und Lightning non-custodial, für technisch versiertere Nutzer)
 
 ### Cold Storage
 **Hardware-Wallets**

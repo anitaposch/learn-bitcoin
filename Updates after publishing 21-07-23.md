@@ -77,9 +77,25 @@ Cold storage solutions like hardware wallets are not always-online and therefore
 ->
 Cold storage solutions like hardware wallets are never online and therefore are much more secure.
 
+**Changed wallet recommendations!
 
-added **Mobile Wallets**
-* [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial und Lightning custodial)
+### Hot Storage
+
+**Mobile Wallets**
+For iOS and Android
+* [Blockstream Green](https://blockstream.com/green/) (Bitcoin non-custodial, Liquid)
+* [Breez Wallet](https://breez.technology/) (Lightning non-custodial)
+* If you want to use Bitcoin and micro-payments on the Lightning Network:
+* [Muun Wallet](https://muun.com/) (Bitcoin and Lightning non-custodial)
+* [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial and Lightning custodial)
+* [Electrum](https://electrum.org) (Bitcoin and Lightning non-custodial, for more tech-savvy users)
+
+**Desktop Wallets**
+Because of the security risks stated above, I don't use software wallets on my computer, except for when I use them in combination with hardware wallets. For this, I use Electrum or the hardware manufacturer's native software.
+
+* [Blockstream Green](https://blockstream.com/green/) (Bitcoin non-custodial, Liquid)
+* [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial and Lightning custodial)
+* [Electrum](https://electrum.org) (Bitcoin and Lightning non-custodial, for more tech-savvy users)
 
 deleted this paragraph:
 Some hardware wallets (none of the above) use Bluetooth as a connection method. I advise against this because Bluetooth technology is considered relatively unsafe. It is better to connect the hardware wallet with the supplied USB cable.
