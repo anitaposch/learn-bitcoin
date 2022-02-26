@@ -1,7 +1,7 @@
-## How Are Bitcoin Created?
+## Come si creano i bitcoin?
 
-We were talking about protocols and mathematical rules that regulate how Bitcoin works. A set of rules define how bitcoin are created and circulated. These rules can only be changed through a consensus from all parties involved in the Bitcoin network. Individuals, institutions or governments cannot change the Bitcoin rules unilaterally.
+Abbiamo discusso dei protocolli e delle regole matematiche che governano il funzionamento di Bitcoin. Una serie di regole definisce come vengono creati e messi in circolazione i bitcoin. Queste regole possono essere modificate solamente tramite un consenso di maggioranza di tutte le parti coinvolte nella rete di Bitcoin. Individui, istituzioni o governi non possono cambiare le regole di Bitcoin unilateralmente.
 
-In our current monetary system of fiat currencies, the creation of money is in the hands of central bankers. They are steering and controlling the output of banknotes and coins, as well as the amount of credit that commercial banks may lend out, determining the interest rate and thus influencing the value of each unit of money.
+Nel nostro sistema monetario attuale di valute fiat, la creazione di denaro è nelle mani dei banchieri centrali. Loro guidano e controllano il flusso di banconote e monete, oltre che l’ammontare del credito che le banche commerciali possono erogare, determinando i tassi di interesse e pertanto influenzando il valore di ogni singola unità di denaro.
 
-Bitcoin are created in a process called mining in a decentralized manner, out of the hands of people with agenda-driven political power. The term "mining" has been chosen because, similar to the extraction of gold, labor and energy input is required for the creation of bitcoin.
+I bitcoin vengono creati tramite un processo denominato mining, in una modalità decentralizzata lontana dal controllo di persone aventi potere politico con secondi fini. È stato selezionato il termine “mining” poiché, similmente all’estrazione dell’oro, viene richiesto lavoro ed energia per la creazione dei bitcoin.
