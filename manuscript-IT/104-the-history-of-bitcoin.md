@@ -1,50 +1,50 @@
-## The History of Bitcoin
->"The 2007-2008 US financial crisis was the consequence of a loosely regulated banking system in which power was concentrated in the hands of too limited a cast of speculators." [^20]
+## La storia di Bitcoin
+>"La crisi finanziaria americana del 2007-2008 è stata una conseguenza di un sistema bancario regolato in modo lasco nel quale il potere era concentrato nelle mani di un gruppo troppo limitato di speculatori." [^20]
 
->"The 2007-2008 financial crisis that ravaged the global economy was ignited by a rapacious banking system in the United States. In response, herded by the Fed, the central banks of the G7 nations careened down an endless money-manufacturing trail - in broad day light." [^21]
+>"La crisi finanziaria del 2007-2008 che devastò l’economia globale scaturì dall’ avido e predatorio sistema bancario degli Stati Uniti. In risposta, con la guida del FED, le banche centrali delle nazioni del G7 si sono avventate verso un piano di produzione di denaro senza fine – il tutto alla luce del sole." [^21]
 
-On October 31 2008, in the advent of the biggest financial crises the world has ever seen, someone going by the pseudonym Satoshi Nakamoto published a white paper called "Bitcoin: A Peer-to-Peer Electronic Cash System" on the domain bitcoin.org and proposed a new digital form of money.
+Il 31 ottobre 2008, con l’avvento della più grossa crisi finanziaria che il mondo avesse mai visto, qualcuno avente lo pseudonimo Satoshi Nakamoto ha pubblicato un _white paper_ intitolato _"Bitcoin: un sistema di moneta elettronica peer-to-peer"_ presso il dominio bitcoin.org, e propose una nuova forma di denaro digitale.
 
-On Jan 3 2009, the first public block of Bitcoin, the so-called Genesis Block, was mined. Satoshi left a message in it: "Chancellor on brink of second bailout for banks", which was the headline of the daily newspaper, The Times, in the UK on that same day. It's a timestamp that marks the beginning of Bitcoin and shows the intention that it should be an alternative to the current banking and financial system, in which you needed to trust intermediaries when you want to process electronic payments.
+Il 3 gennaio 2009, il primo blocco pubblico di Bitcoin, noto come Blocco Genesi (_Genesis Block_), è stato minato. Satoshi ha lasciato un messaggio al suo interno: "_Il cancelliere sull’orlo del secondo salvataggio delle banche_", che fu il titolo in prima pagina del quotidiano inglese _The Times_ di quello stesso giorno. È una marcatura temporale che segna l’inizio di Bitcoin e mostra un’intenzione di fornire un’alternativa all’attuale sistema bancario e finanziario, per il quale è necessario aver fiducia degli intermediari ogni qualvolta una transazione viene processata.
 
-On June 9 2021, bitcoin became legal tender in El Salvador.
+Il 9 giugno 2021, bitcoin diventa moneta a corso legale ad El Salvador.
 
-Since the 1990s, computer experts, mathematicians and cryptographers - including some women - have been working on concepts of creating digital money. Bitcoin could be created because it was built on the key technologies of its predecessors.
+Sin dagli anni ’90, esperti di computer, matematici e crittografi – donne incluse – hanno sviluppato idee e concept di denaro digitale. È stato possibile creare Bitcoin perché si basò su tecnologie chiave dei suoi predecessori.
 
-### Cryptocurrency Projects Before Bitcoin
-Parts of the following concepts were incorporated into Satoshi Nakamoto's Bitcoin white paper. 
+### Progetti di criptovalute prima di Bitcoin
+Parte di questi concept sono stati integrati da Satoshi Nakamoto nel white paper di bitcoin. 
 
 ![Cryptocurrency projects before Bitcoin](assets/_History-of-Bitcoin.png)[^22]
 
-**Public and Private Key Pairs**
-In 1990 David Chaum was concerned with the public nature and open access to online payments and personal information. He founded "Digicash", a corporation and electronic money of the same name, which used cryptographic protocols as well as private and public keys to anonymize transactions. The use of signatures - public and private key pairs - became essential in the further development of electronic money and Bitcoin.
+**Coppia di chiave pubblica e chiave privata**
+Nel 1990, David Chaum era allarmato dalla natura pubblica e accesso aperto dei pagamenti online e contestuali informazioni personali. Fondò _"Digicash"_, una società privata e un sistema di moneta digitale recante lo stesso nome, il quale impiegava protocolli crittografici così come chiavi private e pubbliche al fine di anonimizzare le transazioni. L’utilizzo di firme digitali – coppie di chiavi pubbliche e private – diventò essenziale per lo sviluppo di ulteriori forme di monete digitali e Bitcoin.
 
 **Proof-of-Work**
-> The pyramids of Egypt are proof of work. They are a manifest of Egyptian culture, wealth and organization.
+> Le piramidi d’Egitto sono un esempio di proof of work, o prova di lavoro. Rappresentano il manifesto della cultura, prosperità ed organizzazione egiziane.
 
-With the advent of the internet and email came the problem of spam. To combat the growing problem of spam, in their 1992 paper "Pricing via Processing or Combatting Junk Mail", Cynthia Dwork and Moni Naor proposed the idea "...to require a user to compute a moderately hard, but not intractable function..." before they are technically able to send out emails. It meant that, if someone wants to send a large number of emails at the same time, the computer would need to solve a mathematical problem. This process takes time and effort and kept the spammers from sending messages in quick succession.
+Con l’avvento di Internet e dell’email, venne il problema dello spam. Per combattere il problema della continua crescita dello spam, nel paper del 1992 intitolato _"Pricing via Processing or Combatting Junk Mail"_, Cynthia Dwork e Moni Naor proposero la loro idea di “…richiedere ad un utente di effettuare la computazione di una funzione moderatamente complessa, ma non inattuabile…” prima che fosse tecnicamente in grado di inviare email. Significava che, se qualcuno avesse voluto inviare numerose email allo stesso momento, il computer avrebbe prima dovuto risolvere un problema matematico. Questo processo impiega tempo e sforzo, e avrebbe scoraggiato lo spammer dall’inviare messaggi in rapida successione.
 
-In 1997 Adam Back proposed a similar idea called "Hashcash". Satoshi Nakamoto implemented Hashcash as the proof-of-work system used in Bitcoin. Adam Back's work is cited in the Bitcoin white paper. Listen to my interview with Adam Back from 2019 where we discuss his idea for Hashcash and the evolution of his work up to Bitcoin. Find it at https://anita.link/12
+Nel 1997 Adam Back propose un’idea similare denominata _"Hashcash"_. Satoshi Nakamoto implementò in Bitcoin il sistema proof-of-work in uso in Hashcash. Il lavoro di Adam Back è citato nel white paper di Bitcoin. Ascolta la mia intervista del 2019 a Adam Back dove discutiamo la sua idea di Hashcash e l’evoluzione delle sue attività fino a Bitcoin. La puoi trovare presso https://anita.link/12
 
-The term "proof-of-work" was first coined and formalized in a 1999 paper by Markus Jakobsson and Ari Juels.
+Il termine _“proof-of-work”_ fu coniato e formalizzato in un paper di Markus Jakobsson e Ari Juels datato 1999.
 
-**Decentralization**
-Hashcash was followed by "B-Money" by Wei Dai in 1998. His concept was the first to be based on a decentralized network of computers. This is baked into Bitcoin's peer-to-peer network with computers running the Bitcoin software as full nodes or miners. Peer-to-peer means a system of equally privileged, equipotent participants without a hierarchy on the network.
+**Decentralizzazione**
+Ad Hashcash seguì _"B-Money"_ by Wei Dai in 1998. di Wei Dai, nel 1998. Il suo concept fu il primo a prevedere una rete decentralizzata di computer. Questo viene integrato nel network peer-to-peer di Bitcoin con computer che eseguono il software Bitcoin in qualità di nodi o _miner_. Peer-to-peer definisce un sistema di partecipanti equipotenti ed ugualmente privilegiati, pertanto privo di alcuna gerarchia nel network.
 
-A short time later, Nick Szabo published a paper on "BitGold", the first digital money system that was able to run without a central entity issuing the money. He is also the first person to present a paper on "Smart Contracts".
+Poco dopo, Nick Szabo pubblicò il paper di _"BitGold"_, il primo sistema di denaro digitale capace di funzionare senza la necessità che un’entità centrale emettesse il denaro. È anche la prima persona a presentare un paper citando il termine _"Smart Contract"_.
 
-### Solving the Double-Spending Problem
-These predecessor money technologies had a major unresolved problem. The "double spending" problem means that already spent digital money could be used a second time. Imagine a PDF file that you can copy, modify and send endlessly at zero cost, claiming that each copy is the original. Such a digital file would be worthless as money.
+### Risolvere il problema della doppia spesa
+Queste precedenti soluzioni tecnologiche di denaro digitale soffrivano di un rilevante problema irrisolto. Il problema della “doppia spesa” significa che una moneta digitale già spesa possa essere utilizzata una seconda volta. Si immagini un file PDF che puoi copiare, modificare ed inoltrare all’infinito a costo zero, dichiarando che ogni copia rappresenta la versione originale. Questo file digitale non avrebbe alcun valore.
 
-Satoshi Nakamoto's ingenious idea was to add a ledger to the system with blocks that contain transactions. These blocks are chained together through "proof-of-work" mining, hence the term blockchain. This chaining of transactions in the correct timely order makes bitcoin unforgeable and immutable.
+L’idea ingegnosa di Satoshi Nakamoto fu quella di aggiungere al sistema un registro a blocchi contenenti i dettagli delle transazioni. Questi blocchi sono collegati sequenzialmente attraverso l’attività di mining e tramite il processo di _"proof-of-work"_, da cui il termine blockchain. Questo concatenamento delle transazioni ordinate temporalmente rende bitcoin immutabile e a prova di falsificazione.
 
-As soon as an actor in the Bitcoin network cheats, the network will detect and ban it temporarily. This means you don't need to trust anyone, there is no need for an intermediary like a bank or PayPal. This doesn't mean that there are no scammers out there or that you can stop verifying what is true or false, or stop learning about how to use Bitcoin. Knowledge is power.
+Non appena un partecipante della rete di Bitcoin tentasse di imbrogliare, il network lo individuerebbe e bandirebbe temporaneamente. Ciò significa che non necessiti di fidarti di nessuno, non vi è necessità di un intermediario quale una banca o PayPal. Questo non significa che non ci siano truffatori o che tu non debba verificare ciò che è vero e falso, oppure che tu debba fermarti dall’imparare come utilizzare Bitcoin. La conoscenza è potere.
 
-Bitcoin's motto is "Don't trust, verify." This was a little bit confusing to me at the beginning. On the one hand, you learn that you don't have to trust an intermediary yet, on the other, you could verify your transactions. What it means is: if you want to verify bitcoin transactions yourself, you can do so. You even should, if you have the technical knowledge to set up your own full node.
+Il motto di Bitcoin è _“Non ﬁdarti, veriﬁca.”_ All’inizio ero un po’ confusa. Da una parte, impari che non necessiti di riporre fiducia verso alcun intermediario. Dall’altra, che puoi verificare le tue transazioni. Il messaggio è il seguente: se vuoi verificare le transazioni in bitcoin in totale autonomia, lo puoi fare. Difatti, se hai le conoscenze tecniche per impostare un tuo nodo pieno, dovresti verificare.
 
-This is revolutionary - as soon as you start to verify your own bitcoin transactions, you essentially become a bank. This is what banks do - they verify your transactions in their ledgers. However, you need to trust them to do a good job. That might be working very well in developed countries, but the banking experience is much worse for most parts of the world. Now imagine you do not have a reliable banking situation or an ID, but you do have a mobile phone and access to the internet. There is only one option for you to store and use money. It's either mobile money like M-Pesa or EcoCash in Africa or cryptocurrencies, where you do not need to identify yourself.
+Tutto ciò è rivoluzionario – nel momento in cui inizi a verificare le tue transazioni in bitcoin, essenzialmente diventi una banca. Questo è ciò che fanno le banche – verificano le tue transazioni nel loro registro. Tuttavia, devi riporre in loro la fiducia che eseguano un buon lavoro. Questo può funzionare egregiamente nei Paesi sviluppati, ma l’esperienza bancaria è ben peggiore per la maggior parte del mondo. Ora, immagina di non avere una situazione bancaria affidabile oppure un documento identificativo, tuttavia possiedi un telefono cellulare con accesso a Internet. C’è solo un’opzione per conservare ed utilizzare i tuoi soldi. È una soluzione di denaro virtuale via cellulare come M-Pesa o EcoCash in Africa, oppure le criptovalute, per le quali peraltro non è necessaria alcuna identificazione.
 
-All people worldwide with an internet-enabled mobile phone have access to Bitcoin. The banks as we know them are not required for the use of Bitcoin. You don't have to ask anyone for permission to own or use Bitcoin. All you need to get started is a smartphone, an internet connection and a bitcoin wallet app.
+Tutte le persone nel mondo con un cellulare e Internet hanno accesso a Bitcoin. Le banche, come le conosciamo, non sono necessarie per usare Bitcoin. Non devi chiedere il permesso a nessuno per possedere o utilizzare Bitcoin. Tutto ciò di cui hai bisogno per incominciare è uno smartphone, una connessione Internet e un wallet per bitcoin.
 
 [^20]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 1.  
 [^21]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 247.  
