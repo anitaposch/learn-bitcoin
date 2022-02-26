@@ -1,107 +1,107 @@
-## Arguments Against Bitcoin
+## Argomenti contro Bitcoin
 
-### Volatility
+### Volatilità
 
-_Bitcoin is volatile, you cannot use it as a medium of exchange._
+_Bitcoin è volatile, non puoi usarlo come mezzo di scambio._
 
-Yes, bitcoin price is volatile, it can lose or gain a lot of value in a single day. If you want to pay for something in bitcoin, you can still do so. Just exchange the same amount you have spent from fiat back to bitcoin on the same day. No volatility, no loss or gain.
+Certamente, il prezzo di bitcoin è volatile, può perdere o guadagnare un sacco di valore in un singolo giorno. Se volessi pagare qualcosa in bitcoin, saresti comunque in grado di poterlo fare. Basta cambiare l’ammontare che hai appena speso da fiat in bitcoin, lo stesso giorno. Nessuna volatilità, nessun guadagno o perdita.
 
-### Price Development
-_Bitcoin is not a store of value due to its price changes._
+### Andamento del prezzo
+_Bitcoin non è un bene rifugio a causa della variazione del proprio prezzo._
 
-View bitcoin as a long term investment, it has been the best performing store of value of all asset classes over the last decade. 
+Guarda a bitcoin come un investimento a lungo termine, tra tutti gli asset class è risultato il bene rifugio dalla migliore performance nel corso della scorsa decade. 
 
 ![Bitcoin the best asset over the 10 years prior 2021](assets/_best-asset-10years.png) [^27]
 
-There is of course no guarantee that this performance will continue forever.
+Ovviamente, non vi sono garanzie che questa prestazione continuerà all’infinito.
 
-At the time of writing bitcoin was in a bull run, which started in the last quarter of 2020. This means that the price appreciated for a period of weeks and months with little setbacks in between. In May 2021 a significant drop occurred, which many interpreted as a healthy setback in an overheated market. The last bull run started in 2017 and ended at the beginning of 2018. Since then the price has moved relatively sideways - as it is called in traders terms - meaning that no particular large up or downwards movement in price. 
+Al momento in cui scrivo, bitcoin si trova in un _bull run_ (mercato con tendenza al rialzo), iniziata nell’ultimo trimestre del 2020. Ciò significa che si è apprezzato per un periodo di settimane e mesi con minori battute d'arresto nel mezzo. Nel maggio 2021 è avvenuto un crollo, da molti interpretato come un arresto positivo nell’ambito di un surriscaldamento del mercato. Il precedente bull run iniziò nel 2017 e si concluse agli inizi del 2018. Da allora, il prezzo ha assunto una tendenza relativamente laterale - _sideway_, utilizzando il termine finanziario – che va a significare che non si sono manifestati rilevanti movimenti di prezzo, sia in positivo che in negativo. 
 
 ![Bitcoin price development](assets/_Bitcoin-price.png)[^28]
 
-Bitcoin price development is following the halving cycles. Approximately every 4 years the amount of minted bitcoin is reduced by 50%. This means that the growth of available bitcoin on the market is shrinking. Even if the demand for bitcoin only remains at the same level, the price will increase. 
+L’andamento del prezzo di bitcoin segue i cicli di halving. Approssimativamente ogni 4 anni l’ammontare di bitcoin generati viene ridotto del 50%. Ciò significa che la crescita di bitcoin disponibili sul mercato si sta riducendo. Anche se la domanda di bitcoin rimanesse al medesimo livello, il prezzo è destinato ad aumentare. 
 
-### Digital Scarcity
-The total bitcoin supply is limited to 21 million, 18.7 million of which are already on the market. Every four years (exactly 210,000 blocks), the amount of bitcoin that is minted is reduced by half. Currently, the mining process generates 6.25 bitcoin every 10 minutes, which is 900 bitcoin per day and 328,500 per year. From 2024, there will only be 450 bitcoin minted per day, as only 3.125 bitcoin will be issued for each block generated. This means that the amount available every day decreases and supply becomes scarcer. If interest increases at the same time, the price rises exponentially.
+### Scarsità digitale
+La fornitura totale di bitcoin è limitata a 21 milioni, di cui 18.7 milioni sono già sul mercato. Ogni quattro anni (esattamente ogni 210,000 blocchi), l’ammontare di nuovi bitcoin coniati è ridotto della metà. Attualmente, il processo di mining genera 6.25 bitcoin ogni 10 minuti, ossia 900 bitcoin al giorno e 328,500 per anno. Dal 2024 verranno coniati solamente 450 bitcoin al giorno, dato che per ogni blocco generato verranno emessi solamente 3.125 bitcoin. Ciò significa che l’ammontare disponibile diminuisce ogni giorno e la fornitura è sempre più scarsa. Qualora l’interesse aumentasse, anche il prezzo aumenterà esponenzialmente.
 
-As of May 2021, around 36 million USD (number of daily minted bitcoin * price) must flow into the Bitcoin market every day to keep the current price of 40,000 USD stable. Whenever the price drops, fewer bitcoin were exchanged than were available on that day and vice versa.
+A maggio 2021, circa 36 milioni di dollari americani (il numero di bitcoin coniati giornalmente * prezzo) deve fluire nel mercato di Bitcoin ogni giorno al fine della stabilizzazione del prezzo attuale di 40,000 USD. Ogni qualvolta il prezzo crolla, meno bitcoin vengono scambiati rispetto alla disponibilità di tale giorno, e viceversa.
 
-The dates of these halvings are annotated in the chart below. The price follows similar patterns before and after each halving. In this chart, the top of bitcoin is predicted to be in September 2021, after which the price is expected to fall again as you can see on the "Low" marked grid lines. Of course, this is just a prediction based on a few historic events and numbers. We cannot take this as a given occurrence in the future. 
+Le date degli halving sono annotate nel grafico sottostante. Il prezzo segue una traiettoria simile a prima e dopo ogni halving. In questo grafico il picco massimo di bitcoin è previsto per settembre 2021, e ci si aspetta che in seguito il prezzo crolli nuovamente da come puoi vedere nella sezione della griglia contrassegnata con “Low”. Chiaramente questa è solamente una previsione basata su alcuni eventi storici e numeri. Non possiamo accertarci che questo evento accada effettivamente in futuro. 
 
 ![Halving price cycles](assets/_Halving-Price-cycles-by-Pladizow.png) [^29]
 
-Since Bitcoin's launch in 2009, there have been several price crashes. Be prepared that this will happen again. The question is how low will it go because on a logarithmic scale you can see that, over time, bitcoin has only gained value in the long term.
+Dal lancio di Bitcoin nel 2009, ci sono stati diversi crolli dei prezzi. Preparati, perché ciò accadrà nuovamente. La domanda è quanto in basso si andrà, perché in una scala logaritmica potrai vedere che, col tempo e nel lungo termine, il prezzo di bitcoin si è solamente apprezzato.
 
 ![Bitcoin price logarithmic scale](assets/_Bitcoin-price-log.png)  [^30]
 
->Don't try to outsmart the market, don't trade. Just hold your bitcoin. At least for five years. 
+>Non tentare di vincere il mercato, non fare trading. Conserva semplicemente il tuo bitcoin. Per almeno cinque anni. 
 
-In the case of a bear market, when the price of bitcoin inevitably goes down, you will lose value in fiat money terms. However, your stack of bitcoin remains the same. If you hold 0.3 bitcoin in a bull market, you hold 0.3 bitcoin in a bear market too. Your losses are in your perception only, depending on what currency or asset you compare your bitcoin to on a given day. Be patient, wait, don't sell - history indicates that long-term holding is a sure way of protecting your value.
+Nel caso di un mercato ribassista (_bear run_), quando il prezzo di bitcoin inevitabilmente diminuirà, perderai valore in termini di valuta fiat. Tuttavia, la tua riserva di bitcoin rimarrà inalterata. Se mantieni 0.3 bitcoin in un mercato rialzista, continuerai ad avere 0.3 bitcoin anche in un mercato ribassista. Le perdite sono soltanto una tua percezione, e dipendono esclusivamente da quale valuta o asset compari il tuo bitcoin in un dato giorno. Sii paziente, attendi, non vendere – la storia ha suggerito che una posizione a lungo termine è un metodo sicuro per proteggere valore.
 
->Only put as much money into bitcoin as you are willing to lose. If you can't sleep in times of depreciation, then you might hold too much of a risky asset like bitcoin.
+>Investi in bitcoin solamente un ammontare che sei disposto a perdere. Se non riesci a dormire serenamente in tempi di deprezzamento, dunque stai detenendo un asset troppo rischioso quale il bitcoin.
 
-### No Recourse
+### Nessun ricorso
   
-_If you send bitcoin to the wrong address, they are lost. You can't get them back._
+_Se invii bitcoin all’indirizzo sbagliato, sono perduti per sempre. Non puoi più riappropriartene._
 
-Triple-check the address before you send bitcoin. You can't reverse a payment. As with fiat money, if you buy something at an online store and return the product, it's the store's business responsibility to handle the bitcoin and send it back to you. However, a simple mistyping of an address should result in an error rather than lost funds, as addresses include integrity checks.
+Fai un triplo controllo dell’indirizzo ricevente prima di inviare bitcoin. Non puoi stornare un pagamento. Come con le valute fiat, se acquisti qualcosa tramite un negozio online e restituisci il prodotto, è responsabilità dell’esercizio commerciale gestire la restituzione del bitcoin. Tuttavia, una semplice svista di battitura dell’indirizzo potrebbe risultare in un errore oppure in fondi irrecuperabili, dato che gli indirizzi includono dei controlli d’integrità.
 
-### No Safety Net
+### Nessuna rete di sicurezza	
 
-_In developed regions of the world, bank account deposits (in Europe up to 100,000 euro) are insured. This is not the case with bitcoin._
+_Nelle regioni sviluppate del mondo, i depositi in banca sono assicurati (fino a 100,000 euro in Europa). Non è questo il caso con bitcoin._
 
-That's correct. If you self-custody your bitcoin, then you are solely responsible. There is no insurance. But be aware that, in case of a big financial crisis, these fiat insurances might not be able to pay you back anyhow. During the financial crisis in Cyprus in 2013, 47.5% of all bank deposits above 100,000 euro were seized. If you self-custody - nobody can seize your bitcoin.
+Esattamente. Se tu auto custodisci i tuoi bitcoin, dunque sei l’unica persona responsabile. Non c’è assicurazione. Ma sii consapevole che in caso di una crisi finanziaria le assicurazioni per le valute fiat potrebbero comunque non essere in grado di pagarti. Durante la crisi finanziaria di Cipro del 2013, il 47.5% di tutti i depositi bancari sopra i 100,000 euro sono stati sequestrati. Con l’auto custodia – nessuno potrà sequestrare i tuoi bitcoin.
 
-If we open our eyes and think of the rest of the world, where 2 billion people are unbanked and 80% of the world's population live in authoritarian states, the case for an uncensorable money such as bitcoin, where you are in control and not a bank, makes logical sense again. In those countries, where people have no safety net at all, the Bitcoin network can give security. 
+Se apriamo gli occhi e pensiamo alla parte restante del mondo, dove 2 miliardi di persone sono non bancarizzabili e l’80% della popolazione mondiale vive in regimi autoritari, il caso di una moneta non censurabile come bitcoin - che tu controlli, non la banca - continua ad avere un senso logico. In tali Paesi, dove la popolazione non ha assolutamente nessuna rete di sicurezza, il network di Bitcoin può fornire protezione. 
 
-###  I Can't Afford to Invest
-_I can't buy one bitcoin, it's too expensive._
+###  Non posso permettermi di investire
+_Non posso acquistare un bitcoin, è troppo caro._
 
-That's ok, you don't have to. There is no minimum budget you need to use bitcoin. A bitcoin is divisible into extremely small units, much smaller than a cent. You can buy a fraction of a bitcoin and start to play around with 20 USD or less.
+È tutto ok, non devi farlo. Non c’è un budget minimo per utilizzare bitcoin. Un bitcoin è divisibile in unità estremamente piccole, ancor più piccole di un centesimo. Puoi comprare una frazione di bitcoin ed iniziare a giocarci con soli 20 dollari americani o meno.
 
-You can also earn bitcoin, but more about that in chapter 9 "Earn Bitcoin".
+Puoi anche guadagnare bitcoin, ma ne discuteremo nel capitolo 9 “Guadagnare Bitcoin".
 
-### Bitcoin Will Fail Like the First Internet Companies
+### Bitcoin fallirà come le prime società di Internet
 
-_Bitcoin is a new technology. It is the first of its kind. When we compare this with the first computer companies in the 1980s or the internet platforms of the dot com boom, almost none survived. Bitcoin was the first blockchain on the market, it might go the same route._
+_Bitcoin è una nuova tecnologia. È la prima del suo genere. Quando la compariamo con le prime società di computer degli anni ’80 o le piattaforme Internet dell’era della bolla delle dot-com, quasi nessuna è sopravvissuta. Bitcoin è stata la prima blockchain nel mercato, probabilmente seguirà la medesima rotta_
     
-Bitcoin has been the world's most widely used cryptocurrency since it originated in 2009. I agree, there are no assurances that it will continue that way. The market dominance of Bitcoin was over 80% until 2017. Meaning that, of all the thousands of cryptocurrencies on the market, over 80% of all investments were held in Bitcoin. This changed in 2017-18 when there was a "war" between different ideas around how Bitcoin as a technology should go forward. The block-size debate ended with a hard-fork, where the Bitcoin blockchain split into two forks: Bitcoin (BTC) and Bitcoin Cash (BCH). At that time, other crypto projects like Ethereum gained importance. Four years later, BCH has steadily declined into insignificance compared to BTC. Bitcoin held its dominance with over 60% until the current bull run, where it dropped to 40% by the time of writing. A bull run results in more mainstream attention, which leads to many uninformed media articles and, when certain billionaires add rumors and speculation to the mix, Altcoins are lifted into focus. 
+Bitcoin è stata la criptovaluta maggiormente usata a livello globale sin dalle sue origini nel 2009. Condivido il pensiero che non c’è garanzia che continuerà ad essere così. La posizione dominante di Bitcoin nel mercato si assestava ad oltre l’80% fino al 2017. Ciò significa che delle migliaia di criptovalute disponibili nel mercato, più dell’80% di tutti gli investimenti erano mantenuti in Bitcoin. Questo è cambiato nel 2017-18 quando si originò una “guerra” ideologica in merito a come la tecnologia Bitcoin avrebbe dovuto procedere da lì in futuro. Il dibattito sulla dimensione del blocco si concluse con un hard fork per il quale la blockchain di Bitcoin si scisse in due: Bitcoin (BTC) e Bitcoin Cash (BCH). Allora, altri progetti cripto come Ethereum guadagnarono terreno. Quattro anni dopo, BCH volse costantemente verso l’oblio se comparato con BTC. Bitcoin mantenne la propria posizione dominante con oltre il 60% fino all’attuale mercato rialzista, quando crollò al 40% al momento in cui scrivo. Un mercato tendente al rialzo produce maggiore attenzione nel mainstream ed innesca la formulazione di articoli disinformati da parte dei media, e quando si aggiungono nel calderone certi miliardari ad alimentare pettegolezzo e speculazione, le attenzioni si concentrano sulle altcoin. 
 
 ![Percentage of total market capitalization](assets/_Market-dominance.png) [^31]
 
-The resurgence of Bitcoin's dominance after the critical time of the hard-fork in 2017 was a sign of strength for many experts like macro-economist Lyn Alden and US investor Michael Saylor, which led them to believe in the future potential of Bitcoin as the winner-takes-all cryptocurrency. And even if there were technological innovations in Altcoins that would propel them in front of Bitcoin, there is no doubt that the Bitcoin developers would implement them too.
+La rinascita della posizione dominante di Bitcoin a seguito del periodo di crisi dell’hard fork del 2017 è stata un segnale di forza per molti esperti quali la macroeconomista Lyn Alden e l’investitore americano Michael Saylor, i quali sono stati portati a credere nel potenziale di Bitcoin come la criptovaluta dominante. E nonostante tutte le innovazioni tecnologiche portate dalle altcoin, le quali avrebbero potuto strappare il primato a Bitcoin, non vi è dubbio che gli sviluppatori di Bitcoin faranno in modo di implementarle a loro volta.
 
-### Bitcoin Has Failed
+### Bitcoin ha fallito
 
-_There are only a few Bitcoin users. After 12 years of existence, many more people should use Bitcoin. Bitcoin has failed._
+_Gli utenti di Bitcoin sono pochi. Dopo 12 anni da quando esiste, molte più persone avrebbero dovuto essere coinvolte nell’uso di Bitcoin. Bitcoin ha fallito._
 
-Since the use of Bitcoin is, in principle, not tied to identities, it is not statistically possible to know how many people really use Bitcoin. Also, the number of Bitcoin addresses gives us no idea how many people use it. One person can have millions of addresses, or in the case of bitcoin on centralized exchanges, thousands of people can be managed by one large custodial address only.
+Considerato che per principio l’uso di Bitcoin non è associato all’identità di una persona, non è possibile capire statisticamente quante persone realmente usino Bitcoin. Inoltre, il numero di indirizzi Bitcoin non ci fornisce idee certe su quante persone lo utilizzino. Una persona può avere milioni di indirizzi, o nel caso di bitcoin negli exchange centralizzati, migliaia di persone sono gestite da un singolo indirizzo di custodia collettiva.
 
-Those centralized exchanges have to verify your identity before you are allowed to change fiat into bitcoin. The following statistic shows that over 101 million people around the world have an account at such an exchange. The people who managed to get some bitcoin in the early days, or operate outside the bounds of centralized exchanges go unaccounted for.
+Questi exchange centralizzati devono verificare la tua identità prima che tu sia in grado di cambiare fiat per bitcoin. Le statistiche del grafico seguente dimostrano che oltre 101 milioni di persone nel mondo hanno un conto presso tali exchange. Le persone che ottennero qualche bitcoin durante i primissimi tempi, o coloro i quali operano al di là delle borse di scambio centralizzate, non sono inclusi.
 
 ![Number of identity-verified crypto asset users in millions](assets/_number-users-2020.png) [^32]
 
-Around 1.3% of the world's population had an account at a cryptocurrency exchange at the end of 2020, a growth of nearly 190% between 2018 and 2020. Still, one could argue that this is not much. However, for a completely new asset class and money that originated as a grassroots movement without a company or marketing behind it, Bitcoin has developed itself to the point where it is widely known, discussed and used by over at least 100 million people worldwide.
+Alla fine del 2020, circa l’1.3% della popolazione mondiale ha avuto un conto presso un exchange di criptovalute, un aumento di quasi il 190% tra il 2018 e il 2020. Si potrebbe obiettare che questo non sia molto. Tuttavia, per un asset class completamente nuovo e una moneta originata da un movimento dal basso senza il supporto di una società o di qualsivoglia attività di marketing, Bitcoin si è sviluppato da sé al punto che è ampiamente conosciuto, discusso e utilizzato globalmente da almeno oltre 100 milioni di persone.
 
 ![Respondents who said they used or owned cryptocurrencies 2020](assets/_users_around-world.png) [^33]
 
-This is the result of a survey in selected countries showing that 32% of the Nigerian population has used or owns cryptocurrency. Keep in mind, the Nigerian population is on average 19 years old, compared to the US figure of 38 and Germany's median age of 44 years. They are young, want to work, are tech-savvy and value cryptocurrencies, despite their volatility because their own national currency Naira is losing 25% of its value per year.
+Questo è il risultato di un sondaggio condotto in Paesi selezionati, che dimostra che il 32% della popolazione nigeriana ha utilizzato criptovalute. Si tenga in mente che l’età media della popolazione nigeriana è di 19 anni, comparata con i 38 degli Stati Uniti e i 44 della Germania. Sono giovani, laboriosi, esperti di tecnologia e, nonostante la volatilità, apprezzano le criptovalute in quanto la loro valuta nazionale, la Naira, perde annualmente il 25% del proprio valore.
 
-Want to know more about Bitcoin in Nigeria, open your browser and go to: anita.link/88, anita.link/66 and anita.link/63
+Vuoi saperne di più circa il Bitcoin in Nigeria? Apri il browser e naviga su: anita.link/88, anita.link/66 and anita.link/63
 
-### Bitcoin's Transaction Limit
-_The Bitcoin network is only capable of processing seven transactions per second. That is not enough to maintain a global payment network. If all people were using Bitcoin, the network would be overburdened._
+### Il limite delle transazioni di Bitcoin
+_La rete di Bitcoin è capace di processare solamente sette transazioni al secondo. Non è sufficiente a mantenere una rete di pagamenti globale. Se tutte le persone usassero Bitcoin, il network si sovraccaricherebbe._
 
-The Lightning Network has been in development since the beginning of 2018. This is a protocol that is located one level above the Bitcoin blockchain. The Lightning Network is expected to handle thousands of micro-payments per second in a few years and has already shown a good degree of success for instant cross-continent payments. The Bitcoin blockchain will be used as the base settlement layer for large transactions, while small payments for a coffee, for instance, will take place on the Lightning Network. As the user, you do not need to know how this works. Most of us do not know how Netflix or sending an email works and yet we do it every day.
+Il Lightning Network è in fase di sviluppo sin dagli inizi del 2018. Questo è un protocollo che è localizzato un livello sopra la blockchain di Bitcoin. Si stima che tra qualche anno il Lightning Network gestirà migliaia di micropagamenti al secondo e ha già dimostrato un buon grado di successo per pagamenti intercontinentali istantanei. La blockchain di Bitcoin sarà utilizzata come il livello base delle riconciliazioni delle transazioni aventi un certo volume, mentre ad esempio i piccoli pagamenti per il caffè avranno luogo nel Lightning Network. Come utente, non hai bisogno di conoscere come tutto questo funziona. La maggioranza di noi non sa come Netflix o inviare un’email funzionino, eppure fruiamo di questi servizi quotidianamente.
 
-### Mining Pool Concentration
-A mining pool is a structure that "pools" together computational resources provided by connected hashers (pool contributors) to increase the likelihood of finding a new block, which results in more bitcoin reward pay-outs.
+### Concentrazione delle mining pool
+Un mining pool è un tipo di struttura che “raccoglie” assieme risorse computazionali fornite dagli hasher connessi (denominati _“pool contributors”_), al fine di aumentare le probabilità di individuazione di nuovi blocchi che risultano in maggiori ricompense e pagamenti in bitcoin.
 
-While it is true that mining pools can become concentrated in specific areas or jurisdictions, like in China before their authoritarian government outlawed Bitcoin mining in June 2021, they still have less influence than you may first think. Firstly, mining pools consist of thousands of individual miners. Just because a mining pool is located in China does not mean that the individual miner has to be located in China. Hashers want to ensure that the pool they contribute to is engaging in behavior that is aligned to the Bitcoin philosophy. In an event of disagreement, miners are free to switch pools. In 2013, the Bitcoin mining pool GHash.io reached more than 50% of the total Bitcoin hashrate for a short period, which prompted hashers to proactively point their hashpower to other pools in order to avoid potentially harmful concentration. The low cost of switching pools acts as a system of checks and balances on the self-regulating behavior of miners. [^^33a]
+Se è vero che le mining pool possano concentrarsi in aree specifiche circoscritte o in particolari giurisdizioni, come in Cina prima che il governo autoritario a giugno 2021 rendesse il mining di Bitcoin fuorilegge, queste hanno meno influenza di quanto uno possa credere. In primis, le mining pool consistono di migliaia di miner individuali. Il solo fatto che una mining pool sia localizzata in Cina non significa che il miner individuale debba risiedere in Cina. Gli hasher desiderano che la pool nella quale stanno contribuendo adotti un comportamento in linea con la filosofia di Bitcoin. Nell’evento di una disputa, i miner sono libero di cambiare pool. Per un breve periodo nel 2013, la mining pool GHash.io raggiunse più del 50% della potenza di elaborazione totale di Bitcoin, il che portò i partecipanti a reindirizzare proattivamente il loro hashrate verso altre pool onde evitare concentrazioni potenzialmente deleterie. Il basso costo per cambiare pool agisce come un sistema di autoregolazione del comportamento dei miner. [^^33a]
 
 ![Global Overview of Bitcoin Mining Regions. Regions With Large Relevant Regions Shown in Teal, Sichuan in Blue and Remaining Minor Regions in Black](assets/_mining-locations.png) [^34]
 
-The 2017 hard-fork split between Bitcoin and Bitcoin Cash is a second example of how Bitcoin is self-regulating. Miners and big exchanges wanted to increase the block size of each Bitcoin block to achieve a higher transaction output per block. The community of node operators and Bitcoin users did not want to change the block size because people with lower bandwidth would have been disadvantaged. Instead, they opted for 2nd layer solutions like the Lightning Network to address this problem. This resulted in the "Blocksize war", where miners and big companies tried to force the changes upon the network. This resulted in a hard-fork: Bitcoin split into Bitcoin and Bitcoin Cash. Four years later, Bitcoin Cash is almost forgotten, while Bitcoin is the largest cryptocurrency. It shows that miners do not have more power than other users.
+L’hard fork del 2017 tra bitcoin e Bitcoin Cash è un secondo esempio di come Bitcoin si autoregoli. Miner e grandi exchange volevano aumentare le dimensioni del blocco di Bitcoin affinché i blocchi ospitassero un numero maggiore di transazioni. La comunità degli operatori dei nodi e gli utenti di Bitcoin non erano intenzionati affatto a modificare la dimensione del blocco perché le persone con bassa banda Internet ne sarebbero state svantaggiate. In risposta al problema, hanno optato per soluzioni di secondo livello quale il Lightning Network. Ciò portò alla cosiddetta _“Blocksize war”_, la guerra della dimensione del blocco, in cui miner e grosse società tentarono di forzare i cambiamenti nella rete. Ciò comportò anche un hard fork: Bitcoin si scisse in Bitcoin e Bitcoin Cash. Quattro anni più tardi, Bitcoin Cash è quasi caduto nel dimenticatoio, mentre Bitcoin è la criptovaluta più grande. Dimostra che i miner non hanno più potere degli altri utenti.
 
 [^27]: [Source Charlie Bilello](https://twitter.com/charliebilello/status/1370722188739891202/photo/1)  
 [^28]: [Source CoinGecko](https://www.coingecko.com/en/coins/bitcoin/usd), June 7, 2021  
