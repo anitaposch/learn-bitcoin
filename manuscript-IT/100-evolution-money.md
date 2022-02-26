@@ -1,215 +1,215 @@
-# The Evolution of Money
+# L’evoluzione del denaro
 
-On January 3, 2009, Bitcoin was born. Since its creation, the Bitcoin P2P network Internet Protocol (IP) has attached new blocks of data to a chain of transactions approximately every 10 minutes. The Bitcoin blockchain stores transactions in the correct chronological order which cannot be altered afterwards, as fixed as time itself. Just as our heartbeat preserves our bodies, this process is preserved by a system that draws its foundations from cryptography, game theory, IT, and decentralized networks that keep itself in balance.
+Bitcoin è nato il 3 gennaio 2009. Sin dalla sua creazione, l’Internet Protocol (IP) P2P di Bitcoin ha collegato nuovi blocchi di dati nell’ambito di una catena di transazioni approssimativamente ogni 10 minuti. La blockchain di Bitcoin registra le transazioni secondo un ordine cronologico che non è possibile alterare a posteriori, proprio come il tempo in sé e per sé. Come il battito cardiaco mantiene in vita il nostro corpo, il processo è preservato da un sistema che deriva i propri fondamenti dalla crittografia, teoria dei giochi, informatica e reti decentralizzate che lo mantiene in equilibrio.
 
-This self-regulating system has the following characteristics:
+Questo sistema auto-regolato possiede le seguenti caratteristiche:
 
--   Bitcoin transactions are censorship resistant.
--   Bitcoin is immutable.
--   Bitcoin cannot be counterfeited.
--   Bitcoin transactions are highly secure without intermediaries, like a bank.
--   Bitcoin transactions are transparent, publicly visible and can be audited by anybody.
+-   Le transazioni in Bitcoin sono resistenti alla censura.
+-   Bitcoin è immutabile.
+-   Bitcoin non può essere contraffatto.
+-   Le transazioni in Bitcoin sono altamente sicure senza la necessità di alcun intermediario, come ad esempio una banca.
+-   Le transazioni in Bitcoin sono trasparenti, pubblicamente consultabili e possono essere verificate da tutti.
 
-![A PayPal payment vs. Bitcoin](assets/_paypal-bitcoin-intermediaries.PNG) [^1]
-In a traditional payment there are up to seven intermediaries until the payment reaches the recipient. Bitcoin has none.
+![Un pagamento con PayPal in confronto a Bitcoin](assets/_paypal-bitcoin-intermediaries.PNG) [^1]
+In una transazione di pagamento tradizionale vi sono circa sette passaggi intermedi prima che il pagamento raggiunga il destinatario. Bitcoin non ne ha nessuno.
 
--   Bitcoin is a neutral network: it does not moralize or distinguish between "good" and "bad" payments.
--   Bitcoin is permissionless: there are no gatekeepers that can prevent its use.
--   Bitcoin is borderless: it can be used worldwide.
--   Bitcoin, the Internet Protocol, is a common good: it belongs to everybody, not a single entity such as a company.
--   The rules of Bitcoin are enforced by the programmatically secure consensus of all parties involved.
+-   Bitcoin è una rete neutrale: non giudica e non distingue tra pagamenti “buoni” e pagamenti “cattivi”.
+-   Bitcoin è permissionless: non vi sono sorveglianti che possano impedirne l’uso.
+-   Bitcoin è senza confini: può essere utilizzato globalmente.
+-   L’Internet Protocol di Bitcoin è un bene comune: appartiene a tutti quanti, non a una singola entità come ad esempio un’azienda privata.
+-   Le regole di Bitcoin vengono applicate dal consenso programmaticamente sicuro di tutte le parti coinvolte.
 
-Bitcoin is people's money. Bitcoin is the evolution of money. It is a continuation of the perpetual process of discovering new money that has always been a part of the history of mankind. Over the millennia, various new forms of money have been found and used, from a direct exchange between people to a credit system in a gold standard, to fiat currency to today's current non-backed inflationary system. The banking and monetary system as we know it today has existed and evolved for about 300 years. It is only natural that, with the emergence of a new form of communication via the internet, a new form of economy and a new type of money, namely internet-native money, should arise.
+Bitcoin è il denaro della gente. Bitcoin è l’evoluzione del denaro. È una continuazione dell’instancabile processo di scoperta di nuove forme di denaro che è sempre stata parte della storia dell’umanità. Nel corso dei millenni, varie nuove forme di denaro sono state scoperte e utilizzate, dallo scambio di beni tra persone a un sistema di credito basato sul sistema aureo, alla valuta fiat fino a giungere all’attuale sistema inflazionistico non coperto da riserve. I sistemi bancari e monetari come li conosciamo oggi sono esistiti e si sono evoluti per circa 300 anni. È un processo naturale che, col sorgere di nuove forme di comunicazione via Internet, emergano una nuova forma di economia e una nuova tipologia di denaro nativa di Internet.  
 
-![History of money](assets/_money-history.png) [^2]
+![Storia del denaro](assets/_money-history.png) [^2]
 
-Programmable cryptographic money or the "Internet of Money" - as Andreas M. Antonopoulos puts it - is unstoppable. We are at the beginning of a new era in the history of mankind. 
+Il denaro crittograficamente programmabile o l’”Internet of Money” – come definito da Andreas M. Antonopoulos – è inarrestabile. Siamo agli inizi di una nuova era nella storia dell’umanità.   
 
-## Rai Stones of Yap
-If Bitcoin sounds mind-boggling and you can't grasp the concept of a blockchain as a shared ledger of truth, the Rai of the Isle of Yap is a good example to introduce some overlapping concepts.
+## Pietre Rai di Yap
+Se Bitcoin può sembrare complesso e non si è in grado di afferrare il concetto di blockchain come un libro mastro condiviso della verità, le pietre Rai delle isole di Yap sono un buon esempio per l’introduzione di alcuni concetti rassomiglianti.  
 
-Rai are large stone disks used on Yap island in the Western Pacific (Micronesia). They were "minted" from the limestone deposits of the island of Palau and used as a currency until the 20th century. 
+Le pietre Rai sono dei grossi dischi di pietra utilizzati nelle isole di Yap, situate nell’Oceano Pacifico Occidentale (Micronesia). Sono ricavate dai depositi calcarei estratte dalle rocce delle isole di Palau, e sono state utilizzate come moneta fino al XX secolo.
 
-![Rai stones with carrying logs, 1903](assets/_Stone_Money_of_Uap_1903_Jayne,_String_Figures_p160.jpg) [^3] 
+![Pietre Rai con palo per il trasporto, 1903](assets/_Stone_Money_of_Uap_1903_Jayne,_String_Figures_p160.jpg) [^3] 
 
-Rai stones were brought to Yap via boat and, due to their size and weight, were not moved when spent, but simply changed owners. Every transaction was "recorded" orally within the small community, with the stone's ownership history becoming common knowledge. Eventually, the transaction "history"/"ledger" became the only part that mattered. A stone was once dropped by the canoe transferring it to Yap and sank. The stone was deemed to still be money, since it still existed, even though no one has seen or had access to it since. 
+Le pietre Rai sono state trasportate a Yap tramite imbarcazioni e, quando venivano spese, a causa delle dimensioni e del peso rilevanti non venivano spostate, bensì veniva semplicemente cambiato il proprietario. Ogni transazione veniva “registrata” oralmente, rendendo la proprietà della pietra di dominio pubblico e tramandata alla comunità. Lo “storico”/”mastrino” della transazione divenne l’unica parte che conta. In passato, una pietra cadde dalla zattera mentre veniva trasportata alla volta di Yap, ed affondò. La pietra venne in ogni caso ritenuta utilizzabile come denaro, in quanto esistente seppur nessuno potesse vederla o ne avesse accesso.   
 
-This is particularly important because it demonstrates a naturally occurring use of a ledger of transactions. The ledger was shared orally between the inhabitants and attributed ownership and delegated property without a single stone moving; everyone agreed on it and a consensus was formed. This is how we can make a comparison to the functions of the Bitcoin blockchain; it is a shared ledger of all transactions, stored simultaneously on thousands of computers (nodes) globally. [^4]
+Questo dettaglio è di particolare importanza in quanto dimostra un utilizzo del tutto naturale di una transazione contabile. Il mastrino era condiviso e tramandato oralmente tra gli abitanti, e la proprietà attribuita e delegata senza che alcuna pietra si muovesse: tutti erano concordi, e si formava consenso. È in questo modo che possiamo effettuare una comparazione con le proprietà della blockchain di Bitcoin; è un libro mastro condiviso di tutte le transazioni, conservato simultaneamente e globalmente presso migliaia di computer denominati nodi (_“nodes”_ in inglese). [^4]
 
-Another similarity to Bitcoin is the actually creation of Rai stone, which was work intense and a form of proof-of-work. The stones were carved out with hand tools, quarried overseas and brought to the island via canoe. Once the Rai stones became easy to manufacture with modern techniques, they became less useful as money, because they were no longer a reliable indicator of energy spent.
+Un’ulteriore somiglianza con Bitcoin è la creazione delle pietre Rai, che necessitava di lavoro intensivo alla stregua del sistema di _proof-of-work_. Le pietre venivano ricavate tramite l’impiego di utensili e lavoro manuale, estratte presso località oltremare, e trasportate nell’isola tramite l’impiego di zattere. Quando le tecniche moderne resero facile la produzione delle pietre Rai, queste divennero meno utili come moneta, in quanto non rappresentavano più un indicatore affidabile dell’energia impiegata.
 
-Rai stones have been viewed by modern economists as a primitive form of money, and are often used as an example to support the thesis that the value of some forms of money can be assigned purely through a shared belief in said value.[^5] Today's money is not backed by anything either. In fact, it is only established and declared legal tender by government regulation. Because of that, it is the medium of account we use and therefore is perceived as valuable.
+Le pietre Rai sono considerate dagli economisti moderni come una forma primitiva di denaro, e sono spesso utilizzate come un esempio a supporto della tesi che il valore di alcune forme di denaro può essere assegnato esclusivamente sulla base di un sistema di credenze condiviso in tale valore.[^5] Il denaro di oggi non è coperto da alcuna riserva. Difatti, è solamente stato stabilito e dichiarato moneta a corso legale tramite un regolatorio governativo. Per questo motivo è il mezzo e l’unità di conto che utilizziamo e che dunque viene percepito come avente valore.  
 
 
-## How Money Is Created
+## Come è stato creato il denaro
 
->"The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust."- Satoshi Nakamoto
+>"Bisogna aver fiducia che la banca centrale non svilisca la valuta, ma la storia delle monete fiat è piena zeppa di violazioni di tale fiducia." - Satoshi Nakamoto
 
-Learning about Bitcoin was an eye-opener for me. There are two distinct periods of my life, one before Bitcoin and one after Bitcoin. I see things completely differently today. In my goal to understand Bitcoin, I first had to understand the current monetary system. What are the differences between currency systems like the USD or Euro and Bitcoin? What is inflation? What role are central banks playing, and so on? It's puzzling that we do not learn these concepts in school, but this specific lack of education may, unfortunately, be intentional.
+Imparare Bitcoin è stata una rivelazione per me. Ci sono due distinti periodi nella mia vita, una prima di Bitcoin e una dopo Bitcoin. Oggi vedo le cose in maniera completamente differentemente. Nell’obiettivo di capire bitcoin, in primis ho dovuto comprendere il sistema monetario corrente. Quali sono le differenze tra sistemi monetari come il dollaro statunitense (USD) o l’euro (EUR) e Bitcoin? Cos’è l’inflazione? Che ruolo giocano le banche centrali, ecc.? È sconcertante che le scuole non insegnino questi concetti, ma questa specifica mancanza di istruzione potrebbe sfortunatamente essere intenzionale.
 
-180 currencies are used in 195 countries around the world. A currency is a system of money in common use, defined by governments. Many jurisdictions define their national currency as legal tender; it is money declared by law to be valid for the payment of debts that cannot be refused as a method of payment.
+180 valute sono utilizzate in 195 Paesi nel mondo. Una valuta è un sistema di denaro di uso comune, stabilito dai governi. Molte giurisdizioni definiscono la propria valuta nazionale come moneta a corso legale; è denaro legittimato come valido per il pagamento del debito e che non può essere rifiutato come mezzo di pagamento.
 
-All 180 currencies – the US Dollar, the Euro, the Yen and the Pound Sterling, for example – can be defined as being within a category called ‘fiat money’. Since 1971, none of these fiat currencies has been backed by gold or by any other tangible asset. Money has value because we believe in it. Money is a language to express how valuable something is, socially. The word fiat stems from Latin and means "let it be done". Current money is created through an entry in a digital ledger and is just a number in an accounting system. There is no creation of real-world productivity behind it.
+Tutte le 180 valute – il dollaro, l’euro, lo yen e la sterlina inglese, ad esempio – possono essere ascritte all’interno di una categoria denominata “valute _fiat_”. Dal 1971, nessuna di questa valuta fiat è coperta da riserve auree o altro asset tangibile. Il denaro ha valore perché ci crediamo. Il denaro è un linguaggio che permette di esprimere socialmente il valore delle cose. La parola fiat deriva dal latino e significa “_e così sia_”. Il denaro corrente viene creato tramite la registrazione in un mastrino digitale, ed è solamente un numero nell’ambito di un sistema contabile. Non v’è generazione di produttività nel mondo reale.
 
-Who is in charge of the creation of money? It’s a mix of governments and central banks, together with commercial banks. It’s a centralized, hierarchical system with gatekeepers. There is no agreement on a supply limit or emission rate.
+Chi è incaricato alla creazione del denaro? È un mix di governi e banche centrali, in concerto con le banche commerciali. È un sistema centralizzato e gerarchico con sorveglianti. Non esiste alcun accordo sul limite di fornitura o sul tasso di emissione.
 
-Fiat is "money by decree"; it's coercively managed through the state's implicit threat of violence. Value is being maintained by the creation of an endless tax liability that you can only satisfy with fiat money and by state-administered security markets, as well as legal tender laws and tax policy.
+La moneta fiat è _“moneta per decreto“_; è amministrata e gestita in modo coercitivo attraverso l’implicita minaccia di violenza da parte dello Stato. Il valore viene mantenuto dalla creazione di una passività fiscale infinita che puoi soddisfare solamente tramite l’impiego di valute fiat e dai mercati azionari amministrati dallo stato, nonché da leggi che definiscono la moneta a corso legale e la politica fiscale.
 
-* Money is created by central banks in the form of paper money and coins. 
-* Central banks buy assets and bonds from the open market, money flows into the system. 
-* Money is created through government stimulus, through benefits, grants and bail outs. 
-* Money is created by commercial banks through loans.
+* Il denaro è creato dalle banche centrali sottoforma di banconote e monete.
+* Le banche centrali comprano asset e obbligazioni dal mercato aperto, i fondi confluiscono nel sistema.
+*	Il denaro è creato attraverso stimoli governativi, tramite benefit, sovvenzioni ed operazioni di salvataggio.
+* Il denaro è creato dalle banche commerciali tramite le operazioni di prestito.
 
-### Money Is Created Through Debt
-The last point is one we all know. It is how we take out a loan to buy a house, start a business or buy a car. The process is easy, but only for those who are already privileged. If you cannot put forward some security as collateral, you are a small business owner, you do not have a regular fixed income job, or you are a woman in a country where women are still forbidden to own any property, then you will probably not qualify for credit at your bank. If you do get the loan, the bank edits its digital ledger and adds the credit sum to its account. You then owe them the loan plus the rate of interest. You must now go out and work or sell something in order to be able to pay back the loan plus the interest rate. It's a great deal for the banks. They add nothing, but earn the fees for your loan agreement and the interest on your payback.
+### Il denaro è stato creato dal debito
+Tutti conosciamo l’ultimo punto. È il processo per il quale accendiamo un prestito per acquistare un immobile, iniziare un’impresa o comprare un’automobile. La procedura è semplice, ma solamente per coloro i quali godono già di un privilegio. Se non sei in grado di fornire una garanzia collaterale, sei un piccolo imprenditore, non hai un lavoro con un salario fisso, oppure sei una donna in un Paese alle quali è proibito possedere una proprietà, dunque probabilmente non ti qualifichi per l’ottenimento di una linea di credito dalla banca. Se riceverai il prestito, la banca modificherà il suo mastrino digitale e aggiungerà la somma del credito nel suo prospetto contabile. Tu dovrai restituire l’ammontare del prestito più il tasso di interesse. Dovrai ora lavorare o vendere qualcosa in modo da poter essere in grado di ripagare il prestito più il tasso di interesse. È un ottimo affare per le banche. Non aggiungono nulla, ma guadagnano gli importi legati al tuo contratto di prestito e gli interessi quando li ripagherai.  
 
-On top of that, there is something called fractional-reserve banking. This allows banks to lend out more money than they hold in reserves or as balances in their account at the central bank. The minimum amount that banks must hold in liquid assets, called the "reserve ratio", is determined by the central bank. This rate varies from country to country. In the Euro area, banks have to hold a minimum of 1% at the time of writing. In March 2020 the FED abolished this minimum reserve requirement due to the COVID-19 pandemic. Canada, the UK, New Zealand, Australia, Sweden and Hong Kong all have no reserve requirements. If each of us were to go to the bank today and request to withdraw our money, the banking system would fall apart. Because the banks have lent out more money than they own, they would be unable to give you back your own money. 
+In aggiunta, c’è uno strumento denominato riserva frazionaria. Questo meccanismo consente alle banche di prestare più denaro di quanto ne abbiano in riserva o di quanto ne abbiano in giacenza nel proprio conto presso la banca centrale. L’ammontare minimo che le banche devono mantenere sotto forma di asset liquidabili, denominato “coefficiente di riserva”, è determinato dalla banca centrale. La percentuale varia da Paese a Paese. Nella eurozona, al momento in cui scrivo, la riserva obbligatoria è di minimo l’1%. A marzo 2020, il FED (il Federal Reserve System, la banca centrale degli Stati Uniti d’America) ha abolito questo requisito minimo a causa della pandemia del COVID-19. Il Canada, gli UK, la Nuova Zelanda, l’Australia, la Svezia e Hong Kong non hanno alcun requisito minimo in merito alla riserva. Se tutti noi oggi ci recassimo presso le nostre banche e richiedessimo di prelevare i nostri depositi, il sistema bancario collasserebbe. Poiché le banche hanno prestato più denaro di quanto ne possiedono, sarebbero impossibilitate a restituirti i tuoi soldi.  
 
-In 2020 global debt rose by an incredible 24 trillion to 281 trillion USD, or 355% of global GDP. [^6]
+Nel 2020 il debito pubblico è aumentato da 24 trilioni ad un incredibile ammontare di 281 trilioni USD, o il 355% del PIL globale. [^6]
 
-![Debt-to-GDP ratios](assets/_Debt-to-GDP-ratio-2020.jpg)
+![Rapporto debito/PIL](assets/_Debt-to-GDP-ratio-2020.jpg)
 
-### Central Banks as Lenders of Last Resort
-Commercial banks can and have called for the help of the central bank as lenders of last resort. In 2008/2009 the banks, who were responsible for the global financial crisis, received their bail-out money. They were rescued because they were "too big to fail". And what did they do with the money? They bought back shares in their own companies. Nothing "trickled down" down into the economy. The gap between rich and poor inevitably became bigger and bigger.
+### Le banche centrali come prestatori di ultima istanza  
+Le banche commerciali hanno facoltà di richiedere assistenza alla banca centrale come prestatori di ultima istanza, e hanno esercitato questo diritto. Nel 2008/2009 le banche responsabili della crisi finanziaria globale hanno potuto beneficiare di piani di salvataggio. Sono state salvate perché erano considerate _“too big to fail”_ (troppo grandi per fallire). E cosa ne hanno fatto del denaro ricevuto? Hanno riacquistato azioni delle loro società. Niente è stato riversato nell’economia. Il divario tra ricchi e poveri si è inevitabilmente allargato.
 
-Central banks are called lenders of last resort. The objective is to prevent economic disruption as a result of financial panics, and bank runs spreading from one bank to the next due to a lack of liquidity. Financial actors like banks know that the central banks will have to bail them out, which leads to moral hazard - excessive risk-taking by both bankers and investors.
+Le banche centrali sono chiamate prestatori di ultima istanza. L’obiettivo è di prevenire destabilizzazioni economiche come risultato del panico bancario, e corse agli sportelli da banca in banca causate dalla mancanza di liquidità. Attori della finanza quali le banche sanno che le banche centrali saranno in grado di salvarle, il che conduce a un rischio morale – l’assunzione di comportamenti eccessivamente rischiosi da parte di banchieri ed investitori.
 
-The creation of artificial money through central banks overshadowed the distortion in the market. Because of the flooding and manipulation of the monetary system with cheap money, there is no rational price finding mechanism anymore. Usually, supply and demand determine the value of goods and commodities but, in a distorted and manipulated market, there is no room for fair price discovery. The global middle class is paying for the financial elites' greed which, in turn, is being fed by a corrupted system of money creation.
+La creazione di denaro artificiale tramite le banche centrali hanno oscurato le distorsioni del mercato. A causa delle manipolazioni e dell’inondazione del sistema monetario di denaro a buon mercato, non v’è più un razionale meccanismo di determinazione del prezzo. Normalmente, domanda e offerta determinano il valore di beni e servizi ma, in un mercato distorto e manipolato, non c’è possibilità di un processo di determinazione del prezzo veritiero. La classe media globale sta pagando per l’avidità dell’élite finanziaria che, a sua volta, è alimentata dal sistema corrotto di creazione del denaro.
 
-Have you, as an individual, ever been bailed out? And if you have, would you do the same thing over and over again, rigging the system knowing that there is a last resort, which will always bail you out? This is exactly what banks, Wall Street, Hedge Funds and their lobbying lawyers do constantly, assisted by central banks all over the world.
+Sei mai stato soggetto ad un piano di salvataggio? E in caso positivo, faresti la stessa cosa più e più volte, manipolando il sistema sapendo che ci sarà sempre un’ultima risorsa che ti salverà sempre? Questo è esattamente ciò che le banche, Wall Street, fondi speculativi e i loro legali fanno costantemente, assistiti dalle banche centrali ovunque nel mondo.
 
-"Classically, central banks hold reserves in case of emergencies, set interest rates, and allocate funds to stimulate or slow economies after disruptive events like panics or wars. The more recent role they have assumed is one of securing the entire financial system and influencing the economic trajectory of entire sovereign nations. This is the antithesis of democratic rule. Such a monetary oligarchy operates beyond democratic norms and limits." [^7]
+“Normalmente, le banche centrali mantengono delle riserve in caso di emergenza, fissano dei tassi di interesse, e allocano fondi per stimolare o rallentare le economie a seguito di eventi destabilizzanti come guerre o panico bancario. Un ruolo assunto più recentemente è quello di assicurare l’intero sistema finanziario e influenzare la traiettoria economica di intere nazioni sovrane. Questa è l’antitesi della democrazia. Questa oligarchia monetaria opera oltre le norme e i limiti democratici." [^7]
 
-Naomi Prins' book tapped into the psyche of Wall Street, revealing how the very structure of the financial system hinged on traders flocking to the next big bet, regardless of the stakes. In addition, the _same_ people and families kept popping up, cycling through Wall Street and Washington. They influenced the economy beneath them from their loftier heights of status, private money and public office, dismantling laws that stood in their way and finding loopholes through others. Private banks normalized market manipulation. Central banks made it an art form, with no limits." [^8] 
+Il libro di Nomi Prins ha attinto alla psiche di Wall Street, rivelando come la struttura stessa del sistema finanziario è fortemente dipendente dai trader pronti ad accalcarsi verso la prossima grande scommessa, incuranti della posta in gioco. In aggiunta, le _stesse_ persone e famiglie continuano ad apparire, comparendo tra Wall Street e Washington. Hanno influenzato l’economia sotto di loro dall’alto del loro status, grazie al denaro privato e alle cariche pubbliche, smantellando leggi che li ostacolavano e trovando escamotage tramite l'individuazione di scappatoie. Le banche private hanno normalizzato la manipolazione del mercato. Le banche centrali ne hanno fatto un’arte, senza alcun freno." [^8] 
 
-### Money Supply Inflation
+### Inflazione della massa monetaria
 
-Let's take the US Dollar as an example for all fiat currencies. Because of money supply inflation, the more USD are available, the less value a single note has. Imagine a banknote as a commodity like copper. If there is more copper on the market than there is demand, the price of copper is falling; its value is decreasing. The same is true for your banknote. The value of fiat currencies is determined by supply and demand too. If you increase the supply and the demand stays the same, the value of one unit decreases. 
+Prendiamo il dollaro americano come esempio tra le monete fiat. A causa dell’inflazione della massa monetaria, maggiore è la disponibilità di USD, minore è il valore di ogni singola banconota. Immagina una banconota come fosse una commodity, come il rame. Se nel mercato ci fosse più disponibilità di rame di quanto sia la domanda, dunque il prezzo del rame crollerà; il suo valore decresce. Il medesimo meccanismo è vero per la tua banconota. Anche il valore delle valute fiat è determinato dal rapporto tra domanda ed offerta. Se aumenti la disponibilità ma la domanda rimane la stessa, il valore di una singola unità diminuirà. 
 
-The money supply consists of various types of money that are generally classified as Ms, such as M0 (base money), M1, M2 and M3. The definitions might vary slightly in different countries. 
+L’offerta di moneta consiste di vari tipi di aggregati monetari classificati con la lettera “M”, come M0 (base monetaria), M1, M2 e M3. Le definizioni potrebbero leggermente variare da paese a paese. 
 
-The monetary base (M0) is the total amount of a currency in physical paper and coin that is either in circulation in the hands of the public or in the form of commercial bank deposits held in the central bank's reserves. [^9] 
+La base monetaria (M0) è l’ammontare totale di una valuta nella propria forma fisica di banconote e monete metalliche che sono in libera circolazione nelle mani del pubblico oppure sottoforma di depositi che le banche commerciali mantengono presso le riserve della banca centrale. [^9] 
 
-As long as you hold cash, it is an asset like bitcoin, a property that you own. If you take your cash and store it at the bank, you have a claim, but don't own the money anymore. Similar to bitcoin at an exchange.
+Fintanto che mantieni contante, è un asset come bitcoin, ossia una proprietà che possiedi. Se hai contanti ma li depositi presso una banca, ottieni un credito ma non possiedi più tale denaro. Similmente con bitcoin presso un exchange, la borsa di scambio.
 
-Any other fiat money supply (M1, M2, M3) is comprised of claims on base money. [^10]
+Gli altri aggregatori monetari (M1, M2, M3) si basano su crediti verso la base monetaria. [^10]
 
-M1 includes M0, demand deposits, traveler’s checks, and other checkable deposits, that are easily convertible to cash.
+M1 include M0, la moneta scritturale, i traveller’s cheque e altre attività finanziare facilmente convertibili in denaro contante.
 
-M2 includes M0, M1, money market securities, mutual funds and other time deposits. These assets are less liquid than M1 and not as suitable as exchange mediums, but they can be quickly converted into cash or checking deposits. M2 is closely watched as an indicator of money supply and future inflation, and as a target for central bank monetary policy.
+M2 comprende M0, M1, titoli del mercato monetario, fondi comuni di investimento ed altri depositi vincolati. Questi asset finanziari sono meno liquidi rispetto all’M1, e seppur siano meno adatti come mezzo di pagamento, tuttavia possono essere convertiti velocemente in denaro contante o depositi bancari. L’aggregato M2 viene analizzato con attenzione in quanto indicatore della massa monetaria e della inflazione futura, oltre che essere espressione degli obiettivi della politica monetaria di una banca centrale.
 
-The amount of M2 currency in circulation in the US was **19.7 trillion USD** in February 2021. [^11] Look at the growth in 2020.
+L’ammontare di liquidità secondaria M2 in circolazione negli Stati Uniti d’America ammontava a **19.7 trilioni di USD** nel febbraio 2021. [^11] Si noti la crescita nel 2020.
 
-![M2 Money Stock Growth USA, 2021 ](assets/_M2-money-stock-US-2021.png)
+![Crescita della liquidità secondaria M2 negli USA, 2021](assets/_M2-money-stock-US-2021.png)
 
-"We accept this as normal because we assume it will never end. The fractional reserve banking system has functioned around the world for hundreds of years (first gold-backed, and then totally fiat-based), albeit with occasional inflationary events along the way to partially reset things.
+"Accettiamo tutto questo come fosse normale in quanto presumiamo che non avrà mai fine. Il meccanismo di riserva frazionaria del sistema bancario ha funzionato in tutto il mondo per centinaia di anni (in primis il sistema aureo, e successivamente il denaro fiat), seppur con occasionali eventi inflazionari lungo la strada che hanno parzialmente risistemato le cose.
 
-Each individual unit of fiat currency has degraded about 99% in value or more over a multi-decade timeline. This means that investors either need to earn a rate of interest that exceeds the real inflation rate (which is not currently happening), or they need to buy investments instead, which inflates the value of stocks and real estate compared to their cash flows and pushes up the prices of scarce objects like fine art." [^12]
+Ogni singola unità di valuta fiat si è svalutata di circa il 99% o più nel corso dei decenni. Questo va a significare che gli investitori necessitano di guadagnare un tasso di interesse che eccede il tasso di inflazione reale (e ciò non sta attualmente accadendo), oppure necessitano di effettuare investimenti, che gonfiano il valore dell’azione e della proprietà immobiliare rispetto ai propri flussi di cassa, e fa salire i prezzi di oggetti rari come le opere d’arte." [^12]
 
-Adding to money supply inflation is the fact that the population in the US and other western nations is not growing at the same rate as the money supply. "US population used to grow at maybe 1.5% per year, and now grows closer to 0.5% per year. That's pretty important. Meanwhile, broad money supply is up 25% year over year, and is on track to be up 75%+ over a rolling 5-year period in the future." [^13]
+Un ulteriore fattore dell’inflazione della massa monetaria è il dato del tasso di crescita della popolazione USA e delle nazioni occidentali, il quale non sale proporzionalmente all’offerta di moneta. “La popolazione americana cresceva di circa 1.5% annualmente, ora cresce ad un ammontare che rasenta lo 0.5% per anno. Ciò è molto importante. Contemporaneamente, la massa monetaria è salita del 25% anno dopo anno, ed è sulla buona strada per essere 75%+ in un periodo di 5 anni nel futuro." [^13]
 
-Strictly speaking, inflation occurs when the money supply outstrips nominal GDP growth, which consists of population and productivity growth. The Consumer Price Index of the USA shows that the prices for goods went up since the value of money has declined.
-![Consumer Price Index US 2020](assets/_Consumer-Price-index-US-2021.png) [^14]
+Strettamente parlando, l’inflazione avviene quando la massa monetaria supera la crescita del PIL nominale, che include popolazione e crescita della produttività. L’indice dei prezzi al consumo USA dimostra che i prezzi dei beni è salito al declinare del valore della moneta.
+![Indice dei prezzi al consumo USA 2020](assets/_Consumer-Price-index-US-2021.png) [^14]
 
-### Ponzi Scheme
+### Schema Ponzi	
 
-> Ponzi scheme: "A form of fraud in which belief in the success of a fictive enterprise is fostered by payment of quick returns to first investors from money invested by others." - **Oxford English Dictionary**
+> Schema Ponzi: “Una tipologia di truffa in cui la fede nel successo di un'impresa fittizia è incoraggiata dal pagamento di ritorni rapidi ai primi investitori utilizzando il denaro investito dai successivi." - **Oxford English Dictionary**
 
-Bitcoin enemies call it a Ponzi scheme. I say, they either do not understand Bitcoin or what the real Ponzi system is, or they have a vested interest in Bitcoin not succeeding. Charles Ponzi was arrested in the US in 1920 for taking $20 million dollars from tens of thousands of victims. His promise was to double their money within three months. In return for cash, investors received promissory notes that guaranteed the original investment plus 50 percent interest. These notes bore Ponzi's ink-stamped signature. Many referred to them as "Ponzi notes".
+I nemici di Bitcoin lo ritengono uno schema Ponzi. Io ritengo che o non comprendono Bitcoin o non capiscono quale sia il reale schema Ponzi, oppure hanno un interesse affinché Bitcoin non abbia successo. Charles Ponzi fu arrestato negli Stati Uniti nel 1920 per aver ottenuto 20 milioni di dollari da decine di migliaia di vittime. Prometteva di duplicare i loro risparmi in tre mesi. In cambio di denaro contante, gli investitori ricevevano una cambiale che garantiva la restituzione originaria dell’investimento più il 50% di interesse maturato. Queste cambiali recavano la firma con timbro ad inchiostro del Ponzi.  Molti si riferivano a queste cambiali come le “cambiali Ponzi".
 
-> "My business was simple. It was the old game of robbing Peter to pay Paul. You would give me one hundred dollars and I would give you a note to pay you one-hundred-and-fifty dollars in three months…My notes became more valuable than American money…Then came trouble. The whole thing was broken." - **Charles Ponzi**
+> "Il mio business era semplice. Si trattava del vecchio giochetto di rubare Peter per pagare Paul. Mi avresti consegnato cento dollari e io ti avrei dato una cambiale a garanzia di un pagamento di cento-cinquanta dollari entro tre mesi… Le mie cambiali acquisirono maggior valore del denaro americano… Ma poi iniziarono i problemi. L’intero sistema collassò." - **Charles Ponzi**
 
-If you want to know more, [listen to my podcast episode about the life and story of Italian-born Charles Ponzi](https://anita.link/ponzi). You can find it at https://anita.link/ponzi.
+Qualora volessi approfondire, [ascolta l’episodio del mio podcast sulla vita e storia dell’italiano Charles Ponzi](https://anita.link/ponzi). Lo puoi trovare all’indirizzo https://anita.link/ponzi.
 
-**Characteristics of a Ponzi Scheme**
+**Caratteristiche di uno schema Ponzi**
 
-* A Ponzi scheme has a centralized actor, leader or organization that collects investments and runs off in the end. 
-* Ponzi schemes are not auditable or transparent. Nobody except the creator knows what happens to the funds. 
-* A Ponzi scheme issues money until it breaks - there is no supply limit. 
-* Difficulty in repaying investors: the more money that flows into the scheme, the more money has to be paid back, and the more difficult it gets for the creator to stop the machine. 
-* The system has to break one day, there is no way out.
-* The scammers earn money for lending out funds with no real contribution to the economic performance of a country.
-* Greed is driving the Ponzi scheme. Retail investors who get in early, earn interest and tell others, who also want to get rich quick.
+* Lo schema Ponzi ha un attore, leader o organizzatore centralizzato che colleziona investimenti e, alla fine, fugge. 
+* Gli schemi Ponzi non sono revisionabili contabilmente né trasparenti. Nessuno tranne l’ideatore è a conoscenza di cosa accade ai fondi.
+* Lo schema Ponzi emette pagamenti fino a quando il meccanismo si spezza – non c’è limite nella fornitura.
+* Difficoltà nel ripagare gli investitori: maggiore è il volume di denaro che fluisce all’interno dello schema, maggiore è il denaro che dovrà essere restituito, e maggiore sarà la difficoltà per l’ideatore di fermare il meccanismo. 
+* Il sistema dovrà necessariamente spezzarsi – non c’è via di scampo.
+* Il truffatore ricava del denaro prestando fondi privi di reale contributo sulla performance economica di un Paese.
+* L’avidità è il fattore principale di uno schema Ponzi. Gli investitori al dettaglio che per primi vi partecipano, guadagnano interessi e lo riferiscono ad altri, che a loro volta desiderano arricchirsi velocemente.
 
-Let's compare these characteristics to today's system of money creation.
+Compariamo ora queste caratteristiche col sistema attuale di creazione del denaro.
 
-**Characteristics of Fiat Money Creation**
+**Caratteristiche della creazione della moneta fiat**
 
-* Centralized actors like governments, central banks and commercial banks create money.
-* The monetary system is not auditable or transparent.
-* There is no money supply limit.
-* Difficulty in repaying investors: due to the fractional-reserve banking system, if only 20% of a banks customers where to request a payout at the same time the bank gets into trouble and will say "no" to your withdrawal. This happens regularly around the world and happened to some US banks in early 2020 during the pandemic shutdown.
-* The system has to break one day, there is no way out.
-* Banks earn money for lending out funds with no real contribution to the economic performance of a country.
-* Greed is driving the fiat system. Financial elites receive cheap loans because they own securities to buy more securities and grow their wealth and power.
+* Attori centralizzati come governi, banche centrali e banche commerciali creano denaro.
+* Il sistema monetario non è revisionabile contabilmente né trasparente.
+* Non vi è limite dell'offerta monetaria.
+* Difficoltà nel ripagare gli investitori: a causa del meccanismo della riserva frazionaria, se solamente il 20% dei clienti di una banca richiedesse di prelevare tutti i propri risparmi allo stesso momento, la banca si troverebbe in un grosso guaio e non acconsentirebbe all’operazione. Questo accade frequentemente in tutto il mondo, ed accadde ad alcune banche americane agli inizi del 2020 durante il confinamento pandemico.
+* Il sistema dovrà necessariamente collassare – non c’è via di scampo.
+* Le banche ricavano del denaro prestando fondi privi di reale contributo sulla performance economica di un Paese.
+* L’avidità è il fattore principale del sistema fiat. Le élite finanziarie ricevono prestiti a tassi agevolati perché possiedono valori mobiliari per acquistare ulteriori valori mobiliari ed aumentare la propria ricchezza e potere.
 
-### The Real Ponzi Scheme
+### Il reale schema Ponzi
 
-* The only similarity between Bitcoin and a Ponzi scheme is the network effect of greed. But unlike a Ponzi, you can hold the keys to your bitcoin yourself. There is no bank or centralized actor controlling your bitcoin.
+* L’unica similitudine tra Bitcoin e uno schema Ponzi è l’economia di rete alimentata dall’avidità. Ma differentemente da uno schema Ponzi, tu sei in grado di detenere personalmente le chiavi di accesso ai tuoi bitcoin. Non vi è alcuna banca o attore centralizzato che controlla i tuoi bitcoin.
 
-* Bitcoin has a limited supply. Only 21 million will ever be created. Bitcoin is finite, fiat currency is infinite. There can be no money supply based inflation in Bitcoin.
+* Bitcoin ha una fornitura limitata. Ne saranno creati solamente 21 milioni. Bitcoin è limitato mentre una valuta fiat è infinita. Non vi sarà alcuna inflazione della massa monetaria in Bitcoin.
 
-* Bitcoin's issuance is predetermined by an algorithm that all actors in Bitcoin have agreed upon and secure via operating nodes. It can not be altered without the consent of the global Bitcoin community. Since the 21 million bitcoin limit is one of the most important features of Bitcoin, an agreement for changing it will be very hard or even impossible to achieve.
+* L’emissione di bitcoin è predeterminata da un algoritmo che tutti i partecipanti in Bitcoin hanno concordato e difeso tramite l’impiego di nodi. Non può essere alterata senza il consenso della comunità Bitcoin globale. Considerato che il limite di emissione di 21 milioni di bitcoin è una tra le caratteristiche più importanti di Bitcoin, un accordo volto a mutarlo sarà molto difficile da ottenere, se non impossibile.
 
-* Central bankers are determining the financial fate of all countries around the world. They are not elected, but they act as governments trying to control the entire financial market. 
+* I banchieri delle banche centrali determinano il destino finanziario dei Paesi in tutto il mondo. Non sono eletti ma agiscono come i governi, e tentano di controllare l’intero mercato finanziario. 
 
-* The Cantillon effect was described by Irish-French economist Richard Cantillon around 1730. He suggested that inflation occurs gradually and that the new supply of money created by the banks has a localised effect on inflation, rewarding the bankers and close actors by artificially creating money, benefiting those closest to the origin of money. 
+* L’effetto Cantillon è stato descritto dall’economista franco-irlandese Richard Cantillon attorno il 1730. Suggerì che l’inflazione avviene gradualmente e che la nuova fornitura di denaro creata dalle banche ha un effetto localizzato sull’inflazione, ricompensando i banchieri e attori a loro vicini creando artificialmente denaro, avvantaggiando coloro i quali siano più prossimi all’origine del denaro. 
 
-> "The Fed's crisis and post-crisis monetary policies, adopted by other major central banks, was supposed to "trickle down" to the masses. That didn't happen. The global elites knew this then, and they are more aware of it now. In January 2017, the World Economic Forum admitted that rising inequality threatens the world economy. These colluders provoke inequality because it benefits them and the preservation of their global power hierarchies to the detriment of everything and everyone else." - **Nomi Prins** [^15]
+> "La crisi del FED (Federal Reserve System americano) e le politiche monetarie post-crisi, adottate dalle maggiori banche centrali, si supponevano dover ‘sgocciolare’ alle masse in ragione della teoria del "_trickle-down_". Ciò non accadde. L’élite globale ne era a conoscenza allora, e ne è ancor più consapevole adesso. Nel gennaio 2017, il World Economic Forum ha ammesso che l’aumento della disuguaglianza avrebbe minacciato l’economia mondiale. Sono questi collusi a provocare la disuguaglianza, perché traggono un beneficio per sé e per la preservazione delle gerarchie di potere globale, a discapito di tutto e tutti." - **Nomi Prins** [^15]
 
 
-### The End of This Kind of Growth
+### La fine di questo tipo di crescita
 
-Wealth inequality has been rising in the last few centuries along with the commodification and monetization of natural resources. Nothing is left to be consumed. We are living through a fight for resources, for equal opportunities against the establishment and elites enriching themselves through corruption and financial advantages.
+La disuguaglianza economica è in aumento negli ultimi secoli, assieme alla mercificazione e monetizzazione delle risorse naturali. Nulla è rimasto ancora da consumare. Stiamo vivendo una lotta per le risorse, per pari opportunità contro l’establishment e l’élite che si arricchiscono tramite corruzione e vantaggi finanziari.
 
-"Another by-product of the financial crisis and central bank collusion was the rise in economic anxiety that spawned a swing towards nationalism, from Brazil to Great Britain to the United States. The shock of Brexit in the United Kingdom reverberated around the world as voters turned away from the incumbent leadership and its failed economic policies. In the United States, the election victory of Donald Trump, the billionaire 'antiestablishment' president, was another manifestation of this trend. These landmark votes were not caused by central banking policy directly but were the effects." [^16]
+"Un ulteriore derivato della crisi finanziaria e della collusione della banca centrale fu l’aumento dell’ansietà economica che contribuì alla generazione di sentimenti nazionalistici, dal Brasile alla Gran Bretagna, fino agli Stati Uniti. Lo shock della Brexit del Regno Unito riecheggiò intorno al mondo quando gli elettori si allontanarono dalla leadership in carica e dalle loro politiche economiche fallimentari. Negli Stati Uniti, la vittoria di Donald Trump, il presidente milionario ‘antiestablishment’ rappresentò un’ulteriore manifestazione del trend. Questa storica votazione non fu una causa diretta delle politiche della banca centrale ma ne fu un effetto." [^16]
 
-The growing divide between rich and poor is based on our current monetary system, which is the real Ponzi scheme. Central bankers are not democratically elected, yet they decide the financial fate of the world. Bankers and their friends are profiting from this system. It is time for an alternative: a decentralized, open, neutral, transparent, immutable, non-inflatable and collaborative form of money for the people: Bitcoin.
+Il divario crescente tra ricchi e poveri si basa sull’attuale sistema monetario, che è il reale schema Ponzi. I banchieri della banca centrale non sono eletti democraticamente, tuttavia hanno potere di decidere il destino finanziario del mondo. Banchieri e i loro amici traggono profitto da questo sistema. È giunto il tempo per un’alternativa: una forma di denaro per la gente, che sia decentralizzata, aperta, neutrale, trasparente, immutabile, non-inflazionaria e collaborativa: Bitcoin.
 
-### Today's Petrodollar System
+### Il sistema odierno del petrodollaro
 
-Now that we have discussed how money is created, let's dive into the world of currency wars and how this system of national currencies is exclusive and has, historically, been dominated by different empires.
+Ora che abbiamo discusso su come il denaro viene creato, tuffiamoci nel mondo delle guerre delle valute e come questo sistema di valute nazionali è esclusivo ed è stato storicamente dominato da differenti imperi.
 
-The history of currency wars is long. "Over the past century the world went from a gold standard system, to the Bretton Woods system, to the Petrodollar system. Each system mostly unraveled from within rather than being brought down externally, and each time one system transitioned to another, a significant and widespread currency devaluation occurred."[^17] 
+Quella delle guerre delle valute è una lunga storia. “Nel corso del secolo passato, il mondo passò da un sistema aureo, agli accordi di Brenton Woods, al sistema del petrodollaro. Ogni sistema fallì per cause interne anziché essere abbattuto dall’esterno, e ad ogni cambio di sistema si verificò una significativa e diffusa svalutazione monetaria."[^17] 
 
-The British monetary hegemony lasted from 1871 to World War I. Back then a nation's currency was pegged to gold. After the interwar period, when monetary power began to decentralize, the United States emerged as the central money powerhouse after the allied victory in the Second World War. The Bretton Woods system, founded in 1944, was the first example of a fully negotiated monetary order, intended to govern monetary relations among independent states. It set a system of rules, institutions, and procedures to regulate the international monetary system, like the International Monetary Fund (IMF). The United States, which controlled two-thirds of the world's gold, insisted that the Bretton Woods system rests on both gold and the US dollar. Soviet representatives attended the conference but later declined to ratify the final agreements, insisting that the institutions they had created were "branches of Wall Street". This can be interpreted as the starting point of the Cold War.
+L’egemonia monetaria britannica durò dal 1871 alla Prima guerra mondiale. Allora, una valuta nazionale era ancorata all’oro. In seguito al periodo interbellico, quando il potere monetario iniziò a decentralizzarsi, gli Stati Uniti emersero come potenza centrale monetaria a seguito della vittoria degli alleati nella Seconda guerra mondiale. Il sistema degli accordi di Bretton Woods, stabiliti nel 1944, rappresentò il primo esempio di un ordine monetario negoziato tra le parti, inteso a regolare le relazioni monetarie tra stati indipendenti. Definì un sistema di regole, istituzioni e procedure per regolare il sistema monetario internazionale quale il Fondo Monetario Internazionale (FMI). Gli Stati Uniti, che controllavano due-terzi dell’oro del mondo, insistettero affinché gli accordi di Brenton Woods si basassero su ambo l’oro e il dollaro statunitense. I rappresentati sovietici parteciparono alla conferenza ma in seguito si rifiutarono di ratificare gli accordi finali, insistendo sul punto che le istituzioni createsi fossero “branche di Wall Street”. Questo episodio può essere interpretato come il punto di partenza della guerra fredda.
 
-On 15 August 1971, the United States, lead by President Richard Nixon, unilaterally terminated the convertibility of the US dollar to gold, effectively bringing the Bretton Woods system to an end and rendering the dollar a fiat currency. At the same time, many fixed currencies (such as the pound sterling) also became free-floating.
+Il 15 agosto 1971, gli Stati Uniti, guidati dal Presidente Richard Nixon, soppresse unilateralmente la convertibilità del dollaro americano in oro, mettendo effettivamente la parola fine al sistema degli accordi di Brenton Woods, e rendendo il dollaro una valuta fiat. Allo stesso momento, numerose valute dal cambio fisso (come, ad esempio, la sterlina inglese) mutarono in un sistema fluttuante dal cambio flessibile.
 
-Today's monetary system is built on the Petrodollar. Lyn Alden describes this in her article "The Structure of the Global Monetary System":
+Il sistema monetario odierno è costruito sulla base del petrodollaro. Lyn Alden lo descrive nel suo articolo “La struttura del sistema monetario globale":
 
-"Beginning in 1971 after the breakdown of the Bretton Woods system, currencies around the world all became fiat currencies, and the global monetary system became less ordered. This was the first time in human history that this happened, where all currencies in the world at the same time were rendered into unbacked paper.
+"A partire dal 1971, a seguito della soppressione del sistema degli accordi di Brenton Woods, le valute del mondo divennero tutte valute fiat, e il sistema monetario globale venne stravolto. Nella storia umana, questa fu la prima volta in cui le valute del mondo divennero tutte allo stesso momento pezzi di carta non coperti da riserve.
 
-Fiat currency is a monetary system whereby there is nothing of value in the currency itself; it’s just paper, cheap metal coins, or digital bits of information. It has value because the government declares it to have value and that it is legal tender to pay all things including taxes.
+La valuta fiat fa parte di un sistema monetario in cui non vi è alcun valore intrinseco nella valuta in sé e per sé; è solamente carta, monetine metalliche, o bit di informazioni digitali. Ottiene un valore solamente in ragione di un governo che invece dichiara che lo abbia, e che la definisce moneta a corso legale atta al pagamento dei beni, tasse incluse.
 
-A country can enforce the usage of a fiat currency as a medium of exchange and unit of account within their country by making all taxes payable only in that currency, or by enacting other laws to add friction to, or in some cases outright ban, other mediums of exchange and units of account. If their currency has a big enough problem, though, as is the case for many emerging markets, a black market will develop for other mediums of exchange, such as foreign currency or hard assets.
+Un Paese può imporre l’utilizzo di una valuta fiat come mezzo di scambio e unità di conto nell’ambito della propria nazione rendendo le tasse saldabili solamente in tale valuta, oppure emanare leggi volte ad aggiungere frizione, o in qualche caso bandire, altri mezzi di scambio e unità di conto. Tuttavia, se la valuta comincia ad avere problemi rilevanti, come nel caso di molti mercati emergenti, si svilupperà un mercato sotterraneo di altri mezzi di scambio quali valute estere o beni tangibili.
 
-A fiat currency can face particular problems when trying to be used outside of its home country. Why should businesses and governments in other countries accept pieces of paper, which can be printed endlessly by a foreign government and have no firm backing, as a form of payment for their valuable goods and services? Without a real backing, what is it worth? Why would you sell oil to foreigners for paper?
+Una valuta fiat può rappresentare un problema particolare quando si è intenzionati ad utilizzarla fuori dai confini nazionali. Qual è il motivo per imprese e governi di accettare pezzi di carta non coperti da riserve che possono essere stampati senza soluzione di continuità da un governo estero, come forma di pagamento per i loro preziosi beni e servizi? Qual è il valore, se non sono convertibili? Per quale motivo venderesti petrolio a stranieri in cambio di carta?
 
-In the early 1970’s, there were a variety of geopolitical conflicts including the Yom Kippur War and the OPEC oil embargo. In 1974, however, the United States and Saudi Arabia reached an agreement, and from there, the world was set on the petrodollar system; a clever way to make a global fiat currency system work decently enough....With the petrodollar system, Saudi Arabia (and other countries in OPEC) sell their oil exclusively in dollars in exchange for US protection and cooperation. Even if France wants to buy oil from Saudi Arabia, for example, they do so in dollars....In return, the United States uses its unrivaled blue-water navy to protect global shipping lanes, and preserve the geopolitical status quo with military action or the threat thereof as needed....Some of us, particularly near the top of the income ladder, directly or indirectly benefit from this system. Americans who work around finance, government, healthcare, and technology get many of the benefits of living in the hegemonic power, without the drawbacks. On the other hand, Americans who make physical products tend not to benefit, because they lost their jobs or had their incomes suppressed, and thus haven’t benefited from the gains. And outside of the United States, exporting countries benefit from the system, while countries that don’t like how the global monetary system is structured don’t have much recourse to do anything about it, unless they get big enough like Russia and China."[^18]
+Agli inizi degli anni ’70 vi erano svariati conflitti geopolitici inclusa la guerra dello Yom Kippur e l’embargo del petrolio dell’OPEC. Nel 1974, tuttavia, gli Stati Uniti e l’Arabia Saudita raggiunsero un accordo e, da allora, il mondo si assestò nell’ambito del sistema del petrodollaro; un modo scaltro affinché il sistema globale di valute fiat funzionasse decentemente… Col sistema del petrodollaro, l’Arabia Saudita (e gli altri Paesi dell’OPEC) vendeva il proprio petrolio esclusivamente in dollari, ottenendo in cambio protezione e cooperazione da parte degli Stati Uniti. Se ad esempio la Francia volesse acquistare petrolio dall’Arabia Saudita, lo dovrà fare utilizzando dollari… In cambio, gli Stati Uniti dispiegheranno la propria marina militare a protezione dei canali commerciali globali, e preserveranno lo status quo geopolitico tramite azioni militari o eventualmente la minaccia, a proprio piacimento… Alcuni di noi, in particolare coloro che maggiormente siano più vicini allo scalino più alto della scala del reddito, beneficiano di questo sistema, direttamente o indirettamente. Quegli americani il cui lavoro gravita attorno alla finanza, alla carica pubblica, alla sanità, e alla tecnologia godono dei molti benefit di vivere all’interno di una potenza egemonica, senza alcuno svantaggio. D’altra parte, però, gli americani che producono prodotti fisici e tangibili tendono a non beneficiarne, poiché hanno perso il loro lavoro oppure hanno soppresso il proprio reddito, e pertanto non hanno beneficiato dei guadagni. E fuori dagli Stati Uniti, i Paesi che fanno export beneficiano del sistema, mentre i Paesi a cui non piace come sia strutturato il sistema monetario globale non hanno altre opzioni o possibilità per far qualcosa al riguardo, fatto salvo diventare una potenza al pari di Russia e Cina."[^18]
 
-We have been in currency wars for many decades. Which currency is stronger? Which country can gain more benefits from manipulating its currency? The Euro, the US Dollar, the Chinese Yuan? Or even Facebook's Diem? Corporation money is the new, strong player on the market. To retain their powers central banks started to work on their own digital currencies (CBDCs).
+Da decadi siamo in una guerra di valute. Quale valuta è più forte? Quale Paese può godere di maggiori benefit nel manipolare la propria valuta? L’euro, il dollaro americano, lo yuan cinese? Oppure Diem di Facebook? La moneta privata delle corporazioni è il nuovo player nel mercato. Per mantenere i propri poteri, le banche centrali hanno iniziato a lavorare sulle proprie valute digitali (CBDC – Central Bank Digital Currency).
 
-![New forms of money emerge](assets/_new-forms-money.png) [^19]
+![Emergono nuove forme di denaro](assets/_new-forms-money.png) [^19]
 
-Bitcoin is our alternative to this system. Protecting our privacy in this digital age, voting against the abuse of monopolistic power in the current system, and giving people living in authoritarian states with corrupt rulers the same opportunities to participate in the economic system. Bitcoin is a defense strategy, a tool with which we can preserve the human right to transactional freedom and privacy.
+Bitcoin è la nostra alternativa in risposta a questo sistema. Proteggere la nostra privacy in quest’era digitale, votare contro l’abuso del potere monopolistico del sistema attuale, e dare alle persone che vivono in regimi autoritari di dittatori corrotti le stesse opportunità di partecipare al sistema economico. Bitcoin è una strategia di difesa, uno strumento col quale possiamo preservare il diritto umano di libertà di transazione e di privacy.
 
-[^1]: [Illustration NetGuardians retrieved April 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)  
-[^2]: Anita Posch, credits: University of Nicosia, MOOC in Digital Currency, “A brief history of money” with image: Lotus Head, CC BY-SA 3.0, wikimedia.org  
-[^3]: Image: "Stone Money of Uap, Western Caroline Islands." - Dr. Caroline Furness Jayne took this photograph during a 1903 stay on Yap, Public domain, via Wikimedia Commons  
-[^4]: [Wikipedia Rai stones](https://en.wikipedia.org/wiki/Rai_stones)  
-[^5]: [University of Nicosia, Introduction to Digital Currencies, Session 1, p. 15]  
-[^6]: [Debt to GDP ratio, JS Blokland](https://twitter.com/jsblokland/status/1362138620665221122?s=20)  
-[^7]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 7.  
-[^8]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. xvii  
-[^9]: [Monetary Base](https://www.investopedia.com/terms/m/monetarybase.asp)  
+[^1]: [Illustrazione da NetGuardians, URL consultato in aprile 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)  
+[^2]: Anita Posch, credit: Università di Nicosia, MOOC in Digital Currency, “A brief history of money” con immagine: Lotus Head, CC BY-SA 3.0, wikimedia.org  
+[^3]: Image: "Stone Money of Uap, Western Caroline Islands." - Dr. Caroline Furness Jayne scattò la fotografia durante un soggiorno nel 1903 presso Yap, Dominio pubblico, via Wikimedia Commons  
+[^4]: [Wikipedia Pietre Rai](https://en.wikipedia.org/wiki/Rai_stones)  
+[^5]: [Universita` di Nicosia, Introduction to Digital Currencies, Session 1, p. 15]  
+[^6]: [Rapporto debito/PIL, JS Blokland](https://twitter.com/jsblokland/status/1362138620665221122?s=20)  
+[^7]: Collusion, di Nomi Prins, Bold Type Books, 2019, p. 7.  
+[^8]: Collusion, di Nomi Prins, Bold Type Books, 2019, p. xvii  
+[^9]: [Base Monetaria](https://www.investopedia.com/terms/m/monetarybase.asp)  
 [^10]: [Global Monetary Base, Crypto Voices](https://cryptovoices.com/basemoney)  
 [^11]: [FRED, M2 Money Stock](https://fred.stlouisfed.org/graph/?graph_id=248494)  
 [^12]: [Lyn Alden, Ponzi scheme](https://www.lynalden.com/bitcoin-ponzi-scheme/)  
 [^13]: [Lyn Alden](https://twitter.com/LynAldenContact/status/1362912907659522049?s=20)
-[^14]: [US Consumer Price Index](https://fred.stlouisfed.org/series/CPIAUCSL)
-[^15]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 253.
-[^16]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 249.
+[^14]: [Indice dei prezzi al consumo USA](https://fred.stlouisfed.org/series/CPIAUCSL)
+[^15]: Collusion, di Nomi Prins, Bold Type Books, 2019, p. 253.
+[^16]: Collusion, di Nomi Prins, Bold Type Books, 2019, p. 249.
 [^17]: [Lyn Alden, The Structure of the Global Monetary System](https://www.lynalden.com/fraying-petrodollar-system/)
 [^18]: [Lyn Alden, Petrodollar System (1974-Present)](https://www.lynalden.com/fraying-petrodollar-system/)
 [^19]: Anita Posch
