@@ -1,46 +1,46 @@
-# The Staircase of Financial Sovereignty
+# La scalinata della sovranità finanziaria
 
 > "Not your keys, not your coins." - **Andreas M. Antonopoulos**
 
-As you have read in the previous chapters, Bitcoin's primary strength is its uncensorability, which gives you financial sovereignty. That is - besides the fixed 21 million supply - the main differentiator to all other forms of money. It protects you from bail-ins like in Cyprus in 2014 and from inflation devaluing your funds. It ends the enforced financialization of your money through banking and financial products. It gives you full control over your funds, enables you to move globally while bringing your money with you. It's an alternative, an opt-out of the fiat system - all you need are 12 English words: your seed phrase.
+Come hai potuto leggere nei capitoli precedenti, la forza principale di Bitcoin risiede nella sua non censurabilità, che contribuisce alla tua sovranità finanziaria. Questa è la principale differenza con tutte le altre forme di moneta - oltre alla fornitura fissata a 21 milioni. Ti protegge dai piani di salvataggio delle banche, come accaduto nel 2014 a Cipro, e dall’inflazione che svilisce i tuoi risparmi. Mette fine alla finanziarizzazione forzata dei tuoi soldi tramite i prodotti bancari e finanziari. Provvede a conferirti completo controllo dei tuoi fondi, ti permette di poterti muovere globalmente trasportando i tuoi soldi con te. È un’alternativa, un’opzione per uscire dal sistema fiat – ciò di cui hai bisogno sono 12 parole in lingua inglese: la tua _seed phrase_ (frase seme).
 
-> "Bitcoin is uncensorable and non-inflatable. These are its most important properties." - **Anita Posch**
+> "Bitcoin non è censurabile e non è inflazionabile. Queste sono le sue proprietà più importanti." - **Anita Posch**
 
-If you do not have those seed phrase words, you do not have the privileges and the freedom stated above.
+Se non sei in possesso delle parole che compongono la seed phrase, dunque non godi dei privilegi né della libertà menzionate sopra.
 
-## Risks of Custodial Wallets
-It's important to note that there is a big difference between custodial wallets and non-custodial wallets. You only get control of the seed phrase when you use a non-custodial (self-hosted) wallet. Exchanges like Coinbase, Kraken, Binance, Bitpanda, etc., do not give you the private keys to your own wallets. While it might be more convenient to hold bitcoin in a wallet on a centralized exchange, it's no different to a bank. You do not own the bitcoin in your exchange account, which can be a big problem if the exchange gets hacked, something which has already happened many times. For instance, I remind you of Mt. Gox, the biggest hack to date that happened in 2014. No day goes by without cases of frozen accounts, or flagging of tainted coins and, sometimes, the regulatory halting of trading. As well as that, those exchanges need you to register and fulfill all KYC identification requirements (know-your-customer and anti-money laundering regulations), which is a hurdle for billions of people, excluding them from banking and now from using crypto exchanges too. On top of that, these KYC regulations are intruding on your privacy. Luckily, Bitcoin is built for everyone. To mitigate the counter-party risks of custodial wallets you should skip these exchanges and use a non-custodial wallet from the start.
+## Rischi dei wallet custodial
+È importante notare che sussiste una grossa differenza tra wallet _custodial_ e i wallet _non-custodial_. Mantieni il controllo della seed phrase solamente quando utilizzi un wallet non-custodial (ovvero, che non provvede all’archiviazione delle tue chiavi private). Borse di scambio quali Coinbase, Kraken, Binance, Bitpanda ecc., non ti forniscono le chiavi private dei tuoi wallet. Sebbene possa essere una comodità conservare bitcoin in un wallet di un exchange centralizzato, ciò non è differente da una banca. Non hai di fatto possesso dei bitcoin del tuo conto nell’exchange, e ciò costituisce un grosso problema qualora l’exchange venisse attaccato da hacker, come già accaduto molte volte. Come esempio ti ricordo di Mt. Gox, il più grande hack accaduto nel 2014. Non passa giorno senza casi di conti congelati, segnalazioni di coin sospette e, talvolta, di regolatori che decidono di interrompere l’attività di trading. Tali exchange, inoltre, richiedono all’utenza di registrarsi nel rispetto degli adempimenti d’identificazione KYC (normative di adeguata verifica del cliente _know your customer_ ed antiriciclaggio), che rappresentano un ostacolo per miliardi di persone che già vengono escluse dalle normali attività bancarie, ed ora anche dall’accesso ai servizi degli exchange crypto. Inoltre, i regolamenti KYC sono invasivi della tua privacy. Fortunatamente, Bitcoin è per tutti. Per mitigare il rischio di controparte dei wallet custodial, dovresti dunque evitare gli exchange ed utilizzare un wallet non-custodial sin dall’inizio.
 
-> "This illusion that money in the bank is safer than money under the mattress is very much a position of privilege." - **Andreas M. Antonopoulos**
+> "L’illusione che il denaro in banca sia maggiormente al sicuro del denaro nascosto sotto il materasso è davvero una posizione di privilegio." - **Andreas M. Antonopoulos**
 
-For people outside of the "western developed world", there is no such thing as a secure bank account. This is a privilege. You might think you would rather leave your money on the exchange because you don't want to have the hassle and responsibility of holding your own money. You can do that, but it's not what Satoshi Nakamoto intended and it makes you vulnerable.
+Per molte persone al di fuori del “mondo occidentale sviluppato”, non esiste una cosa come un conto corrente bancario sicuro. Questo è un privilegio. Potresti pensare che preferiresti lasciare i tuoi fondi nell’exchange perché non vuoi avere l’onere né la responsabilità di essere in effettivo possesso dei tuoi soldi. Lo puoi fare, ma questo non è ciò che intendeva Satoshi Nakamoto, e ti rende vulnerabile.
 
-Once you have learned and executed the steps to financial freedom, you will see that it is not as difficult as it may first seem.
+Una volta imparati e fatti i primi passi verso la libertà finanziaria, comprenderai che non è così complesso come potrebbe sembrare a prima vista.
 
-## 3 Steps to Financial Sovereignty
+## 3 step verso la sovranità finanziaria
 
->"With great freedom, comes great responsibility." - **Dr. Stephanie Murphy**
+>"Da grandi libertà derivano grandi responsabilità." - **Dott.ssa Stephanie Murphy**
 
-Stephanie Murphy, co-host of the "Speaking of Bitcoin" podcast, frames the financial freedom model as a staircase with different levels of sovereignty. Since Bitcoin is a technology in development, the grade of freedom that one can reach is changing all the time. This book will give you guidance to reach step 2: the "Your keys, your coins" level. Reaching the "Don't trust, verify" level will become much easier in the coming years. At the moment it requires technical know-how and a greater effort in time and resources, but in principle, everyone can reach it.
+Stephanie Murphy, co-conduttrice del podcast _“Speaking of Bitcoin”_ inquadra il modello di libertà finanziaria come una scalinata di livelli differenti di sovranità. Dato che il Bitcoin è una tecnologia in continuo sviluppo, il grado di libertà che uno può ottenere cambia in continuazione. Questo libro provvede a guidarti per raggiungere lo step 2: il livello _“Your keys, your coins”_. Il raggiungimento del livello _“Don’t trust, verify”_ diventerà più semplice negli anni a venire. Al momento richiede un pregresso know-how tecnico e uno sforzo rilevante in termini di tempo e risorse, ma in principio tutti lo potranno raggiungere.
 
 ![3 steps to financial sovereignty](assets/_staircase-sovereignty-3-steps.png) [^68]
 
-**Groundfloor** You are a pre-coiner, since you are reading my book you must be interested in Bitcoin, but you do not own any.
+**Piano terra**: sei un _pre-coiner_ – dato che stai leggendo il mio libro, devi essere interessato in Bitcoin ma non ne possiedi alcuno.
 
-**1st floor** You are getting to know BTC with a custodial solution on a centralized exchange, but you don't control any of the keys. You have some independence because you're invested in a cryptocurrency and not solely fiat anymore. But it's not a lot of independence because you rely on a third party, which comes with the counter-party risks mentioned above. You are on the **"not your keys, not your coins"** level.
+**Primo piano**: stai iniziando a conoscere BTC con la soluzione custodial di un exchange centralizzato, ma non controlli nessuna chiave. Godi di un po’ d’indipendenza perché stai investendo in una criptovaluta e non più esclusivamente in fiat. Ma non è molta indipendenza perché ti affidi a una parte terza esposta al rischio di controparte menzionato precedentemente. Sei al livello **"Not your keys, not your coins"**.
 
-Ideally, you skip the first floor and go to the 2nd floor as fast as possible.
+Idealmente, sorpassi il primo piano e procedi al secondo il più velocemente possibile.
 
-**2nd floor** You take control of your keys and store them yourself securely on a non-custodial wallet that gives you your seed. This is a much higher degree of financial sovereignty. You can do that with a mobile wallet on your smartphone for small amounts or - the best way and highly recommended - with a hardware wallet for larger amounts. You reach the **"your keys, your coins"** level. You have reached a very high level of independence.
+**Secondo piano**: hai pieno possesso delle tue chiavi e le conservi in sicurezza in un wallet non-custodial che ti fornisce il seed. Questo è un livello più alto di sovranità finanziaria. Per piccoli importi puoi utilizzare un wallet per smartphone, e un wallet hardware per importi più rilevanti – la modalità migliore e raccomandata. Hai raggiunto il livello **"Your keys, your coins"**. Hai raggiunto un alto livello d’indipendenza.
 
-From here on the steps are for experienced users. They give you even more sovereignty, privacy and control over your bitcoin.
+Da qui in avanti, i prossimi step si rivolgono agli utenti con esperienza. Ti garantiscono ancor più sovranità, privacy e controllo sui tuoi bitcoin.
 
-**3rd floor** You get full sovereignty over your funds by connecting your hardware wallet with your own full node. With this setup, you can not only view and receive information about your transactions but also verify mined blocks and transactions without relying on 3rd parties. You don't have to trust anyone else anymore and have a high level of privacy and control. **"You are your own bank"** and have now reached the **"Don't trust, verify"** level.
+**Terzo piano**: mantieni totale sovranità sui tuoi fondi connettendo il tuo wallet hardware col tuo nodo pieno. Con questo setup, non solo puoi visionare e ricevere informazioni in merito alle tue transazioni, ma anche verificare i blocchi minati e le transazioni senza affidarti a parti terze. Non necessiti più di fidarti di nessuno, e hai un alto livello di privacy e controllo. **"You are your own bank"**, sei la tua banca, e hai ora raggiunto il livello **"Don't trust, verify"**.
 
-You can take these security and independence measures even further with air-gapped solutions, multi-sig setups and more.
+Puoi eventualmente aumentare maggiormente le misure di sicurezza e d’indipendenza rimanendo disconnesso dalla rete Internet, con setup multi-firma, ed altro ancora.
 
-On top of that staircase, decentralized financial solutions like bitcoin borrowing and lending are emerging.
+All’apice della scalinata, stanno emergendo soluzioni finanziarie decentralizzate come servizi di prestito di bitcoin.
 
-Ultimately, if all you want to do is hedge against inflation and use Bitcoin as a store of value, **reaching the 2nd floor, "your keys, your coins" is the goal**. I will show you how to reach this level of sovereignty in the next chapters.
+In ultima analisi, se tutto ciò che desideri è proteggerti contro l’inflazione utilizzando Bitcoin come bene rifugio, **raggiungere il secondo piano _"Your keys, your coins"_ è l’obiettivo.** Nei prossimi capitoli ti dimostrerò come poter raggiungere questo livello di sovranità.
 
 [^68]: Anita Posch
