@@ -1,5 +1,5 @@
-# Invest in Bitcoin?
+# Investire in Bitcoin?
 
-If you have read this far, you have already invested time and energy in learning about Bitcoin. Why should or shouldn't you begin to use Bitcoin for yourself? Well, I advise you not to do so until you are sure that you want to try it. Only invest as much in Bitcoin as you understand and are comfortable to - only as much as you are willing to lose in a worst-case scenario.
+Se sei giunto fino a questo punto, significa che hai investito tempo ed energie nell’imparare Bitcoin. Perché dovresti iniziare ad usare Bitcoin? Beh, io ti suggerisco di non farlo fino a quando non sei sicuro di volerlo provare. Investi in Bitcoin solamente un ammontare tale da farti sentire a tuo agio – e solamente tanto quanto tu sia disposto a perdere nella peggiore delle ipotesi.
 
-The more you get to know and use Bitcoin, the more trust you will build. I researched the topic for three months before I installed my first bitcoin wallet and exchanged my first 75 euros for bitcoin. I want to help you to make up your own mind so will now discuss the most common arguments for and against Bitcoin.
+Più inizierai a conoscere e usare Bitcoin, più sarai fiducioso nel sistema. Ho studiato il tema per tre mesi prima di installare il mio primo wallet di bitcoin, e cambiato i miei primi 75 euro in bitcoin. Voglio assisterti affinché tu ti faccia un’idea personale, dunque ora discuteremo dei tipici argomenti pro e contro Bitcoin.
