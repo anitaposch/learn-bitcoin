@@ -1,137 +1,137 @@
-## Arguments for Bitcoin
-> "Bitcoin is an opt-in system. You choose to use it. You choose what apps you're going to run. You choose who you're going to interact with. You choose the rules of the game by which you're going to interact. That's why bitcoin is going to win. It delivers innovation that consumers want and need." - **Andreas M. Antonopoulos**
+## Argomenti pro Bitcoin
+> "Bitcoin è un sistema _opt-in_. Sei tu che decidi di aderirvi. Sei tu che scegli quali app installare. Sei tu che decidi con chi interagire. Sei tu che scegli le regole del gioco col quale interagirai. Questo è il motivo per cui bitcoin vincerà. Offre l’innovazione che gli utenti vogliono e necessitano." - **Andreas M. Antonopoulos**
 
-### A Paradigm Shift
-I'm a digital native individual in a Gen X body. I can remember life without the internet, even without a VCR. We had one TV station in Austria, that was it. My parents got our first landline phone when I was 12. At 14 I used my first computer, in 1997 I installed my first internet connection and email at home. That same year there were only 1 million websites globally and Google and Amazon did not exist internationally.
+### Un cambiamento di paradigma
+Mi ritengo un nativo digitale nel corpo di un Gen X. Ricordo una vita senza Internet, e anche senza il videoregistratore. In Austria avevamo solamente un canale TV. I miei genitori ricevettero la linea telefonica quando avevo 12 anni. A 14 anni utilizzai un computer per la prima volta, e nel 1997 installai a casa la mia prima connessione Internet e l’email. Quello stesso anno c’erano solamente 1 milioni di siti web a livello globale, e Google né Amazon esistevano internazionalmente.
 
-A lot of people dismissed the internet as a trend that would go away. In 1995, US astronomer and author Clifford Stoll wrote an article for Newsweek titled "The Internet? Bah!"
+Molti sminuirono Internet come una tendenza che sarebbe sparita. Nel 1995, l’astronomo e autore Clifford Stoll firmò un articolo per Newsweek intitolato "_Internet? Bah!_"
 
->"Then there's cyberbusiness. We're promised instant catalog shopping - just point and click for great deals. We'll order airline tickets over the network, make restaurant reservations and negotiate sales contracts. Stores will become obsolete. So how come my local mall does more business in an afternoon than the entire Internet handles in a month? Even if there were a trustworthy way to send money over the Internet - which there isn't - the network is missing a most essential ingredient of capitalism: salespeople." - **Clifford Stoll** [^56]
+>"E poi c’è il cyberbusiness. Ci viene promesso di poter fare shopping istantaneamente – basta puntare il cursore e cliccare per fare grandi affari. Prenoteremo biglietti aerei tramite la rete, riserveremo cene al ristorante e negozieremo contratti di vendita. I punti vendita fisici diverranno obsoleti. Ma, dunque, come mai il centro commerciale locale in un pomeriggio fa volumi maggiori di quanto l’intero Internet riesca a fare in un mese? Se anche ci fosse un metodo affidabile per inviare denaro tramite l’Internet – metodo che non esiste – il sistema manca dell’ingrediente essenziale del capitalismo: i venditori." - **Clifford Stoll** [^56]
 
-Fast forward to 2019 and Amazon is in the top ten biggest companies in the world, Google and YouTube are the biggest search engines and there are 1.8 billion active websites. My first contact with Bitcoin and blockchains was in April 2017 when I heard a talk by Shermin Voshmgir. It clicked immediately. 20 years after I changed my career from being an urban planner to becoming an internet entrepreneur, I understood that Bitcoin is as massive as the dawn of the internet in 1997.
+Mandiamo avanti veloce all’anno 2019, e Amazon è tra i primi dieci nella classifica delle società più grandi al mondo, Google e YouTube sono i motori di ricerca più grandi e ci sono 1.8 miliardi di siti web attivi. Il mio primo contatto con Bitcoin e le blockchain avvenne nell’aprile 2017 quando assistetti ad una conferenza di Shermin Voshmgir. Mi si è immediatamente accesa la lampadina. Dopo 20 anni di carriera come pianificatore territoriale divenni un imprenditore su Internet, e capii che Bitcoin è tanto importante quanto fu Internet nel 1997.
 
-The discovery of Bitcoin was the advent of a new technology on top of the internet that we use for media and communication. The internet of money, which allows us to exchange value globally without boundaries. Communication over the internet has changed the world massively in the last few decades. What do you think the impact of the free movement of value will have? Bitcoin and other open, public digital assets will shift the power dynamics between nations since it is suddenly possible to move huge amounts of money at speed, without friction or touching the current financial system.
+La scoperta di Bitcoin fu l’avvento di una tecnologia costruita su Internet, che utilizziamo per comunicare. L’Internet del denaro, che permette lo scambio di valore a livello globale senza confini. La comunicazione in Internet ha cambiato il mondo rilevantemente nelle ultime decadi. Quale pensi sarà l’impatto del libero movimento del valore? Bitcoin ed altri asset digitali pubblici ed aperti cambieranno le dinamiche di potere tra nazioni dato che è improvvisamente possibile muovere larghi importi di denaro in velocità, senza frizioni e senza contatto col sistema finanziario attuale.
 
-Bitcoin is a new technology. If we compare its development to the internet, we are pretty much where the internet was in 1997.
+Bitcoin è una nuova tecnologia. Se compariamo il suo sviluppo con quello di Internet, siamo esattamente al punto dove l’Internet era nel 1997.
 
-### Enabling Social Change
+### Favorire il cambiamento sociale
 
-People in developed nations with functioning democratic systems often dismiss Bitcoin as a tool for speculation and a danger for nation-states. Therefore, some think its electricity consumption is environmentally irresponsible. Some even advocate for a ban. Expect this kind of criticism to increase in the coming years.
+Le persone che vivono nel sistema democratico di nazioni sviluppate spesso liquidano Bitcoin come uno strumento per la speculazione e una minaccia per lo stato. Pertanto, alcuni ritengono che il suo consumo energetico sia un’irresponsabilità a danno dell’ambiente. Alcuni sostengono la causa della proibizione. Aspettati l’aumento di questo di tipo di critiche nei prossimi anni.
 
-The world's population is 7.8 billion people. Only 8.4% of those live in full democracies, 41% in flawed democracies, 15% in hybrid regimes and 35,6% in authoritarian regimes.
+La popolazione mondiale ammonta a 7.8 miliardi. Solamente l’8.4% vive in stati democratici completi, il 41% in democrazie imperfette, il 15% in regimi ibridi e il 35.6% in regimi autoritari.
 
-Over 50% of the world's population are living in nations far from free and fair democracies! 1.7 billion people do not have a bank account and never will. Bitcoin is for them. [^57]
+Più del 50% della popolazione mondiale vive in nazioni lontane da democrazie libere ed eque! 1.7 miliardi di persone non possiedono un conto corrente bancario e mai l’avranno. Bitcoin esiste per loro. [^57]
 
-It's people in regions like Africa and South America who will drive Bitcoin adoption forward. The main use-cases there are:
+Sarà il contributo delle persone che vivono in Africa e Sud-America ad accelerare rilevantemente l’adozione di Bitcoin. I principali casi d’uso sono:
 
-**Hedge Against Inflation**
-This table by the International Monetary Fund shows the annual change of consumer prices in percent.
+**Protezione dall’inflazione**  
+La seguente tabella del Fondo Monetario Internazionale mostra in percentuale le variazioni dei valori annuali dei prezzi al consumo.  
 ![Inflation rate, average consumer prices, annual change in %](assets/_inflation-2021.png) [^58]
 
-* Venezuela saw prices increases by 5,500%. The suffering of the people is simply incomprehensible.
-* In Sudan the prices increased 200% in 2021 alone.
-* Zimbabweans faced a doubling of prices at 100% inflation from 2020 to 2021.
-* The IMF did not have data for Argentina, but I was informed by my Argentinian interview partner, Franco Amati, the annual inflation rate was 50%.
-* Nigeria saw an inflation rate of 16% in 2020.
-* Turkey's inflation rate in 2020 was 13.6 %.
+* Il Venezuela ha visto i prezzi aumentare del 5,500%. La sofferenza della gente è semplicemente inimmaginabile.
+* In Sudan i prezzi sono aumentati del 200% nel solo 2021.
+* Gli abitanti dello Zimbabwe hanno visto un raddoppio dei prezzi ad un tasso d’inflazione del 100% dal 2020 al 2021.
+* L’FMI non ha dati che riguardano l’Argentina, ma sono stata resa edotta dall’ospite argentino del mio podcast, Franco Amati, che il tasso d’inflazione annuale era del 50%.
+* La Nigeria ha visto un tasso d’inflazione del 16% nel 2020.
+* Il tasso d’inflazione della Turchia nel 2020 era del 13.6%.
 
-From May 2020 to April 2021 the bitcoin trading volume in Nigeria increased by 40% from $287 million to $399 million. A 2020 survey shows that 32% of Nigerians who were interviewed had used or owned cryptocurrencies. Meanwhile, in developed democratic countries like Germany and the USA, only 5-6% have used or owned cryptocurrencies.
+In Nigeria, dal maggio 2020 ad aprile 2021, il volume di scambio di bitcoin è aumentato del 40% da 287 milioni a 399 milioni. Un sondaggio del 2020 ha dimostrato che il 32% dei nigeriani intervistati hanno usato o possiedono criptovalute. Nel frattempo, in Paesi democratici sviluppati come la Germania e gli Stati Uniti, solamente il 5-6% ha usato o possiede criptovalute.
 
 ![Trading volume on P2P Bitcoin exchanges in Sub-Saharan countries from May 2020 to April 2021](assets/_Nigeria-trading-volume-BTC.png) [^59]
 
-Given these annual inflation rates, people know that they need to store their wealth in harder money like USD, and better still, Bitcoin. If you explain the differences of Bitcoin to local currencies in these countries, everybody understands immediately how and why Bitcoin can support them.
+Considerando questi tassi d’inflazione annuali, la gente sa che deve conservare il proprio patrimonio in una valuta forte come il dollaro americano, o ancora meglio, Bitcoin. Se spieghi le differenze tra Bitcoin e le valute locali in questi Paesi, tutti comprendono immediatamente come e perché Bitcoin può costituire un valido supporto.
 
-**Foreign Exchange Controls**
+**Controllo del forex**
 
-Countries with weak economies and flawed democracies use foreign exchange controls to limit - what they call - speculation against their weak currencies. Since authoritarian leaders want to limit and control people's possibilities to circumvent their oppressive systems, they apply regulations such as the following:
+Paesi con economie deboli e democrazie imperfette controllano il mercato valutario per limitare ciò che loro definiscono una speculazione contro la loro moneta debole. Dal momento in cui i leader autoritari vogliono limitare e controllare le possibilità che gli individui eludano i loro sistemi oppressivi, applicano regolatori stringenti quali:
 
-* Argentina's capital controls only allow people to exchange a maximum amount of $200 per month from Argentine Pesos to USD.
-* Quite the same harsh regulations apply in Zimbabwe. If you run a business and need to import goods, you must ask the Reserve Bank for permission to send USD abroad. "Suppose I'm in solar power and I want to buy 20 panels so that I can sell them. I only have 30 days to spend down on the money that I already had. The Reserve Bank can take as long as it wants to give me permission to even go and resupply. That's another reason why the US actual physical dollars, the physical cash has so much more value in Zimbabwe", a Zimbabwean interview partner told me in March 2020.
+* Il controllo del capitale dell’Argentina permette la popolazione di cambiare un ammontare massimo di 200 dollari al mese dal peso argentino al dollaro americano.
+* Un regolatorio altrettanto severo viene applicato in Zimbabwe. Se amministri un’impresa e necessiti di importare beni devi chiedere alla banca centrale il permesso di inviare dollari americani all’estero. “Immaginiamo che sia nell’industria dell’energia solare e volessi acquistare 20 pannelli, al fine di poterli rivendere. Ho solamente 30 giorni per spendere i soldi che già ho. La banca centrale può anche prendersi tutto il tempo che vuole per concedermi solamente il permesso di rifornirmi. Questa è un’altra ragione del perché i dollari americani in contanti, le banconote fisiche, hanno così valore in Zimbabwe”, un ospite intervistato mi riferì a marzo 2020.
 
-**Banking System Is Not Available or Broken**
-* Local businesses in Zimbabwe are allowed to use USD to bill a local supplier. That supplier has to liquidate those US dollars within 30 days, or the money gets converted into their RTGS account at the bank rate. RTGS is the name for the Zimbabwean dollar, which shows these high inflation rates.
-* If you buy foreign currency at an Argentinian bank the official bank exchange rate is used (which is favorable for the bank, but not the customer) and on top of that a 65% tax is deducted.
-* Using the banking system can be full of red tape in Western countries too, but it's much worse in those countries.
+**Il sistema bancario non è disponibile o non funziona**  
+* Le imprese locali dello Zimbabwe possono saldare un fornitore locale in dollari americani. Il fornitore dovrà liquidare quei dollari americani entro 30 giorni, altrimenti tale denaro verrà convertito automaticamente nel loro conto RTGS al tasso di cambio applicato dalla banca. Il dollaro RTGS è il nome della valuta dello Zimbabwe, il quale ha tassi d’inflazione rilevanti.
+* Se acquisti valuta straniera presso una banca argentina viene applicato il tasso di cambio ufficiale della banca (che è favorevole per la banca, non per il cliente), e in aggiunta viene dedotta una tassa che ammonta al 65%.
+* L’utilizzo del sistema bancario è molto burocratizzato anche nei paesi occidentali, ma la situazione è decisamente peggiore in questi paesi.
 
-**Remittances**
-* If you receive money from abroad through the traditional banking system it will be converted to Argentine pesos at the official bank rate. This basically represents a confiscation of 30% of the value.
-* In 2020 as much as 1 billion USD have been sent as remittances to Zimbabwe. Over one-third of the population relies on remittances from relatives abroad. A lot of Zimbabweans live in South Africa and of the money they send, up to 20-30% are lost through banking fees and official exchange rates. [^60]
+**Bonifici bancari**  
+* Se ricevi denaro dall’estero tramite il sistema bancario tradizionale, verrà convertito in peso argentino al tasso di cambio ufficiale della banca ricevente. Ciò praticamente rappresenta una confisca del 30% del valore.
+* Nel 2020 circa 1 miliardo di dollari americani sono stati bonificati in Zimbabwe. Più di un terzo della popolazione fa affidamento sui pagamenti di congiunti residenti all’estero. Molti abitanti dello Zimbabwe vivono in Sudafrica e di tutto il denaro inviato, il 20-30% viene perduto tra spese bancarie e tassi di cambio ufficiali applicati. [^60]
 
-**Barriers for Women**
-Using a basic bank account is beyond the reach of almost one billion women worldwide. Varying degrees of gender inequality permitted or mandated by law deny women full financial participation in many countries around the world. Depending on the country, women are discriminated against in inheritance laws and are required to obtain their husband's permission to legally work, get a bank account, register a business or sign a contract; many women are banned from entering certain professions. Women may also find it more difficult to access legal ID cards due to existing laws or restrictive registration requirements, and such identification is commonly required to use financial products and services.
+**Ostacoli per le donne**  
+L’utilizzo di un conto corrente base va oltre la portata di circa un miliardo di donne nel mondo. Differenti gradi di disuguaglianza di genere permesse o obbligatorie per legge negano alle donne una partecipazione finanziaria in molti Paesi nel mondo. In base al Paese, le donne sono discriminate in materia di successione ereditaria, e sono obbligate ad ottenere il permesso da parte del proprio marito per lavorare, aprire un conto corrente, registrare un’azienda o firmare un contratto; a molte donne viene proibito l’accesso a certe professioni. Le donne potrebbero inoltre incontrare difficoltà nell’ottenimento di documentazione identificativa a causa di leggi preesistenti o adempimenti di registrazione restrittivi, e tale identificazione è comunemente una condizione all’uso di prodotti e servizi finanziari.
 
-Other hurdles that prevent women from accessing financial services are the need to travel long distances, the risk of being robbed while accessing money, and lack of privacy that would allow them to protect their savings from others.
+Ulteriori ostacoli che impediscono l’accesso di servizi finanziari alle donne sono il bisogno di percorrere lunghe distanze, il rischio di cadere vittime di un furto mentre si accede al proprio denaro, e mancanza di quella privacy che consentirebbe loro di proteggere i propri risparmi da persone terze.
 
-"Over 80 percent of the small business conducted in the Pacific by women is in little marketplaces," said Dr. Sharman Stone, Australia's Ambassador for Women. "When they only had cash it was extremely dangerous for them to get that cash home, and to retain that cash once they got home." [^61] With Bitcoin and cryptocurrencies, they are physically safer, can circumvent inflation and hold their own money.
+"Più dell’80% della piccola impresa condotta da donne nell’area del Pacifico è rappresentata da piccoli mercatini,” afferma la Dott.ssa Sharman Stone, Ambasciatrice per le Donne dell’Australia. “Quando maneggiavano solamente denaro contante era estremamente pericoloso portarlo in casa, e conservarlo una volta arrivate." [^61] Con Bitcoin e criptovalute sono fisicamente più sicure, possono combattere l’inflazione e mantenere meglio il proprio denaro.
 
-> Women are the majority of Kenya's population; they perform 70% of the agricultural labor, but they own less than 1% of the land and control very little of the income produced by their labor. [^62]
+> Le donne costituiscono la maggioranza della popolazione del Kenya; svolgono il 70% del lavoro agricolo, ma possiedono meno dell’1% del terreno e controllano molto poco del reddito generato dal proprio lavoro. [^62]
 
-56% of all unbanked adults globally are women. Women are overrepresented among the unbanked in most economies. This is true even in economies that have successfully increased account ownership and have a relatively small share of adults who are unbanked. [^63] In the United States, Middle East and North Africa two-thirds of the unbanked are women.[^64]
+Il 56% di tutti gli adulti non bancabili nel mondo sono donne. Tra i non bancabili, le donne sono sovra rappresentate nella maggioranza delle giurisdizioni. Ciò è vero anche in economie che hanno aumentato con successo le aperture dei conti corrente e che hanno una quota relativamente piccola di adulti che sono non bancabili. [^63] Negli Stati Uniti, Medio Oriente e Nord Africa, due terzi degli individui non bancabili sono donne.[^64]
 
-A study in Kenya found that access to mobile money services delivered big benefits, especially for women. It enabled women-headed households to increase their savings by more than one fifth, allowed 185,000 women to leave farming and develop business or retail activities and helped reduce extreme poverty among women-headed households by 22 percent.
+Uno studio ha scoperto che in Kenya l’accesso ai servizi di denaro virtuale via cellulare forniscono grandi benefici, specialmente alle donne. Ha facilitato famiglie con capofamiglia femminile ad aumentare i loro risparmi per più di un quinto, permettendo a 185,000 donne di lasciare lavori di coltivazione e sviluppare imprese o attività di vendita al dettaglio, riducendo del 22% l’estrema povertà delle famiglie con capofamiglia femminile.
 
-Mobile money services like M-Pesa in Kenya or EcoCash in Zimbabwe have increased access to financial instruments. The problem: these are services by centralized, private companies. The government can interfere, transactions can be censored or accounts can be closed. As an example, in July 2020 the Zimbabwean government blocked pay-outs from EcoCash mobile money accounts to bank accounts or cash.
+Servizi di denaro virtuale via cellulare come M-Pesa in Kenya o EcoCash in Zimbabwe hanno aumentato l’accesso a strumenti finanziari. Il problema è che questi sono servizi centralizzati di società private. Il governo può interferire, le transazioni possono essere censurate o i conti chiusi. Ad esempio, in luglio 2020 il governo dello Zimbabwe ha bloccato gli accrediti da conti EcoCash verso i conti correnti bancari, o le conversioni in contante.
 
-Financial services can also help people accumulate savings and increase spending on necessities. After being provided with savings accounts, market vendors in Kenya, primarily women, saved at a higher rate and invested 60 percent more in their businesses. Women-headed households in Nepal spent 15 percent more on nutritious foods (meat and fish) and 20 percent more on education after receiving free savings accounts. Moreover, farmers in Malawi who had their earnings deposited into savings accounts spent 13 percent more on farming equipment and increased their crop values by 15 percent. [^65]
+I servizi finanziari possono inoltre aiutare le persone ad accumulare risparmi e aumentare la spesa dei beni necessari. I venditori del mercato in Kenya, in maggioranza donne, dopo essere stati forniti di conti deposito, sono stati in grado di aumentare i loro risparmi e a reinvestire nella loro impresa il 60% in più. Le famiglie con capofamiglia femminile in Nepal hanno speso il 15% in più in cibi nutrienti (carne e pesce) e il 20% in più in istruzione dopo aver ricevuto gratuitamente un conto deposito.  Inoltre, i coltivatori del Malawi in grado di depositare i loro guadagni nei conti deposito hanno speso il 13% in più in attrezzatura agricola, aumentando il valore del loro raccolto del 15%. [^65]
 
-Bitcoin can lower the cost of receiving payments, leaving people with more of their money. While traditional financial instruments require an ID and proof of address, using Bitcoin is open to everyone. Therefore, Bitcoin can support women in gaining more freedom and self-sovereignty.
+Bitcoin può diminuire il costo di ricevere pagamenti, consentendo alle persone di avere in mano un po’ più del proprio denaro. Mentre gli strumenti finanziari tradizionali richiedono un documento identificativo e una prova di residenza, l’uso di Bitcoin è aperto a chiunque. Pertanto, Bitcoin può supportare le donne nel conseguimento della libertà e dell’auto-sovranità.
 
-For more insights about the living conditions of people in Zimbabwe and their real-life use of Bitcoin in Venezuela, Argentina, Afghanistan, Nigeria, and more, [listen to my podcast interviews](https://anita.link/show). Regarding the advantages for women using Bitcoin, look up the section "Women in Bitcoin".
+Per ulteriori approfondimenti in merito alle condizioni di vita delle persone in Zimbabwe, e l’utilizzo nella vita reale di Bitcoin in Venezuela, Argentina, Afghanistan, Nigeria ecc., [ascolta le interviste nel mio podcast](https://anita.link/show). Rispetto i vantaggi per le donne nell'usare Bitcoin, visita la sezione “Women in Bitcoin".
 
-### Slow, But Safe
-One criticism of Bitcoin is that its development is slow and clunky. In fact, reality shows that Bitcoin is the longest standing and technically safest blockchain. It has never been hacked or altered. The reason for this is a community of independent, open-source developers whose first interest is to contribute to the broader social good. Listen to [Adam Back](https://anita.link/12), [Gloria Zhao](https://anita.link/82), [Tim Akinbo](https://anita.link/63), [Amiti Uttawar](https://anita.link/62) or [Matt Corrallo](https://anita.link/19) to understand how thoughtful and driven they are by their mission. Secondly, the pace of development is deliberately slow. The Silicon Valley mantra of "Move fast and break things" is the opposite of what you want for a 600 billion USD digital asset that is at the same time, live software.
+### Lentamente, ma in sicurezza  
+Una critica che si può sollevare allo sviluppo del software di Bitcoin è che sia lento e goffo. La realtà dimostra che la blockchain di Bitcoin è la più longeva e tecnicamente la più sicura.Non è mai stata compromessa da hacker o alterata. La ragione di ciò si basa sul fatto che la comunità di sviluppatori è indipendente e open-source, il cui interesse principale è contribuire a un bene sociale più ampio. Ascolta le interviste a [Adam Back](https://anita.link/12), [Gloria Zhao](https://anita.link/82), [Tim Akinbo](https://anita.link/63), [Amiti Uttawar](https://anita.link/62) o [Matt Corrallo](https://anita.link/19) per comprendere le ragioni e motivazioni della loro missione. In secondo luogo, il ritmo dello sviluppo del software è deliberatamente lento. Il motto della silicon Valley “Muoviti velocemente e rompi le cose” è l’esatto opposto di ciò che vorresti per un asset digitale da 600 miliardi di dollari americani che è software allo stesso tempo.
 
-### Internet of Things
-An internet native money like bitcoin can be used by machines too. Self-driving electric cars like auto-taxis will be able to recharge themselves at charging stations and pay automatically with bitcoin. This is not science fiction, this is the near future. Andy Schroder from Kentucky is [loading his Tesla with real-time machine-to-machine micropayments over the Bitcoin Lightning Network](http://andyschroder.com/DistributedCharge/) already. This will not be the only innovation that will come from the intersections of new technology, money and communication.
+### Internet of Things  
+Un sistema di denaro nativo dell’Internet come bitcoin può essere usato anche dalle macchine. Le automobili a guida automatica come anche i taxi automatici saranno in grado di ricaricarsi in autonomia alle colonnine e pagare automaticamente con bitcoin. Non è fantascienza, è l’immediato futuro. L’abitante del Kentucky Andy Schroder [carica la sua Tesla con micropagamenti in tempo reale da macchina a macchina tramite il Lightning Network di Bitcoin](http://andyschroder.com/DistributedCharge/). Questa non sarà l’unica innovazione che viene dall’intersezione di nuove tecnologie, denaro e comunicazione.
 
-### Bitcoin, the Life-Boat
-As I laid out in chapter 1, it's not a question of whether the current financial system will fall, but when. Even before the COVID-19 pandemic spread globally in spring 2020, nations were in deep debt; the devastating effects were evident in the global and regional wealth gaps. For many years experts have warned the public about it. Simon Dixon had already called out the Great Depression of the 2020s already in 2011. Nomi Prins explained the central banks' collusion in her 2018 book of the same name. Satoshi Nakamoto referred to the dangers of a monetary system built on debt and the financial crisis in the white paper.
+### Bitcoin, la scialuppa di salvataggio  
+Come esposto nel primo capitolo, non è una questione di se il sistema finanziario attuale collasserà, ma quando. Ancora prima che l’epidemia del COVID-19 si diffuse globalmente nella primavera del 2020, le nazioni erano già in serio debito; gli effetti devastanti erano evidenti nella disparità economica globale e regionale. Per molti anni esperti hanno allertato il pubblico. Nel 2011 Simon Dixon aveva già previsto la Grande Crisi del 2020, Nomi Prins spiegò la collusione delle banche centrali nell’omonimo libro del 2018. Nel suo white paper, Satoshi Nakamoto cita la crisi finanziaria e i pericoli di un sistema monetario che si basa sul debito.
 
-Bitcoin is debt-free money. One does not simply inflate the supply. It's the perfect alternative to opt-out of the fiat system. In order to hedge against this looming crisis, it makes sense to distribute investments among different assets and thus reduce systemic risk. Gold, equities, bonds, real estate, watches and vintage cars are well-known value protection assets. Bitcoin is a digital value protection asset.
+Bitcoin è denaro senza debito. Non si può gonfiarne la fornitura. È l’alternativa perfetta per uscire dal sistema fiat. Per difendersi contro questa crisi incombente, ha senso distribuire i propri investimenti tra più asset differenti e ridurre questo rischio sistemico. Oro, azioni, bond, proprietà immobiliari, orologi e auto d’epoca sono tra i più rinomati beni rifugio. Bitcoin è un bene rifugio digitale.
 
-When CEOs of publicly traded companies like Elon Musk and Michael Saylor began to exchange USD cash holdings for bitcoin, they secured their place on the Bitcoin life-boat. Bitcoin was made for individuals. For people like you and me. Now is your chance to exit the sinking boat of fiat currencies. It's not too late, you're still early.
+Quando amministratori delegati di società quotate in borsa come Elon Musk e Michael Saylor iniziano a spendere le loro riserve in dollari per acquistare bitcoin, hanno guadagnato il loro posto nella scialuppa di salvataggio rappresentata da Bitcoin. Bitcoin è stato creato per le persone. Per persone come me e te. La tua occasione per abbandonare la barca che affonda rappresentata dalle valute fiat è adesso. Non è troppo tardi, sei ancora in tempo.
 
-### Bitcoin Is Common Good
-The Bitcoin network is a public infrastructure; it is a decentralized communications network that is still being built right in front of our eyes. We as individuals could not participate financially, directly from the build out of the internet. Most of us did not own shares of Apple, Google or Facebook. Many hurdles exclude billions of people from investing in start-ups. Bitcoin is open for everyone to invest in its infrastructure. You can also use houses to imagine Bitcoin being digital property; there are only 21 million houses and you can buy a fraction of a house, right down to a door handle.
+### Bitcoin è un bene comune  
+La rete di Bitcoin è un’infrastruttura pubblica; è una rete di comunicazioni decentralizzata che è in costante costruzione di fronte ai nostri occhi. Noi come individui non possiamo partecipare finanziariamente e direttamente per la costruzione di Internet. La maggioranza di noi non possiede azioni Apple, Google o Facebook. Molti ostacoli impediscono miliardi di persone dal poter investire in start-up. Bitcoin è aperta a tutti coloro vogliano investire nella sua infrastruttura. Puoi anche utilizzare l’esempio delle case per immaginare Bitcoin come proprietà digitale: ci sono solamente 21 milioni di case disponibili, puoi acquistare una frazione di una casa, fino anche solamente la maniglia di una porta.
 
-### Bitcoin Encourages Saving
-Bitcoin is ideal for long-term saving. If you believe that the value is going to rise in the future, you are encouraged to hold and not to spend your bitcoin on things that are not really necessary.
+### Bitcoin incoraggia il risparmio  
+Bitcoin è l’ideale per un risparmio a lungo termine. Se credi che il valore si apprezzerà in futuro, sei incoraggiato a conservare i tuoi bitcoin e a non spenderli in cose che non sono realmente necessarie.
 
-### You Can Afford Bitcoin
-You don't have to buy a whole bitcoin. A bitcoin is divisible to a hundred million units. The smallest unit is called a "Satoshi" - after the pseudonymous founding figure, Satoshi Nakamoto. You can buy parts of a bitcoin and start with as little as 20 euros, for example.
+### Puoi permetterti Bitcoin  	
+Non devi per forza acquistare un bitcoin intero. Un bitcoin è divisibile in cento milioni unità. L’unità più piccola è denominata “satoshi” – derivante dallo pseudonimo del fondatore, Satoshi Nakamoto. Puoi acquistare parti di bitcoin ed iniziare con soli 20 euro, ad esempio.
 
-### Bitcoin and the Functions of Money
-Many textbook economists are insisting on the fact that Bitcoin is not money because it does not fulfill the three functional criteria that money must have. These functions were defined by William Stanley Jevons[^66] in 1875, his analysis becoming widely popular in macroeconomic textbooks ever since.
+### Bitcoin e le funzioni del denaro  
+Molti economisti accademici insistono nel fatto che Bitcoin non sia denaro in quanto non soddisfa i tre criteri funzionali che la moneta normalmente deve possedere. Tali funzioni sono state definite da William Stanley Jevons[^66] nel 1875, da allora la sua analisi trovò ampio spazio nei manuali di macroeconomia.
 
-According to Jevons, Bitcoin is only money if it fulfills these functions:
-1. Store of value - the value must remain stable over time
-2. Medium of exchange - it is widely accepted in exchange for goods and services
-3. Medium of account - it is used as a measure for prices, costs and profits
-Source: https://en.wikipedia.org/wiki/Money
+Secondo Jevons, Bitcoin è considerabile denaro solamente se soddisfa queste funzioni:
+1. Riserva di valore – il valore deve rimanere stabile nel tempo
+2. Mezzo di scambio – è ampiamento accettato in cambio di beni e servizi
+3. Unità di conto – è impiegato come metro di prezzi, costi e profitti
+Fonte: https://en.wikipedia.org/wiki/Money
 
-**1. Store of Value**
-Critics say bitcoin is not a store of value due to its volatility and potential for short-term losses. Well, as I laid out in chapter 3.1, in the long-term that is not really the case. Further, I question the definition of "stable over time". What is the time frame? Inflation in fiat money in Austria has been 20% over the last decade. All other fiat currencies like the Euro are similarly unreliable stores of value for this very reason.
+**1. Riserva di valore**  
+Le voci critiche di bitcoin dicono che non sia un bene rifugio in ragione della sua volatilità, che può portare a perdite a breve termine.  Ma come esposto nel capitolo 3.1, non è il caso nel lungo termine. Inoltre, metto in dubbio la definizione di “stabile nel tempo”. Qual è la forbice temporale? L’inflazione della valuta fiat in Austria è stata del 20% nella decade precedente. Le altre valute fiat come l’euro sono anch’esse riserve di valore inaffidabili per la medesima ragione.
 
-**2. Medium of Exchange**
-You can use bitcoin as a medium of exchange if you want to. Yes, there is only a small number of companies, services and restaurants that accept bitcoin as a payment at the time of writing. But, to do this, you could use different tools and services that you can fill with bitcoin and spend in fiat. On top of that, there are a lot of companies inside the space that already accept and pay wages in bitcoin too.
+**2. Mezzo di scambio**  
+Puoi usare bitcoin come mezzo di scambio, qualora volessi. Certamente, al momento in cui scrivo, vi è solamente un numero esiguo di società, servizi e ristoranti che accettano bitcoin come metodo di pagamento. Tuttavia, potresti utilizzare altri strumenti e servizi per caricare bitcoin e spendere in contestuali fiat. Inoltre, ci sono molte società nell’ambiente bitcoin che accettano la criptovaluta e pagano gli stipendi in bitcoin.
 
-**3. Medium of Account**
-Fiat money is required to be the medium of account by law. We simply do not have a choice. Bitcoin is based on voluntary use, it is opt-in; if we speculate that the value is going up, we won't spend it. Since the volatility of bitcoin becomes less over time, one day value will hit a plateau and people will start spending bitcoin. Even earlier than this, more and more businesses will start to accept bitcoin, since they will trust that it does not lose value but rather appreciates.
+**3. Unità di conto**  
+La moneta fiat è l’unità di conto per decreto legislativo. Non abbiamo semplicemente altra scelta. Bitcoin si basa sull’uso volontario, è un sistema in cui uno decide in autonomia di parteciparvi; se speculiamo che il valore si apprezzerà, dunque non spenderemo alcun bitcoin. Considerando che la volatilità di bitcoin si è ridotta nel tempo, un giorno questo valore si stabilizzerà e le persone inizieranno a spendere bitcoin. Anche prima di questa occorrenza, sempre più società inizieranno ad accettare bitcoin considerato il fatto che non perde valore ma, anzi, si apprezzerà.
 
-A new form of money that is not forced upon us, but is an opt-in, has to go through certain stages in that order: first, it has to become a store of value, then trust has to be built, then people will use it as a medium of exchange. Only then it will be used as a medium of account.
+Una nuova forma di denaro che non è imposta dall’alto ma a cui si decide volontariamente di prenderne parte deve superare alcune fasi: in primis deve diventare una riserva di valore. In seguito, la fiducia deve essere costruita, e la gente inizierà ad utilizzarlo come mezzo di scambio.  Solo allora verrà poi impiegato come unità di conto.
 
-Dismissing Bitcoin because it does not yet fulfill all the functions of money is missing the point.
+Liquidare Bitcoin poiché non soddisfa tutte le funzioni del denaro non centra il punto della questione.
 
-### Comparing the Traits of Money
+### Confrontare le caratteristiche del denaro
 
-In 2014 Ryan Walker took the concepts of Darwin's theory of natural selection to compare the evolution of the different forms of money. The table below displays the degree to which gold, fiat and bitcoin fulfill the traditionally recognized traits of money (row 1 - 8). Government issued measures the degree of centralization and control by authorities (row 9).
+Nel 2014 Ryan Walker riprese i concetti della selezione naturale darwiniana per comparare l’evoluzione di diverse forme di denaro. Lo schema sottostante mostra il livello per cui l’oro, valute fiat e bitcoin soddisfino le caratteristiche tradizionali del denaro (righe 1-8). Il rigo “Government issued” misura il livello di centralizzazione e controllo da parte delle autorità (riga 9).
 
-> "The arrival of cryptographic-based currencies has enabled key new traits previously not possible with traditional forms of money. Furthermore, the realization of such traits will likely have a dramatic impact on the environment in which these currencies compete. Row 10 and 11 include the specie of cryptocurrency when rated against the traditional and newly realized traits of money." - **Ryan Walker**
+> "L’avvento di valute basate sulla crittografia ha abilitato nuove caratteristiche chiave che prima non erano possibili per le forme tradizionali di denaro. Inoltre, è probabile che la realizzazione di tali caratteristiche avranno un impatto rilevante nell’ambito in cui queste valute competono. Le righe 10 e 11 comparano la specie della criptovaluta in relazione alle caratteristiche tradizionali e di nuova realizzazione del denaro." - **Ryan Walker**
 
 ![The traits of money](assets/_table-characteristics-money.PNG)[^67]
-This shows the degree to which gold, fiat, and cryptographic currencies fulfill the traditionally recognized traits of currency as well as the new traits made possible by the discovery of Bitcoin.
+Il grafico mostra il livello per il quale l’oro, le valute fiat e le criptovalute soddisfino le caratteristiche tradizionali del denaro ed anche le nuove caratteristiche rese possibili dalla scoperta di Bitcoin.
 
-As you can see, Bitcoin goes beyond the traditional framework of what money is. It's evolving into a completely new dimension of what money can do and from which applications will be built upon in the future.
+Da come si può vedere, Bitcoin va oltre l’impianto tradizionale di cosa sia il denaro. Si sta evolvendo in una dimensione completamente nuova di ciò che il denaro possa fare, e dal quale verranno sviluppate applicazioni in un futuro.
 
 [^56]: [Clifford Stoll](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)  
 [^57]: [Wikipedia, Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index)  
