@@ -1,18 +1,18 @@
-## Bitcoin the Internet of Values
+## Bitcoin – Internet dei Valori
 
-Bitcoin is more than a digital coin or internet-native money. It is a public internet infrastructure. It is an internet protocol through which values are exchanged between computers operated by humans, but also by autonomous machines themselves. For example, cars won’t only drive autonomously in the future, but will also navigate to the charging station on their own for recharging. In this scenario, the payment is made automatically via bitcoin without anyone having to intervene manually.
+Bitcoin è molto di più di una moneta digitale o denaro nativo di Internet. È un’infrastruttura pubblica di Internet. È un protocollo di Internet tramite il quale vengono scambiati valori in computer operati da esseri umani, ma anche da macchine autonome.  Ad esempio, in futuro le automobili non solo si guideranno autonomamente, ma si auto navigheranno alla stazione di ricarica più vicina per ricaricarsi. In questo scenario, il pagamento è eseguito in automatico tramite bitcoin senza l’intervento manuale di nessuno.
 
-A protocol governs the exchange of information or procedures. Language is a protocol. When I speak and take a short break, my counterpart knows that she can speak now. Every word in a conversation has a meaning, every expression changes the tone of a conversation. The human language protocol regulates the communication between two or more people. Computers also talk to each other. For example, their protocols are SMTP for email transmission, FTP for sending files, or HTTPS for visiting web pages. The respective protocol determines how data is exchanged with each other so that one computer can understand the other.
+Un protocollo regola lo scambio di informazioni o delle procedure. Il linguaggio è un protocollo. Quando parlo e prendo una pausa, il mio interlocutore comprende che ora è il suo turno per parlare. Ogni termine di una conversazione ha un significato, ogni espressione cambia il tono di una conversazione. Il protocollo del linguaggio umano regola la comunicazione tra due o più persone. Anche i computer parlano l’uno con l’altro. Ad esempio, i loro protocolli sono l‘SMTP per la trasmissione di email, l’FTP per l’invio di file, o l’HTTPS per visitare siti web. Il rispettivo protocollo determina come i dati vengono scambiati affinché ogni computer possa comprendere l’altro.
 
-### Internet Protocol Stack
-The Bitcoin protocol can be compared to the structure of the internet protocol stack.
+### Stack del protocollo Internet
+Il protocollo di Bitcoin può essere comparato alla struttura dello stack del protocollo Internet.
 
 ![Bitcoin is a common good](assets/_Bitcoin-protocol.png) [^23]
 
-The Bitcoin blockchain is a new internet protocol comparable to the TCP/IP protocol, which is the basis of the internet. On top of the Bitcoin blockchain, the Bitcoin protocol transfers bitcoin values similar to the SMTP protocol for sending emails. On top of that, there is bitcoin as an application comparable to email software such as Gmail or Outlook. This is called the base layer of Bitcoin.
+La blockchain di Bitcoin è un nuovo protocollo Internet comparabile al protocollo TCP/IP, che è la base dell’Internet. Oltre alla blockchain di Bitcoin, il protocollo Bitcoin trasmette valore in bitcoin similmente al protocollo SMTP che permette l’invio di email. E inoltre, bitcoin è una applicazione comparabile a un software per email come Gmail o Outlook. Questo viene denominato il livello base di Bitcoin.
 
-### The Lightning Network
+### Il Lightning Network
 
-On top of the base layer protocol, additional layers can be built, such as the Lightning Network, which has been operating since 2018. That is why it is called the second-layer or layer two protocol. The Lightning Network enables small but fast payments and at the same time an unlimited amount of payments per second. Something that is technically not possible on the Bitcoin base layer due to the restricted block size. It also brings more privacy while using bitcoin, since it is operating through private payment channels between thousands of nodes. Lightning payments hop from one node to the other, making it impossible to know who the payment sender is. Applications like wallets, lending services and more are being built on top of the Lightning protocol, bringing Bitcoin's security properties with it. 
+Possono essere costruiti ulteriori livelli oltre il livello base del protocollo, come il _Lightning Network_, operativo sin dal 2018. Questo è il motivo per il quale viene chiamato secondo livello, o protocollo livello due o _second layer_. Il Lightning Network abilita pagamenti veloci e di piccolo importo, necessari a causa della ristretta dimensione del blocco e dunque tecnicamente non eseguibili al livello base di Bitcoin. Inoltre, provvede a fornire maggior privacy nell’utilizzo di bitcoin considerato che opera tramite canali di pagamento privati tra migliaia di nodi. I pagamenti Lightning balzano da un nodo all’altro, rendendo impossibile sapere chi è il mittente. Applicazioni come wallet, servizi di prestito ed altri, vengono costruiti sul protocollo Lightning, portando con sé le proprietà di sicurezza di Bitcoin. 
 
 [^23]: Anita Posch inspired by [Melanie Swan](https://www.slideshare.net/lablogga/bitcoin-and-blockchain-explained-cryptocitizen-smartnetwork-trust)
