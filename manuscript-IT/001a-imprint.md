@@ -8,7 +8,7 @@ Autrice: Anita Posch
 
 Casa Editrice: PoshMedia e.U., Seilerstaette 24, 4. Stock, 1010 Wien, Austria 
 
-L'edizione originale in lingua inglese e` stata pubblicata in giugno 2021 col titolo _(L)earn Bitcoin - Become Financially Sovryn_
+L'edizione originale in lingua inglese è stata pubblicata in giugno 2021 col titolo _(L)earn Bitcoin - Become Financially Sovryn_
 
 Traduzione e localizzazione: ilaz  
 Proofreading: Riccardo G.
