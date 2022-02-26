@@ -1,27 +1,27 @@
-## Strategic Notes
+## Note strategiche
 
-### Words of Warning
+### Parole di avvertimento
 
-**Before you get into buying Bitcoin, please read these important notes:**
+**Prima che tu proceda con l’acquisto di Bitcoin, leggi queste note importanti:**
 
-This guide covers the first Bitcoin blockchain, created by Satoshi Nakamoto in 2009, which operates under the acronym BTC or XBT on exchanges. For information about Bitcoin (BTC), see [https://bitcoin.org](https://bitcoin.org/). On Bitcoin.com on the other hand, you reach the website of Bitcoin Cash (BCH), which is a split off from 2017.
+Questa guida riguarda la prima blockchain di Bitcoin creata da Satoshi Nakamoto nel 2009, che opera sotto il simbolo BTC o XBT nelle borse di scambio. Per maggiori informazioni su Bitcoin (BTC), visita [https://bitcoin.org](https://bitcoin.org/). All’indirizzo Bitcoin.com, invece, raggiungerai il sito di Bitcoin Cash (BCH), che è un fork del 2017.
 
-Be aware that there are many spin-offs of the original Bitcoin. They have names like Bitcoin Cash (BCH), Bitcoin SV (BSV), Bitcoin Gold (BTG), Bitcoin Diamond (BCD) or Bitcoin 2 (BTC2). These are not "cheaper" bitcoin, but independent, different assets. They use the same name as Bitcoin to benefit from its notoriety, but do not maintain the same strengths or popularity as the real Bitcoin (BTC).
+Presta attenzione al fatto che vi sono numerosi spin-off del Bitcoin originale che portano il nome di Bitcoin Cash (BCH), Bitcoin SV (BSV), Bitcoin Gold (BTG), Bitcoin Diamond (BCD) o Bitcoin 2 (BTC2). Queste non sono versioni “più economiche” di bitcoin, ma asset differenti e indipendenti. Sfruttano il nome di Bitcoin per trarre beneficio della sua notorietà, ma non conservano le stesse caratteristiche o popolarità del Bitcoin originale (BTC).
 
-Bitcoin is a common good, without trademark rights. If you were to start a company today and call it "Apple Premium", you would receive a lawsuit for trademark infringement from Apple very quickly. This does not apply to Bitcoin because it is open source, which promotes innovation and inclusion. In the case of naming a spin-off something like Bitcoin Cash, it is confusing and should be avoided.
+Bitcoin è un bene comune, ed è privo di diritti di marchio. Se tu oggi iniziassi un’attività e la chiamassi “Apple Premium”, riceveresti una diffida per violazione del marchio Apple piuttosto velocemente. Ciò non si applica a Bitcoin perché il codice sorgente è aperto, e viene promossa l’innovazione e l’inclusione. Il caso di Bitcoin Cash, il cui nome origina da uno spin-off, crea confusione e dovrebbe essere evitato.
 
-The use of Bitcoin is legal in most countries of the world, but a state ban could come into force at any time, theoretically preventing the use of Bitcoin by individuals. In any case, a ban could result in a loss of value and switching your bitcoin back into fiat currencies could be difficult. Since the core Bitcoin community are highly committed users, even if your country bans bitcoin, you will always find someone who will happily exchange your bitcoin for fiat.
+L’uso di Bitcoin è legale nella maggioranza dei Paesi nel mondo ma una proibizione governativa può essere implementata in ogni momento, impendendo teoricamente l’uso da parte degli individui. In ogni caso, la proibizione potrebbe portare ad una perdita di valore, e cambiare i tuoi bitcoin in valute fiat può essere di difficile esecuzione. Dato che il nucleo della comunità di Bitcoin è formata da utenti altamente devoti, nell’evenienza che il tuo stato proibisca bitcoin potrai sempre trovare qualcuno felice a cambiare i tuoi bitcoin per fiat.
 
-The price of bitcoin is determined by supply and demand. It is possible at any time - and has also happened several times - that the price drops sharply in a short time and you cannot withdraw or exchange your bitcoin as quickly as desired.
+Il prezzo di bitcoin è determinato dal rapporto tra domanda ed offerta. È possibile ad ogni momento – e ciò è accaduto già numerose volte – che il prezzo crolli repentinamente in modo brusco, e che tu non riesca a prelevare o cambiare i tuoi bitcoin in rapidità.
 
-Use only as much money as you can lose without getting into financial problems. You are responsible for the safe custody of your capital. In case of loss or theft, there is no recovery option.
+Usa solamente un ammontare di denaro che sai di poter perdere senza incorrere in problemi di natura finanziaria. Sei tu il responsabile della custodia sicura del tuo capitale. Nel caso di perdita o furto, non esiste un’opzione di recupero.
 
-In addition to bitcoin, there are more than 4,000 other crypto assets to date, all of which have different objectives and uses. Learn more about the intentions, the team and the technology behind it before you invest, if at all.
+In aggiunta a bitcoin, ad oggi vi sono oltre 4,000 asset _crypto_, e tutti possiedono differenti obiettivi e casi d’uso. Studia le intenzioni, lo staff e la tecnologia alla base di tali asset, se proprio vuoi investirci.
 
-The emergence of these other assets can affect the price of bitcoin. Another currency could become the leading digital currency, although currently most of the acceptance and growth is within Bitcoin (BTC).
+L’emergere di questi altri asset può impattare sul prezzo di bitcoin. Un’altra valuta potrà diventare la valuta digitale leader, sebbene attualmente la maggioranza dell’accettazione e della crescita risiede in Bitcoin (BTC).
 
-Don't get carried away with quick promotions because someone is giving you a "get rich quick" offer and promises to buy and manage coins for you. Unfortunately, many people play nasty games and stage multi-level marketing offers, or [Ponzi schemes](https://anita.link/ponzi).
+Non lasciarti influenzare da promozioni di guadagni veloci perché qualcuno ti sta offrendo uno schema d’investimento _“get rich quick”_, e promette di acquistare e gestire le monete a tuo nome. Sfortunatamente, molte persone giocano sporco e imbastiscono forme fraudolente di _multi-level marketing_, o [schemi Ponzi](https://anita.link/ponzi).
 
-If someone asks you to "join" Bitcoin or is writing "BitCoin", be aware. You don't need to join anything to use Bitcoin, there is no need to buy an entry package or anything like that - these are most likely scams.
+Se qualcuno ti offrisse di “aderire” a Bitcoin o scrivesse “BitCoin”, rimani vigile. Non devi aderire a nulla per usare Bitcoin, non c’è bisogno di acquistare alcun pacchetto d’ingresso o qualcosa del genere – molto probabilmente queste offerte sono delle truffe.
 
-If you are waiting to buy a Bitcoin ETF, you won't own bitcoin and won't use bitcoin. You will only be exposed to the price action. You only own and control your bitcoin if you manage your private keys yourself. You can find out how to do this on the following pages.
+Se stai attendendo di acquistare azioni dell’ETF di Bitcoin, non entrerai in possesso di nessun bitcoin e non li potrai nemmeno usare. Sarai solamente esposto al movimento del prezzo di mercato. Possiedi e controlli i tuoi bitcoin solamente se gestisci autonomamente le tue chiavi private. Nelle prossime pagine potrai scoprire come farlo.
