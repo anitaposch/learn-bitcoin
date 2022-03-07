@@ -1,75 +1,75 @@
-## Wallet Types
+## Tipi di wallet
 
-There are different types of wallets depending on the device, security requirements and supported cryptocurrencies. To decide which wallet is best for you I will provide some thoughts and industry standards as guidance. Ultimately, you have to decide which wallet is the best for you. Since Bitcoin is such a novel technology, wallet software is changing constantly. You need to consider that you will need to do upgrades and sometimes change the wallet manufacturer because of new functionalities, there are constantly new wallets on the market. This should not turn you off, I just want to make you aware of it. In the last few years, I used more and more wallets to test them or to be able to use new functionalities. Therefore I will recommend wallets that I have used myself and that have a very good reputation among industry experts.
+Nel mercato ci sono differenti tipologie di wallet che variano a seconda del dispositivo utilizzato, requisiti di sicurezza e criptovalute supportate. Per aiutarti a decidere quale wallet possa essere più adatto a te, ti fornirò una guida con alcuni ragionamenti sugli standard industriali. Alla fine, sarai in grado di selezionare un wallet che meglio si adatta al tuo uso. Dato che Bitcoin è una tecnologia nuova, il software del wallet è in costante cambiamento. Devi considerare di tenere il wallet sempre aggiornato, e talvolta anche cambiare il produttore a causa del rilascio di nuove funzionalità; nuovi wallet vengono immessi in continuazione nel mercato. Questa cosa non deve amareggiarti, voglio solo renderti edotto di questa realtà. Nel corso degli ultimi anni ho utilizzato numerosi wallet al fine di testarli o per essere in grado di sfruttare nuove funzionalità. Pertanto, ti fornirò delle raccomandazioni di wallet che io stessa ho utilizzato e che godono di ottima reputazione tra gli esperti dell’industria.
 
-### Wallet Security
+### Sicurezza del wallet
 
-The better protected a wallet's software is from outside attacks over the internet, the more secure it is. Therefore, the basic categorization is between hot storage and cold storage solutions. Hot wallets, like mobile wallets and desktop wallets, are apps that connect to the internet and are therefore at risk from hackers, viruses or regulatory and counter-party risks. Cold storage solutions like hardware wallets are never online and therefore are much more secure.
+Più un software wallet è resistente ad attacchi esterni via Internet, più è considerabile sicuro. Pertanto, la categorizzazione basilare da farsi è tra le soluzioni di storage _hot_ e _cold_. Gli hot wallet - i wallet su smartphone e computer - sono app che si connettono a Internet e pertanto soffrono del rischio di virus, di attacchi hacker, di regolatorio e del rischio di controparte. Le soluzioni cold wallet – wallet hardware – non sono sempre connesse online e pertanto sono molto più sicure.
 
-Additionally, your smartphone, whether Android or iOS, is more secure than your laptop or PC. Desktop Windows systems are less secure than Apple devices at the time of writing. Within the different smartphone operating systems, there are fewer differences in the level of security.
+In aggiunta, il tuo smartphone, Android o iOS, è più sicuro del tuo laptop o PC. I sistemi Windows sono meno sicuri dei dispositivi Apple, al momento in cui scrivo. Al di là del sistema operativo dello smartphone, non vi sono rilevanti differenze nel livello di sicurezza.
 
-On top of these considerations, you need to use a wallet that supports your favorite cryptocurrencies. Since this is a BTC guide, I suggest you use a bitcoin-only wallet. The more cryptocurrencies a software such as a wallet app has to handle, the more complex the development and maintenance of the software is from the manufacturer's end. More complexity brings higher risks of bugs and vulnerabilities.
+Oltre alle considerazioni precedenti, devi valutare l’utilizzo di un wallet che supporti la criptovaluta di tuo interesse. Dato che questa guida è incentrata su BTC, ti suggerisco l’utilizzo di un wallet esclusivo per bitcoin. Più criptovalute il software di una app di wallet deve gestire, più complessi sono lo sviluppo e il mantenimento del menzionato software da parte del produttore. Maggiore complessità comporta rischi più alti di bug e vulnerabilità.
 
-In the years since Bitcoin's release, using a hardware wallet has proven to be the best way to store your private keys. A hardware wallet is a small device that stores private keys offline, similar to a USB stick.
+Negli anni successivi alla nascita di Bitcoin, l’impiego di un wallet hardware ha dato prova di essere il metodo migliore per la conservazione e il mantenimento delle chiavi private. Un wallet hardware è un dispositivo portatile simile a una chiavetta USB che conserva le chiavi private offline.
 
-Hardware wallets require maintenance and a computer or smartphone. If you don't want to worry about software updates, or do not own such a device, you can use the Card Wallet as a cold storage alternative. It is a product by the oldest Austrian bitcoin broker Coinfinity and the Austrian State Printing House.
+I wallet hardware necessitano di un minimo di mantenimento e di un computer o smartphone. Se non intendi preoccuparti di aggiornamenti software, o non possiedi questo dispositivo, puoi optare per il Card Wallet, un’alternativa di cold storage. È un prodotto di Coinfinity, il primo broker austriaco di bitcoin, in associazione con la società privata dell’Istituto Poligrafico Austriaco.
 
-### Industry Standards
-In each case, you need to trust the wallet manufacturers to a higher or lesser degree. The **industry's preferred and recommended cold storage solutions are hardware wallets**.
+### Standard industriali
+In ogni caso, devi riporre un certo grado di fiducia nei confronti del produttore del wallet. Le **soluzioni di cold storage preferibili e raccomandate dall’industria sono i wallet hardware**.
 
-Depending on the amount your wallet has to manage, it is standard to use a combination of **a smartphone wallet for small amounts that you want to have with you on the go** and **hardware wallets for large amounts like savings in your bank account**.
+A seconda dell’ammontare che il tuo wallet deve gestire, è buona norma utilizzare una combinazione **di wallet per smartphone per piccoli importi che vuoi avere sempre con te** e un **wallet hardware per grandi importi, come i risparmi che mantieni nel tuo conto corrente bancario**.
 
-If your bitcoin funds reach an amount that you would rather have secured to an even higher degree, then you should look for multi-signature solutions. But be aware: Multi-sig solutions are **not for beginners**! You really need to know what you are doing.
+Se i tuoi fondi in bitcoin raggiungono un ammontare tale che preferiresti metterli ancor più in sicurezza, dunque dovresti informarti a soluzioni multi-firma. Ma presta attenzione: le soluzioni _multi-sig_ **non sono adatte ai principianti**! Devi veramente comprendere bene cosa stai facendo.
 
-As an alternative, you can use a company called Casa and their industry-leading multi-sig solutions. Or you can get several hardware wallets to split your funds onto more devices, which lowers the risk of device or manufacturer flaws.
+In alternativa puoi rivolgerti ai servizi della società leader dell’industria denominata Casa, che offre soluzioni multi-sig. Oppure puoi utilizzare diversi wallet hardware per ripartire i tuoi fondi in diversi dispositivi, diminuendo il rischio di malfunzionamenti del dispositivo o di difetti lato produttore.
 
-## Wallet Recommendations Overview
+## Panoramica di raccomandazioni sul wallet
 
 ### Hot Storage
 
-**Mobile Wallets**
-For iOS and Android
+**Wallet per smartphone**  
+Per iOS e Android
 * [Blockstream Green](https://blockstream.com/green/) (Bitcoin non-custodial, Liquid)
 * [Breez Wallet](https://breez.technology/) (Lightning non-custodial)
-* If you want to use Bitcoin and micro-payments on the Lightning Network:
-* [Muun Wallet](https://muun.com/) (Bitcoin and Lightning non-custodial)
-* [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial and Lightning custodial)
-* [Electrum](https://electrum.org) (Bitcoin and Lightning non-custodial, for more tech-savvy users)
+* Se volessi usare Bitcoin e i micropagamenti sul Lightning Network:
+* [Muun Wallet](https://muun.com/) (Bitcoin e Lightning non-custodial)
+* [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial e Lightning custodial)
+* [Electrum](https://electrum.org) (Bitcoin e Lightning non-custodial, per utenti più esperti)
 
-**Desktop Wallets**
-Because of the security risks stated above, I don't use software wallets on my computer, except for when I use them in combination with hardware wallets. For this, I use Electrum or the hardware manufacturer's native software.
+**Wallet per computer**  
+Considerati i rischi di sicurezza menzionati precedentemente, non uso wallet software nel mio computer, ad accezione di quelli in combinazione d’uso col wallet hardware, come ad esempio Electrum o il software nativo del produttore del wallet hardware.
 
 * [Blockstream Green](https://blockstream.com/green/) (Bitcoin non-custodial, Liquid)
-* [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial and Lightning custodial)
-* [Electrum](https://electrum.org) (Bitcoin and Lightning non-custodial, for more tech-savvy users)
+* [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial e Lightning custodial)
+* [Electrum](https://electrum.org) (Bitcoin e Lightning non-custodial, per utenti più esperti)
 
 ### Cold Storage
-**Hardware Wallets**
+**Wallet hardware**
 
-Hardware wallets manage your coins, bitcoin addresses and associated private keys without them ever "touching" the internet. Even if your device is virus-contaminated or has been hacked, your funds are safe and you can send and receive payments. You need to manually confirm transactions on these external devices - this ensures that no intruder on your computer can take over your funds.
+I wallet hardware gestiscono le tue coin, gli indirizzi bitcoin e le contestuali chiavi private associate senza mai “sfiorare” Internet. Anche se il tuo dispositivo fosse infettato da virus o fosse stato compromesso da un hacker, i tuoi fondi sono al sicuro e sarai in grado di inviare e ricevere pagamenti. Con questi dispositivi esterni devi confermare le transazioni manualmente – questa operazione assicura che nessuno possa violare il tuo computer e ti privi dei tuoi fondi.
 
-The following manufacturers and devices have recently established themselves in the hardware wallet market in recent years. SatoshiLabs from Prague has been producing hardware wallets since 2012. The company Ledger from Paris was founded in 2014. SHIFT Cryptosecurity from Zurich has been on the market since 2015 and Canadian company Coinkite has been in the Bitcoin space since 2012.
+I seguenti produttori e relativi dispositivi si sono recentemente affermati nel segmento dei wallet hardware. SatoshiLabs di Praga produce wallet hardware dal 2012. La società parigina Ledger è stata costituita nel 2014. SHIFT Cryptosecurity di Zurigo è nel mercato dal 2015, e la società canadaese Coinkite è nell’ambiente Bitcoin dal 2012.
 
-* BitBox02 bitcoin-only edition https://anita.link/bitbox02 (my readers get 5 % off) - SHIFT Cryptosecurity
-* Trezor One, Model T https://anita.link/trezor - SatoshiLabs
-* Ledger Nano S, Nano X https://anita.link/ledger - Ledger
-* Coldcard (for tech-savvy users) https://anita.link/coldcard - Coinkite
+* BitBox02 edizione bitcoin-only: https://anita.link/bitbox02 (i lettori possono ottenere uno sconto del 5%) - SHIFT Cryptosecurity
+* Trezor One, Model T: https://anita.link/trezor - SatoshiLabs
+* Ledger Nano S, Nano X: https://anita.link/ledger - Ledger
+* Coldcard (per utenti esperti): https://anita.link/coldcard - Coinkite
 
-The Coldcard is different to the other models because it is an air-gapped device - it can be used without ever being connected to a computer. That's why some people refer to it as cold-cold storage, being even more secure. For novices, I recommend one of the first three company's devices.
+Coldcard differisce dagli altri modelli elencati poiché è un dispositivo _air-gapped_ – ovvero che può essere usato senza essere mai connessi a un computer. Ecco perché alcune persone lo ritengono una soluzione di storage _cold-cold_, rivelandone un superiore grado di sicurezza. Ai principianti, raccomando uno dei primi tre dispositivi.
 
-Never buy a hardware wallet from strangers on eBay or Amazon, and of course, don't buy it second hand. Always purchase it directly from the manufacturer's website, the manufacturer's Amazon page or a dealer you trust. Make sure that the device is sealed as stated on the manufacturer's website. Most of the recommended devices above have tamper-evident packaging to make sure that the device is used for the first time and has not been manipulated. Ledger deliberately chooses not to use anti-tamper seals on its packaging because they can potentially be counterfeited. Genuine Ledger devices contain a secure chip that prevents physical tampering and allows users to verify the software and hardware integrity using Ledger's guides. In any case: no manufacturer is sending the seed with the device!
+Non acquistare mai wallet hardware da sconosciuti su eBay o Amazon, e ovviamente non acquistarli di seconda mano. Comprali sempre direttamente dal sito del produttore, la pagina Amazon ufficiale del produttore o un distributore di cui ti fidi. Assicurati che il dispositivo sia sigillato come da indicazioni sul sito del produttore. La maggioranza dei dispositivi raccomandati precedentemente sono consegnati in confezioni a prova di manomissione, per assicurare che il dispositivo non sia mai stati utilizzato in precedenza e che non sia stato manipolato. Ledger ha deliberatamente preferito di non utilizzare sigilli a prova di manomissione perché anche questi potrebbero essere contraffatti. I dispositivi Ledger genuini contengono un chip di sicurezza che previene la manomissione fisica e permette all’utente di poter verificare l’integrità sia del software sia dell’hardware seguendo le linee guida di Ledger. In ogni caso, nessun produttore invia il seed assieme al dispositivo!
 
-In addition to the device, the vendor provides wallet software to manage your coins. For privacy reasons, many users take the vendor wallet only to do the initialization and backup of the device (write down the seed) and for firmware updates. After that, they use a wallet like Electrum for managing the coins.
+In aggiunta al dispositivo, il venditore include un software wallet per la gestione delle tue criptovalute. Per ragioni di privacy, molti utenti usano il wallet solamente per l’inizializzazione e il backup del dispositivo (annotandosi il seed), e per gli aggiornamenti del firmware. In seguito, usano un wallet come Electrum per gestire le proprie coin.
 
-**Offline wallets**
-**Paper Wallet**
-On the internet, you will find recommendations for using paper wallets. They are self-generated bitcoin addresses with their private and public keys that you can print out on paper. Since you generate and print them out yourself, you do not have to spend money on them. But, they are difficult to generate securely. The security measures that you need to take are extremely high. **I advise against using them**.
+**Wallet offline**  
+**Paper Wallet**  
+In Internet troverai raccomandazioni ad usare i paper wallet. Sono degli indirizzi bitcoin generati automaticamente recanti coppie di chiavi private e pubbliche, che puoi stampare su un foglio di carta. Considerando che li generi e stampi da te, non devi fondamentalmente spenderci nulla. Tuttavia, generarli in sicurezza risulta complicato. Le misure di sicurezza che devi attivare sono estremamente alte. **Ne sconsiglio l’uso**.
 
-Really, if you do not want to pay the 50 - 100 USD required to buy a hardware wallet to secure higher amounts than you carry around comfortably on your phone, then you should reconsider using bitcoin as a store of value in the first place.
+Se proprio non sei intenzionato a spendere quei 50-100 dollari americani necessari per l’acquisto di un wallet hardware al fine della messa in sicurezza di alti importi che puoi portare con te comodamente nel telefonino, dunque dovresti riconsiderare l'uso di bitcoin come riserva di valore in primo luogo.
 
-If you simply cannot afford a hardware wallet, use your phone in the meantime. As soon as you have saved enough funds, get yourself a hardware wallet.
+Se non puoi permetterti un wallet hardware, utilizza il tuo telefono nel frattempo. Non appena avrai risparmiato fondi a sufficienza, provvedi a recuperare un wallet hardware.
 
-**Card Wallet**
-The Card Wallet (product) is in principle a paper wallet, but it is produced by professionals with high security standards. However, you need to trust the manufacturers to not record the private keys to the card. You can use the Card Wallet as an alternative if you do not own a computer or smartphone or do not want to take care of the maintenance of your hardware wallet. https://cardwallet.com/anita (my readers get 20% off)
+**Card Wallet**  
+Il Card Wallet (il prodotto), nel suo principio è un paper wallet, ma è prodotto da professionisti che adottano alti standard di sicurezza. Tuttavia, devi comunque fidarti che il produttore non registri le chiavi private delle card. Puoi utilizzare il Card Wallet come alternativa qualora non possedessi un computer o smartphone, oppure se non volessi prenderti cura del mantenimento del tuo wallet hardware. https://cardwallet.com/anita (i miei lettori ottengono uno sconto del 20%).
 
-The industry preferred and **recommended cold storage solution are hardware wallets**.
+**La soluzione di cold storage preferibile e raccomandata dall’industria è il wallet hardware**.
