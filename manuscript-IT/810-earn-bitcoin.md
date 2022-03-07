@@ -1,81 +1,81 @@
-# Earn Bitcoin
-Earning Bitcoin is actually the best way to acquire it: limited or no registration, limited or no KYC identity check and no trading fees. Some of these services are only available in the US or other specific regions of the world. Since the Bitcoin space is in rapid development, this chapter can only be a lookout for what is to come.
+# Guadagnare Bitcoin
+Guadagnare Bitcoin è indubbiamente il metodo migliore per ottenerli: nessuna (o limitata) registrazione, nessuna (o limitata) verifica KYC dell’identità, e nessuna trading fee. Alcuni di questi servizi sono disponibili solamente negli Stati Uniti o in altre specifiche regioni del mondo. Dato che l’ecosistema Bitcoin è in rapido sviluppo, questo capitolo può essere interpretato come un assaggio di ciò che deve ancora venire.
 
-## Bitcoin Job Boards
-Find a job or a client to earn Bitcoin for your work.
+## Bacheche di lavoro Bitcoin
+Trova un impiego o un cliente per guadagnare Bitcoin in cambio del tuo lavoro.
 * [BitGigs](https://bitgigs.com/)
 * [Coinality](https://coinality.com/)
 * [CanWork](https://www.canwork.io/)
 * [Freelance For Coins](https://freelanceforcoins.com/projects)
 * [Working For Bitcoin](https://workingforbitcoins.com/)
 
-## Online Tasks
-Earn satoshis through finishing small tasks.
+## Lavoretti online
+Guadagna satoshi eseguendo semplici lavoretti.
 * [Stakwork](https://stakwork.com)
 * [Microlancer](https://microlancer.io/)
 * [Sats 4 Likes](https://kriptode.com/satsforlikes/index.html)
 
-## Convert Your Wage
-* [Bitwage](https://www.bitwage.com/) as an employee or freelancer, you can earn your wage in bitcoin instead of fiat. Employers can use this service to pay their team in bitcoin too. [Interview with founder Jonathan Chester](https://anita.link/106).
+## Converti il tuo salario
+* [Bitwage](https://www.bitwage.com/), che tu sia dipendente o un freelancer, puoi ricevere il tuo compenso in bitcoin anziché in fiat. Anche i datori possono sfruttare questo servizio per pagare in bitcoin il proprio gruppo di lavoro. Ascolta [l’intervista col fondatore Jonathan Chester](https://anita.link/106).
 
-## Receiving Donations or Payments
-As a nonprofit organization, a blogger or podcaster, you can easily receive tips in bitcoin/satoshis with these services:
+## Ricevere donazioni o pagamenti
+Come organizzazione non profit, blogger o podcaster, puoi facilmente ricevere mance in bitcoin/satoshi tramite questi servizi:
 
-* [Tippin.me](https://tippin.me/) lets you receive lightning bitcoin tips on your website and Twitter without fees
-* [Tallyco.in](https://tallyco.in/) is a crowdfunding platform built on top of the Bitcoin blockchain. You can receive payments in BTC and micro-payments through Lightning at zero fees
-* [Lightning Gifts](https://lightning.gifts/) create fee-less bitcoin gift vouchers to share with friends & family, and your audience
+* [Tippin.me](https://tippin.me/), ti permette di ricevere mance sul tuo sito e su Twitter, senza commissioni ed istantaneamente
+* [Tallyco.in](https://tallyco.in/), è una piattaforma di crowdfunding costruita sulla blockchain di Bitcoin. Puoi ricevere pagamenti in BTC e micropagamenti tramite il Lightning Network a zero commissioni
+* [Lightning Gifts](https://lightning.gifts/), crea buoni regalo senza fee da condividere con amici, parenti e il tuo pubblico
 
-## Content Creators and Podcasting 2.0
-With the advent of the Lightning Network, a truly groundbreaking new method of sending value and paying for content on the internet has been invented. Streaming money, a term coined by Andreas M. Antonopoulos, enables musicians, video creators and podcasters to earn money in real-time, without intermediaries. You only need a wallet that has podcasts integrated, a little bit of bitcoin and you can start listening while paying by the minute. The goal of Podcasting 2.0 and streaming money is to free content creators and the audience from ads, censorship and surveillance. Paying is voluntary, with no subscription fees and no prepayment. Be aware that at the time of writing these are all services in constant development. More about the [background of podcasting 2.0 in an interview](https://anita.link/pod2) with me.
+## Creatori di contenuti e podcast 2.0
+Con l’avvento del Lightning Network è stato inventato ed introdotto un nuovo metodo rivoluzionario per l’invio di valore e di pagamenti per contenuti in Internet. Lo “streaming money”, un termine coniato da Andreas M. Antonopoulos, permette a musicisti, creatori di video e podcaster di guadagnare in tempo reale, senza intermediari. Hai solamente bisogno di un wallet integrato col podcast, una manciata di bitcoin e puoi ascoltare il contenuto audio mentre paghi al minuto. L’obiettivo del podcast 2.0 e del streaming money è di liberare i creatori di contenuti e gli ascoltatori dalle pubblicità, dalla censura e dalla sorveglianza di massa. Il pagamento è volontario, privo di abbonamento o pagamento anticipato. Presta attenzione al fatto che, al momento in cui scrivo, questi servizi sono in fase di sviluppo costante. Maggiori informazioni [sul podcast 2.0 in questa mia intervista](https://anita.link/pod2).
 
 ![](assets/_breez-podcast.png)
 ![](assets/_breez-podcast-boost.png) [^78]
 
-* [Breez](https://breez.technology/) A non-custodial lightning wallet to listen to podcasts
-* [PodFriend](https://web.podfriend.com/) Podcast player
-* [Podstation](https://podstation.github.io/) browser extension for podcasts
-* [Sphinx Chat](https://sphinx.chat/) Chat and podcasting app for listeners and podcasters with their own node
-* [Satoshis.stream](https://satoshis.stream/) easy setup for podcasters without own node
-* [LN Cast](https://lncast.com/) Lightning Network podcasts, pay a small amount of satoshis and donate to listen to your favourite podcast
-* [LN Pay](https://lnpay.co/) Setup paywalls for your content, payable with lightning
+* [Breez](https://breez.technology/), wallet Lightning non-custodial per ascoltare podcast
+* [PodFriend](https://web.podfriend.com/), player di podcast
+* [Podstation](https://podstation.github.io/), estensione per browser di podcast
+* [Sphinx Chat](https://sphinx.chat/), chat e app per podcast, per ascoltatori e podcaster con proprio nodo
+* [Satoshis.stream](https://satoshis.stream/), configurazione semplice per podcaster senza nodo
+* [LN Cast](https://lncast.com/), podcast Lightning Network, paga un piccolo ammontare di satoshi e invia una donazione per ascoltare il tuo podcast preferito
+* [LN Pay](https://lnpay.co/), imposta un paywall per i tuoi contenuti, accessibili con pagamento Lightning
 * [WordPress Lightning Paywall](https://lightning-paywall.coincharge.io/)
-* [Scarce.City](https://scarce.city/) Lightning auctions for Bitcoin goods and art - [Interview with founder Chris Tramount](https://anita.link/91)
-* [Sparkshot](https://sparkshot.io/) Artists can sell their work for bitcoin
+* [Scarce.City](https://scarce.city/) aste Lightning per beni e arte Bitcoin - [Intervista col fondatore Chris Tramount](https://anita.link/91)
+* [Sparkshot](https://sparkshot.io/), gli artisti possono vendere le loro creazioni in bitcoin
 
-## Commerce
-* [Breez](https://breez.technology/#business) easy to use Point-of-Sale app for merchants, restaurants, cafes... to start accepting bitcoin payments.
-* [BTC Pay Server](https://btcpayserver.org/) is a self-hosted, open-source cryptocurrency payment processor for e-commerce. It's secure, private, censorship-resistant and free. You can connect it to your online store, generate invoices for your accounting and earn bitcoin through lightning. With integrations for WooCommerce, Shopify, Drupal, Magento, PrestaShop, Shopware.
-* [Confirmo](https://confirmo.net/) accept payments with plugins for popular online stores.
-* [Globee](https://globee.com/) accept bitcoin with GloBee, they offer open-source plugins for all major e-commerce platforms for a commission (custodial).
-* [OpenNode](https://www.opennode.com/) bitcoin payments and payouts for businesses, e-commerce plugins, hosted payment pages (custodial).
+## Commercio
+* [Breez](https://breez.technology/#business), app Point-Of-Sale facile da usare per venditori, ristoranti, caffè… per iniziare ad accettare pagamenti in bitcoin.
+* [BTC Pay Server](https://btcpayserver.org/), è un processore di pagamenti per e-commerce open source e auto ospitato. È sicuro, privato, resistente alla censura e gratuito. Puoi connetterlo al tuo negozio online, generare fatture per la tua contabilità e guadagnare bitcoin tramite Lightning. È integrabile con WooCommerce, Shopify, Drupal, Magento, PrestaShop, Shopware.
+* [Confirmo](https://confirmo.net/), accetta pagamenti con plugin per negozi online popolari.
+* [Globee](https://globee.com/), accetta bitcoin con GloBee, offre plugin open-source per le maggiori piattaforme di e-commerce in cambio di una commissione (custodial).
+* [OpenNode](https://www.opennode.com/), pagamenti in bitcoin per business, plugin di e-commerce, pagina di pagamento ospitata (custodial).
 
-## Cashback and Faucets
-* [Fold](https://foldapp.com/) earn bitcoin on every purchase with your VISA card
-* [Lolli](https://www.lolli.com/) earn bitcoin when you shop at over 1,000 stores
-* [Pei](https://getpei.com/) link almost any debit or credit card
-* [Satsback](https://satsback.com/en) earn sats back from online stores
-* [LN Pay](https://lnpay.co/faucets/) create your own lightning faucet and pay back your audience in bitcoin.
-* [Purse](https://purse.io) use bitcoin to buy on Amazon and get a discount
-* [Satsy](https://satsy.com/) earn sats while you shop online, take surveys and play games
+## Cashback e faucet
+* [Fold](https://foldapp.com/), guadagna bitcoin per ogni acquisto con la tua carta VISA
+* [Lolli](https://www.lolli.com/), guadagna bitcoin quando acquisti in oltre 1,000 punti vendita
+* [Pei](https://getpei.com/), connetti quasi tutte le carte di debito e credito
+* [Satsback](https://satsback.com/en), guadagna satoshi da negozi online
+* [LN Pay](https://lnpay.co/faucets/), crea il tuo _faucet_ Lightning e paga il tuo pubblico in Bitcoin
+* [Purse](https://purse.io), usa bitcoin per acquistare su Amazon e ricevere uno sconto
+* [Satsy](https://satsy.com/), guadagna satoshi mentre fai acquisti online, rispondi a sondaggi e giochi
 
 ## Gaming
-* [Thndr Games](https://thndr.games/games) win bitcoin prizes while playing
-* [Zebedee](https://zebedee.io/) with the ZEBEDEE Wallet you can play games with bitcoin, send payments inside messaging apps, collect donations on your live stream and a lot more
-* [Bitcoin Bounty Hunt](https://bitcoinbountyhunt.com/) a shooter game, where you can earn satoshis
-* [Satoshis Games](https://satoshis.games/) gaming platforms and an NFT marketplace for artists
+* [Thndr Games](https://thndr.games/games), vinci premi in bitcoin mentre giochi
+* [Zebedee](https://zebedee.io/), col wallet ZEBEDEE puoi giocare con bitcoin, inviare pagamenti tramite app di messaggistica, raccogliere donazioni in diretta streaming, e molto ancora
+* [Bitcoin Bounty Hunt](https://bitcoinbountyhunt.com/), un gioco in stile shooter dove puoi guadagnare satoshi
+* [Satoshis Games](https://satoshis.games/), piattaforma di gaming e marketplace NFT per artisti
 
-## Earn Through Investing
-* [SunExchange](https://thesunexchange.com/) offset your carbon footprint, buy solar cells and earn bitcoin - [Interview with founder Abe Cambridge](https://anita.link/104)
-* [Blockstream Mining Note, STOKR](https://blockstream.com/finance/bmn/) participate in Bitcoin mining through purchasing the STOKR security token
+## Guadagnare investendo
+* [SunExchange](https://thesunexchange.com/), compensa la tua impronta ecologica, acquista celle solari e guadagna bitcoin - [Ascolta l’intervista col fondatore Abe Cambridge](https://anita.link/104)
+* [Blockstream Mining Note, STOKR](https://blockstream.com/finance/bmn/), partecipa in attività di mining di Bitcoin tramite l’acquisto del security token STOKR
 
 ## Mining
-Be aware, there are a lot of mining scams out there. Even I fell for one some years ago. That's why I never touched that possibility again. Now more legitimate businesses are launching in that space.
+Fai attenzione, ci sono molte truffe relative al mining. Anche io ci sono cascata qualche anno fa. È il motivo per cui non ho più valutato nuovamente tali possibilità. Oggi, sempre più società e business legittimi stanno entrando nel mercato.
 
-* [Compass](https://compassmining.io/) A service that helps to buy, install and host mining hardware
-* [Blockstream Mining](https://blockstream.com/mining/) host your mining rigs with Blockstream's enterprise-class mining facilities and management
+* [Compass](https://compassmining.io/), un servizio che aiuta a comprare, installare e ospitare hardware per il mining
+* [Blockstream Mining](https://blockstream.com/mining/), ospita il tuo impianto di mining nelle strutture di mining e management di classe enterprise di Blockstream
 
-## Lending & Borrowing
-* [DeFi Rate](https://defirate.com/) Overview of lending and borrowing rates
+## Assunzione ed erogazione di prestiti
+* [DeFi Rate](https://defirate.com/), panoramica dei tassi d’interesse nell’ambito del servizio di prestito
 
 **Custodial**
 * [BlockFi](https://blockfi.com/)
@@ -87,7 +87,8 @@ Be aware, there are a lot of mining scams out there. Even I fell for one some ye
 * [SpectroCoin](https://spectrocoin.com/)
 
 **Non-Custodial**
-* [LEND at Hodl Hodl](https://lend.hodlhodl.com/) Global P2P Bitcoin-backed non-custodial lending platform
-* [Sovryn](https://sovryn.app) is a non-custodial and permissionless smart contract-based system for Bitcoin lending, borrowing and margin trading.
+* [LEND presso Hodl Hodl](https://lend.hodlhodl.com/), piattaforma di prestito globale P2P non-custodial con garanzia in Bitcoin
+* [Sovryn](https://sovryn.app), è un sistema non-custodial e permissionless basato su smart contract che consente il prestito di bitcoin e il trading a margine
 
 [^78]: Screenshots by Anita Posch, retrieved March 2021, Breez wallet
+
