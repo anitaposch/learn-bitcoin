@@ -1,35 +1,30 @@
+(L)earn Bitcoin
+Impara e guadagna con Bitcoin
+Diventa Finanziariamente Sovrano
+Prima Edizione, ...............
 
-(L)earn Bitcoin  
-Impara e guadagna con Bitcoin  
-Diventa Finanziariamente Sovrano  
-Prima Edizione, ...............  
+Autrice: Anita Posch
 
-Autrice: Anita Posch  
+Casa Editrice: PoshMedia e.U., Seilerstaette 24, 4. Stock, 1010 Wien, Austria
 
-Casa Editrice: PoshMedia e.U., Seilerstaette 24, 4. Stock, 1010 Wien, Austria 
+L'edizione originale in lingua inglese è stata pubblicata in giugno 2021 col titolo (L)earn Bitcoin - Become Financially Sovryn
 
-L'edizione originale in lingua inglese è stata pubblicata in giugno 2021 col titolo _(L)earn Bitcoin - Become Financially Sovryn_
-
-<<<<<<< HEAD
-Traduzione e localizzazione: ilaz  
+Traduzione e localizzazione: ilaz
 Proofreading: Riccardo G.
-=======
-Italian translation and proofreading: ..................
->>>>>>> parent of 44cb204 (Update 001a-imprint.md)
 
-Redattore: Mark Kersley   
-Impaginazione: Couper Street Type Co.  
-Disegno Copertina/Direzione Artistica: tzu jan | 自然  
-Concept Sketch Illustrazioni: @danubastidas  
-Illustrazioni: Maleek Illustration  
+Redattore: Mark Kersley
+Impaginazione: Couper Street Type Co.
+Disegno Copertina/Direzione Artistica: tzu jan | 自然
+Concept Sketch Illustrazioni: @danubastidas
+Illustrazioni: Maleek Illustration
 Hand Lettering Manuale: Mila Masina
 
-Copyright 2021 di Anita Posch, tutti i diritti riservati.  
+Copyright 2021 di Anita Posch, tutti i diritti riservati.
 
-È consentita la condivisione di parti del testo del libro in articoli presso i media, in siti personali, in articoli commerciali o post di blog (p.e. Medium), e/o in account personali di social media, purché venga inclusa l’attribuzione ad “Anita Posch” e il link all’URL https://anitaposch.com. Non è permessa la copia e la vendita dei contenuti del libro in ogni sua forma.  
+È consentita la condivisione di parti del testo del libro in articoli presso i media, in siti personali, in articoli commerciali o post di blog (p.e. Medium), e/o in account personali di social media, purché venga inclusa l’attribuzione ad “Anita Posch” e il link all’URL https://anitaposch.com. Non è permessa la copia e la vendita dei contenuti del libro in ogni sua forma.
 
-ISBN (hb): 978-3-9504591-6-6  
-ISBN (pb): 978-3-9504591-5-9  
+ISBN (hb): 978-3-9504591-6-6
+ISBN (pb): 978-3-9504591-5-9
 ISBN (ebook): 978-3-9504591-4-2
 
-**Trova informazioni aggiornate online riguardo il libro presso https://learnbitcoin.link**
+Trova informazioni aggiornate online riguardo il libro presso https://learnbitcoin.link/it/
