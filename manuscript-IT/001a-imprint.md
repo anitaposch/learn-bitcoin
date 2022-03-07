@@ -10,8 +10,12 @@ Casa Editrice: PoshMedia e.U., Seilerstaette 24, 4. Stock, 1010 Wien, Austria
 
 L'edizione originale in lingua inglese è stata pubblicata in giugno 2021 col titolo _(L)earn Bitcoin - Become Financially Sovryn_
 
+<<<<<<< HEAD
 Traduzione e localizzazione: ilaz  
 Proofreading: Riccardo G.
+=======
+Italian translation and proofreading: ..................
+>>>>>>> parent of 44cb204 (Update 001a-imprint.md)
 
 Redattore: Mark Kersley   
 Impaginazione: Couper Street Type Co.  
