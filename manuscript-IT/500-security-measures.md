@@ -1,139 +1,140 @@
-# Storing Coins Safely
+# Mettere al sicuro le tue coin
 
-## Safety Measures
-All databases can get hacked. Search your email on https://haveibeenpwned.com/ - if you're lucky you have not been pwned, but billions of other accounts have. Therefore, it is important to follow general security measures that apply even more while using Bitcoin.
+## Misure di sicurezza
+Tutti i database possono essere attaccati da hacker. Fai una ricerca della tua email presso https://haveibeenpwned.com/ - se sei fortunato non sei stato compromesso, ma miliardi di altri account lo sono stati. Pertanto, è importante seguire misure di sicurezza generali, che a maggior ragione devono essere applicate quando si utilizza Bitcoin.
 
-### Hardware and Software Setup
-You can use popular browsers such as Firefox, Opera, Brave or Chrome. Browser extensions that block Javascript and Cookies are recommended. Ghostery, NoScript and ScriptSafe are the kind of extensions you can add to your browser. "HTTPS everywhere" enforces an SSL connection to all websites, including those that do not yet offer SSL.
+### Setup dell’hardware e del software
+Puoi utilizzare browser popolari quali Firefox, Opera, Brave or Chrome. Le estensioni del browser che bloccano Javascript e i Cookies sono raccomandati. Ghostery, NoScript e ScriptSafe sono quel tipo di estensioni che puoi aggiungere al tuo browser. "HTTPS everywhere" applica una connessione SSL a tutti i siti web, inclusi quelli che non offrono SSL nativamente.
 
-Be aware that some online stores do not work properly with those extensions turned on, so you have to disable them manually.
+Presta attenzione che alcuni punti vendita online non funzionano al meglio se queste estensioni sono attivate, pertanto dovrai disattivarle manualmente.
 
-It is important that you keep your devices safe.
+È importante che tu mantenga sempre i tuoi dispositivi in sicurezza.
 
-### Updates
-This advice applies to all your devices: perform all suggested software updates. For your computer's operating system as well as for your smartphone. Always use the latest version of your wallet and firmware software on your hardware wallet.
+### Aggiornamenti
+Questo consiglio è applicabile per tutti i tuoi dispositivi: esegui sempre tutti gli aggiornamenti del software. Sia del sistema operativo del tuo computer sia del tuo smartphone. Utilizza sempre l’ultima versione del tuo wallet e del firmware del tuo wallet hardware.
 
-### Email Addresses
-Do not use one email address for everything. Get yourself disposable email addresses that you only use one time. You can also buy a domain that you only use for fake email addresses that you forward to your main address.
+### Indirizzi email
+Non usare una singola email per tutto. Prepara delle email usa e getta che userai solamente una volta. Puoi anche acquistare un dominio che potrai usare per indirizzi email fake, e che inoltrerai al tuo indirizzo principale.
 
-### Secure Passwords
-Use secure passwords for all online services. Your birthday, place of residence, the name of your cat or 1234567 are not secure passwords. Whole sentences with digits, spaces, upper and lower case letters and special characters are strong passwords.
+### Password sicure
+Utilizza password sicure per tutti i servizi online che fruisci. La data di compleanno, il luogo di residenza, il nome del tuo gatto o 1234567 non sono password sicure. Frasi intere che includono numeri, spazi, lettere maiuscole e minuscole, e caratteri speciali sono password forti.
 
-Use a different password for each website on which you log in. Otherwise, a hacker with only one password can enter all the services you are registered with. Do not store these passwords in a Word file or anything like that on your computer. A Word document is easy for hackers to steal and read.
+Utilizza una password differente per ogni sito in cui fai login. Altrimenti, con una sola password, un hacker può irrompere in tutti i servizi cui sei registrato. Non conservare queste password in un file Word o similare nel tuo computer. Un documento Word è semplice da rubare e leggere per un hacker.
 
-You can use software like 1Password, Bitwarden or KeePass (free and open source). These are encrypted password databases, where you can generate and store all your passwords and you only need to remember one password to open it.
+Puoi utilizzare programmi quali 1Password, Bitwarden o KeePass (gratuito e open source). Sono dei database di password criptate che permettono la generazione e conservazione delle tue password, di cui tu dovrai solamente ricordartene una per potervi accedere.
 
 ### PIN
-Set up a PIN for your wallet software so that no one can easily open your wallet on your device.
+Configura un PIN per il tuo wallet di modo che nessuno potrà accedere facilmente al wallet nel tuo dispositivo.
 
 ### 2FA
-Use a 2 factor authentication method to secure your accounts. Do not use SMS / text as the 2 factor authentication method because of SIM swapping attacks. Instead, install an authenticator app like and OTP or TOTP on your phone.
+Utilizza un metodo di autenticazione a due fattori per mettere al sicuro i tuoi account. Non usare l’SMS/messaggio di testo come secondo fattore per il metodo di autenticazione a causa degli attacchi di _SIM swapping_. Invece, installa nel tuo smartphone un autenticatore che impiega OTP (_one-time password_, una password monouso) o TOTP (_time-based one-time password_, password monouso basata sul tempo).
 
 ### SIM Swapping
-SIM swapping is when someone hijacks your SIM and telephone number. They can then use your phone number to login to all connected accounts where you activated 2 factor authentication with text/SMS. SIM swapping is an attack to get into your primary email account. If the attackers can access the primary email account that is associated with 2FA to your phone number, they can find all the Bitcoin exchange accounts you are using with 2FA and wipe them out.
+Il SIM swapping avviene quando qualcuno si appropria e devia la tua SIM e il tuo numero di telefono. L’attaccante può usare il tuo numero di telefono per accedere a tutti gli account associati a tale numero, e in quelli in cui hai attivato un metodo di autenticazione a due fattori con SMS/messaggio di testo. Il SIM swapping è un attacco col fine di entrare nella tua email primaria. Se l’attaccante accede alla tua email primaria associata al tuo 2FA, che è a sua volta associato al tuo numero di telefono, possono individuare tutti gli account degli exchange di Bitcoin in cui sei registrato col 2FA, e svuotarli.
 
-The attack is often started by calling customer services at your telecom provider (Verizon, Vodafone, AT & T, Magenta,...). They say something along the lines of "I am the owner of the phone number, I lost my phone please transfer my number to my new SIM". The customer services person will ask for a piece of personal information to verify your identity. The attackers will then try a lot of tricks. They badger the support person to get small bits of information from them, hang up and call someone else and use that snippet of information to build to the next level. They then get more information and keep building until they have enough information to persuade the last person that they are the account owner and get the SIM transferred.
+L’attacco è spesso perpetrato partendo da una chiamata telefonica al servizio clienti del tuo fornitore telefonico (Verizon, Vodafone, AT&T, Magenta, ...). Dicono al telefono qualcosa come “Sono il proprietario del numero di telefono, ho perso il telefono, trasferite cortesemente il mio numero alla mia nuova SIM”. L’operatore del servizio clienti chiederà qualche informazione personale per verificare l’identità. Gli attaccanti si avvarranno di alcuni stratagemmi a loro disposizione. Inganneranno l’operatore al fine di ottenere piccole informazioni, attaccheranno la telefonata e richiameranno un altro operatore utilizzando quel frammento di informazione col fine di ottenerne altre. Continueranno con questo stratagemma fino a quando otterranno sufficienti informazioni per persuadere l’operatore che siano di fatto il titolare dell’account, e la SIM verrà dunque trasferita.
 
-They will go after all crypto exchanges where you might have set up an account with your email address and phone number.
+Accederanno a tutti gli exchange crypto dove potresti aver attivato un conto associato al tuo indirizzo email e numero di telefono.
 
-When they know your email, they will try to change your account password with the "forgot password" functionality. Good sites will not tell them if the account exists. The attackers will try to do a password reset or try to get a text message verification.
+Una volta a conoscenza della tua email, tenteranno di cambiare le password tramite la funzione “password dimenticata”. I siti web buoni non forniranno informazioni sull’esistenza di un account. Gli attaccanti tenteranno il reset della password o proveranno ad ottenere una verifica tramite messaggio di testo.
 
-**What You Can Do - Gmail Example**
-Lock down your primary email account and remove your phone number from your email account (such as a Gmail account). Here is how it's done: [https://anita.link/removegmail](https://anita.link/removegmail). Use a different password for every account on every website or service. As a Gmail user, you can enroll in the Google Advanced Protection Program, which defends against targeted online attacks.
+**Cosa puoi fare – Esempio con Gmail**
+Blocca l’account della tua email primaria e rimuovi il numero di telefono associato al tuo account email (ad esempio Gmail). Qui puoi vedere come si fa: [https://anita.link/removegmail](https://anita.link/removegmail). Usa una password differente per ogni account tu abbia in ogni sito o servizio. Come utente Gmail, puoi iscriverti al Google Advanced Protection Program, che ti difende contro attacchi online mirati.
 
-## Phishing Attacks
-In 2020, the marketing database of the French hardware manufacturer Ledger was hacked. The devices are safe, but thousands of email addresses, phone numbers and even home addresses of customers were leaked and can be found by anyone on the internet. This is an absolute disaster because there's a high chance that people ordering a hardware wallet own bitcoin too. In the worst case, you will be "visited" at home. Most likely are threats via email and phishing attacks. To prevent this, keep in mind that you may never need to use your physical address for delivery of a Bitcoin related product such as a hardware wallet. You could organize a postbox for yourself. In the US there are services that can receive mail for you (CMRAs). If possible, do not even use your real name when ordering. Get yourself a second phone number and use this in case the vendor requests one. Give them a disposable email address that you only use for this specific order.
+## Attacchi phishing
+Nel 2020, il database marketing del produttore francese Ledger ha subito un attacco hacker. I dispositivi non sono stati compromessi, tuttavia migliaia di dati tra indirizzi email, numeri telefonici e perfino indirizzi residenziali dei loro clienti sono stati sottratti e rilasciati nel web. Questo è disastroso, in quanto ci sono alte probabilità che chiunque avesse ordinato un wallet hardware possieda anche bitcoin. Nello scenario peggiore, qualcuno verrà a “visitarvi” a casa. Più probabilmente, riceverete minacce via email e attacchi di phishing. Per evitarlo, tieni a mente che non hai bisogno di utilizzare il tuo indirizzo fisico per la spedizione di un prodotto bitcoin, come ad esempio un wallet hardware. Puoi organizzare una cassetta di corrispondenza da te. Negli Stati Uniti ci sono servizi che consentono di ricevere pacchi postali commerciali a tuo nome (CMRA). Se possibile, non utilizzare nemmeno il tuo nome reale quando fai acquisti. Procurati un numero di telefono secondario ed utilizza questo nel caso il venditore lo richieda. Fornisci un indirizzo email usa e getta che utilizzerai al fine esclusivo di questo specifico ordine.
 
-Phishing attacks are attempts to scare or manipulate you so that you enter your seed words on the attacker's website. For instance, you could receive an email saying: "Your ledger device has been corrupted or deactivated, visit this link and enter your 12 seed words to save your funds." or "We have detected a large withdrawal from your Ledger. You have 24 hours to respond to make this transaction valid. We are sorry, we can not reach your Ledger it seems to be corrupted. We are going to authorize the withdrawal unless you start the recovery process, give us your 24 seed words." or "you have received an airdrop. Money is coming into your account, all we need is a verification, please start your recovery process and give us your 24 seed words."
+Gli attacchi di phishing sono tentativi di manipolarti e spaventarti al punto di portarti ad inserire il tuo seed presso il sito dell’hacker. Ad esempio, potresti ricevere un’email che recita: “Il tuo dispositivo Ledger è stato corrotto o disattivato, visita questo link ed inserisci le tue 12 parole seed per salvare i tuoi fondi,” oppure “Abbiamo rilevato un largo prelievo dal tuo Ledger. Hai 24 ore per rispondere e confermare la validità della transazione. Siamo spiacenti, non possiamo connetterci al tuo Ledger, appare corrotto. Autorizzeremo il prelievo qualora non inizializzerai il processo di recupero, fornisci il tuo seed di 24 parole”, oppure ancora “Hai ricevuto un airdrop. I fondi raggiungeranno il tuo account, ciò di cui abbiamo bisogno è una verifica, cortesemente inizializza il processo di recupero e fornisci le 24 parole del seed."
 ![Phishing mail](assets/_phishing-mail-ledger.png) [^70]
-The attackers try to make you act fast without thinking. If you receive such a mail. Stop. Do not do anything. Because no one can seize your money, no one can remotely disable your hardware wallet. That is the whole point of a decentralized currency like bitcoin.
+L’attaccante tenterà di farti agire velocemente senza troppo pensare. Se ricevi email del genere, fermati. Non fare nulla. Perché nessuno può confiscare i tuoi fondi, nessuno può disattivare il tuo wallet hardware da remoto. È proprio questo il punto di una valuta decentralizzata come bitcoin.
 
-Never trust email! Especially: never click on the links attached.
+Non fidarti mai delle email! E specialmente: non cliccare mai i link.
 
-Bookmark the real websites of official sites of Ledger, Shift Crypto, Trezor etc. or type the domain name yourself in the browser address bar and look up the SSL authentication certificate. The attackers will send you to a fake website that looks the same as the real one. The only difference is the URL. One of the new tricks is to use domains with Unicode characters that look the same as the real domain. For instance, can you notice the stain underneath the l of electrum? If you open that URL you see electrum.org, but are visiting xn--eectrum-9hb.org instead.
+Aggiungi tra i preferiti gli indirizzi web dei siti ufficiali di Ledger, Shift Crypto, Trezor ecc. oppure digita il dominio da te nella barra degli indirizzi del browser e guarda il certificato di autenticazione SSL. L’attaccante ti invierà un indirizzo web falso che somiglierà molto a quello reale. L’unica differenza è l’URL. Un inganno tipico è utilizzare domini recanti caratteri Unicode, del tutto similari al dominio reale. Ad esempio, riesci ad individuare la macchiolina sotto la “l” di “electrum”? Se aprissi l’URL vedresti il sito electrum.org, ma stai invece di fatto visitando xn--eectrum-9hb.org.
 
 ![](assets/_phishing.png) [^71]
 
-Browsers like Opera and Chrome will warn you, but Firefox doesn't do this by default. You can change that by enabling "punycode" in Firefox, see [anita.link/puny](https://anita.link/puny).
+Browser come Opera o Chrome ti invieranno un allarme, ma Firefox non lo fa di default. Puoi cambiare l’impostazione attivando _"punycode"_ nelle opzioni di Firefox, vedi qui una guida [anita.link/puny](https://anita.link/puny).
 
-## 3-2-1 Rule for Storing Your Seed
-The seed consists of 12 - 24 English words. Nowadays, more wallets use 12 words instead of 24 because they provide a high enough level of security and are easier to remember and store.
+## Regola 3-2-1 per conservare al sicuro il tuo seed
+Il seed consiste di 12-24 parole in lingua inglese. Oggi, sempre più wallet utilizzano 12 parole invece di 24 in quanto forniscono un livello di sicurezza sufficientemente alto, e sono più facili da ricordare e conservare.
 
-Write the seed on a piece of paper by hand when you first initialize your wallet. Make sure that the order is correct and check the written words multiple times. Note the vendor, model and the wallet software too. You might need this information in case you want to recover your funds.
+Scrivi a mano il seed su un foglio di carta quando inizializzi il tuo wallet. Accertarti che l’ordine sia corretto, e controlla le parole più volte. Annotati il venditore, il modello e anche la versione del software del wallet. Potresti aver bisogno di queste informazioni nel caso tu debba recuperare i tuoi fondi.
 
-If you set up a hardware wallet you should send a small amount of bitcoin to it to make sure that everything works. After receiving the small amount, delete the software from the device and restore it with the words you have written down previously. This is an important step that you should not skip.
+Se imposti un wallet hardware, dovresti fare un test per assicurarti che tutto funzioni a dovere inviando un piccolo ammontare di bitcoin. Dopo aver ricevuto il piccolo ammontare, disinstalla il software dal dispositivo e reinstallalo utilizzando la seed phrase. Questo è un passaggio importante che non dovresti saltare.
 
-After that, it is advisable to take the following security measures to prevent you from losing your seed. When people lose access to their funds it's more often because they have lost their seed or made a mistake writing it down and not because their devices have been hacked.
+In seguito, è raccomandabile seguire delle misure di sicurezza al fine di prevenire la perdita del seed. Quando le persone perdono l’accesso ai propri fondi, spesso è a causa della perdita del seed o ad un errore nell’annotazione delle parole, non perché il dispositivo è stato compromesso.
 
-**3**: Write down the seed three times
+**3**: Annota il seed tre volte
 
-**2**: On at least two different media (laminated paper, engraved or stamped on steel) and store it in a safe place for protection against fire, loss and theft.
+**2**: Su almeno due supporti differenti (carta laminata, incisione o stampa su acciaio), e conservalo in un posto sicuro dal fuoco, perdita o furto.
 
-**1**: additionally, store a backup in a different location, preferably at least 100 kilometres away.
+**1**: In aggiunta, conserva una copia in un luogo differente, preferibilmente ad almeno 100 km di distanza.
 
-Jameson Lopp, one of my podcast guests, is testing steel plates that can be used to secure the seed for the long term. He exposes them to fire and pressure to check longevity. Not all products are made of steel or titanium, which is why they melt in fire. The tests can be found here: [anita.link/metalseed](https://anita.link/metalseed)
+Jameson Lopp, uno degli ospiti del mio podcast, testa i vari prodotti di seed incisi su acciaio per capire se possano essere utilizzati ai fini della messa in sicurezza a lungo termine. Li sottopone a stress test di reazione al fuoco e alla pressione, per comprenderne la longevità. Non tutti i prodotti sono fatti di acciaio o titanio, questo è il motivo per cui si sciolgono al contatto col fuoco. I risultati dei test possono essere consultati a questo link: [anita.link/metalseed](https://anita.link/metalseed)
 
-Don't get creative! Dividing the words into two or more parts and storing them in different locations is a common mistake. You only need to lose one part and you will no longer be able to access your coins.
+Non essere troppo creativo! Dividere le parole in due o più gruppi e conservarli in luoghi differenti, è un errore tipico. Ne perdi uno, e non sarai più in grado di accedere alle tue coin.
 
-* Never give the seed to someone you don't trust with your money!
-* Do not enter the seed on any websites or electronic devices!
-* The seed is not required to send or receive bitcoin.
-* No credible individual or entity would ask for your seed.
-* Check the storage locations of your seed words regularly!
-* Set up an inheritance plan - worst cases do happen and if you do not instruct your beneficiaries correctly, your bitcoin are lost. I recommend Pamela Morgan's book on "Cryptoasset Inheritance Planning".
+* Non dare mai il seed a qualcuno di cui non ti fidi coi tuoi soldi!
+* Non scrivere il seed in nessun sito o dispositivo elettronico!
+* Il seed non è richiesto per inviare o ricevere bitcoin.
+* Nessuna persona o entità credibile ti chiederà il seed.
+* Controlla regolarmente il luogo in cui stai conservando il seed!
+* Attiva un piano di successione ereditaria – gli scenari peggiori possono sempre accadere, e se non istruisci a dovere i beneficiari dell’eredità, i tuoi bitcoin saranno perduti. Suggerisco il libro di Pamela Morgan "Cryptoasset Inheritance Planning".
 
-### Passphrase
-A passphrase is an additional way to secure your funds on top of the seed. If you add a passphrase, the software creates an additional wallet that you can use to protect yourself from physical attacks. If someone gets hold of your seed, they still can not access your funds because they do not have the passphrase.
+### Frase d’accesso
+Oltre al seed, una frase d’accesso è un metodo addizionale per la messa in sicurezza dei tuoi fondi. Se aggiungi una frase d’accesso, il software crea un wallet addizionale che puoi utilizzare per proteggerti da attacchi fisici. Se qualcuno prendesse possesso del tuo seed, non sarebbe in grado di accedere ai tuoi fondi perché non possiede la frase d’accesso.
 
-Example: You might want to leave the minority of your funds in the basic “non-passphrase” wallet and move the majority of your funds to a passphrase-protected wallet. The idea behind this is that if you ever find yourself in a situation where somebody is trying to extort a ransom from you or puts you under duress, you can safely unlock your wallet and only give the attacker access to the normal wallet (which only contains a small amount of funds).
+Un esempio: potresti voler lasciare una piccola parte dei tuoi fondi nel wallet basico sprovvisto di frase d’accesso, e muovere la maggioranza dei tuoi fondi in un wallet protetto dalla frase d’accesso. L’idea dietro a questa manovra, è che se ti trovassi in una situazione in cui qualcuno cercasse di estorcerti un riscatto, o di metterti sotto costrizione, potresti sbloccare il tuo wallet e fornire accesso all’attaccante del wallet normale (che contiene solamente un piccolo ammontare dei tuoi fondi).
 
-This sounds great, but there are also risks involved.
+Sembra fantastico, ma ci sono anche dei rischi.
 
-1. Because the passphrase is not stored anywhere automatically, you need to take **all necessary precautions** in order to make sure that the passphrase stays safe and accessible e.g. by making a physical backup.
-2. If the passphrase is lost, you **will not be able to access that wallet** anymore and any coins stored in that wallet will become inaccessible.
+1. Dato che la frase d’accesso non è conservata in automatico da nessuna parte, devi prendere **tutte le precauzioni necessarie** per assicurarti che sia al sicuro ed accessibile, ad esempio effettuando un backup fisico.
+2. Se la frase d’accesso viene perduta, **non sarai più in grado di accedere a tale wallet** e tutte le coin conservate in quel wallet saranno inaccessibili.
 
-With a passphrase, you do not only need to store your seed but the passphrase too. Now you have to find long term secure storage for the seed AND the passphrase, which makes it a more complicated process. Be aware: In order to restore a wallet of this type, you would need your seed AND the passphrase you used for that wallet to restore access to the funds.
+Con la frase d’accesso, dovrai non solo mettere al sicuro il seed, ma anche la frase d’accesso stessa. Ora devi trovare un posto sicuro per ambo il seed E la frase d’accesso, il che rende il processo ancor più complicato. Presta attenzione: per ripristinare un wallet di questo tipo, avrai necessità del seed E della frase d’accesso utilizzate da quel wallet per ripristinare l’accesso ai fondi.
 
-Since physical attacks happen rather rarely, storing the seed with the 3-2-1 method should be sufficient.
+Considerato che gli attacchi fisici accadano raramente, conservare il seed col metodo 3-2-1 dovrebbe essere sufficiente.
 
-### Alternative Backups
-Some wallets use different mechanisms for the backup. For instance, the Muun wallet uses a combination of recovery code - that you need to write down like a seed - and an emergency kit.
+### Backup alternativi
+Alcuni wallet usano differenti meccanismi per il backup. Ad esempio, Muun utilizza una combinazione di codici di recupero – che dovrai annotarti come il seed – e un kit d’emergenza.
 
-## Learning by Doing
-It can be intimidating to start using Bitcoin because it's real money. That is why it is a good practice to start with very small amounts.
+## Imparare facendo
+Usare Bitcoin può sembrare intimidante perché si tratta di denaro reale. Ecco perché è considerabile una buona pratica iniziare con importi molto piccoli.
 
-For your first attempts, install a wallet on your phone, search for a [Bitcoin ATM](https://anita.link/atm) close to you or attend a local Bitcoin meet-up and exchange a small amount. Get a wallet for your computer and send bitcoin in between your two wallets to different addresses.
+Per la tua prima prova, installa un wallet nel tuo smartphone, cerca un [ATM Bitcoin](https://anita.link/atm) vicino a te, o partecipa a un meet-up locale per scambiare un piccolo ammontare. Prepara un wallet nel tuo computer e invia bitcoin tra i tuoi due wallet a indirizzi differenti.
 
-The best time to do this is usually on the weekend when the Mempool is not packed with transactions and the fees are lower.
+Il momento migliore per fare queste operazioni è nel fine settimana, quando la mempool non è congestionata di transazioni, e le fee sono minori.
 
-Use different wallet software, reinstall the wallet seed from wallet A to B, use the seed on different devices. You will feel more and more secure maintaining the skills.
+Utilizza wallet differenti, ripristina il wallet partendo dal seed dal wallet A al wallet B, usa il seed su dispositivi differenti. Affinando la tecnica, ti sentirai sempre più sicuro.
 
-### Test Receive Address
-Before you send a large amount for the first time, make sure that the address is really from the receiver and perform a small test transaction. Always check the Bitcoin address two or three times before sending the transaction. Compare the first and last digits of the address. Bitcoin that you send to an incorrect address are lost.
+### Testare l’indirizzo di ricezione
+Prima di inviare un ammontare importante per la prima volta, assicurati che l’indirizzo del ricevente sia corretto effettuando una transazione di test di ammontare minore. Controlla sempre l’indirizzo Bitcoin due o tre volte prima di eseguire la transazione. Compara le prime e le ultime cifre e lettere dell’indirizzo ricevente. I bitcoin inviati a un indirizzo incorretto sono perduti.
 
-### Test Your Hardware Wallet
+### Testare il tuo wallet hardware
 
-Before you save large amounts on a new hardware wallet, you should check the functionality and the seed.
+Prima di conservare larghi importi in un nuovo wallet hardware, dovresti controllare le funzionalità e il seed.
 
-When you set up the device initially, it creates the seed for you that you write down by hand (additionally the vendor, model and software version). Afterwards, you use the vendor software (or another software such as Electrum) and create the first Bitcoin address in your hardware wallet by clicking on "Receive". Then send a small amount to it from your previously installed smartphone wallet. If the amount on the hardware wallet has arrived -status "confirmed" - the first test was successful.
+Quando inizializzi il dispositivo per la prima volta, viene generato il seed che dovrai annotarti a mano (assieme al nome del venditore, il modello e la versione del software). In seguito, utilizzi il software del produttore (o altro software, come Electrum) per creare il primo indirizzo Bitcoin nel tuo wallet hardware cliccando su _“Ricevi”_. Dopodiché, invii al tuo wallet hardware un piccolo ammontare dal tuo wallet su smartphone precedentemente installato. Se l’ammontare sul wallet hardware giunge a destinazione – status “_Confermato”_ - il primo test è considerabile passato con successo.
 
-Also, try sending from your hardware wallet to another wallet. For example, you can send a small amount to your smartphone wallet or another address of your hardware wallet. It doesn't particularly matter. The main thing is that you are testing a payment from the hardware wallet too. To do this you must check the receiving address on the hardware wallet and confirm sending with one or more clicks directly on the hardware wallet. This manual confirmation on the device makes hardware wallets secure as only you can press the buttons and no one can hit the buttons virtually over the internet.
+Inoltre, prova un trasferimento dal tuo wallet hardware ad un altro wallet. Ad esempio, puoi inviare un piccolo ammontare al tuo wallet sullo smartphone, oppure ad un altro indirizzo del tuo wallet hardware. Non c’è molta differenza. La cosa principale è testare un pagamento a partire dal tuo wallet hardware. Per fare ciò, devi verificare l’indirizzo di ricezione nel wallet hardware e confermare l’invio cliccando una o due volte direttamente sul wallet hardware. La conferma manuale dal dispositivo rende i wallet hardware sicuri, in quanto sei solamente tu a premere i pulsanti, nessuno potrà premerli virtualmente tramite Internet.
 
-**Restore Your Wallet**
-Then make sure that you have your backup/seed! Afterwards, delete all data on your hardware wallet. Some vendors call it "factory reset", "wipe" or "reset the device". Your wallet is empty. Now restore your funds and wallet with the seed. This is called "Restore from recovery word", "Restore wallet", or "Import seed". Then enter your seed phrase on the hardware device. If everything is correct, the wallet is restored and you can see your previous transactions and balance.
+**Ripristinare il tuo wallet**
+In seguito, assicurati di avere il tuo backup/seed! Cancella i dati dal tuo wallet hardware. Alcuni produttori chiamano questa opzione _“Factory reset”_, _“Wipe”_ o _“Reset the device”_. Il tuo wallet si svuoterà. Ora, recupera i tuoi fondi e il wallet tramite il seed. Questa opzione è chiamata _“Restore from recovery word”_, _“Restore wallet”_, oppure _“Import seed”_. Inserisci la seed phrase nel dispositivo hardware. Se tutto è andato a buon fine, il wallet sarà ripristinato e potrai visionare lo storico transazioni e il saldo dei tuoi fondi.
 
-**Upgrade Firmware and Software**
-Don't just lock the device away. You should look for updates to the software or for firmware upgrades at least every 6 months. The crypto space is fast moving and new developments are integrated into wallet software on a regular basis.
+**Aggiornamento firmware e software**
+Non limitarti a bloccare il wallet e riporlo al sicuro. Dovresti consultare la presenza di aggiornamenti software o firmware almeno ogni 6 mesi. L’ambiente crypto è in rapido movimento, nuovi sviluppi sono integrati nel software dei wallet su base regolare.
 
-## Smartphone Lost? Computer Stolen?
+## Smartphone smarrito? Computer rubato?
 
-### Loss, Theft, or Malfunctioning of Your Device
+### Smarrimento, furto, o malfunzionamento del tuo dispositivo
 
-If your device gets stolen, remember that your bitcoin are still listed on the blockchain under your private key. Since you set an access PIN for the wallet, the thief cannot open it. However, they will still try to find a way to crack your PIN.
+Se il tuo dispositivo viene rubato, ricordati che i tuoi bitcoin sono registrati nella blockchain a cui accedi tramite la tua chiave privata. Dato che hai impostato un PIN sul wallet, il ladro non potrà aprirlo. Tenterà comunque di trovare metodi per scoprire il PIN e farvi breccia.
 
-You should immediately install a new wallet and import the seed that you kept safe to regain access to your funds (see "restore your wallet"). Then, move the coins from your stolen wallet to a new Bitcoin address in your new wallet as soon as you can, repeating the same security setup procedures for the new wallet.
+Dovresti immediatamente installare un nuovo wallet e importare il seed che hai tenuto al sicuro, al fine di riacquisire accesso ai tuoi fondi (vedi l’opzione _“Restore your wallet”_). In seguito, muovi le coin dal wallet derubato all’indirizzo Bitcoin del tuo nuovo wallet non appena possibile, ripetendo la procedura di configurazione di sicurezza per il nuovo wallet.
 
-If your device gets corrupted, you follow the same steps, but there is no need to rush to move the coins. Just restore the software wallet and you're done.
+Se il tuo dispositivo si corrompe, segui i medesimi passaggi, senza la premura di muovere le tue coin. Basta che ripristini il wallet software, e hai finito.
 
 [^70]: Anita Posch  
-[^71]: [Source @ElectrumWallet](https://twitter.com/ElectrumWallet/status/1144678604523147265?s=20)  
+[^71]: [Source @ElectrumWallet](https://twitter.com/ElectrumWallet/status/1144678604523147265?s=20)
+
