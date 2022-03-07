@@ -1,47 +1,47 @@
-# How to Invest in Bitcoin
-In this chapter, we will explore the different ways you can obtain bitcoin. In general, this is through buying bitcoin by exchanging it for fiat currency or by earning it. The methods differ in the level of self-sovereignty and privacy you can achieve.
+# Come investire in Bitcoin
+In questo capitolo esploreremo le varie e differenti modalità per poter ottenere bitcoin. Generalmente, questo avviene tramite l’acquisto di bitcoin scambiandoli con valute fiat, oppure guadagnandoli. I metodi differiscono nel livello di auto-sovranità e privacy che puoi raggiungere.
 
-## Buying Bitcoin - Custodial
-In many cases, people's first interaction with cryptocurrencies is through custodial exchanges like Kraken, Coinbase, Binance, Bitpanda and Bitfinex just to name a few.
+## Comprare Bitcoin – Custodial
+In molti casi, la prima interazione delle persone con le criptovalute avviene nell’ambito delle borse di scambio custodial quali Kraken, Coinbase, Binance, Bitpanda e Bitfinex, per citarne alcune.
 
-They are called custodial because they possess the keys to your bitcoin. You do get a wallet on these platforms, but it's more like a bank account, leading to counter-party risks such as hacking, seizure or confiscation by governments.
+Sono denominate custodial in quanto mantengono le chiavi dei tuoi bitcoin. In queste piattaforme ti viene assegnato un wallet, ma è simile ad avere un conto corrente bancario soggetto ai rischi di controparte quali attacchi hacker, sequestro e confisca dai governi.
 
-Trading on these exchanges is done off-chain, meaning that transactions are not settled on the blockchain but are only managed inside the platform's databases. This increases the speed of transactions, but at the same time leads to a lack of transparency and security.
+Il trading in questi exchange viene eseguito off-chain, ossia le transazioni non avvengono sulla blockchain ma sono gestite all’interno del database della piattaforma. Questo comporta rapidità delle transazioni, ma allo stesso tempo mancanza di trasparenza e sicurezza.
 
-To acquire bitcoin in a custodial fashion, you need to open an account, comply with a KYC and AML registration process and then deposit fiat money into the platform's account. After your money's arrival you can trade it for bitcoin or other cryptocurrencies.
+Per acquisire bitcoin in modo custodial, devi registrare un profilo, ottemperare al processo di identificazione KYC e AML (adempimento di lotta al riciclaggio di denaro e all’attività criminale), e depositare valuta fiat nel conto della piattaforma. A conferma di avvenuto accredito, potrai cambiarlo per bitcoin o altra criptovaluta.
 
-As mentioned in chapter 4 "The Staircase of Financial Sovereignty", to mitigate the counter-party risks of custodial wallets you should either send your funds to your own wallet or skip these exchanges and go non-custodial immediately.
+Come menzionato nel capitolo 4 “La scalinata della sovranità finanziaria”, per circoscrivere il rischio di controparte dei wallet custodial dovresti inviare i tuoi fondi nel tuo wallet personale, oppure saltare a piè pari le borse di scambio in favore di soluzioni non-custodial.
 
-## Buying Bitcoin - Non-Custodial
-Holding bitcoin in a non-custodial (self-hosted) manner is the desired outcome. It makes your transactions uncensorable and provides maximal freedom over your funds. You can achieve this by buying bitcoin in the right place to begin with.
+## Comprare Bitcoin – Non-custodial
+Mantenere bitcoin in modo non-custodial è il risultato desiderabile. Questa modalità provvede a rendere le tue transazioni non censurabili e restituisce massima libertà sui tuoi fondi. Puoi raggiungere questo obiettivo acquisendo bitcoin con le seguenti modalità.
 
-### Bitcoin Broker
-A broker is a company that enables you to buy non-custodial bitcoin. Since these are registered companies, they are fully regulated and you need to be identified and go through AML/KYC procedures. Bitcoin brokers will send the amount of bitcoin you bought directly to your Bitcoin address (your wallet, where you hold the seed).
+### Broker Bitcoin
+Un broker è una società d’intermediazione che abilita l’acquisto di bitcoin in modalità non-custodial. Dato che sono società di diritto debitamente registrate, adempiono al regolatorio e dovrai dunque essere identificato tramite le procedure di KYC/AML. I broker di bitcoin invieranno il contestuale ammontare di bitcoin acquistato direttamente al tuo indirizzo (al tuo wallet, dove mantieni il seed).
 
-Just to name a few examples of Bitcoin brokers:
+Di seguito alcuni esempi di broker di Bitcoin:
 
 * [AnyCoin direct](https://anycoindirect.eu/)
 * [Bity](https://bity.com/)
 * [Coinfinity](https://coinfinity.co/start-en/)
-* [Coinnexus](https://coinnexus.ch/en) works without verification up to CHF 1,000 per year.
+* [Coinnexus](https://coinnexus.ch/en) consente di non identificarsi per importi fino a 1,000 franchi svizzeri all’anno.
 
-### Peer-to-Peer Purchase in Person
-You can visit one of the many Bitcoin meet-ups around the world, connect with fellow Bitcoiners and ask them to sell you some bitcoin for cash. In many countries, people meet in Telegram or Facebook groups to find peers to exchange in person.
+### Acquisto peer-to-peer di persona
+Puoi partecipare agli svariati raduni e meet-up Bitcoin che si organizzano globalmente, connettere con altri bitcoiner e chiedere se sono disposti a venderti qualche bitcoin in cambio di denaro contante. In molti Paesi, le persone si incontrano su Telegram o gruppi Facebook per trovare controparti propense a scambiare di persona.
 
-### Peer-to-Peer Online Purchase
-The world's leading P2P exchanges
+### Acquisto peer-to-peer online
+Gli exchange P2P leader nel mondo sono
 * [LocalBitcoins](https://localbitcoins.com)
 * [Paxful](https://paxful.com/)
 
-### Bitcoin ATMs
-A Bitcoin ATM is a machine similar to an ATM, where you can buy bitcoin and other cryptocurrencies with cash. The advantage of Bitcoin ATMs is that you get your bitcoin instantly and in many places, up to a certain threshold, without KYC/AML identification. But be careful as many ATM operators charge above average fees.
+### Sportelli automatici Bitcoin
+Un ATM di Bitcoin è un macchinario del tutto similare allo sportello automatico della banca, dal quale è possibile comprare bitcoin ed altre criptovalute utilizzando contanti. Il vantaggio degli ATM Bitcoin è che ricevi istantaneamente i bitcoin acquistati, e molti di questi non richiedono l’identificazione KYC/AML fino a un certo ammontare. Tuttavia, presta attenzione al fatto che molti operatori ATM caricano commissioni oltre la media.
 
 * [Bitcoin ATM Map](https://bitcoinatmmap.com/)
 * [Bitrawr ATMs](https://www.bitrawr.com/bitcoin-atms)
 * [CoinATM Radar](https://coinatmradar.com/)
 
-### Bitcoin Gift Cards and Vouchers
-In Austria for example, it is possible to buy ‘Bitcoinbon’ gift cards at petrol stations as well as in kiosks. These gift cards are often found in the display stands where cards for mobile phone credit or Amazon gifts etc. are also sold. You can buy bitcoin gift cards without setting up a wallet and without registration. If you want to convert the value of the cards into coins, you set up a wallet and redeem the coins.
+### Gift Card Bitcoin e voucher
+In Austria, ad esempio, è possibile acquistare gift card ‘Bitcoinbon’ presso le stazioni di servizio e chioschetti adibiti. Queste gift card sono spesso esposte nelle stesse postazioni dove vengono vendute le ricariche prepagate per il cellulare o le card di Amazon ecc. Puoi acquistare gift card di bitcoin senza impostare un wallet, e non necessitano di identificazione. Se volessi convertire il valore delle card in coin, dovrai installare un wallet e redimerai le tue coin.
 
 * [Azteco](https://azte.co/)
 * [Bitcoinbon](http://www.bitcoinbon.at/)
@@ -49,55 +49,55 @@ In Austria for example, it is possible to buy ‘Bitcoinbon’ gift cards at pet
 * [Coincola](https://www.coincola.com/buy-bitcoin/gift-cards)
 * [Paxful](https://paxful.com/buy-bitcoin?group=gift-cards&hasScroll=true)
 
-## Non-KYC Bitcoin
+## Bitcoin non-KYC
 
 ### KYC/AML
-KYC and AML stands for "Know Your Customer" and "Anti-Money Laundering" regulations. Every bank and registered exchange has to comply with these national laws by recording customer information such as:
+Gli acronimi KYC e AML rappresentano le normative _“Know Your Customer”_ e _“Anti-Money Laundering”_, ovvero letteralmente “Conosci il Tuo Cliente” e “Antiriciclaggio”. Ogni banca e borsa di scambio debitamente regolamentata deve adempiere a tali regolatori nazionali identificando il proprio cliente collezionandone informazioni quali:
 
-- Name
-- Address
-- Phone number
-- Drivers license
-- Government ID
-- A selfie holding a piece of paper with the name of the exchange and the date
-- A video call with the exchange
+- Nome
+- Indirizzo
+- Recapito telefonico
+- Patente di guida
+- Carta d’identità governativa
+- Un _selfie_, tenendo in mano un foglio di carta in cui vi è scritto il nome dell’exchange e la data
+- Una videochiamata con gli operatori dell’exchange
 
-Now, one could argue that we need to find criminals, terrorists, money launderers etc. and therefore these regulations make sense. The problem is that the banks often over-regulate; they demand more data than required and track every single transaction which, in combination with digital money, turns into a surveillance machine worse than George Orwell ever imagined. While we point at and criticize China's central bank digital currency and their overreaching social credit program, we are building similar systems that massively intrude on people's privacy.
+Ora, si può argomentare che sia giusta la necessità di scovare criminali, terroristi, riciclatori di denaro ecc. e pertanto queste normative hanno un senso. Il problema è che le banche spesso si sovra regolamentano; richiedono più dati di quanto necessario, tracciano ogni singola transazione e, in concerto col denaro digitale, il tutto si trasforma in una macchina di sorveglianza peggiore di quanto George Orwell abbia mai immaginato. Mentre puntiamo il dito e critichiamo la valuta digitale della banca centrale cinese e il suo invasivo programma di credito sociale, stiamo costruendo un sistema similare che invade massicciamente la privacy delle persone.
 
-KYC / AML has not kept Deutsche Bank, HSBC and many other big players from laundering money, but it prevents billions of people without ID from participating in economical activities. It requires massive bureaucracy, high costs and puts your privacy at risk because of data leaks. The exchanges know how much you bought, when you bought it, your banking information and the addresses you withdraw to.
+Il KYC/AML non ha evitato che Deutsche Bank, HSBC ed altri attori bancari riciclassero denaro, tuttavia impedisce a miliardi di persone prive di documento identificativo dal partecipare all’attività economica. Richiede una burocrazia massiva, alti costi di mantenimento e mette a rischio la tua privacy in eventi di _data leak_ (perdita e violazione dei dati). Le borse di scambio sanno quanto hai comprato, quando hai comprato, le tue informazioni bancarie e gli indirizzi ai quali hai prelevato.
 
-With KYC/AML and holding your bitcoin on an exchange, you also break the censorship resistance of Bitcoin. Many exchanges work together with blockchain surveillance companies, which cooperate in many cases directly with the government. Through the Bitcoin blockchain's transparency, any chain analysis company can follow your activity. The exchanges can freeze your account or block your withdrawal.
+Con il KYC/AML e conservando i tuoi bitcoin presso un exchange, stai anche vanificando la caratteristica di resistenza alla censura di Bitcoin. Molti exchange collaborano con società di sorveglianza della blockchain, che a loro volta in molti casi cooperano direttamente con enti governativi. Sfruttando la trasparenza della blockchain di Bitcoin, ogni società di analisi della blockchain può seguire le tue attività. Gli exchange possono congelare il tuo conto o bloccare i tuoi prelievi.
 
-While I don't think governments will be able to effectively ban Bitcoin from being used - it would be like banning people from thinking as they only have to remember their seed - they could try to confiscate it, just as the USA did with gold. If something like this happened, and you have left your money on an exchange - then it's as good as gone.
+Sebbene non creda che i governi saranno in grado di proibire effettivamente l’uso di Bitcoin – sarebbe come inibire le persone dal pensare, considerato che devono solamente ricordare il proprio seed – potrebbero tuttavia provare a confiscarlo, come gli Stati Uniti peraltro già fecero con l’oro. Considerato che un evento del genere accadde già nella storia, e tu avessi i tuoi fondi nell’exchange – dunque è come se fossero già persi.
 
-Executive order 6102, signed on April 5 1933 by US President Franklin D. Roosevelt forbade the hoarding of gold. In 1975, Americans could legally own gold again. Satoshi Nakamoto listed their birthday as April 5, 1975. That's of course no coincidence. It shows Satoshi's intentions, that Bitcoin is about financial freedom.
+L'ordine esecutivo 6102, firmato il 5 aprile 1933 dal Presidente degli Stati Uniti Franklin D. Roosevelt, proibì il possesso dell’oro. Nel 1975, gli americani potranno nuovamente possedere legalmente l’oro. Satoshi Nakamoto definì la sua data di nascita proprio il giorno 5 aprile 1975. Questa chiaramente non è una coincidenza. È il messaggio di Satoshi che Bitcoin rappresenta la libertà finanziaria.
 
-For more information on how the current financial system is unfair to billions of people around the world, listen to my [podcast interview with Zachary Kelman,](https://anita.link/80) an attorney specializing in political, legal, and regulatory issues in and around Bitcoin.
+Per ulteriori informazioni su come l'attuale sistema finanziario sia ingiusto nei confronti di miliardi di persone nel mondo, ascolta [nel mio podcast l’intervista con Zachary Kelman](https://anita.link/80), un avvocato specializzato in temi politici, legali e normativi che gravitano attorno Bitcoin.
 
-### Getting No-KYC Bitcoin
+### Ottenere Bitcoin non-KYC
 
-To buy bitcoin without user identification you can:
+Per acquisire bitcoin senza le procedure di identificazione utente, tu puoi:
 
-* earn it
-* build something of value and ask for donations
-* sell things you don't need anymore
-* buy from a friend or at a local meetup
-* buy at a Bitcoin ATM
-* buy bitcoin gift cards
-* go to physical stores where you can buy or sell bitcoin
-* use decentralized exchanges like
+* Guadagnarli
+* Costruire qualcosa di valore e chiedere donazioni
+* Vendere beni di cui non hai più bisogno
+* Comprarli da un amico o ad un raduno locale di appassionati
+* Comprarli da un ATM Bitcoin
+* Comprare gift card bitcoin
+* Recarti in negozi fisici per la compravendita di bitcoin
+* Utilizzare exchange decentralizzati quali
 * [Hodlhodl](https://hodlhodl.com)
 * [Bisq](https://bisq.network/)
 * [LocalCoinSwap](https://localcoinswap.com/buy-sell/BTC)
 * [LocalCryptos](https://localcryptos.com/Bitcoin)
 * [Sovryn](https://live.sovryn.app)
 
-Exchange sources: https://kycnot.me/, https://github.com/cointastical/P2P-Trading-Exchanges/, https://bitcoiner.guide/nokyconly/
+Fonti per gli exchange: https://kycnot.me/, https://github.com/cointastical/P2P-Trading-Exchanges/, https://bitcoiner.guide/nokyconly/
 
-## Costs for Buying Bitcoin
-When you buy cryptocurrencies you have to pay fees for the service provider, just like when you exchange to a foreign currency when you travel to a different country. The price at which you exchange is determined by the service provider (see chapter Bitcoin price). Usually, this is the market price plus a surcharge for the service. Since each exchange has its own bitcoin price and different fee structures, there are big differences in the trading costs between them. You can save money by comparing the trading fees when choosing a specific platform.
+## Costi per comprare Bitcoin
+Quando acquisti criptovalute, devi pagare le fee del fornitore del servizio esattamente come quando cambi una valuta estera quando stai viaggiando in un Paese differente. Il prezzo di cambio è determinato dal fornitore di servizi (vedi il capitolo “Il prezzo di Bitcoin”). Normalmente, è il prezzo di mercato più un sovrapprezzo rappresentato dal servizio. Dato che ogni exchange fa il proprio prezzo di bitcoin e ha una struttura di commissioni e costi interna, ci sono grosse differenze nei costi di scambio tra un exchange e l’altro. Per risparmiare, quando selezioni la piattaforma puoi comparare le fee di trading.  
 
-There are three points that determine the costs for buying bitcoin, each service provider has its own:
-* Bitcoin market price
-* Trading fees for their service
-* Transaction fees, which may be included in the trading fee.
+I seguenti tre fattori determinano i costi coinvolti nell’acquisto di bitcoin, e ogni fornitore di servizi ha il proprio:
+* Prezzo di mercato di bitcoin
+* Fee del servizio di trading
+* Fee di transazione, che potrebbe essere inclusa nella fee di trading
