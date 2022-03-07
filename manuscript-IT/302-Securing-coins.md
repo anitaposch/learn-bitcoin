@@ -1,57 +1,57 @@
-## Securing Your Funds
+## Mettere al sicuro i tuoi fondi
 
-As mentioned in the previous chapter, our goal is to reach the "Your keys, your coins" level.
+Come menzionato nel capitolo precedente, l’obiettivo è conseguire il livello _“Your keys, your coins”_.
 
-To buy, use and store bitcoin, you will need:
+Per comprare, usare e conservare bitcoin, avrai bisogno del seguente:
 
-* Bitcoin wallet = your digital money deposit box. A more precise analogy is a digital key-chain for your moneyboxes.
-* Bitcoin addresses = one or more unique addresses for your funds on the blockchain, your receiving addresses (more precisely an unspent transaction output UTXO)
-* Seed = the recovery data for your Bitcoin wallet.
+* Wallet Bitcoin = il tuo portafoglio di denaro digitale. Un’analogia ancor più precisa sarebbe il portachiavi digitale dei tuoi salvadanai.
+* Indirizzi Bitcoin = uno o più indirizzi unici dei tuoi fondi nella blockchain, i tuoi indirizzi di ricezione (più precisamente gli UTXO, output di transazione non speso).
+* Seed = i dati di recupero del tuo wallet Bitcoin.
 
-### Bitcoin Wallet
-Think of a wallet like a public lock-box with multiple sections. Anyone can deposit money in each of the sections. Only the owner of the private keys can unlock a section and move the money it holds. Your Bitcoin wallet consists of all the sections and holds all the private keys to unlock them. Private keys and Bitcoin addresses are generated from the seed. The seed is the root of all keys and addresses, it's like a bucket in which all your private keys are stored.
+### Wallet Bitcoin
+Pensa al wallet come un armadietto pubblico con molteplici cassetti di sicurezza. Tutti possono depositare denaro all’interno di ogni cassetto. Ma solamente chi possiede le chiavi private è in grado di sbloccare un cassetto e muoverne il contenuto. Il tuo wallet Bitcoin consiste di tutti i cassetti, e mantiene tutte le chiavi private per sbloccarle. Le chiavi private e gli indirizzi Bitcoin sono generati dal seed. Il seed è l’elemento dal quale si generano tutte le chiavi e gli indirizzi. È come un cesto nel quale sono conservate tutte le tue chiavi private.
 
 ![Defining terms](assets/_seed-postbox.png) [^69]
 
-The wallet is an app on your phone or software on your computer, which handles everything in the background - your private keys, your addresses, and sending and receiving bitcoin.
+Il wallet è una app nel tuo telefono, oppure un programma nel tuo computer che gestisce tutto in background – le tue chiavi private, i tuoi indirizzi, l’invio e la ricezione di bitcoin.
 
-Bitcoin wallets contain keys, not coins. Each user has a wallet containing keys. Wallets are really just key-chains containing pairs of private/public keys. Your funds are recorded on the Bitcoin blockchain.
+I wallet Bitcoin contengono le chiavi, non le monete. Ogni utente ha un wallet contenente chiavi. I wallet sono più propriamente dei portachiavi di coppie di chiavi private e pubbliche. I tuoi fondi sono registrati nella blockchain di Bitcoin.
 
-### Bitcoin Address
-To receive bitcoin, you need a Bitcoin address to which someone can send you bitcoin. The Bitcoin address consists of a long series of digits and letters.
+### Indirizzo Bitcoin
+Per ricevere bitcoin, necessiti di un indirizzo Bitcoin affinché qualcuno possa inviartene. L’indirizzo Bitcoin consiste di una lunga serie di numeri e lettere.
 
-An example of a Bitcoin address: 346n4apJCQPg2XAXU3bfNQTogz4PyTkrEf
+Un esempio di indirizzo Bitcoin: 346n4apJCQPg2XAXU3bfNQTogz4PyTkrEf
 
-Typing 34 digits is of course very impractical, therefore QR codes of the addresses are commonly used and are usually created automatically by your wallet.
+Digitare 34 caratteri è un’operazione poco pratica, pertanto vengono comunemente usati i codici QR degli indirizzi, i quali vengono solitamente creati in automatico dal tuo wallet.
 
 ![BTC address as QR code](assets/_address-book.PNG)
 
-Bitcoin is pseudonymous, meaning there is no requirement for you to connect your email address or personal identification with a wallet. However, the Bitcoin blockchain is transparent, which means that your Bitcoin addresses are publicly viewable on the internet. For example, you can search for it at Blockcypher and see all current transactions and values. Here is an example link: [https://anita.link/explorer](https://anita.link/explorer)
+Bitcoin è pseudoanonimo, non c’è necessità di collegare un tuo indirizzo email o un tuo documento identificativo col wallet. Tuttavia, la blockchain di Bitcoin è trasparente, e ciò significa che i tuoi indirizzi Bitcoin sono pubblicamente visionabili in Internet. Ad esempio, le puoi cercare su Blockcypher e vedere lo storico delle transazioni e contestuali valori. Qui puoi visionarne un esempio: [https://anita.link/explorer](https://anita.link/explorer)
 
-Therefore, for privacy reasons, do not share your Bitcoin addresses in connection with your identity on the internet. Privacy is also the reason why you should not re-use addresses. Most Bitcoin wallets automatically provide you with fresh addresses for each transaction.
+Pertanto, per ragioni di privacy, non condividere in Internet i tuoi indirizzi Bitcoin associandoli alla tua identità. La privacy è anche la ragione per cui non dovresti riutilizzare gli stessi indirizzi. La maggioranza dei wallet provvede in automatico a generare nuovi indirizzi ad ogni transazione.
 
-Let's get to the most important part of securing your bitcoin: the seed.
+Procediamo ora con la parte più importante per la messa in sicurezza dei tuoi bitcoin: il seed.
 
-### Seed and Private Keys
+### Seed e chiavi private
 
-Since the seed is the root of all private keys, no one else must have access to it. The person who knows the seed has ultimate control over the funds.
+Considerato che dal seed si generano tutte le chiavi private, nessuno oltre a te deve averne l’accesso. La persona a conoscenza del seed ha il controllo finale dei fondi.
 
-The seed (sometimes called mnemonic phrase or backup phrase) is a sequence of 12 or 24 words that gives you access to the private keys of your wallet addresses, and therefore access to your coins. This means that this order of words must remain secret. Anyone who knows the seed can access and take over your coins. Why?
+Il seed (chiamato anche frase mnemonica o frase di recupero) è una sequenza di 12 o 24 parole che fornisce accesso alle chiavi private degli indirizzi del wallet, e pertanto accesso alle criptovalute. Ciò significa che l’ordine di parole deve rimanere segreto. Qualsiasi persona a conoscenza del seed può accedere e sottrare le coin. Perché?
 
-Your coins are not inside your digital wallet as they are inside your regular physical wallet. Instead, they are recorded on the blockchain. Compare this to an email and a letter. You can access your email account from anywhere in the world because your emails are stored online, while your letterbox is stationary. This applies similarly to Bitcoin.
+Differentemente dalle monete metalliche che si trovano all’interno del tuo portafoglio fisico, le tue criptovalute non si trovano all’interno del tuo wallet digitale. Queste sono registrate nella blockchain. Comparalo alla differenza che sussiste tra email e lettere postali. Puoi accedere al tuo account email da ogni parte del mondo perché le email sono archiviate online, mentre la tua cassetta della posta ordinaria è stazionaria. Ciò è applicabile anche a Bitcoin.
 
-Worldwide access to your assets is always possible with the seed, regardless of your wallet manufacturer. When selecting your wallet, look out for the term "HD wallet" (Hierarchical Deterministic). HD wallets allow you to switch to another manufacturer's HD wallet, take the seed and restore your coins.
+L’accesso globale ai tuoi asset è sempre possibile tramite il seed, al di là del produttore del tuo wallet. Quando selezioni il wallet, presta attenzione al termine “wallet HD” (_Hierarchical Deterministic_, ovvero deterministico gerarchico). I wallet HD ti permettono di cambiare a piacere con un altro wallet HD di altro produttore, segnarti il seed e recuperare le tue criptovalute.
 
-Suppose your smartphone gets corrupted, you can't access your Bitcoin wallet app anymore and need to switch to a new phone. You install a fresh version of your Bitcoin wallet and import the seed from your first wallet. Access to your funds is restored.
+Supponi che il tuo smartphone si corrompa, non puoi più accedere alla app del wallet Bitcoin e devi cambiare cellulare. Installi una nuova versione del tuo wallet Bitcoin e importi il seed del tuo primo wallet. In questo modo, l’accesso ai tuoi fondi è ripristinato.
 
-The seed is generated by the wallet app during the initial setup. Most wallets guide you through the setup and instruct you to write down the seed words on a sheet of paper. If your wallet doesn't offer it right away, look for the "Create Backup" or "Backup" feature and follow the steps. The creation of the seed works in the opposite way to the creation of a password as you commonly know it on websites. It is not you who determines the password, but the wallet itself.
+Il seed è generato dall’app del wallet durante la configurazione iniziale. La maggioranza dei wallet ti guida attraverso il setup e ti istruisce a segnarti le parole del seed su un foglio di carta. Se il tuo wallet non ti offre questa opzione nell’immediato, cerca nel menu _“Create Backup”_ o _“Backup”_ e segui i passaggi. La creazione del seed funziona al contrario di come comunemente viene impostata una password in un sito web. Non sei tu che determini la password, ma il wallet.
 
-The order of words is IMPORTANT! You must write down the words exactly in the order in which they appear.
+L’ordine delle parole è IMPORTANTE! Devi scrivere le parole esattamente nell’ordine in cui appaiono.
 
-> Example seed: cruise item paper slim vocal power like video snap museum mirror sun
+> Esempio di seed: cruise item paper slim vocal power like video snap museum mirror sun
 
-Write the seed by hand on a piece of paper and store it safely. Do not take a screenshot, do not store it on your phone or computer that is connected to the internet as all those places can get hacked. There is more information about security in chapter 5.
+Annota il seed a mano su un foglio di carta e conservalo in un posto sicuro. Non catturare screenshot, non conservarlo in telefoni o computer che sono connessi ad Internet, per non correre il rischio che vengano attaccati. Maggiori informazioni sulla sicurezza si possono leggere nel capitolo 5.
 
-Since your funds are not inside your wallet but stored on the blockchain, you can move globally and take your bitcoin funds wherever you go. You just need to remember the 12-24 seed words in the correct order. After passing customs without a mobile phone, you get yourself a new wallet and import the seed. Magic.
+Dato che i tuoi fondi non si trovano all’interno del tuo wallet ma conservati nella blockchain, puoi viaggiare globalmente e trasportare i bitcoin con te ovunque tu voglia. Devi solamente ricordarti dell’ordine delle 12-24 parole del seed. Quando oltrepassi la dogana senza lo smartphone, recuperi un nuovo wallet e importi il seed. Magia.
 
 [^69]: Anita Posch, inspired by Andreas M. Antonopoulos
