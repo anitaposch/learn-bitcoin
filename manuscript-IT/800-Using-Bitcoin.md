@@ -1,59 +1,59 @@
-# Using Bitcoin
+# Usare Bitcoin
 
-## Transaction Fees
-A mining fee has to be paid for every bitcoin transaction and these fees are required for the operation of the Bitcoin network to continue. The work of miners is rewarded with these fees and newly minted bitcoin (see chapter 2.3). Mining is an essential factor in the Bitcoin protocol. After a block of transactions has been mined, it is attached to the blockchain. This is the way to ensure the security of the network. Since Bitcoin has a fixed supply limit of 21 million coins, the miners would no longer receive any remuneration for their performance after reaching this maximum supply, and would no longer be interested in processing transactions and thus maintaining the blockchain. Therefore, Satoshi Nakamoto introduced transaction fees. According to the white paper, the aim is to keep these fees lower than the comparable fees and costs of the traditional banking system. However, it is not the case that transfers are free of charge simply because, in theory, there is no need for intermediaries or banks.
+## Costi di transazione
+Una fee di mining deve essere pagata ad ogni transazione in bitcoin, e queste commissioni sono fondamentali affinché la rete Bitcoin continui ad operare. Il lavoro dei miner è ricompensato da tali fee, oltre che dalla creazione di nuovi bitcoin (vedi capitolo 2.3). Il mining è un fattore essenziale del protocollo Bitcoin. Quando un blocco di transazioni viene minato, viene collegato alla blockchain. Questo è il modo in cui si garantisce la sicurezza della rete. Dato che Bitcoin ha una fornitura totale fissata a 21 milioni di coin, i miner non riceverebbero più alcuna ricompensa per la loro prestazione una volta raggiunto tale limite massimo, e perderebbero l’interesse a processare le transazioni e pertanto a mantenere la blockchain. Pertanto, Satoshi Nakamoto ha introdotto i costi di transazione. In base al white paper, l’obiettivo è mantenere il costo di queste fee più basse rispetto ai costi di natura omologa del sistema bancario tradizionale. Tuttavia, non è proprio il caso che le transazioni siano gratuite semplicemente perché, in teoria, non vi è necessità di intermediari o banche.
 
-When you're buying bitcoin via an exchange, the transaction fee (mining fee) is usually not adjustable and is fixed by the provider.
+Quando acquisti bitcoin tramite un exchange, i costi di commissione (le fee di mining) solitamente non sono negoziabili e sono fissati dal fornitore del servizio.
 
-In your non-custodial Bitcoin wallet, you can determine the transaction fee for outgoing payments by yourself. The higher you set the fee, the faster your transaction will be processed by the miners because they pick the transactions with the highest fees first. If your transfer is not time-sensitive, you can choose a lower fee.
+Nel tuo wallet non-custodial di Bitcoin, puoi determinare da te le fee di transazione dei pagamenti verso terzi. Più alta sarà la fee che imposterai, più velocemente la transazione sarà processata dai miner in quanto loro saranno attratti a selezionare la transazione con le fee più alte. Se la tua transazione non è urgente, puoi selezionare una fee meno onerosa.
 
-For more control you can estimate the fee and the confirmation speed on pages like [Mempool.space](https://mempool.space/) or [Johoe's Bitcoin Mempool](https://jochen-hoenicke.de/queue/). These websites display the number and size of all unconfirmed transactions. They give a real-time view and show how the Mempool evolves. The transactions are colored by the amount of fee they pay per (virtual) byte.
+Per un maggior controllo, puoi stimare la fee e la velocità di conferma dei blocchi su pagine come [Mempool.space](https://mempool.space/) oppure [Johoe's Bitcoin Mempool](https://jochen-hoenicke.de/queue/). Questi siti web esibiscono il numero e la dimensione delle transazioni non ancora confermate. Mostrano e provvedono a fornire una panoramica in tempo reale di come evolve la mempool. Le transazioni sono colorate in base dell’ammontare della fee pagata per byte (virtuale).
 
 ![Real-time view of unconfirmed transactions](assets/_Mempool-space-white-back.png) [^74]
 
-Below you can see the settings in the Edge wallet. You can choose one of the ranges of the default transaction fee or a custom value.
+Qui sotto puoi vedere le impostazioni del wallet Edge. Puoi selezionare dei range per le fee di transazione di default, oppure un valore personalizzato.
 
 ![Transaction fee settings in Edge wallet](assets/_transaction-fee-setting.png) [^75]
 
-**Pending Transaction**
-Since new blocks are mined every 10 minutes, it will take an average of at least 10 minutes until your transaction is confirmed. If you set the transaction fee too low then your transaction might be pending for a longer period as the Mempool gets cleared and miners begin to re-include transactions with lower fees. Here you see one of my transactions that has been trapped in the Mempool for a month.
-![Pending transaction](assets/_Pending-transaction-edge.png) [^76]
-You can look up the status of your transaction in a [Blockchain explorer](https://blockchair.com). As you can see below my transaction is 4,717 ranks away from being mined with a total of 41,610 transactions in the Mempool. I chose a fee of 5 sat per vbyte.
+**Transazione in Attesa**
+Considerato che nuovi blocchi vengono minati ogni 10 minuti, servirà attendere una media di 10 minuti per la conferma della transazione. Se configuri dei costi di commissione troppo bassi, dunque la transazione potrebbe rimanere in status di attesa per un periodo prolungato nel tempo, dato che bisognerà attendere che la mempool si liberi e i miner inizino a reinserirvi le transazioni dalle basse fee. Qui puoi vedere una mia transazione, rimasta intrappolata nella mempool per un mese.  
+![Pending transaction](assets/_Pending-transaction-edge.png) [^76]  
+Puoi consultare gli status delle tue transazioni in un [Blockchain explorer](https://blockchair.com). Come puoi vedere nell’immagine sottostante, la mia transazione è alla posizione 4,717 nell’ordine di priorità di mining, in un totale di 41,610 transazioni incluse nella mempool. Ho selezionato una fee di 5 sat per vbyte.  
 ![Transaction status as shown in blockexplorer](assets/_Pending-transaction-explorer.png) [^77]
 
-You do not need to follow the below steps to get your original transaction confirmed. Most low-fee transactions remain valid for days and will eventually confirm. However, there are two ways to solve the problem of the stuck transaction and get it confirmed sooner.
+Non devi necessariamente seguire i seguenti punti al fine della conferma della tua transazione. La maggior parte delle transazioni con bassi costi di commissione rimangono validi per giorni, e verranno confermati prima o poi Tuttavia, ci sono due metodi per risolvere il problema ed accelerare l’ottenimento della conferma di eventuali transazioni intrappolate.
 
-**A Sent Transaction Is Stuck**
-* Replace-by-fee (RBF): some wallets allow you to set this option to yes before you send a transaction. In this case, if the original transaction gets stuck, you can set a higher fee and resend the transaction.
+**Un pagamento in uscita è bloccato**  
+* _Replace-by-fee_ (RBF): alcuni wallet ti abilitano a configurare questa opzione prima di inviare il pagamento. In questo caso, se la transazione originaria si blocca, potrai aggiornarla selezionando una fee più alta e ritrasmettere nuovamente la transazione.
 
-**An Incoming Transaction Is Stuck**
-* Child pays for parent (CPFP): you can think of this as a parent having insufficient money for their expenses, so their child pays the difference on the parent’s behalf. CPFP is a technique through which you can bump your slowly confirming incoming transactions by making a new transaction with higher fees (child transaction) using the outputs (funds) from the previous transaction (parent transaction) that is stuck.
+**Un pagamento in entrata è bloccato**
+* _Child pays for parent_ (CPFP): puoi immaginarti questa funzione come un genitore sprovvisto di sufficiente denaro per affrontare una spesa, e il figlio interviene pagando la differenza a nome del genitore. CPFP è una tecnica tramite la quale puoi promuovere la transazione in entrata bloccata effettuando una nuova transazione con fee più alte (transazione figlio) usando gli output (fondi) della transazione precedente (transazione padre) che risulta bloccata.
 
-Please look up the documentation of the wallet you are using for detailed instructions.
+Consulta la documentazione del wallet che stai usando per ottenere istruzioni dettagliate.
 
-## Buy Something With Bitcoin
-Here are some directories with shops where you can spend bitcoin.
+## Comprare qualcosa con Bitcoin
+Di seguito trovi un elenco di negozi dove puoi spendere bitcoin.
 * [Accepted here](https://www.acceptedhere.io)
-* [B2B services accepting BTC](https://cryptwerk.com/companies/b2b/btc/)
-* [Coinmap](https://coinmap.org/view/) physical stores accepting Bitcoin
-* [Spending Bitcoin](https://spending-bitcoin.com/) directory
-* [UseBitcoins](https://usebitcoins.info/) directory
+* [Servizi B2B che accettano BTC](https://cryptwerk.com/companies/b2b/btc/)
+* [Coinmap](https://coinmap.org/view/), negozi fisici che accettano Bitcoin
+* [Spending Bitcoin](https://spending-bitcoin.com/), elenco
+* [UseBitcoins](https://usebitcoins.info/), elenco
 
-## Bitcoin Debit Cards
-You can use a Bitcoin debit card to buy anything just like any other banking debit card. The difference is that it's loaded with bitcoin or altcoins. The merchants get paid in their own currency by the debit company and the charge will be deducted from your bitcoin balance, which allows you to live purely through bitcoin.
+## Carte di debito Bitcoin
+Puoi usare una carta di debito Bitcoin per acquistare qualsiasi cosa proprio come una comune carta di debito bancaria. La differenza è che si appoggia a bitcoin o altcoin. La società che gestisce il pagamento accredita al venditore la valuta di sua scelta, mentre la spesa viene dedotta dal tuo saldo in bitcoin, e ciò ti permette di poter vivere puramente in soli bitcoin.
 
-You will need to deposit your bitcoin at the debit card company, which means you give control over your coins to a third party. Deposit only as much as you need on the card and check the fees that those card companies charge.
+Devi depositare i tuoi bitcoin alla società che eroga il servizio della carta di debito, il che significa che stai consegnando il controllo delle tue coin a una terza parte. Deposita nella carta solamente tanto quanto a te strettamente necessario, e controlla costi e fee caricati dalla società della carta.
 
-A short list of cards that are available at the moment:
+Una breve lista di carte attualmente disponibili nel mercato:
 Cryptocom Visa, Binance, Bitpanda Visa, Coinbase Visa, Wirex Visa, BlockCard, Cryptopay, Nexo, Bitwala Visa, BitPay Visa, Cash App
 
-## Spending and Receiving
-The following are tools and services that enable you to spend and receive BTC in your daily life.
-* [Bity](https://bity.com/products/crypto-online-bill-pay/) pay bills online with bitcoin
-* [Cash App](https://cash.app/bitcoin) buy and sell BTC straight from your Cash App balance
-* [Strike](https://global.strike.me/) send and receive instant international payments, instant remittances and with full access to the Bitcoin network
-* [Piixpay](https://www.piixpay.com/?lang=en) pay anyone in EURO using your crypto
-* [Bitrefill](https://www.bitrefill.com/?hl=en) buy giftcards and phone refills
+## Spendere e ricevere
+La lista seguente elenca strumenti e servizi che permettono di spendere a ricevere BTC nella tua vita quotidiana.
+* [Bity](https://bity.com/products/crypto-online-bill-pay/), salda bollette online con bitcoin
+* [Cash App](https://cash.app/bitcoin), compra e vendi BTC direttamente dal tuo saldo disponibile in Cash App
+* [Strike](https://global.strike.me/), invia e ricevi istantaneamente pagamenti internazionali, bonifici immediati e con accesso completo alla rete Bitcoin
+* [Piixpay](https://www.piixpay.com/?lang=en), paga chiunque in euro utilizzando le tue crypto
+* [Bitrefill](https://www.bitrefill.com/?hl=en), compra gift card e ricariche telefoniche
 
 [^74]: [Screenshot by Anita Posch](https://mempool.space)  
 [^75]: Screenshot by Anita Posch, Edge wallet  
