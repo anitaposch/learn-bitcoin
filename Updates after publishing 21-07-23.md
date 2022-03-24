@@ -169,3 +169,4 @@ added files
 960-description-website
 970-keywords-Amazon
 980-description-IngramSpark
+added to IT, YO, IG, HA 990-captions.md
