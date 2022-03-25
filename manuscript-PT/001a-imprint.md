@@ -1,29 +1,29 @@
 
-(L)earn Bitcoin  
-Become Financially Sovryn  
-1st Edition, .........
+Aprenda Bitcoin
+Torne-se financeiramente soberano
+1ª edição, .........
 
-Author: Anita Posch  
+Autora: Anita Posch
 
-Publisher: PoshMedia e.U., Seilerstaette 24, 4. Stock, 1010 Wien, Austria 
+Editora: PoshMedia e.U., Seilerstaette 24, 4. Stock, 1010 Wien, Áustria
 
-The original English edition was published in June 2021 under the title _(L)earn Bitcoin - Become Financially Sovryn_
+A edição original em inglês foi publicada em junho de 2021 sob o título (L)earn Bitcoin - Become Financially Sovryn
 
-Portuguese translation and proofreading: ..................
+Tradução e revisão em português: Caroline Souza
 
-Editor: Mark Kersley   
-Typesetting: Couper Street Type Co.  
-Cover Design/Art Direction: tzu jan | 自然  
-Illustration Concept Sketch: @danubastidas  
-Illustration: Maleek Illustration  
-Hand Lettering: Mila Masina
+Editor: Mark Kersley
+Tipografia: Couper Street Type Co.
+Design de Capa/Direção de Arte: tzu jan |自然
+Esboço do Conceito de Ilustração: @danubastidas
+Ilustração: Ilustração Maleek
+Letras à mão: Mila Masina
 
-Copyright 2021 by Anita Posch, all rights reserved.  
+Copyright 2021 por Anita Posch, todos os direitos reservados.
 
-You are welcome to share parts of the book in media articles, on your personal website, in a commercial article or blog post (e.g., Medium), and/or on a personal social media account, provided that you include attribution to "Anita Posch" and link back to the https://anitaposch.com URL. You are not permitted to copy the contents of the book and sell it in any format.
+Você pode compartilhar partes do livro em artigos de mídia, em seu site pessoal, em um artigo comercial ou postagem de blog (por exemplo, Medium) e/ou em uma conta pessoal de mídia social, desde que inclua a atribuição a "Anita Posch " e link de volta para a URL https://anitaposch.com. Você não tem permissão para copiar o conteúdo do livro e vendê-lo em qualquer formato.
 
-ISBN (hb): 978-3-9504591-6-6  
-ISBN (pb): 978-3-9504591-5-9  
-ISBN (ebook): 978-3-9504591-4-2
+ISBN (hb): 978-3-9504591-6-6
+ISBN (pb): 978-3-9504591-5-9
+ISBN (e-book): 978-3-9504591-4-2
 
-**Get current information about the book online at https://learnbitcoin.link**
+Obtenha informações atuais sobre o livro online em https://learnbitcoin.link
