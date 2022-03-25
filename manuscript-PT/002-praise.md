@@ -1,4 +1,4 @@
-# Prefácio
+# Reconhecimento
 
 > "Anita Posch é uma das vozes alemãs mais produtivas e perspicazes sobre o Bitcoin. Seu trabalho torna o Bitcoin acessível, compreensível e atraente para aqueles que são novos no Bitcoin e os ajuda em sua jornada para se tornarem especialistas. Em um ambiente repleto de barulho, seu trabalho é claro e honesto." - **Andreas M. Antonopoulos, autor de "Mastering Bitcoin" e "The Internet of Money"**
 
