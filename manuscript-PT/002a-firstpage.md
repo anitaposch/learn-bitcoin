@@ -1,5 +1,5 @@
 
-> "The root problem with conventional currency is all the trust that's required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust." - **Satoshi Nakamoto**
+> "A raiz do problema com a moeda convencional é toda a confiança necessária para fazê-la funcionar. O banco central deve ser confiável para não depreciar a moeda, mas a história das moedas fiduciárias está cheia de quebras dessa confiança." - **Satoshi Nakamoto**
 
-June 9, 2021
-A few hours ago I was live on Twitter Spaces together with 20,000 Bitcoiners and the President of El Salvador when the country's congress voted to adopt bitcoin as legal tender, making it the world's first country to do so. Coincidentally I am also finishing the manuscript of this book today. What an incredible time to be alive and I'm humbled to be able to contribute to this movement through my Bitcoin education. By picking up this book and sharing it with your friends we are hastening the monetary revolution towards more individual freedom and sovereignty. - **Anita Posch**
+9 de junho de 2021
+Algumas horas atrás, eu estava ao vivo no Twitter Spaces junto com 20.000 Bitcoiners e o presidente de El Salvador quando o congresso do país votou pela adoção do bitcoin como moeda legal, tornando-o o primeiro país do mundo a fazê-lo. Coincidentemente também estou terminando o manuscrito deste livro hoje. Que momento incrível para estar vivo e estou honrado por poder contribuir com esse movimento através da educação sobre o Bitcoin. Ao pegar este livro e compartilhá-lo com seus amigos, estamos acelerando a revolução monetária em direção a mais liberdade e soberania individual. - **Anita Posch**
