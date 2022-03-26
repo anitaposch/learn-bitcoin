@@ -1,41 +1,40 @@
-## 21 Million Bitcoin
-Bitcoin are created, as described in the previous pages, when a mining computer solves a computational task and is the first to successfully attach the newly minted block to the chain.
+## 21 milhões de Bitcoin
+Bitcoin são criados, conforme descrito nas páginas anteriores, quando um computador de mineração resolve uma tarefa computacional e é o primeiro a anexar com sucesso o bloco recém-cunhado à cadeia.
 
-Miners currently receive a premium of 6.25 bitcoin for this work. This reward is the incentive for miners to behave positively towards the Bitcoin network and to prevent them from associating with others and attacking the network.
+Atualmente, os mineradores recebem um prêmio de 6,25 bitcoin por este trabalho. Essa recompensa é o incentivo para os mineradores se comportarem positivamente em relação à rede Bitcoin e impedir que eles se associem a outros e ataquem a rede.
 
 ### Halving
-The Bitcoin rules stipulate that the reward for the miners will be halved every 210,000 blocks, roughly every four years. At the beginning this reward was 50 bitcoin. Since May 2020 it is 6.25 bitcoin. In 2024 this reward will be halved into 3.125 bitcoin per block. This event is commonly called the Halving.
+As regras do Bitcoin estipulam que a recompensa para os mineradores será reduzida pela metade a cada 210.000 blocos, aproximadamente a cada quatro anos. No início, essa recompensa era de 50 bitcoin. Desde maio de 2020 são 6,25 bitcoins. Em 2024, essa recompensa será reduzida pela metade em 3.125 bitcoins por bloco. Este evento é comumente chamado de Halving.
 
-Satoshi Nakamoto coded these halvings into the Bitcoin Core software. The output quantity decreases over time, resulting in a flattening supply curve.  
+Satoshi Nakamoto codificou esses halvings no software Bitcoin Core. A quantidade produzida diminui ao longo do tempo, resultando em uma curva de oferta achatada.
 
-![The halving interval code in the Bitcoin Core software in C++](assets/_halving-interval.jpg)
+![Código do intervalo Halving no software Bitcoin Core em C++](assets/_halving-interval.jpg)
 
-![Explanation by Andreas M. Antonopoulos](assets/_aantonop-21-million.png) [^24]
+![Explicação de Andreas M. Antonopoulos](assets/_aantonop-21-million.png) [^24]
 
-This algorithm tends to zero such that there will be a maximum of 21 million bitcoin. There are currently around 18.7 million in circulation. In 2140 all 21 million bitcoin will have been generated. Mining will continue and the miners will be rewarded solely with transaction fees. By that point, it is expected that Bitcoin as a network will have such high adoption that transaction fees alone will adequately facilitate fair reward for miners.
+Esse algoritmo tende a zero, de modo que haverá um máximo de 21 milhões de bitcoins. Atualmente, existem cerca de 18,7 milhões em circulação. Em 2140, todos os 21 milhões de bitcoins terão sido gerados. A mineração continuará e os mineradores serão recompensados ​​apenas com taxas de transação. A essa altura, espera-se que o Bitcoin como rede tenha uma adoção tão alta que as taxas de transação por si só facilitem adequadamente a recompensa justa para os mineradores.
 
-![Total bitcoin supply over time](assets/_Total_bitcoins_over_time.png) [^25]
-
-
-### Why 21 Million?
-Why did Satoshi Nakamoto choose 21 million for the supply cap? There are many theories, but here is Satoshi's answer:
-
-![Satoshi Nakamoto's explanation for the 21 million supply cap](assets/_Why-21-million.png) [^26]
+![Fornecimento total de bitcoin ao longo do tempo](assets/_Total_bitcoins_over_time.png) [^25]
 
 
-### Bitcoin Units
-The smallest denomination unit of a bitcoin is a satoshi. 1 bitcoin is comprised of 100,000,000 satoshis; 1 satoshi is one hundred millionth of 1 bitcoin (0.00000001).
+### Por que 21 milhões?
+Por que Satoshi Nakamoto escolheu 21 milhões para o limite de fornecimento? Existem muitas teorias, mas aqui está a resposta de Satoshi:
 
-You do not have to buy or sell 1 bitcoin at a time, you can start small and transact a minuscule fraction of it.
+![Explicação de Satoshi Nakamoto para o limite de fornecimento de 21 milhões](assets/_Why-21-million.png) [^26]
 
-### Bitcoin or bitcoin, but Never BitCoin
 
-Bitcoin with a capital B is used when referring to the Bitcoin network, the blockchain, the community and the concept as a whole, whereas bitcoin with a lowercase b is used to reference the currency, the bitcoin token. 
+### Unidades de Bitcoin
+A menor unidade de denominação de um bitcoin é um satoshi. 1 bitcoin é composto por 100.000.000 satoshis; 1 satoshi é um centésimo milionésimo de 1 bitcoin (0,00000001).
 
-In fact, coin is the wrong term to describe the digital asset, it is a little bit misleading. In technical terms it is called UTXO - unspent transaction output. A UTXO defines the amount of value that is stored on the blockchain at a specific Bitcoin address. Therefore there are diverging opinions as to if there is a plural for bitcoin, the unit, because it's fluid and there are no set individual coins. But since Satoshi Nakamoto spoke of bitcoins, we as a community name it that way too. There is no plural for Bitcoin, as there is only one blockchain and network.
+Você não precisa comprar ou vender 1 bitcoin por vez, você pode começar pequeno e transacionar uma fração minúscula dele.
 
-Scams like the BitClub network referred to it as BitCoin and this is often mistakenly used by Bitcoin beginners too.
+### Bitcoin ou bitcoin, mas nunca BitCoin
+Bitcoin com B maiúsculo é usado para se referir à rede Bitcoin, blockchain, comunidade e o conceito como um todo, enquanto bitcoin com b minúsculo é usado para referenciar a moeda, o token bitcoin.
 
-[^24]: [Source Andreas M. Antonopoulos](https://twitter.com/aantonop/status/1257366095515848716?s=20)  
-[^25]: [Source: Insti](https://commons.wikimedia.org/wiki/File:Total_bitcoins_over_time.png)  
-[^26]: [Source plan99.net](https://plan99.net/~mike/satoshi-emails/thread1.html)  
+Na verdade, moeda é o termo errado para descrever o ativo digital, é um pouco enganador. Em termos técnicos, é chamado de UTXO - saída de transação não gasta. Um UTXO define a quantidade de valor que é armazenada no blockchain em um endereço Bitcoin específico. Portanto, há opiniões divergentes sobre se existe um plural para bitcoin, a unidade, porque é fluido e não há moedas individuais definidas. Mas como Satoshi Nakamoto falou de bitcoins, nós, como comunidade, também o nomeamos assim. Não há plural para Bitcoin, pois há apenas um blockchain e uma rede.
+
+Golpes como a rede BitClub se referiam a ela como BitCoin e isso também é usado erroneamente por iniciantes em Bitcoin.
+
+[^24]: [Fonte Andreas M. Antonopoulos](https://twitter.com/aantonop/status/1257366095515848716?s=20)
+[^25]: [Fonte: Insti](https://commons.wikimedia.org/wiki/File:Total_bitcoins_over_time.png)
+[^26]: [Fonte plan99.net](https://plan99.net/~mike/satoshi-emails/thread1.html)
