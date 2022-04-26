@@ -1,11 +1,11 @@
-### Privacy in the Digital Age
+### Privacidade na era digital
 
-Bitcoin is pseudonymous. This means that your wallet and your Bitcoin addresses are not linked to your identity as neither your name, place of residence nor IP address is stored.
+Bitcoin é pseudônimo. Isso significa que sua carteira e seus endereços Bitcoin não estão vinculados à sua identidade, pois nem seu nome, local de residência ou endereço IP são armazenados.
 
-An exception to this is to create a user account on a centralized Bitcoin exchange when you exchange fiat for bitcoin. Here, as with traditional banks, proof of identity and registration can be required. In certain circumstances, tax offices and government agencies can force an exchange to release your identifying data and related Bitcoin addresses.
+Uma exceção a isso é criar uma conta de usuário em uma exchange centralizada de Bitcoin quando você troca moeda fiduciária por bitcoin. Aqui, como nos bancos tradicionais, pode ser exigida prova de identidade e registro. Em certas circunstâncias, repartições fiscais e agências governamentais podem forçar uma exchange a liberar seus dados de identificação e endereços Bitcoin relacionados.
 
-If you publish your Bitcoin address on the internet or announce it anywhere else, everyone can check how many coins you own in a block explorer. Be careful with this and don't always use the same Bitcoin address. The wallets that I'll present to you later will automatically create many different Bitcoin addresses so you don't have to worry about that.
+Se você publicar seu endereço Bitcoin na internet ou anunciá-lo em qualquer outro lugar, todos poderão verificar quantas moedas você possui em um explorador de blocos. Tenha cuidado com isso e nem sempre use o mesmo endereço Bitcoin. As carteiras que apresentarei a você mais tarde criarão automaticamente muitos endereços Bitcoin diferentes para que você não precise se preocupar com isso.
 
-Bitcoin is not as anonymous as it is often assumed. All cash flows can be analyzed with sufficient effort. Companies such as Chainalysis specialize in these big data evaluations and clients, such as banks, can pay for this service. Work is underway to improve the privacy of Bitcoin. Over the next two years, there will be innovations here that do not interfere with the use of Bitcoin and offer more data protection.
+Bitcoin não é tão anônimo como muitas vezes se supõe. Todos os fluxos de caixa podem ser analisados ​​com esforço suficiente. Empresas como Chainalysis se especializam nessas avaliações de big data e clientes, como bancos, podem pagar por esse serviço. O trabalho está em andamento para melhorar a privacidade do Bitcoin. Nos próximos dois anos, haverá inovações aqui que não interferem no uso do Bitcoin e oferecem mais proteção de dados.
 
-The cryptocurrency Monero, which has been in existence since 2014, offers already built-in privacy protection. Here the addresses are not publicly visible and blockchain analysis is not possible.
+A criptomoeda Monero, que existe desde 2014, já oferece proteção de privacidade integrada. Aqui os endereços não são visíveis publicamente e a análise de blockchain não é possível.
