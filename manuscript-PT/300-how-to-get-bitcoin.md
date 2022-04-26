@@ -1,14 +1,14 @@
-## How Do I Get Bitcoin?
+## Como faço para obter Bitcoin?
 
-You can acquire bitcoin in three ways:
-* you exchange fiat for it
-* you earn it
-* you mine it
+Você pode adquirir bitcoin de três maneiras:
+* você troca fiat por ele
+*você ganha
+* você minera
 
-The first option is the one most of us choose. You can use an online exchange or a Bitcoin ATM and sell your fiat money for bitcoin.
+A primeira opção é a que a maioria de nós escolhe. Você pode usar uma exchange online ou um caixa eletrônico de Bitcoin e vender seu dinheiro fiduciário por bitcoin.
 
-Earning it is the better option. You could free up your basement and sell goods for bitcoin, or work as a freelancer and get paid in bitcoin et cetera.
+Ganhar é a melhor opção. Você pode liberar seu porão e vender mercadorias por bitcoin, ou trabalhar como freelancer e ser pago em bitcoin et cetera.
 
-Mining is not an option for most private households anymore. In the early days of Bitcoin, it was possible to mine on your computer. Today, sophisticated hardware - ASICs miners - is required and you need a very cheap source of electricity to remain profitable.
+A mineração não é mais uma opção para a maioria das residências particulares. Nos primeiros dias do Bitcoin, era possível minerar em seu computador. Hoje, hardware sofisticado - mineradores ASICs - é necessário e você precisa de uma fonte de eletricidade muito barata para permanecer lucrativo.
 
-In the next chapters, we will go into the requirements to hold and use Bitcoin.
+Nos próximos capítulos, abordaremos os requisitos para manter e usar o Bitcoin.
