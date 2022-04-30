@@ -1,29 +1,29 @@
--   [Author](https://learnbitcoin.link/#author)  
- -   [Introduction](https://learnbitcoin.link/#intro)  
- -   [Testimonials](https://learnbitcoin.link/#recommendation)  
+- [Autor](https://learnbitcoin.link/#autor)
+ - [Introdução](https://learnbitcoin.link/#intro)
+ - [Depoimentos](https://learnbitcoin.link/#recommendation)
 
-(L)earn Bitcoin is a concise and approachable introduction to all the aspects surrounding the topic. The book breaks down what has taken most Bitcoiners years to learn into a quick read. It gives you the why and how to get started (l)earning it. The masterful organization and flow from one subject area to the next actually make Bitcoin simple to understand.
+(L)earn Bitcoin é uma introdução concisa e acessível a todos os aspectos que envolvem o tópico. O livro divide o que a maioria dos Bitcoiners levou anos para aprender em uma leitura rápida. Dá-lhe o porquê e como começar a aprender e a ganhá-lo. A organização magistral e o fluxo de uma área de assunto para outra realmente tornam o Bitcoin simples de entender.
 
-**Order the [ebook (epub, mobi) with bitcoin**  
+**Peça o [ebook (epub, mobi) com bitcoin**
 
-**Paperback on   
+** Livro de bolso em
 
-## Introduction
+## Introdução
 
-"Writing a description for this thing for general audiences is bloody hard. There's nothing to relate it to." - Satoshi Nakamoto  
+"Escrever uma descrição para essa coisa para o público em geral é muito difícil. Não há nada para correlacionar." - Satoshi Nakamoto
 
-(L)earn Bitcoin is the best guide to decide why and how you should enter the world of Bitcoin. It presents Bitcoin in all its facets from technical, economical, political and social implications to how it relates to the current monetary landscape. It provides a step-by-step roadmap to navigate this new financial world and sets you up with concrete recommendations on how to safely acquire, earn and store bitcoin. Ascending the staircase of financial sovereignty will gain you personal freedom and control over your money.
+(L)ganhar Bitcoin é o melhor guia para decidir por que e como você deve entrar no mundo do Bitcoin. Ele apresenta o Bitcoin em todas as suas facetas, desde implicações técnicas, econômicas, políticas e sociais até como ele se relaciona com o cenário monetário atual. Ele fornece um roteiro passo a passo para navegar neste novo mundo financeiro e apresenta recomendações concretas sobre como adquirir, ganhar e armazenar bitcoin com segurança. Subir a escada da soberania financeira lhe dará liberdade pessoal e controle sobre seu dinheiro.
 
-In this book you will find answers to the questions of what money is, where it comes from, its historical development, blockchain technology and Bitcoin specifically. It gives answers to the why and how to use Bitcoin while at the same time debunking popular myths and misunderstandings surrounding cryptocurrencies. I take a deep dive into Bitcoin's development since its inception in 2008 and give an outlook on future applications of money based on Bitcoin.
+Neste livro, você encontrará respostas para as perguntas sobre o que é dinheiro, de onde vem, seu desenvolvimento histórico, tecnologia blockchain e Bitcoin especificamente. Ele fornece respostas para o porquê e como usar o Bitcoin e, ao mesmo tempo, desmascara mitos e mal-entendidos populares em torno das criptomoedas. Eu me aprofundo no desenvolvimento do Bitcoin desde seu início em 2008 e dou uma visão sobre futuras aplicações de dinheiro baseado em Bitcoin.
 
-While mainstream media and economic pundits in the Western world think that it's just a tool for speculation, my goal is to spread the word about Bitcoin as an enabler of financial fairness and social change. What goes unmentioned are the positive real world implications that a truly permissionless, uncensorable, neutral digital asset with a fixed supply offers.
+Enquanto a grande mídia e especialistas econômicos no mundo ocidental pensam que é apenas uma ferramenta para especulação, meu objetivo é espalhar a palavra sobre o Bitcoin como um facilitador de justiça financeira e mudança social. O que não é mencionado são as implicações positivas do mundo real que um ativo digital verdadeiramente sem permissão, sem censura e neutro com um fornecimento fixo oferece.
 
-Later in the book I will focus on the more practical applications of Bitcoin (BTC) and how you can safely acquire and store it. You will learn how to gain confidence by starting with small amounts, how to minimize the existing risks and proceed strategically and efficiently in storing your wealth long-term.
+Mais adiante no livro, focarei nas aplicações mais práticas do Bitcoin (BTC) e como você pode adquiri-lo e armazená-lo com segurança. Você aprenderá como ganhar confiança começando com pequenas quantias, como minimizar os riscos existentes e proceder de forma estratégica e eficiente no armazenamento de seu patrimônio a longo prazo.
 
-This is neither financial advice, nor a trading guide to the thousands of Altcoins in existence. If you are only interested in short-term gains, treating money like you're gambling in a casino, this book is not for you. It's for people who want to (l)earn and understand the fundamentals of Bitcoin and control their funds in a self-sovereign manner.
+Este não é um conselho financeiro nem um guia de negociação para os milhares de Altcoins existentes. Se você está interessado apenas em ganhos de curto prazo, tratando o dinheiro como se estivesse jogando em um cassino, este livro não é para você. É para pessoas que querem aprender e entender os fundamentos do Bitcoin e controlar seus fundos de maneira auto-soberana.
 
-## Recommended by
+## Recomendado por
 
-[Anita Posch](https://anitaposch.com/) is a Bitcoin advocate, author, [podcaster](https://bitcoinundco.com/en/) and solopreneur. She is the founder of Bitcoin for Fairness - an educational non-profit initiative. Bitcoin is money from the people, for the people. Its mathematical rules can't be corrupted - neither by governments nor by billionaires. This guarantees a level of fairness which cannot be achieved in traditional human driven systems. It gives underprivileged individuals, such as people from developing nations, women, and oppressed minority groups, the chance to participate globally in a free and private manner with each other. This freedom to exchange value, unleashing people's creativity and innovation, is what drives Anita Posch.
+[Anita Posch](https://anitaposch.com/) é uma defensora do Bitcoin, autora, [podcaster](https://bitcoinundco.com/en/) e empreendedora solo. Ela é a fundadora do Bitcoin for Fairness - uma iniciativa educacional sem fins lucrativos. Bitcoin é dinheiro do povo, para o povo. Suas regras matemáticas não podem ser corrompidas - nem por governos nem por bilionários. Isso garante um nível de justiça que não pode ser alcançado em sistemas tradicionais conduzidos por humanos. Dá a indivíduos desprivilegiados, como pessoas de nações em desenvolvimento, mulheres e grupos minoritários oprimidos, a chance de participar globalmente de maneira livre e privada uns com os outros. Essa liberdade de trocar valor, liberando a criatividade e a inovação das pessoas, é o que move Anita Posch.
 
-Subscribe to my free newsletter to (L)earn Bitcoin
+Assine minha newsletter gratuita para (L)ganhar Bitcoin
