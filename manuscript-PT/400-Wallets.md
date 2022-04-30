@@ -12,7 +12,7 @@ Além dessas considerações, você precisa usar uma carteira que suporte suas c
 
 Nos anos desde o lançamento do Bitcoin, usar uma carteira de hardware provou ser a melhor maneira de armazenar suas chaves privadas. Uma carteira de hardware é um pequeno dispositivo que armazena chaves privadas offline, semelhante a um pendrive.
 
-As carteiras de hardware requerem manutenção e um computador ou smartphone. Se você não quiser se preocupar com atualizações de software ou não possuir tal dispositivo, você pode usar a Carteira Cartão como uma alternativa de armazenamento a frio. É um produto da mais antiga corretora de bitcoin austríaca Coinfinity e da Austrian State Printing House.
+As carteiras de hardware requerem manutenção e um computador ou smartphone. Se você não quiser se preocupar com atualizações de software ou não possuir tal dispositivo, você pode usar a Card Wallet como uma alternativa de armazenamento a frio. É um produto da mais antiga corretora de bitcoin austríaca Coinfinity e da Austrian State Printing House.
 
 ### Padrões industriais
 Em cada caso, você precisa confiar nos fabricantes de carteiras em maior ou menor grau. **As soluções de armazenamento a frio preferidas e recomendadas do setor são carteiras de hardware**.
@@ -70,7 +70,7 @@ Realmente, se você não quiser pagar os 50 - 100 USD necessários para comprar 
 
 Se você simplesmente não puder comprar uma carteira de hardware, use seu telefone enquanto isso. Assim que você tiver economizado fundos suficientes, obtenha uma carteira de hardware.
 
-**Carteira Cartão**
-A Carteira Card (produto) é em princípio uma carteira de papel, mas é produzida por profissionais com altos padrões de segurança. No entanto, você precisa confiar nos fabricantes para não gravar as chaves privadas no cartão. Você pode usar a Carteira de Cartões como alternativa caso não possua um computador ou smartphone ou não queira cuidar da manutenção de sua carteira de hardware. https://cardwallet.com/anita (meus leitores ganham 20% de desconto)
+**Card Wallet**
+A Card Wallet (produto) é em princípio uma carteira de papel, mas é produzida por profissionais com altos padrões de segurança. No entanto, você precisa confiar nos fabricantes para não gravar as chaves privadas no cartão. Você pode usar a Carteira de Cartões como alternativa caso não possua um computador ou smartphone ou não queira cuidar da manutenção de sua carteira de hardware. https://cardwallet.com/anita (meus leitores ganham 20% de desconto)
 
 A solução de armazenamento a frio preferida e **recomendada do setor são as carteiras de hardware**.
