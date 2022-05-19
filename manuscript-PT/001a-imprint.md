@@ -22,8 +22,7 @@ Copyright 2021 por Anita Posch, todos os direitos reservados.
 
 Você pode compartilhar partes do livro em artigos de mídia, em seu site pessoal, em um artigo comercial ou postagem de blog (por exemplo, Medium) e/ou em uma conta pessoal de mídia social, desde que inclua a atribuição a "Anita Posch " e link de volta para a URL https://anitaposch.com. Você não tem permissão para copiar o conteúdo do livro e vendê-lo em qualquer formato.
 
-ISBN (hb): 978-3-9504591-6-6
-ISBN (pb): 978-3-9504591-5-9
-ISBN (e-book): 978-3-9504591-4-2
+ISBN (pb): 978-3-9505043-4-7
+ISBN (e-book): 978-3-9505043-3-0
 
-Obtenha informações atuais sobre o livro online em https://learnbitcoin.link
+Obtenha informações atuais sobre o livro online em https://learnbitcoin.link/pt/
