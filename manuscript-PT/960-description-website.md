@@ -2,7 +2,7 @@
  - [Introdução](https://learnbitcoin.link/#intro)
  - [Depoimentos](https://learnbitcoin.link/#recommendation)
 
-(L)earn Bitcoin é uma introdução concisa e acessível a todos os aspectos que envolvem o tópico. O livro divide o que a maioria dos Bitcoiners levou anos para aprender em uma leitura rápida. Dá-lhe o porquê e como começar a aprender e a ganhá-lo. A organização magistral e o fluxo de uma área de assunto para outra realmente tornam o Bitcoin simples de entender.
+Aprenda Bitcoin é uma introdução concisa e acessível a todos os aspectos que envolvem o tópico. O livro divide o que a maioria dos Bitcoiners levou anos para aprender em uma leitura rápida. Dá-lhe o porquê e como começar a aprender e a ganhá-lo. A organização magistral e o fluxo de uma área de assunto para outra realmente tornam o Bitcoin simples de entender.
 
 **Peça o [ebook (epub, mobi) com bitcoin**
 
@@ -12,7 +12,7 @@
 
 "Escrever uma descrição para essa coisa para o público em geral é muito difícil. Não há nada para correlacionar." - Satoshi Nakamoto
 
-(L)ganhar Bitcoin é o melhor guia para decidir por que e como você deve entrar no mundo do Bitcoin. Ele apresenta o Bitcoin em todas as suas facetas, desde implicações técnicas, econômicas, políticas e sociais até como ele se relaciona com o cenário monetário atual. Ele fornece um roteiro passo a passo para navegar neste novo mundo financeiro e apresenta recomendações concretas sobre como adquirir, ganhar e armazenar bitcoin com segurança. Subir a escada da soberania financeira lhe dará liberdade pessoal e controle sobre seu dinheiro.
+Aprenda Bitcoin é o melhor guia para decidir por que e como você deve entrar no mundo do Bitcoin. Ele apresenta o Bitcoin em todas as suas facetas, desde implicações técnicas, econômicas, políticas e sociais até como ele se relaciona com o cenário monetário atual. Ele fornece um roteiro passo a passo para navegar neste novo mundo financeiro e apresenta recomendações concretas sobre como adquirir, ganhar e armazenar bitcoin com segurança. Subir a escada da soberania financeira lhe dará liberdade pessoal e controle sobre seu dinheiro.
 
 Neste livro, você encontrará respostas para as perguntas sobre o que é dinheiro, de onde vem, seu desenvolvimento histórico, tecnologia blockchain e Bitcoin especificamente. Ele fornece respostas para o porquê e como usar o Bitcoin e, ao mesmo tempo, desmascara mitos e mal-entendidos populares em torno das criptomoedas. Eu me aprofundo no desenvolvimento do Bitcoin desde seu início em 2008 e dou uma visão sobre futuras aplicações de dinheiro baseado em Bitcoin.
 
