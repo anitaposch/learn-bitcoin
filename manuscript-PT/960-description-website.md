@@ -26,4 +26,4 @@ Este não é um conselho financeiro nem um guia de negociação para os milhares
 
 [Anita Posch](https://anitaposch.com/) é uma defensora do Bitcoin, autora, [podcaster](https://bitcoinundco.com/en/) e empreendedora solo. Ela é a fundadora do Bitcoin for Fairness - uma iniciativa educacional sem fins lucrativos. Bitcoin é dinheiro do povo, para o povo. Suas regras matemáticas não podem ser corrompidas - nem por governos nem por bilionários. Isso garante um nível de justiça que não pode ser alcançado em sistemas tradicionais conduzidos por humanos. Dá a indivíduos desprivilegiados, como pessoas de nações em desenvolvimento, mulheres e grupos minoritários oprimidos, a chance de participar globalmente de maneira livre e privada uns com os outros. Essa liberdade de trocar valor, liberando a criatividade e a inovação das pessoas, é o que move Anita Posch.
 
-Assine minha newsletter gratuita para (L)ganhar Bitcoin
+Assine minha newsletter gratuita Aprenda Bitcoin
