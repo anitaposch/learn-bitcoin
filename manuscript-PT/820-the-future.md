@@ -1,6 +1,6 @@
 # O futuro é agora
 
-> "O futuro é um canteiro de obras." - Anitta Posch
+> "O futuro é um canteiro de obras." - Anita Posch
 
 Agora que você tem uma compreensão mais profunda do Bitcoin e como usá-lo, podemos mergulhar nos desenvolvimentos futuros que acho que terão um impacto enorme. Esta parte foi co-autoria de Mark Kersley com partes retiradas de: [conversa de Andreas M. Antonopoulos sobre Bitcoin, Layer 2 Solutions, and the Wild West of Crypto](https://youtu.be/TsbIMg-YHQk)
 
