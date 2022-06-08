@@ -22,7 +22,7 @@ Para receber bitcoin, você precisa de um endereço Bitcoin para o qual alguém 
 
 Um exemplo de endereço Bitcoin: 346n4apJCQPg2XAXU3bfNQTogz4PyTkrEf
 
-Digitar 34 dígitos é obviamente muito impraticável, portanto, os códigos QR dos endereços são comumente usados ​​e geralmente são criados automaticamente pela sua carteira.
+Digitar 34 dígitos é obviamente muito impraticável, portanto, os códigos QR dos endereços são comumente usados e geralmente são criados automaticamente pela sua carteira.
 
 ![endereço BTC como código QR](assets/_address-book.PNG)
 

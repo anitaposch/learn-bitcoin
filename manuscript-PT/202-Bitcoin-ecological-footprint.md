@@ -7,7 +7,7 @@ A captura de tela acima é um artigo da Newsweek bem no meio da alta de 2017-201
 
 > "Toda vez que temos um rali no Bitcoin, vemos toda essa atenção negativa ao impacto ambiental do Bitcoin. Aparentemente, só importa quando o preço está alto." - **Andreas M. Antonopoulos**
 
-Vamos mergulhar nisso. Os críticos do Bitcoin costumam mencionar que o Bitcoin consome mais energia do que os benefícios que cria. É inegável que a mineração de Bitcoin requer muita eletricidade. Estima-se que entre 80 e 118 TWh por ano sejam usados ​​globalmente para mineração, o que equivale a todo o consumo de energia de países como a Holanda.
+Vamos mergulhar nisso. Os críticos do Bitcoin costumam mencionar que o Bitcoin consome mais energia do que os benefícios que cria. É inegável que a mineração de Bitcoin requer muita eletricidade. Estima-se que entre 80 e 118 TWh por ano sejam usados globalmente para mineração, o que equivale a todo o consumo de energia de países como a Holanda.
 
 ![Classificação do país, março de 2021](assets/_electricity-consumption-btc.png) [^36]
 
@@ -73,11 +73,11 @@ Indiscutivelmente, os mineradores de Bitcoin estão usando energia desperdiçada
 **Mix de Energia da Produção de Eletricidade**
 Os mineradores de Bitcoin são bastante bem distribuídos em todo o mundo. Embora seja fácil quantificar a demanda de eletricidade, é mais difícil quantificar as fontes de eletricidade, pois a indústria de mineração de Bitcoin continua sendo uma indústria altamente privada e pseudônima. Portanto, pesquisas sobre a eletricidade usada na mineração estimam que o uso de energia renovável varia de 39% (Cambridge Center, CBECI.org) a 73% no CoinShares Mining Whitepaper, que conclui:
 
-"Usando uma combinação de estimativas de locais de mineração globais e penetrações regionais de energias renováveis, calculamos novamente que a indústria de mineração de Bitcoin é fortemente impulsionada por energias renováveis. Nossa porcentagem atual aproximada de geração de energia renovável no mix de energia de mineração de Bitcoin é de 73%, cerca de quatro vezes a média global. No geral, nossas descobertas reafirmam nossa visão de que a mineração de Bitcoin está atuando como um comprador global de eletricidade de último recurso e, portanto, tende a se agrupar em torno de infraestruturas renováveis ​​comparativamente subutilizadas. à medida que a indústria amadurece e se estabelece como permanente aos olhos do público - poderia atuar como um impulsionador de novos desenvolvimentos de energias renováveis ​​em locais que antes eram antieconômicos." [^49]
+"Usando uma combinação de estimativas de locais de mineração globais e penetrações regionais de energias renováveis, calculamos novamente que a indústria de mineração de Bitcoin é fortemente impulsionada por energias renováveis. Nossa porcentagem atual aproximada de geração de energia renovável no mix de energia de mineração de Bitcoin é de 73%, cerca de quatro vezes a média global. No geral, nossas descobertas reafirmam nossa visão de que a mineração de Bitcoin está atuando como um comprador global de eletricidade de último recurso e, portanto, tende a se agrupar em torno de infraestruturas renováveis comparativamente subutilizadas. à medida que a indústria amadurece e se estabelece como permanente aos olhos do público - poderia atuar como um impulsionador de novos desenvolvimentos de energias renováveis em locais que antes eram antieconômicos." [^49]
 
 A questão não é quanta energia é necessária, mas como a eletricidade é produzida? Quanto CO2 é emitido? Se decidirmos como sociedade que não queremos energia poluente, devemos regular a produção de energia e não permitir o uso de sistemas poluentes. Trata-se de regular a produção de energia e não de regular o consumo de energia em um setor específico da economia que é o Bitcoin.
 
-O Bitcoin usa uma quantidade maior de eletricidade de fontes renováveis ​​do que a rede na China, nos EUA e no mundo em geral.
+O Bitcoin usa uma quantidade maior de eletricidade de fontes renováveis do que a rede na China, nos EUA e no mundo em geral.
 ![Electricity Mix, Bitcoin vs. China vs. EUA vs. The World, 2020](assets/_Bitcoin-electricity-sources.jpg) [^50]
 
 **Emissões de carbono**
