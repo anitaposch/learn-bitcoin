@@ -1,4 +1,3 @@
-
 # Autor
 
 Anita Posch é uma defensora do Bitcoin, autora, empreendedora solo e apresentadora do programa Anita Posch. Ela é a fundadora do Bitcoin for Fairness - uma iniciativa educacional sem fins lucrativos.
@@ -19,4 +18,4 @@ Anita traduziu dois volumes de "A Internet do Dinheiro" de Andreas M. Antonopoul
 
 Anita Posch tuíta regularmente em [https://twitter.com/anitaposch](https://twitter.com/anitaposch).
 
-Você pode encontrar mais sobre Anita em seu site em [https://anitaposch.com](https://anitaposch.com), o programa Anita Posch em [https://anita.link/show](https:// anita.link/show), o canal de Anita no YouTube em [https://www.youtube.com/anitaposch](https://www.youtube.com/anitaposch) e informações sobre este livro em [https://learnbitcoin .link](https://learnbitcoin.link).
+Você pode encontrar mais sobre Anita em seu site em [https://anitaposch.com](https://anitaposch.com), o programa Anita Posch em [https://anita.link/show](https://anita.link/show), o canal de Anita no YouTube em [https://www.youtube.com/anitaposch](https://www.youtube.com/anitaposch) e informações sobre este livro em [https://learnbitcoin.link](https://learnbitcoin.link).
