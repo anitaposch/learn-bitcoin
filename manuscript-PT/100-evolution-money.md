@@ -28,7 +28,7 @@ O dinheiro criptográfico programável ou a "Internet do Dinheiro" - como diz An
 ## Rai Stones of Yap
 Se o Bitcoin parece incompreensível e você não consegue entender o conceito de blockchain como um livro razão compartilhado, as pedras Rai da Ilha de Yap é um bom exemplo para introduzir alguns conceitos sobrepostos.
 
-Rai são grandes discos de pedra usados ​​na ilha Yap no Pacífico Ocidental (Micronésia). Eles foram "cunhados" dos depósitos de calcário da ilha de Palau e usados ​​como moeda até o século XX.
+Rai são grandes discos de pedra usados na ilha Yap no Pacífico Ocidental (Micronésia). Eles foram "cunhados" dos depósitos de calcário da ilha de Palau e usados como moeda até o século XX.
 
 ![Pedras Rai com troncos de transporte, 1903](resources/_Stone_Money_of_Uap_1903_Jayne,_String_Figures_p160.jpg) [^3]
 
@@ -123,7 +123,7 @@ Se você quiser saber mais, [ouça meu episódio de podcast sobre a vida e a his
 **Características de um Esquema Ponzi**
 
 * Um esquema Ponzi tem um ator, líder ou organização centralizada que coleta investimentos e foge no final.
-* Esquemas Ponzi não são auditáveis ​​ou transparentes. Ninguém, exceto o criador, sabe o que acontece com os fundos.
+* Esquemas Ponzi não são auditáveis ou transparentes. Ninguém, exceto o criador, sabe o que acontece com os fundos.
 * Um esquema Ponzi emite dinheiro até quebrar - não há limite de oferta.
 * Dificuldade em reembolsar os investidores: quanto mais dinheiro entra no esquema, mais dinheiro tem que ser devolvido, e mais difícil fica para o criador parar a máquina.
 * O sistema tem que quebrar um dia, não tem saída.

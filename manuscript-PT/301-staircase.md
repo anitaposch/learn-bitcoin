@@ -2,8 +2,7 @@
 
 > "Sem suas chaves, sem suas moedas." - **Andreas M. Antonopoulos**
 
-Como você leu nos capítulos anteriores, a principal força do Bitcoin é sua não censura, o que lhe dá soberania financeira. Ou seja - além da oferta fixa de 21 milhões - o principal diferencial para todas as outras formas de dinheiro. Ele protege você de bail-ins como em Chipre em 2014 e da inflação desvalorizando seus fundos. Acaba com a financeirização forçada do seu dinheiro por meio de produtos bancários e financeiros. Ele lhe dá controle total sobre seus fundos, permite que você se mova globalmente enquanto traz seu dinheiro com você. É uma alternativa, um opt-out do sistema fiduciário - tudo o que você precisa são 12 palavras em inglês: sua frase de recuperação
-.
+Como você leu nos capítulos anteriores, a principal força do Bitcoin é sua não censura, o que lhe dá soberania financeira. Ou seja - além da oferta fixa de 21 milhões - o principal diferencial para todas as outras formas de dinheiro. Ele protege você de bail-ins como em Chipre em 2014 e da inflação desvalorizando seus fundos. Acaba com a financeirização forçada do seu dinheiro por meio de produtos bancários e financeiros. Ele lhe dá controle total sobre seus fundos, permite que você se mova globalmente enquanto traz seu dinheiro com você. É uma alternativa, um opt-out do sistema fiduciário - tudo o que você precisa são 12 palavras em inglês: sua frase de recuperação.
 
 > "Bitcoin é incensurável e não inflável. Essas são suas propriedades mais importantes." - **Anita Posch**
 

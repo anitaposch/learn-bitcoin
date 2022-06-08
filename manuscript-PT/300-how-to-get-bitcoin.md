@@ -2,7 +2,7 @@
 
 Você pode adquirir bitcoin de três maneiras:
 * você troca fiat por ele
-*você ganha
+* você ganha
 * você minera
 
 A primeira opção é a que a maioria de nós escolhe. Você pode usar uma exchange online ou um caixa eletrônico de Bitcoin e vender seu dinheiro fiduciário por bitcoin.

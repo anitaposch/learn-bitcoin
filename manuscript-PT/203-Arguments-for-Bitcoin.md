@@ -110,7 +110,7 @@ De acordo com Jevons, o Bitcoin só é dinheiro se cumprir essas funções:
 Fonte: https://en.wikipedia.org/wiki/Money
 
 **1. Reserva de valor**
-Os críticos dizem que o bitcoin não é uma reserva de valor devido à sua volatilidade e potencial para perdas de curto prazo. Bem, como expus no capítulo 3.1, a longo prazo esse não é realmente o caso. Além disso, questiono a definição de "estável ao longo do tempo". Qual é o período de tempo? A inflação em moeda fiduciária na Áustria foi de 20% na última década. Todas as outras moedas fiduciárias, como o Euro, são reservas de valor igualmente não confiáveis ​​por esse motivo.
+Os críticos dizem que o bitcoin não é uma reserva de valor devido à sua volatilidade e potencial para perdas de curto prazo. Bem, como expus no capítulo 3.1, a longo prazo esse não é realmente o caso. Além disso, questiono a definição de "estável ao longo do tempo". Qual é o período de tempo? A inflação em moeda fiduciária na Áustria foi de 20% na última década. Todas as outras moedas fiduciárias, como o Euro, são reservas de valor igualmente não confiáveis por esse motivo.
 
 **2. Meio de troca**
 Você pode usar bitcoin como meio de troca, se quiser. Sim, há apenas um pequeno número de empresas, serviços e restaurantes que aceitam bitcoin como pagamento no momento da redação. Mas, para fazer isso, você pode usar diferentes ferramentas e serviços que você pode preencher com bitcoin e gastar em moeda fiduciária. Além disso, existem muitas empresas dentro do espaço que já aceitam e pagam salários em bitcoin também.
