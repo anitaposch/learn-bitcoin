@@ -9,7 +9,7 @@ Il 3 gennaio 2009, il primo blocco pubblico di Bitcoin, noto come Blocco Genesi 
 
 Il 9 giugno 2021, bitcoin diventa moneta a corso legale ad El Salvador.
 
-Sin dagli anni ’90, esperti di computer, matematici e crittografi – donne incluse – hanno sviluppato idee e concept di denaro digitale. È stato possibile creare Bitcoin perché si basò su tecnologie chiave dei suoi predecessori.
+Sin dagli anni ’90, esperti di computer, matematici e crittografi – donne incluse – hanno sviluppato idee e prototipi di denaro digitale. È stato possibile creare Bitcoin perché si basa su tecnologie chiave dei suoi predecessori.
 
 ### Progetti di criptovalute prima di Bitcoin
 Parte di questi concept sono stati integrati da Satoshi Nakamoto nel white paper di bitcoin. 
@@ -29,7 +29,7 @@ Nel 1997 Adam Back propose un’idea similare denominata _"Hashcash"_. Satoshi N
 Il termine _“proof-of-work”_ fu coniato e formalizzato in un paper di Markus Jakobsson e Ari Juels datato 1999.
 
 **Decentralizzazione**
-Ad Hashcash seguì _"B-Money"_ by Wei Dai in 1998. di Wei Dai, nel 1998. Il suo concept fu il primo a prevedere una rete decentralizzata di computer. Questo viene integrato nel network peer-to-peer di Bitcoin con computer che eseguono il software Bitcoin in qualità di nodi o _miner_. Peer-to-peer definisce un sistema di partecipanti equipotenti ed ugualmente privilegiati, pertanto privo di alcuna gerarchia nel network.
+Ad Hashcash seguì _"B-Money"_ di Wei Dai, nel 1998. Il suo concept fu il primo a prevedere una rete decentralizzata di computer. Questo viene integrato nel network peer-to-peer di Bitcoin con computer che eseguono il software Bitcoin in qualità di nodi o _miner_. Peer-to-peer definisce un sistema di partecipanti equipotenti ed ugualmente privilegiati, pertanto privo di alcuna gerarchia nella rete.
 
 Poco dopo, Nick Szabo pubblicò il paper di _"BitGold"_, il primo sistema di denaro digitale capace di funzionare senza la necessità che un’entità centrale emettesse il denaro. È anche la prima persona a presentare un paper citando il termine _"Smart Contract"_.
 
@@ -38,9 +38,9 @@ Queste precedenti soluzioni tecnologiche di denaro digitale soffrivano di un ril
 
 L’idea ingegnosa di Satoshi Nakamoto fu quella di aggiungere al sistema un registro a blocchi contenenti i dettagli delle transazioni. Questi blocchi sono collegati sequenzialmente attraverso l’attività di mining e tramite il processo di _"proof-of-work"_, da cui il termine blockchain. Questo concatenamento delle transazioni ordinate temporalmente rende bitcoin immutabile e a prova di falsificazione.
 
-Non appena un partecipante della rete di Bitcoin tentasse di imbrogliare, il network lo individuerebbe e bandirebbe temporaneamente. Ciò significa che non necessiti di fidarti di nessuno, non vi è necessità di un intermediario quale una banca o PayPal. Questo non significa che non ci siano truffatori o che tu non debba verificare ciò che è vero e falso, oppure che tu debba fermarti dall’imparare come utilizzare Bitcoin. La conoscenza è potere.
+Non appena un partecipante della rete di Bitcoin tentasse di imbrogliare, il network lo individuerebbe e bandirebbe temporaneamente. Ciò significa che non devi fidarti di nessuno, non vi è necessità di un intermediario quale una banca o PayPal. Questo non significa che non ci siano truffatori o che tu non debba verificare ciò che è vero e falso, oppure che tu debba fermarti dall’imparare come utilizzare Bitcoin. La conoscenza è potere.
 
-Il motto di Bitcoin è _“Non ﬁdarti, veriﬁca.”_ All’inizio ero un po’ confusa. Da una parte, impari che non necessiti di riporre fiducia verso alcun intermediario. Dall’altra, che puoi verificare le tue transazioni. Il messaggio è il seguente: se vuoi verificare le transazioni in bitcoin in totale autonomia, lo puoi fare. Difatti, se hai le conoscenze tecniche per impostare un tuo nodo pieno, dovresti verificare.
+Il motto di Bitcoin è _“Non ﬁdarti, veriﬁca.”_ All’inizio ero un po’ confusa. Da una parte, impari che non necessiti di riporre fiducia verso alcun intermediario. Dall’altra, che puoi verificare le tue transazioni. Il messaggio è il seguente: se vuoi verificare le transazioni in bitcoin in totale autonomia, lo puoi fare. Difatti, se hai le conoscenze tecniche per impostare un tuo full node, dovresti verificare.
 
 Tutto ciò è rivoluzionario – nel momento in cui inizi a verificare le tue transazioni in bitcoin, essenzialmente diventi una banca. Questo è ciò che fanno le banche – verificano le tue transazioni nel loro registro. Tuttavia, devi riporre in loro la fiducia che eseguano un buon lavoro. Questo può funzionare egregiamente nei Paesi sviluppati, ma l’esperienza bancaria è ben peggiore per la maggior parte del mondo. Ora, immagina di non avere una situazione bancaria affidabile oppure un documento identificativo, tuttavia possiedi un telefono cellulare con accesso a Internet. C’è solo un’opzione per conservare ed utilizzare i tuoi soldi. È una soluzione di denaro virtuale via cellulare come M-Pesa o EcoCash in Africa, oppure le criptovalute, per le quali peraltro non è necessaria alcuna identificazione.
 
