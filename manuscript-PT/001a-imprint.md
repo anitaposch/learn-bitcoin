@@ -1,7 +1,7 @@
 
 Aprenda Bitcoin
 Torne-se financeiramente soberano
-1ª edição, .........
+1ª edição, 30 de Junho 2022
 
 Autora: Anita Posch
 
@@ -12,11 +12,6 @@ A edição original em inglês foi publicada em junho de 2021 sob o título (L)e
 Tradução e revisão em português: Caroline Souza
 
 Editor: Mark Kersley
-Tipografia: Couper Street Type Co.
-Design de Capa/Direção de Arte: tzu jan |自然
-Esboço do Conceito de Ilustração: @danubastidas
-Ilustração: Ilustração Maleek
-Letras à mão: Mila Masina
 
 Copyright 2021 por Anita Posch, todos os direitos reservados.
 
