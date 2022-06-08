@@ -4,7 +4,7 @@ Come menzionato nel capitolo precedente, l’obiettivo è conseguire il livello 
 
 Per comprare, usare e conservare bitcoin, avrai bisogno del seguente:
 
-* Wallet Bitcoin = il tuo portafoglio di denaro digitale. Un’analogia ancor più precisa sarebbe il portachiavi digitale dei tuoi salvadanai.
+* Wallet Bitcoin = il tuo portafoglio di denaro digitale. Un’analogia ancor più precisa sarebbe un portachiavi digitale.
 * Indirizzi Bitcoin = uno o più indirizzi unici dei tuoi fondi nella blockchain, i tuoi indirizzi di ricezione (più precisamente gli UTXO, output di transazione non speso).
 * Seed = i dati di recupero del tuo wallet Bitcoin.
 
