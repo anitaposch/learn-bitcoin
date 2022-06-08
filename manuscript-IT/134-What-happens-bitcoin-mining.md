@@ -24,7 +24,7 @@ Il nodo pieno del beneficiario del pagamento riceve il blocco e lo convalida nuo
 
 L’arco di tempo necessaria alla riconciliazione della tua transazione dipende dalla _fee_ – un costo di commissione - che hai selezionato e saldato. Più la fee è alta, più velocemente i miner inseriranno la tua transazione in un blocco, poiché loro trarranno un guadagno da tale fee in aggiunta al premio di 6.25 bitcoin.
 
-Perché questo puzzle matematico? Il protocollo proof-of-work è ad alta intensità di risorse in quanto i computer richiedono un ammontare di potenza rilevante. Ciò attrae critiche verso Bitcoin in considerazione dei cambiamenti climatici che noi umani abbiamo causato nelle recenti decadi. Il capitolo 3.1.11 “L’impronta ecologica di Bitcoin” affronta questo tema in maggior dettaglio.
+Perché questo puzzle matematico? Il protocollo proof-of-work è ad alta intensità di risorse in quanto i computer richiedono un ammontare di potenza rilevante. Ciò attrae critiche verso Bitcoin in considerazione dei cambiamenti climatici che noi umani abbiamo causato nelle recenti decadi. Il capitolo “L’impronta ecologica di Bitcoin” affronta questo tema in maggior dettaglio.
 
 Perché dobbiamo consumare così tanta elettricità? La risposta risiede in messa in sicurezza e decentralizzazione. Il bisogno di impegnare sforzo ed energia nel mining è volto alla protezione della manipolazione dei dati nella blockchain affinché ne conservi la propria immutabilità e incensurabilità. Nessun stato o organizzazione può modificare la blockchain.
 

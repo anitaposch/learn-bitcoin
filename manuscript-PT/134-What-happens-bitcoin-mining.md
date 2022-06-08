@@ -24,7 +24,7 @@ O beneficiário, na verdade, seu nó completo, recebe o bloco e o valida novamen
 
 O período de tempo que sua transação precisa ser liquidada depende da taxa de transação que você está selecionando e pagando. Quanto maior a taxa, mais rápido os mineradores inserirão sua transação em um bloco, pois eles ganham essas taxas além da recompensa do bloco de 6,25 bitcoins.
 
-Por que esse quebra-cabeça matemático? A prova de trabalho consome muitos recursos, pois os computadores exigem grandes quantidades de energia. Esse fato leva a críticas ao Bitcoin à luz das mudanças climáticas que nós humanos criamos nas últimas décadas. O Capítulo 3.1.11 "Pegada Ecológica do Bitcoin" trata dessa questão com mais detalhes.
+Por que esse quebra-cabeça matemático? A prova de trabalho consome muitos recursos, pois os computadores exigem grandes quantidades de energia. Esse fato leva a críticas ao Bitcoin à luz das mudanças climáticas que nós humanos criamos nas últimas décadas. O Capítulo "Pegada Ecológica do Bitcoin" trata dessa questão com mais detalhes.
 
 Por que precisamos usar tanta eletricidade? A resposta é segurança e descentralização. A necessidade de colocar esforço e energia na mineração protege os dados no blockchain da manipulação e os torna imutáveis e não censuráveis. Nenhum estado ou organização pode mudar o blockchain.
 

@@ -22,7 +22,7 @@ Der Full Node des Zahlungsempfängers erhält den Block, überprüft ihn ebenfal
 
 Die Zeit, die Ihre Transaktion benötigt, um final abgeschlossen zu werden, hängt davon ab, wie viel Transaktionsgebühren Sie zahlen. Je höher die Gebühr, desto schneller werden die Miner Ihre Transaktion in einen Block übernehmen, denn sie erhalten die Gebühren zusätzlich zur Block-Belohnung von 6,25 Bitcoin.
 
-Wozu dieses mathematische Rätsel? Proof-of-Work ist ressourcenintensiv und die Rechner benötigen dafür relativ viel Strom. Dies führt angesichts der Klimasituation, die wir in den letzten Jahrzehnten negativ verändert haben, zu Kritik an Proof-of-Work Blockchains wie Bitcoin. In Kapitel 3.1.11 "Bitcoins ökologischer Fußabtritt" gehe ich näher auf dieses Thema ein.
+Wozu dieses mathematische Rätsel? Proof-of-Work ist ressourcenintensiv und die Rechner benötigen dafür relativ viel Strom. Dies führt angesichts der Klimasituation, die wir in den letzten Jahrzehnten negativ verändert haben, zu Kritik an Proof-of-Work Blockchains wie Bitcoin. In Kapitel "Bitcoins ökologischer Fußabtritt" gehe ich näher auf dieses Thema ein.
 
 Wieso wird so viel Elektrizität benötigt? Sicherheit und Dezentralität sind die Antwort. Die Arbeit und die Energie schützen die Daten der Blockchain vor Manipulation oder Zensur und machen sie unveränderbar. Kein Staat und keine Organisation kann sie abändern.
 

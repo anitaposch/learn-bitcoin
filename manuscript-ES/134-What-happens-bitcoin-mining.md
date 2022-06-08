@@ -24,7 +24,7 @@ El beneficiario de esta transacción, de hecho, su nodo completo, recibirá el n
 
 El período de tiempo que tu transacción necesita para ser confirmada, depende de la comisión de transacción que hayas seleccionando y pagado. Cuanto más alta sea esta comisión de red, más rápido los mineros insertarán tu transacción en un bloque, porque ellos se quedan con estas comisiones, además de la recompensa de bloque de 6.25 bitcoins.
 
-¿Cuál es el por qué de este acertijo matemático? La Prueba-de-Trabajo requiere muchos recursos ya que las computadoras requieren grandes cantidades de energía. Este hecho ha llevado a la critica de Bitcoin, a la luz de los cambios climáticos que los humanos hemos creado en las últimas décadas. En el capítulo 3.1.11 "Huella ecológica de Bitcoin" tratamos esta cuestión con más detalle.
+¿Cuál es el por qué de este acertijo matemático? La Prueba-de-Trabajo requiere muchos recursos ya que las computadoras requieren grandes cantidades de energía. Este hecho ha llevado a la critica de Bitcoin, a la luz de los cambios climáticos que los humanos hemos creado en las últimas décadas. En el capítulo "Huella ecológica de Bitcoin" tratamos esta cuestión con más detalle.
 
 ¿Por qué necesitamos usar tanta electricidad? La respuesta es por seguridad y descentralización. La necesidad de poner esfuerzo y energía en la minería protege los datos de la cadena de bloques de ser manipulados y los hace inmutables e incensurables. Ningún estado ni organización puede cambiar la cadena de bloques.
 
