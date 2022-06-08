@@ -1,6 +1,6 @@
 001-frontmatter.md
+002a-firstpage.md
 002-praise.md
-003-preface.md
 005-mainmatter.md
 006-introduction.md
 100-evolution-money.md
@@ -35,3 +35,4 @@
 910-endnotes.md
 920-disclaimer.md
 930-author.md
+003-preface.md
