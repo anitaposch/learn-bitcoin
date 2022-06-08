@@ -9,17 +9,17 @@ In Ihrer non-custodial Bitcoin-Wallet können Sie die Transaktionsgebühr für a
 
 Für mehr Kontrolle können Sie die Gebühr und die Bestätigungsgeschwindigkeit auf Seiten wie [Mempool.space](https://mempool.space/) oder [Johoe's Bitcoin Mempool](https://jochen-hoenicke.de/queue/) im Vorhinein prüfen. Diese Websites zeigen die Anzahl und Größe aller unbestätigten Transaktionen an. Sie bieten eine Echtzeit-Ansicht und zeigen, wie sich der Mempool entwickelt. Die Transaktionen sind nach der Höhe der Gebühr, die sie pro (virtuellem) Byte zahlen, eingefärbt.
 
-![Echtzeit-Ansicht der unbestätigten Transaktionen](assets/_Mempool-space-white-back.png) [^74]
+![Echtzeit-Ansicht der unbestätigten Transaktionen](resources/_Mempool-space-white-back.png) [^74]
 
 Unten sehen Sie die Einstellungen in der Edge-Wallet. Sie können einen der Bereiche der Standard-Transaktionsgebühr oder einen eigenen Wert wählen.
 
-[Einstellungen für Transaktionsgebühren in der Edge-Wallet](assets/_transaction-fee-setting.png) [^75]
+[Einstellungen für Transaktionsgebühren in der Edge-Wallet](resources/_transaction-fee-setting.png) [^75]
 
 **Ausstehende Transaktion**
 Da ungefähr alle 10 Minuten neue Blöcke gemined werden, dauert es im Durchschnitt mindestens 10 Minuten, bis Ihre Transaktion bestätigt wird. Wenn Sie die Transaktionsgebühr zu niedrig ansetzen, kann es sein, dass Ihre Transaktion länger aussteht, da der Mempool geleert wird und die Miner beginnen, Transaktionen mit niedrigeren Gebühren wieder aufzunehmen. Hier sehen Sie eine meiner Transaktionen, die seit einem Monat im Mempool gefangen ist.
-![Ausstehende Transaktion](assets/_Pending-transaction-edge.png) [^76]
+![Ausstehende Transaktion](resources/_Pending-transaction-edge.png) [^76]
 Sie können den Status Ihrer Transaktion in einem [Blockchain-Explorer](https://blockchair.com) ansehen. Wie Sie unten sehen können, ist meine Transaktion 4.717 Ränge davon entfernt, gemined zu werden, bei insgesamt 41.610 Transaktionen im Mempool. Ich habe eine Gebühr von 5 Sat pro Vbyte gewählt.
-[Transaktionsstatus wie im Blockexplorer angezeigt](assets/_Pending-transaction-explorer.png) [^77]
+[Transaktionsstatus wie im Blockexplorer angezeigt](resources/_Pending-transaction-explorer.png) [^77]
 
 Sie müssen die folgenden Schritte nicht ausführen, um Ihre ursprüngliche Transaktion bestätigen zu lassen. Die meisten Transaktionen mit niedrigen Gebühren bleiben tagelang gültig und werden schließlich bestätigt. Es gibt jedoch zwei Möglichkeiten, das Problem der stecken gebliebenen Transaktion zu lösen und sie früher bestätigen zu lassen.
 

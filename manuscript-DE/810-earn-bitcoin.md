@@ -28,8 +28,8 @@ Als gemeinnützige Organisation, Blogger oder Podcaster können Sie mit diesen D
 ## Content Creators und Podcasting 2.0
 Mit der Entwicklung des Lightning-Netzwerks wurde eine wirklich bahnbrechende neue Methode zur Übertragung von Werten und zur Bezahlung von Inhalten im Internet geschaffen. Streaming Money, ein von Andreas M. Antonopoulos geprägter Begriff, ermöglicht es Musiker*innen, Videoproduzent*innen und Podcaster*innen, in Echtzeit und ohne Zwischenhändler Geld zu verdienen. Man braucht nur eine Wallet, in der Podcasts integriert sind, ein bisschen Bitcoin und schon kann man loslegen und minutengenau bezahlen. Das Ziel von Podcasting 2.0 und Streaming Money ist es, die Ersteller von Inhalten zu belohnen und das Publikum von Werbung, Zensur und Überwachung zu befreien. Das Bezahlen ist freiwillig, es gibt keine Abonnementgebühren und keine Vorauszahlung. Bitte beachten Sie, dass sich diese Dienste in ständiger Entwicklung befinden. Mehr über den [Hintergrund von Podcasting 2.0 in einem Interview](https://anita.link/pod2), das Christian Keroles im “Bitcoin Magazine Podcast” mit mir geführt hat.
 
-![](assets/_breez-podcast.png)
-![](assets/_breez-podcast-boost.png) [^78]
+![](resources/_breez-podcast.png)
+![](resources/_breez-podcast-boost.png) [^78]
 
 * [Breez](https://breez.technology/) Eine non-custodial Lightning-Wallet zum Anhören von Podcasts
 * [PodFriend](https://web.podfriend.com/) Podcast-Player

@@ -24,7 +24,7 @@ Sobald Sie die Schritte zur finanziellen Freiheit verstanden und gesetzt haben, 
 
 Stephanie Murphy, Co-Moderatorin des Podcasts "Speaking of Bitcoin", stellt das Modell der finanziellen Freiheit als eine Treppe mit verschiedenen Stufen der Souveränität dar. Da Bitcoin eine Technologie in Entwicklung ist, ändert sich der Grad der Freiheit, den man erreichen kann, ständig. Dieses Buch gibt Ihnen eine Anleitung, um Ebene 2 zu erreichen: die Stufe "Ihre Schlüssel, Ihre Bitcoin". Das Erreichen der Ebene 3 "Don't trust, verify" (Niemandem vertrauen, selbst verifizieren) wird in den kommenden Jahren viel einfacher werden. Im Moment erfordert sie noch technisches Know-how und einen größeren Aufwand an Zeit und Ressourcen, aber im Prinzip kann sie jeder erreichen.
 
-![3 Schritte zur finanziellen Souveränität](assets/_staircase-sovereignty-3-steps.png) [^68]
+![3 Schritte zur finanziellen Souveränität](resources/_staircase-sovereignty-3-steps.png) [^68]
 
 **Erdgeschoss** Sie sind vielleicht ein Pre-Coiner. Sie lesen mein Buch, sind wohl an Bitcoin schon interessiert, aber Sie besitzen noch keine.
 

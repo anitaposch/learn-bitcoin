@@ -1,7 +1,7 @@
 ### Bitcoins ökologischer Fußabdruck
 _Bitcoin verbraucht viel Strom. In Zeiten des Klimawandels ist das unverantwortlich._
 
-![Newsweek Artikel aus 2017](assets/_Newsweek-2020-energy.png) [^35]
+![Newsweek Artikel aus 2017](resources/_Newsweek-2020-energy.png) [^35]
 
 Obiger Screenshot ist ein Artikel aus Newsweek aus der Zeit des Bull-Runs 2017-2018. Er basiert auf der Arbeit von Alex de Vries (Digiconomist), einem ehemaligen Datenanalysten für die niederländische Zentralbank. Viele Forschungsarbeiten und Artikel in den Medien basieren auf seinen falschen Annahmen, wie dem Vergleich des Energieverbrauchs von Bitcoin-Transaktionen mit VISA-Zahlungen und der Berechnung des CO2-Fußabdrucks auf dieser Grundlage. Ich behaupte, dass ein großer Teil dieser Arbeit dazu dient, falsche Behauptungen zu verbreiten, um Bitcoin zu verteufeln.
 
@@ -9,25 +9,25 @@ Obiger Screenshot ist ein Artikel aus Newsweek aus der Zeit des Bull-Runs 2017-2
 
 Lassen Sie uns das genauer betrachten. Bitcoin-Kritiker erwähnen oft, dass Bitcoin mehr Energie verbraucht als es Nutzen hat. Es ist unbestreitbar, dass das Bitcoin-Mining viel Strom verbraucht. Es wird geschätzt, dass weltweit zwischen 80 und 118 TWh pro Jahr für das Mining genutzt werden, was dem gesamten Stromverbrauch von Ländern wie den Niederlanden entspricht.
 
-![Länder-Rangliste, März 2021](assets/_electricity-consumption-btc.png) [^36]
+![Länder-Rangliste, März 2021](resources/_electricity-consumption-btc.png) [^36]
 
 Die Welt verschwendet eine Menge Strom. Die Strommenge, die in den USA jährlich von inaktiven, aber in stand-by gehaltenen Haushaltsgeräten verbraucht wird, könnte das Bitcoin-Netzwerk 1,9 Jahre lang versorgen. Das bedeutet, dass die Menge an Energie, die nur in den USA für stand-by Geräte verschwendet wird, das Bitcoin-Netzwerk jedes Jahr fast zweimal versorgen könnte.[^37]
 
 Gleichzeitig gehen zwei Drittel der in den USA erzeugten Energie verloren. Es ist anzunehmen, dass dies auch in allen anderen Teilen der Welt geschieht.
 
-![Geschätzter US-Energieverbrauch im Jahr 2017 - verlorene Energie](assets/_Energy_US_2020.png) [^38]
+![Geschätzter US-Energieverbrauch im Jahr 2017 - verlorene Energie](resources/_Energy_US_2020.png) [^38]
 
 Etwa 62 % der gesamten Stromerzeugung gehen verloren. Dabei handelt es sich um Energie, die zwar erzeugt, aber letztlich nicht für nützliche Arbeit verwendet wird. Erschwerend kommt hinzu, dass diese Zahl im Laufe der Zeit relativ gesehen gestiegen ist. Im Jahr 1970 stellte das Lawrence Livermore National Laboratory fest, dass unser Anteil an verlorener Energie etwa 48 % betrug. [^39]
 
 Anders ausgedrückt: Bitcoin verbraucht 0,54 % des gesamten weltweiten Stromverbrauchs.
-![Weltweite Gesamtstromproduktion, -verbrauch und Anteil von Bitcoin, März 2021](assets/_electricity-world-btc.png) [^40]
+![Weltweite Gesamtstromproduktion, -verbrauch und Anteil von Bitcoin, März 2021](resources/_electricity-world-btc.png) [^40]
 
 **Der Energieverbrauch ist einfach zu quantifizieren**  
 Die Transparenz von Bitcoin ermöglicht Schätzungen des Energiebedarfs, ganz im Gegensatz zu vielen anderen Branchen, in denen diese Daten unbekannt sind.
 
 Gemessen an den reinen Stromkosten können wir davon ausgehen, dass Bitcoin im globalen Maßstab [viel effizienter ist](https://medium.com/@danhedl/pow-is-efficient-aa3d442754d3) als das traditionelle Bankwesen und die Goldgewinnung. Die geschätzten Dollarkosten des Bitcoin-Minings pro verbrauchter Gigajoule sind 40-mal effizienter als die des traditionellen Bankwesens und 10-mal effizienter als die des Goldbergbaus.
 
-![Vergleich der Energieausgaben zwischen Währungs- und Bankensystemen](assets/_energy-efficiency-ARK.png) [^41]
+![Vergleich der Energieausgaben zwischen Währungs- und Bankensystemen](resources/_energy-efficiency-ARK.png) [^41]
 
 **Warum braucht Bitcoin diese Menge an Strom?**  
 Der Proof-of-Work-Mining-Mechanismus ist ein fundamentales Element der Bitcoin-Blockchain, das die Unabhängigkeit, Dezentralität, Neutralität und automatische Integrität des Netzwerks sicherstellt. Es ist der zuverlässigste Mechanismus, um Angriffe auf die im Netzwerk gebunden Vermögenswerte im Wert von über 600 Mrd. USD zu verhindern. (BTC-Marktkapitalisierung, Juni 2021)
@@ -53,19 +53,19 @@ Darüber hinaus nimmt die Effizienz der Mining-Ausrüstung zu, sodass die Miner 
 **Annahme Nr. 3: Vergleiche zwischen VISA und Bitcoin**  
 Eine Bitcoin-On-Chain-Transaktion kann nicht einfach mit einer VISA-Zahlung verglichen werden. Im traditionellen Bankwesen gibt es unterschiedliche Systeme, die miteinander interagieren, um eine Transaktion sicher abzuwickeln. Nehmen wir als Beispiel das US-System für VISA-Zahlungen, das ähnlich funktioniert wie viele andere Systeme zur weltweiten Abwicklung von VISA-Zahlungen. Die Basisebene besteht aus Fedwire-, CHIPS- und SWIFT-Netzwerken, während Debit- und Kreditkartenzahlungen eine oder zwei Ebenen darüber mit unterschiedlichen Vermittlern und Serviceprovidern abgewickelt werden. Der Basislayer von Bitcoin ist vergleichbar mit Fedwire, CHIPS und SWIFT. Nur die Lösungen die darauf aufbauend Zahlungen abwickeln - wie das Lightning-Netzwerk, das Mikrozahlungen im Second Layer aufbereitet, um sie gesammelt an den Basislayer weiterzugeben - können mit VISA verglichen werden.
 
-![Falscher Vergleich zwischen einer Bitcoin-Transaktion und VISA](assets/_VISA-BTC-comparison.png) [^43]
+![Falscher Vergleich zwischen einer Bitcoin-Transaktion und VISA](resources/_VISA-BTC-comparison.png) [^43]
 
 Werfen wir einen Blick auf das durchschnittliche Transaktionsvolumen von VISA und vergleichen wir es mit dem von Bitcoin.
 
-![Durchschnittliche Höhe einer einzelnen Kreditkarten-Transaktion weltweit in US-Dollar im Jahr 2012](assets/_average-VISA-transaction.png) [^44]
+![Durchschnittliche Höhe einer einzelnen Kreditkarten-Transaktion weltweit in US-Dollar im Jahr 2012](resources/_average-VISA-transaction.png) [^44]
 
-![Durchschnittliche Höhe einer Bitcoin-Transaktion](assets/_average-transaction-value-bitcoin.png) [^45]
+![Durchschnittliche Höhe einer Bitcoin-Transaktion](resources/_average-transaction-value-bitcoin.png) [^45]
 
 Die durchschnittliche Bitcoin-Transaktionshöhe betrug am 21. April 2021 umgerechnet 258.766 USD, während die durchschnittliche VISA-Transaktion im Jahr 2021 nur 91 USD betrug. Bitcoin-Transaktionen transportieren also im Vergleich zu Kreditkartenzahlungen ein Vielfaches an Wert. Wenn sich Bitcoin als alltägliches Zahlungsmittel durchsetzt, kann es genau wie das Fedwire-System täglich Millionen von Dollar abwickeln und das im Vergleich zum Bankensystem mit sehr niedrigen Gebühren.
 
 Die durchschnittliche Transaktionshöhe einer Fedwire-Überweisung lag im Februar 2021 beispielsweise bei 4,5 Millionen USD. [^46]
 
-![Finale Abwicklung einer Zahlung im Bankwesen verglichen mit Bitcoin](assets/_settlement-compared.png) [^^47]
+![Finale Abwicklung einer Zahlung im Bankwesen verglichen mit Bitcoin](resources/_settlement-compared.png) [^^47]
 
 Bitcoin-Transaktionen werden im Allgemeinen alle 10 Minuten abgewickelt und das durchgehend 24 Stunden am Tag und 365 Tage im Jahr. Vergleichen Sie dies mit ACH-Transaktionen, bei denen es bis zu zwei Jahre dauern kann, bis sie endgültig abgewickelt werden. [^48] Nicht zu vergessen: Bitcoin- und Lightning-Transaktionen sind genehmigungsfrei und benötigen kein Vertrauen in Intermediäre, während das herkömmliche Zahlungssystem nur funktioniert, weil Vermittler sich um Betrug und Rückbuchungen kümmern.
 
@@ -82,7 +82,7 @@ Bitcoin-Miner sind ziemlich gut über den gesamten Globus verteilt. Während es 
 Die Frage ist nicht, wie viel Energie benötigt wird, sondern wie diese Elektrizität erzeugt wird. Wie hoch ist der CO2-Ausstoß? Wenn wir als Gesellschaft beschließen, dass wir keine umweltschädliche Energie wollen, dann sollten wir die Energieproduktion regulieren und die Verwendung umweltschädlicher Systeme nicht zulassen. Es geht um die Regulierung der Energieerzeugung und nicht um die Regulierung des Energieverbrauchs in einem bestimmten Wirtschaftszweig, der in diesem Fall zufällig Bitcoin ist.
 
 Bitcoin nutzt einen höheren Anteil an Elektrizität aus erneuerbarer Energie als das Netz in China, den USA und der ganzen Welt.
-![Strom-Mix, Bitcoin verglichen mit China, USA und der Welt, 2020](assets/_Bitcoin-electricity-sources.jpg) [^50]
+![Strom-Mix, Bitcoin verglichen mit China, USA und der Welt, 2020](resources/_Bitcoin-electricity-sources.jpg) [^50]
 
 **CO2-Emissionen**  
 Einige Untersuchungen haben versucht, die CO2-Emissionsströme und die Nachhaltigkeit von Bitcoin anhand der Prognose der künftigen Nachfrage zu bewerten, oft leider basierend auf falschen Annahmen. In einem Bericht wird zum Beispiel behauptet: "Der jährliche Energieverbrauch der Bitcoin-Blockchain in China wird voraussichtlich im Jahr 2024 mit 296,59 Terawattstunden (Twh) seinen Höhepunkt erreichen und dementsprechend 130,50 Millionen Tonnen Kohlenstoffemissionen verursachen." [^51]
@@ -91,7 +91,7 @@ Einige Untersuchungen haben versucht, die CO2-Emissionsströme und die Nachhalti
 
 Laut der [Studie von Hass McCook](https://bitcoinmagazine.com/business/bitcoin-vs-financial-sector-energy-use) verursacht Bitcoin weniger als 2 % der CO2-Emissionen des globalen militärisch-industriellen Komplexes und weniger als 5 % der CO2-Emissionen des traditionellen Finanzsektors. Der jährliche globale Treibhausgasausstoß beträgt ca. 50.000 Millionen Tonnen CO2-Äquivalente. Bitcoin verursacht nur 0,11 % davon.
 
-![Jährliche Treibhausgasemissionen, Hass McCook, Juni 2021](assets/_annual-GHG-emissions2021.png.png) [^53]
+![Jährliche Treibhausgasemissionen, Hass McCook, Juni 2021](resources/_annual-GHG-emissions2021.png.png) [^53]
 
 **Letzte Annahme: Bitcoin ist nutzlos, daher ist jeder Einsatz von Energie für Bitcoin Verschwendung**  
 
@@ -99,7 +99,7 @@ Wenn Sie der Ansicht sind, dass Bitcoin nutzlos ist, dann ist das eine sehr subj
 
 Wir schalten jedes Jahr Milliarden von Weihnachtslampen ein, um Weihnachtsstimmung zu verbreiten, was für Milliarden von Menschen mit anderem kulturellen Hintergrund völlig unnütz ist. Der größte Energieverbraucher in den Vereinigten Staaten außerhalb der öffentlichen Haushalte ist das Verteidigungsministerium. Auch die US-Regierung verbraucht enorme Mengen an Energie auf und ist der größte Umweltverschmutzer des Landes, und zwar aus keinem anderen Grund als zur Ausübung und zur Erhaltung ihrer eigenen Macht.
 
-![US-Militär emittiert mehr CO2 als viele andere Nationen](assets/_military-co2.png) [^54]
+![US-Militär emittiert mehr CO2 als viele andere Nationen](resources/_military-co2.png) [^54]
 
 Dies wiederum führt zurück zum Kapitel über den Petrodollar, die Verbindung zwischen dem US-Dollar und der OPEC, die die USA zum weltweit dominierenden Machtzentrum werden ließ und durch das US-Militär und Kriege in der Golfregion abgesichert ist.
 

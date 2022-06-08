@@ -11,13 +11,13 @@ _Bitcoin ist aufgrund seiner Kursentwicklung kein Wertspeicher._
 
 Betrachten wir Bitcoin als Langzeit-Investment, ist es die am besten performende Anlageform im letzten Jahrzehnt.
 
-![Bitcoin ist die beste Anlageform der letzten 10 Jahre, Stand 2021](assets/_best-asset-10years.png) [^27]
+![Bitcoin ist die beste Anlageform der letzten 10 Jahre, Stand 2021](resources/_best-asset-10years.png) [^27]
 
 Es gibt natürlich keine Garantie, dass diese positive Entwicklung sich in den kommenden Jahren genauso fortsetzt. Während der Entstehung dieses Buches befand sich Bitcoin in einem Bullenmarkt, der im vierten Quartal 2020 begann. Der Kurs stieg monatelang mit kleineren Rückschlägen an. Im Mai 2021 fiel der Kurs stark, was viele als gesunden Rückgang in einem überhitzten Markt interpretierten.
 
 Der vorige Bullenmarkt startete 2017 und ging bis Anfang 2018. Seither entwickelte sich der Preis seitwärts, wie es in der Sprache der Börse heißt, was bedeutet, dass sich der Preis nur marginal nach oben oder unten veränderte. 
 
-![Die Bitcoin-Kursentwicklung](assets/_Bitcoin-price.png)[^28]
+![Die Bitcoin-Kursentwicklung](resources/_Bitcoin-price.png)[^28]
 
 Die Bitcoin-Kursentwicklung folgt den Halbierungszyklen. Etwa alle vier Jahre halbiert sich die Menge der neu geschürften Bitcoin. Das heißt, das Wachstum an Bitcoin am Markt verkleinert sich, weshalb der Preis steigen wird, selbst wenn die Nachfrage nach Bitcoin am gleichen Level bleibt. 
 
@@ -28,11 +28,11 @@ Im Mai 2021 mussten etwa täglich rund 36 Millionen USD (Anzahl täglich geschü
 
 Untenstehende Grafik zeigt den Zeitpunkt der Halbierungen (Halvings). Der Kurs verhielt sich in allen Phasen vor und nach den Halvings ähnlich. In diesem Chart wird der Kurs-Höhepunkt im September 2021 vorhergesagt. Danach fällt der Kurs, was Sie an den "Low" markierten Linien erkennen können. Dies ist eine Annahme, die auf wenigen historischen Ereignissen beruht, weshalb es eine reine Hypothese ist.
 
-![Halving-Preiszyklen](assets/_Halving-Price-cycles-by-Pladizow.png) [^29]
+![Halving-Preiszyklen](resources/_Halving-Price-cycles-by-Pladizow.png) [^29]
 
 Seit Bitcoins Start im Jahr 2009 gab es mehrere Kurs-Zusammenbrüche. Sicher ist, dass diese wieder auftreten werden. Die Frage ist, wie weit wird der Kurs fallen, denn auf einer logarithmischen Skala können Sie erkennen, dass Bitcoin im Verlauf der Zeit nur an Wert gewonnen hat.
 
-![Bitcoin-Preis in logarithmischer Darstellung](assets/_Bitcoin-price-log.png)  [^30]
+![Bitcoin-Preis in logarithmischer Darstellung](resources/_Bitcoin-price-log.png)  [^30]
 
 > Versuchen Sie nicht cleverer als der Markt zu sein und traden Sie nicht. Halten Sie Ihre Bitcoin. Mindestens für fünf Jahre.
 
@@ -69,7 +69,7 @@ _Bitcoin ist eine neue Technologie. Es ist die erste ihrer Art. Vergleichen wir 
 
 Bitcoin ist seit seiner Entstehung im Jahr 2009 die weltweit am häufigsten verwendete Kryptowährung. Ich gebe zu, dass es keine Garantien dafür gibt, dass dies so bleiben wird. Die Marktdominanz von Bitcoin lag bis 2017 bei über 80 %. Das bedeutet, dass von all den Tausenden von Kryptowährungen auf dem Markt über 80 % aller Investitionen in Bitcoin gehalten wurden. Dies änderte sich 2017–18, als es einen "Krieg" zwischen verschiedenen Ideen darüber gab, wie Bitcoin als Technologie weitergehen sollte. Die Debatte über die zukünftige Blockgröße endete mit einer Hard-Fork, einem Split der Blockchain in zwei Gabeln: Bitcoin (BTC) und Bitcoin Cash (BCH). Zur selben Zeit gewannen andere Krypto-Projekte wie Ethereum an Bedeutung. Vier Jahre später ist BCH im Vergleich zu BTC in die Bedeutungslosigkeit gerutscht. Bitcoin hielt seine Dominanz mit über 60 % bis zur aktuellen Hausse, wo er zum Zeitpunkt der Erstellung dieses Buches auf 40 % fiel. Ein Bull-Run führt zu mehr Aufmerksamkeit in Mainstream-Medien, viele schlecht informierte Artikel erscheinen (meist nur über den Preis) und bestimmte Milliardäre streuen Gerüchte und Spekulationen. Dadurch werden Altcoins in den Fokus gerückt und die durch den Preis angelockten Marktteilnehmer kaufen diese.
 
-![Prozentsatz der gesamten Marktkapitalisierung](assets/_Market-dominance.png) [^31]
+![Prozentsatz der gesamten Marktkapitalisierung](resources/_Market-dominance.png) [^31]
 
 Die Wiederherstellung der Vorrangstellung Bitcoins nach der kritischen Phase im Jahr 2017 war für viele Experten wie die Makro-Ökonomin Lyn Alden und den US-Investor Michael Saylor ein Zeichen der Stärke. Dies veranlasste sie, an das Potenzial von Bitcoin als die in der Zukunft stärkste Kryptowährung zu glauben. Und selbst wenn es technologische Innovationen bei Altcoins gäbe, die sie vor Bitcoin katapultieren, besteht kein Zweifel daran, dass die Bitcoin-Entwickler diese Innovationen für Bitcoin übernehmen würden.
 
@@ -81,11 +81,11 @@ Da die Nutzung von Bitcoin im Prinzip nicht an Identitäten gebunden ist, ist es
 
 Diese zentralisierten Tauschbörsen müssen Ihre persönliche Identität mittels Ausweispapieren, Meldebestätigung etc. verifizieren, bevor Sie Euro in Bitcoin tauschen dürfen. Daher ist es möglich die folgende Statistik zu erstellen, die zeigt, dass weltweit über 101 Millionen Menschen ein Konto bei einer dieser Börsen besitzt. Darin nicht enthalten sind all jene, die bereits in den Jahren bevor es diese Börsen gab an Bitcoin gekommen sind und jene, die aus Gründen der Privatsphäre ihre Bitcoin außerhalb der zentralen Börsen erstehen oder durch Arbeit verdienen.
 
-![Anzahl der identitätsgeprüften Nutzer von Kryptowährungen in Millionen](assets/_number-users-2020.png) [^32]
+![Anzahl der identitätsgeprüften Nutzer von Kryptowährungen in Millionen](resources/_number-users-2020.png) [^32]
 
 Rund 1,3 % der Weltbevölkerung hatten Ende 2020 ein Konto bei einer Kryptowährungsbörse, was einem Wachstum von fast 190 % zwischen 2018 und 2020 entspricht. Dennoch könnte man argumentieren, dass dies wenig ist. Für eine völlig neue Anlageklasse und Geld hat sich Bitcoin bemerkenswert weit entwickelt. Bitcoin wird weltweit diskutiert, ist ein bekannter Begriff und wird von mindestens 100 Millionen Menschen weltweit genutzt. All das ist aus einer Graswurzelbewegung, ohne Unternehmen oder Marketing dahinter, entstanden.
 
-![Befragte, die angegeben haben, dass sie Kryptowährungen verwenden oder besitzen im Jahr 2020](assets/_users_around-world.png) [^33]
+![Befragte, die angegeben haben, dass sie Kryptowährungen verwenden oder besitzen im Jahr 2020](resources/_users_around-world.png) [^33]
 
 Dies ist das Ergebnis einer Umfrage in ausgewählten Ländern, aus der hervorgeht, dass 32 % der nigerianischen Bevölkerung Kryptowährungen verwendet haben oder besitzen. Bedenken Sie, dass die nigerianische Bevölkerung im Durchschnitt 19 Jahre alt ist, verglichen mit den der USA mit 38 Jahren und Deutschland mit einem Durchschnittsalter von 44 Jahren. Sie sind jung, wollen arbeiten, sind technisch versiert und schätzen Kryptowährungen trotz ihrer Volatilität, da ihre eigene nationale Währung Naira 25 % ihres Wertes pro Jahr verliert.
 
@@ -101,7 +101,7 @@ Ein Mining-Pool ist eine Struktur, die Rechenressourcen von angeschlossenen Hash
 
 Es stimmt zwar, dass sich in bestimmten Gebieten oder Ländern verstärkt Mining-Pools gebildet haben, wie z. B. in China, bevor die dortige autoritäre Regierung das Bitcoin-Mining im Juni 2021 verboten hat, diese haben aber weniger Einfluss, als man denken würde. Erstens bestehen Mining-Pools aus Tausenden von einzelnen Minern. Nur weil ein Mining-Pool in China ansässig ist, bedeutet das nicht, dass der einzelne Miner in China ansässig sein muss. Die Menschen hinter den Mining-Maschinen wollen zumeist sicherstellen, dass der Pool, zu dem sie beitragen, sich gemäß der Bitcoin-Philosophie verhält. Bei Unstimmigkeiten steht es ihnen frei, den Pool zu verlassen oder zu einem andern zu wechseln. Im Jahr 2013 erreichte der Bitcoin-Mining-Pool GHash.io für einen kurzen Zeitraum mehr als 50 % der gesamten Bitcoin-Hashrate, was viele dazu veranlasste, ihre Hashpower proaktiv auf andere Pools zu verlagern, um eine potenziell schädliche Konzentration zu vermeiden. Die geringen Umstiegskosten für den Wechsel des Pools wirken durch das Verhalten der Miner wie ein selbstregulierendes Kontrollsystem. [^^33a]
 
-![Globaler Überblick über Bitcoin-Mining-Regionen. Regionen mit großen relevanten Regionen sind in Blaugrün dargestellt, Sichuan in Blau und die übrigen kleineren Regionen in Schwarz.](assets/_mining-locations.png) [^34]
+![Globaler Überblick über Bitcoin-Mining-Regionen. Regionen mit großen relevanten Regionen sind in Blaugrün dargestellt, Sichuan in Blau und die übrigen kleineren Regionen in Schwarz.](resources/_mining-locations.png) [^34]
 
 Der Hard-Fork-Split zwischen Bitcoin und Bitcoin Cash im Jahr 2017 ist ein zweites Beispiel dafür, wie sich Bitcoin selbst reguliert. Miner und große Börsen wollten die Blockgröße eines jeden Bitcoin-Blocks erhöhen, um eine höhere Transaktionsanzahl pro Block zu erreichen.
 

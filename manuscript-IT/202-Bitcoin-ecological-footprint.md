@@ -1,7 +1,7 @@
 ### L’impronta ecologica di Bitcoin
 _Bitcoin consuma molta energia, la crisi climatica aumenterà ed è un atteggiamento irresponsabile._
 
-![Newsweek article from 2017](assets/_Newsweek-2020-energy.png) [^35]
+![Newsweek article from 2017](resources/_Newsweek-2020-energy.png) [^35]
 
 La schermata precedente è stata catturata da una pubblicazione di Newsweek durante il bull run del 2017-2018. Si basa sul lavoro di Alex de Vries (_Digiconomist_), un data analyst della Banca dei Paesi Bassi. Svariati paper di ricerca e articoli di media mainstream si basano sulle sue false supposizioni, come comparare il consumo energetico delle transazioni di Bitcoin con i pagamenti di Visa, e calcolandone l’impronta ecologica. Io sostengo che molta della sua produzione sia mossa dal tentativo di diffondere false affermazioni col fine di demonizzare Bitcoin.
 
@@ -9,25 +9,25 @@ La schermata precedente è stata catturata da una pubblicazione di Newsweek dura
 
 Addentriamoci nel tema. I critici di Bitcoin spesso menzionano il fatto che il consumo energetico di Bitcoin supera i benefici che crea. È indubbio che il mining di Bitcoin richiede molta energia elettrica. Viene stimato che tra 80 e 118 TWh all’anno siano usati globalmente per il mining, il che è equivalente all’intero consumo energetico di nazioni quali i Paesi Bassi.
 
-![Country ranking, March 2021](assets/_electricity-consumption-btc.png) [^36]
+![Country ranking, March 2021](resources/_electricity-consumption-btc.png) [^36]
 
 Il mondo consuma molta energia elettrica. L’ammontare di elettricità consumata ogni anno solamente negli Stati Uniti da dispositivi casalinghi sempre accessi seppur inattivi, potrebbe alimentare la rete di Bitcoin per 1.9 anni. Ciò sta a significare che l’ammontare di energia sprecata negli Stati Uniti potrebbe quasi alimentare la rete di Bitcoin per due volte, anno dopo anno. [^37]
 
 Allo stesso tempo, due-terzi di tutta l’energia prodotta negli Stati Uniti viene persa. È ragionevole presupporre che ciò accada anche in altre parti del mondo.
 
-![Estimated US Energy Consumption in 2017 - Rejected Energy](assets/_Energy_US_2020.png) [^38]
+![Estimated US Energy Consumption in 2017 - Rejected Energy](resources/_Energy_US_2020.png) [^38]
 
 Si noti che l’energia sprecata ammonti a circa il 62% di tutta l’energia generata. L’energia sprecata è energia che è prodotta ma in ultima istanza non viene incanalata verso lavoro utile. A peggiorare la situazione, nel tempo questo numero è aumentato su base relativa. Nel 1970 il Lawrence Livermore National Laboratory scoprì che la proporzione di energia rigettata ammontava a circa il 48%. [^39]
 
 Per dirla in un altro modo, Bitcoin rappresenta lo 0.54% di tutta l’energia elettrica usata globalmente.
-![The world's total electricity production, consumption and Bitcoin's share, March 2021](assets/_electricity-world-btc.png) [^40]
+![The world's total electricity production, consumption and Bitcoin's share, March 2021](resources/_electricity-world-btc.png) [^40]
 
 **Consumo di energia elettrica facile da quantificare**  
 La trasparenza di Bitcoin permette di stimarne la domanda energetica, piuttosto in contrasto con altre industrie in cui questi dati rimangono oscuri. Solamente sulla base dei costi dell’elettricità, possiamo presumere che su scala globale Bitcoin sia [decisamente più efficiente](https://medium.com/@danhedl/pow-is-efficient-aa3d442754d3) del sistema bancario tradizionale e dell’attività di estrazione dell’oro.
 
 Viene stimato che il costo in dollari per Gigajoule speso del mining di Bitcoin sia 40 volte più efficiente del sistema bancario tradizionale e 10 volte più efficiente dell’estrazione dell’oro.
 
-![Comparing energy expenditure across monetary and banking systems](assets/_energy-efficiency-ARK.png) [^41]
+![Comparing energy expenditure across monetary and banking systems](resources/_energy-efficiency-ARK.png) [^41]
 
 **Perché Bitcoin necessita di tale ammontare di elettricità?**  
 La proof-of-work, il meccanismo di mining, è una caratteristica fondamentale che mette in sicurezza l’indipendenza, la neutralità e l’integrità automatizzata della rete. È il metodo più sicuro per prevenire gli attacchi agli asset registrati nel network dal valore di oltre 600 miliardi di dollari americani. (capitalizzazione di mercato di BTC, giugno 2021)
@@ -47,19 +47,19 @@ Un secondo assunto fallace è fare una regressione lineare ed asserire che, se s
 **Assunto 3: Comparare Visa con Bitcoin**  
 Una transazione on-chain di Bitcoin non può essere comparata con un pagamento tramite il circuito Visa. Non è la stessa cosa. Nel sistema bancario tradizionale vi sono vari livelli di riconciliazione che differiscono in grado di sicurezza e finalità. Prendiamo come esempio il sistema americano, comparabile ad altri sistemi globali. Il livello base è costituito da Fedwire e i sistemi CHIPS e SWIFT, mentre i pagamenti tramite carte di debito e di credito operano su uno o due livelli superiori, in aggiunta ad ulteriori intermediari. Il livello base di Bitcoin deve essere comparato con Fedwire, CHIPS e SWIFT. Soluzioni di secondo livello come i micropagamenti rapidi sul Lightning Network possono essere comparati a Visa.
 
-![False comparison between a bitcoin transaction and VISA](assets/_VISA-BTC-comparison.png) [^43]
+![False comparison between a bitcoin transaction and VISA](resources/_VISA-BTC-comparison.png) [^43]
 
 Guardiamo ora al volume di transazioni medio di Visa e Bitcoin.
 
-![Average value of a single credit card transaction worldwide in 2012, USD](assets/_average-VISA-transaction.png) [^44]
+![Average value of a single credit card transaction worldwide in 2012, USD](resources/_average-VISA-transaction.png) [^44]
 
-![Average value of a single Bitcoin transaction](assets/_average-transaction-value-bitcoin.png) [^45]
+![Average value of a single Bitcoin transaction](resources/_average-transaction-value-bitcoin.png) [^45]
 
 Il valore medio delle transazioni in bitcoin era 258,766 USD al 21 aprile 2021, mentre la transazione media via Visa era di 91 USD nel 2012.  Le transazioni di Bitcoin trasportano un valore di un ordine di grandezza decisamente maggiore rispetto ai pagamenti in carta di credito. Presumendo il fatto che un giorno Bitcoin venga adottato in massa, sarà dunque possibile trasferire valori di milioni di dollari al pari del sistema Fedwire ma a costi di transazione molto contenuti se comparati col sistema bancario.
 
 Il valore medio delle transazioni Fedwire ammontava a 4.5 milioni USD a febbraio 2021. [^46]
 
-![Settlement of banking versus Bitcoin](assets/_settlement-compared.png) [^^47]
+![Settlement of banking versus Bitcoin](resources/_settlement-compared.png) [^^47]
 
 I _settlement_ delle transazioni in Bitcoin avvengono ogni 10 minuti, 24 ore al giorno, 365 giorni all’anno. Comparalo alle transazioni ACH (_automated clearing house_) che possono anche impiegare fino a due anni per essere completate. [^48] E non si dimentichi: Bitcoin e le transazioni Lightning sono permissionless e trustless – senza bisogno di autorizzazioni e in assenza di fiducia - mentre il sistema di pagamento tradizionale funziona perché attori intermedi controllano frodi e riaddebiti.
 
@@ -78,7 +78,7 @@ I miner di Bitcoin sono ben distribuiti tutt’attorno al globo. Sebbene sia sem
 La domanda non deve essere quanta energia sia necessaria, ma come l’elettricità venga prodotta. Quanto CO2 viene emesso. Se come società decidiamo che non vogliamo inquinare, dunque dovremmo regolare la produzione dell’energia stessa e non consentire l’uso di sistemi inquinanti. Si tratta di normare la produzione dell’energia, non di regolare il consumo dell’energia in un settore specifico dell’economia che guarda caso riguarda Bitcoin.
 
 Bitcoin impiega un ammontare di elettricità proveniente dalle rinnovabili più alto della Cina, gli Stati Uniti e il mondo intero.
-![Electricity Mix, Bitcoin vs. China vs. USA vs. The World, 2020](assets/_Bitcoin-electricity-sources.jpg) [^50]
+![Electricity Mix, Bitcoin vs. China vs. USA vs. The World, 2020](resources/_Bitcoin-electricity-sources.jpg) [^50]
 
 **Emissioni CO2**  
 Alcune ricerche hanno tentato di calcolare i flussi di emissioni CO2 e la sostenibilità di Bitcoin stimando l’offerta futura, basandosi su assunti fallaci. Un paper, ad esempio, dichiara che: “È previsto che il consumo energetico annuale della blockchain di Bitcoin in Cina raggiunga il culmine di 296.59 Twh nel 2024, generando 130.50 milioni di tonnellate metriche di emissioni CO2." [^51]
@@ -87,7 +87,7 @@ Alcune ricerche hanno tentato di calcolare i flussi di emissioni CO2 e la sosten
 
 In base al [lavoro di Hass McCook](https://bitcoinmagazine.com/business/bitcoin-vs-financial-sector-energy-use) Bitcoin emette meno del 2% del complesso militare-industriale nel mondo, e meno del 5% delle emissioni CO2 del settore finanziario tradizionale. Le emissioni di gas serra annuali a livello globale ammontano circa a 50,000 milioni di tonnellate di CO2 equivalente. Bitcoin ne emette solamente lo 0.11%.
 
-![Annual Greenhouse Gas Emissions, Hass McCook, June 2021](assets/_annual-GHG-emissions2021.png.png) [^53]
+![Annual Greenhouse Gas Emissions, Hass McCook, June 2021](resources/_annual-GHG-emissions2021.png.png) [^53]
 
 **Ultimo assunto: Bitcoin è inutile, pertanto l’impiego energetico di un singolo bitcoin è uno spreco**  
 
@@ -95,7 +95,7 @@ Se ritieni che Bitcoin sia inutile, dunque questa è un’opinione soggettiva. B
 
 Possiamo accendere miliardi di luci natalizie ogni anno per esibire lo spirito festivo, e ciò potrebbe essere ritenuto completamente inutile da miliardi di persone di altro credo. Negli Stati Uniti, il primato per consumo energetico al di fuori dei mercati civili è del Dipartimento della Difesa. Il governo americano consuma importi enormi di energia e risulta il più grande inquinatore nel Paese, probabilmente non per ragioni legittime se non il conseguimento del controllo totale.
 
-![US military emits more CO2 than many nations](assets/_military-co2.png) [^54]
+![US military emits more CO2 than many nations](resources/_military-co2.png) [^54]
 
 Ciò ci riporta al capitolo in cui si è discusso del petrodollaro e del collegamento tra il dollaro americano e l’OPEC, che rende gli Stati Uniti d’America la potenza dominante a livello globale ed è assicurata dalle forze armate statunitensi e dalle guerre nella regione del Golfo.
 

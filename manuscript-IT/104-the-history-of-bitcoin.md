@@ -14,7 +14,7 @@ Sin dagli anni ’90, esperti di computer, matematici e crittografi – donne in
 ### Progetti di criptovalute prima di Bitcoin
 Parte di questi concept sono stati integrati da Satoshi Nakamoto nel white paper di bitcoin. 
 
-![Cryptocurrency projects before Bitcoin](assets/_History-of-Bitcoin.png)[^22]
+![Cryptocurrency projects before Bitcoin](resources/_History-of-Bitcoin.png)[^22]
 
 **Coppia di chiave pubblica e chiave privata**
 Nel 1990, David Chaum era allarmato dalla natura pubblica e accesso aperto dei pagamenti online e contestuali informazioni personali. Fondò _"Digicash"_, una società privata e un sistema di moneta digitale recante lo stesso nome, il quale impiegava protocolli crittografici così come chiavi private e pubbliche al fine di anonimizzare le transazioni. L’utilizzo di firme digitali – coppie di chiavi pubbliche e private – diventò essenziale per lo sviluppo di ulteriori forme di monete digitali e Bitcoin.

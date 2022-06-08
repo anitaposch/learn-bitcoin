@@ -28,8 +28,8 @@ Como organização sem fins lucrativos, blogueiro ou podcaster, você pode receb
 ## Criadores de Conteúdo e Podcasting 2.0
 Com o advento da Lightning Network, um novo método verdadeiramente inovador de enviar valor e pagar por conteúdo na Internet foi inventado. Streaming money, termo cunhado por Andreas M. Antonopoulos, permite que músicos, criadores de vídeo e podcasters ganhem dinheiro em tempo real, sem intermediários. Você só precisa de uma carteira que tenha podcasts integrados, um pouco de bitcoin e pode começar a ouvir pagando por minuto. O objetivo do Podcasting 2.0 e do dinheiro do streaming é liberar os criadores de conteúdo e o público de anúncios, censura e vigilância. O pagamento é voluntário, sem taxas de assinatura e sem pré-pagamento. Esteja ciente de que, no momento da redação, todos esses serviços estão em constante desenvolvimento. Mais sobre o [fundo do podcasting 2.0 em uma entrevista](https://anita.link/pod2) comigo.
 
-![](assets/_breez-podcast.png)
-![](assets/_breez-podcast-boost.png) [^78]
+![](resources/_breez-podcast.png)
+![](resources/_breez-podcast-boost.png) [^78]
 
 * [Breez](https://breez.technology/) Uma carteira relâmpago sem custódia para ouvir podcasts
 * [PodFriend](https://web.podfriend.com/) Leitor de podcast

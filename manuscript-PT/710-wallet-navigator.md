@@ -21,6 +21,6 @@ Anote a seed mnemônica - 12 a 24 palavras em inglês, o nome, tipo e versão do
 ### Passo 3 - Compre Bitcoin
 A maioria das carteiras inclui a capacidade de comprar bitcoin diretamente em sua interface. Os fabricantes de carteiras estão cooperando com as exchanges, que em troca pagam uma comissão. Se eu precisar usar uma exchange, prefiro selecionar uma anterior e externamente da carteira. Dessa forma, fico independente do tipo de carteira, posso usar essa exchange para enviar bitcoin para todas as minhas diferentes carteiras e só tenho que deixar meus dados KYC nessa troca, reduzindo o risco de violações de dados. Usar métodos não custodiais e sem KYC (capítulo 7.3) é ainda melhor.
 
-![Como obter bitcoin](assets/_Buying-methods.png) [^72]
+![Como obter bitcoin](resources/_Buying-methods.png) [^72]
 
 [^72]: Anita Posch

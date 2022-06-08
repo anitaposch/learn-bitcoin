@@ -8,18 +8,18 @@ As regras do Bitcoin estipulam que a recompensa para os mineradores será reduzi
 
 Satoshi Nakamoto codificou esses halvings no software Bitcoin Core. A quantidade produzida diminui ao longo do tempo, resultando em uma curva de oferta achatada.
 
-![Código do intervalo Halving no software Bitcoin Core em C++](assets/_halving-interval.jpg)
+![Código do intervalo Halving no software Bitcoin Core em C++](resources/_halving-interval.jpg)
 
-![Explicação de Andreas M. Antonopoulos](assets/_aantonop-21-million.png) [^24]
+![Explicação de Andreas M. Antonopoulos](resources/_aantonop-21-million.png) [^24]
 
 Esse algoritmo tende a zero, de modo que haverá um máximo de 21 milhões de bitcoins. Atualmente, existem cerca de 18,7 milhões em circulação. Em 2140, todos os 21 milhões de bitcoins terão sido gerados. A mineração continuará e os mineradores serão recompensados apenas com taxas de transação. A essa altura, espera-se que o Bitcoin como rede tenha uma adoção tão alta que as taxas de transação por si só facilitem adequadamente a recompensa justa para os mineradores.
 
-![Fornecimento total de bitcoin ao longo do tempo](assets/_Total_bitcoins_over_time.png) [^25]
+![Fornecimento total de bitcoin ao longo do tempo](resources/_Total_bitcoins_over_time.png) [^25]
 
 ### Por que 21 milhões?
 Por que Satoshi Nakamoto escolheu 21 milhões para o limite de fornecimento? Existem muitas teorias, mas aqui está a resposta de Satoshi:
 
-![Explicação de Satoshi Nakamoto para o limite de fornecimento de 21 milhões](assets/_Why-21-million.png) [^26]
+![Explicação de Satoshi Nakamoto para o limite de fornecimento de 21 milhões](resources/_Why-21-million.png) [^26]
 
 
 ### Unidades de Bitcoin

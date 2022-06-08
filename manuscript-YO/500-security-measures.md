@@ -45,14 +45,14 @@ Lock down your primary email account and remove your phone number from your emai
 In 2020, the marketing database of the French hardware manufacturer Ledger was hacked. The devices are safe, but thousands of email addresses, phone numbers and even home addresses of customers were leaked and can be found by anyone on the internet. This is an absolute disaster because there's a high chance that people ordering a hardware wallet own bitcoin too. In the worst case, you will be "visited" at home. Most likely are threats via email and phishing attacks. To prevent this, keep in mind that you may never need to use your physical address for delivery of a Bitcoin related product such as a hardware wallet. You could organize a postbox for yourself. In the US there are services that can receive mail for you (CMRAs). If possible, do not even use your real name when ordering. Get yourself a second phone number and use this in case the vendor requests one. Give them a disposable email address that you only use for this specific order.
 
 Phishing attacks are attempts to scare or manipulate you so that you enter your seed words on the attacker's website. For instance, you could receive an email saying: "Your ledger device has been corrupted or deactivated, visit this link and enter your 12 seed words to save your funds." or "We have detected a large withdrawal from your Ledger. You have 24 hours to respond to make this transaction valid. We are sorry, we can not reach your Ledger it seems to be corrupted. We are going to authorize the withdrawal unless you start the recovery process, give us your 24 seed words." or "you have received an airdrop. Money is coming into your account, all we need is a verification, please start your recovery process and give us your 24 seed words."
-![Phishing mail](assets/_phishing-mail-ledger.png) [^70]
+![Phishing mail](resources/_phishing-mail-ledger.png) [^70]
 The attackers try to make you act fast without thinking. If you receive such a mail. Stop. Do not do anything. Because no one can seize your money, no one can remotely disable your hardware wallet. That is the whole point of a decentralized currency like bitcoin.
 
 Never trust email! Especially: never click on the links attached.
 
 Bookmark the real websites of official sites of Ledger, Shift Crypto, Trezor etc. or type the domain name yourself in the browser address bar and look up the SSL authentication certificate. The attackers will send you to a fake website that looks the same as the real one. The only difference is the URL. One of the new tricks is to use domains with Unicode characters that look the same as the real domain. For instance, can you notice the stain underneath the l of electrum? If you open that URL you see electrum.org, but are visiting xn--eectrum-9hb.org instead.
 
-![](assets/_phishing.png) [^71]
+![](resources/_phishing.png) [^71]
 
 Browsers like Opera and Chrome will warn you, but Firefox doesn't do this by default. You can change that by enabling "punycode" in Firefox, see [anita.link/puny](https://anita.link/puny).
 

@@ -10,7 +10,7 @@ Este sistema autorregulado tem as seguintes características:
 - As transações de Bitcoin são altamente seguras sem intermediários, sem bancos.
 - As transações de Bitcoin são transparentes, visíveis publicamente e podem ser auditadas por qualquer pessoa.
 
-![Pagamento via PayPal vs. Bitcoin](assets/_paypal-bitcoin-intermediaries.PNG) [^1]
+![Pagamento via PayPal vs. Bitcoin](resources/_paypal-bitcoin-intermediaries.PNG) [^1]
 Em um pagamento tradicional existem até sete intermediários até que o pagamento chegue ao destinatário. Bitcoin não tem nenhum.
 
 - Bitcoin é uma rede neutra: não moraliza ou distingue entre pagamentos "bons" e "ruins".
@@ -21,7 +21,7 @@ Em um pagamento tradicional existem até sete intermediários até que o pagamen
 
 Bitcoin é o dinheiro das pessoas. Bitcoin é a evolução do dinheiro. É uma continuação do processo perpétuo de descoberta de dinheiro novo que sempre fez parte da história da humanidade. Ao longo dos milênios, várias novas formas de dinheiro foram encontradas e usadas, desde uma troca direta entre pessoas a um sistema de crédito em padrão-ouro, a moeda fiduciária ao atual sistema inflacionário sem lastro de hoje. O sistema bancário e monetário como o conhecemos hoje existe e evoluiu por cerca de 300 anos. É natural que, com o surgimento de uma nova forma de comunicação via internet, surja uma nova forma de economia e um novo tipo de dinheiro, o dinheiro nativo da internet.
 
-![História do dinheiro](assets/_money-history.png) [^2]
+![História do dinheiro](resources/_money-history.png) [^2]
 
 O dinheiro criptográfico programável ou a "Internet do Dinheiro" - como diz Andreas M. Antonopoulos - é imparável. Estamos no início de uma nova era na história da humanidade.
 
@@ -30,7 +30,7 @@ Se o Bitcoin parece incompreensível e você não consegue entender o conceito d
 
 Rai são grandes discos de pedra usados ​​na ilha Yap no Pacífico Ocidental (Micronésia). Eles foram "cunhados" dos depósitos de calcário da ilha de Palau e usados ​​como moeda até o século XX.
 
-![Pedras Rai com troncos de transporte, 1903](assets/_Stone_Money_of_Uap_1903_Jayne,_String_Figures_p160.jpg) [^3]
+![Pedras Rai com troncos de transporte, 1903](resources/_Stone_Money_of_Uap_1903_Jayne,_String_Figures_p160.jpg) [^3]
 
 As pedras Rai foram trazidas para Yap via barco e, devido ao seu tamanho e peso, não foram movidas quando gastas, mas simplesmente mudaram de dono. Cada transação foi "registrada" oralmente dentro da pequena comunidade, com o histórico de propriedade da pedra tornando-se de conhecimento comum. Eventualmente, o "histórico"/"ledger" da transação tornou-se a única parte que importava. Certa vez, uma pedra foi derrubada pela canoa que a transferiu para Yap e afundou. A pedra ainda era dinheiro, pois ainda existia, embora ninguém a tenha visto ou tido acesso desde então.
 
@@ -66,7 +66,7 @@ Além disso, há algo chamado reserva fracionária. Isso permite que os bancos e
 
 Em 2020, a dívida global aumentou incríveis 24 trilhões para 281 trilhões de dólares, ou 355% do PIB global. [^6]
 
-![Taxa dívida/PIB](assets/_Debt-to-GDP-ratio-2020.jpg)
+![Taxa dívida/PIB](resources/_Debt-to-GDP-ratio-2020.jpg)
 
 ### Bancos Centrais como Credores de Último Recurso
 Os bancos comerciais podem e têm pedido a ajuda do banco central como credores de última instância. Em 2008/2009, os bancos, responsáveis ​​pela crise financeira global, receberam o dinheiro do resgate. Eles foram resgatados porque eram "grandes demais para falir". E o que fizeram com o dinheiro? Eles compraram de volta ações em suas próprias empresas. Nada "escorregou" para baixo na economia. A distância entre ricos e pobres inevitavelmente se tornou cada vez maior.
@@ -99,7 +99,7 @@ M2 inclui M0, M1, títulos do mercado monetário, fundos mútuos e outros depós
 
 A quantidade de moeda M2 em circulação nos EUA era de **19,7 trilhões de dólares** em fevereiro de 2021. [^11] Veja o crescimento em 2020.
 
-![M2 Money Stock Growth USA, 2021 ](assets/_M2-money-stock-US-2021.png)
+![M2 Money Stock Growth USA, 2021 ](resources/_M2-money-stock-US-2021.png)
 
 "Aceitamos isso como normal porque assumimos que nunca terminará. O sistema bancário de reservas fracionárias funciona em todo o mundo há centenas de anos (primeiro apoiado em ouro e depois totalmente baseado em moeda fiduciáriz), embora com eventos inflacionários ocasionais ao longo do caminho para redefinir parcialmente as coisas.
 
@@ -108,7 +108,7 @@ Cada unidade individual de moeda fiduciária degradou cerca de 99% em valor ou m
 Somando-se à inflação da oferta monetária está o fato de que a população nos EUA e em outras nações ocidentais não está crescendo na mesma proporção que a oferta monetária. "A população dos EUA costumava crescer talvez 1,5% ao ano, e agora cresce mais perto de 0,5% ao ano. Isso é muito importante. Enquanto isso, a ampla oferta monetária aumentou 25% ano a ano e está a caminho de aumentar 75% + ao longo de um período de 5 anos no futuro." [^13]
 
 A rigor, a inflação ocorre quando a oferta de moeda supera o crescimento nominal do PIB, que consiste no crescimento da população e da produtividade. O Índice de Preços ao Consumidor dos EUA mostra que os preços dos bens subiram desde que o valor do dinheiro diminuiu.
-![Consumer Price Index US 2020](assets/_Consumer-Price-index-US-2021.png) [^14]
+![Consumer Price Index US 2020](resources/_Consumer-Price-index-US-2021.png) [^14]
 
 ### Esquema Ponzi
 
@@ -188,7 +188,7 @@ No início da década de 1970, houve uma variedade de conflitos geopolíticos, i
 
 Estamos em guerras cambiais há muitas décadas. Qual moeda é mais forte? Qual país pode obter mais benefícios manipulando sua moeda? O Euro, o Dólar Americano, o Yuan Chinês? Ou até mesmo o Diem do Facebook? O dinheiro corporativo é o novo e forte jogador do mercado. Para manter seus poderes, os bancos centrais começaram a trabalhar em suas próprias moedas digitais (CBDCs).
 
-![Novas formas de dinheiro surgem](assets/_new-forms-money.png) [^19]
+![Novas formas de dinheiro surgem](resources/_new-forms-money.png) [^19]
 
 Bitcoin é a nossa alternativa a este sistema. Proteger nossa privacidade nesta era digital, votar contra o abuso do poder monopolista no sistema atual e dar às pessoas que vivem em estados autoritários com governantes corruptos as mesmas oportunidades de participar do sistema econômico. Bitcoin é uma estratégia de defesa, uma ferramenta com a qual podemos preservar o direito humano à liberdade e privacidade transacionais.
 

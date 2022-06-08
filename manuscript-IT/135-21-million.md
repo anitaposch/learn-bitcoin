@@ -8,19 +8,19 @@ Le regole di Bitcoin definiscono che la ricompensa per i miner sia dimezzata ogn
 
 Satoshi Nakamoto inserì il codice degli halving in Bitcoin Core, il software di Bitcoin. La quantità decresce col passare del tempo, determinando un appiattimento della curva di offerta.  
 
-![The halving interval code in the Bitcoin Core software in C++](assets/_halving-interval.jpg)
+![The halving interval code in the Bitcoin Core software in C++](resources/_halving-interval.jpg)
 
-![Explanation by Andreas M. Antonopoulos](assets/_aantonop-21-million.png) [^24]
+![Explanation by Andreas M. Antonopoulos](resources/_aantonop-21-million.png) [^24]
 
 L’algoritmo tende verso lo zero in modo tale da prevedere un massimo di 21 milioni di bitcoin. Ve ne sono attualmente circa 18.7 milioni in circolazione. Nel 2140 tutti i 21 milioni di bitcoin saranno stati generati. Il mining continuerà e i miner saranno ricompensati esclusivamente sulla base delle commissioni per le transazioni. A quel punto, ci si aspetta che il network di Bitcoin godrà di una adozione talmente vasta che le commissioni saranno in grado di ricompensare adeguatamente i miner.
 
-![Total bitcoin supply over time](assets/_Total_bitcoins_over_time.png) [^25]
+![Total bitcoin supply over time](resources/_Total_bitcoins_over_time.png) [^25]
 
 
 ### Perché 21 milioni?
 Qual è il motivo per cui Satoshi Nakamoto scelse 21 milioni come limite di fornitura? Vi sono molte teorie, ma di seguito c’è la risposta di Satoshi:
 
-![Satoshi Nakamoto's explanation for the 21 million supply cap](assets/_Why-21-million.png) [^26]
+![Satoshi Nakamoto's explanation for the 21 million supply cap](resources/_Why-21-million.png) [^26]
 
 
 ### Unità di Bitcoin

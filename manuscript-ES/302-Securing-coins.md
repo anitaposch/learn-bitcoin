@@ -11,7 +11,7 @@ Para comprar, usar y almacenar bitcoins, vas a necesitar:
 ### Cartera de Bitcoin
 Piensa en una cartera como una caja de seguridad pública con múltiples secciones. Cualquiera puede depositar dinero en cada una de las secciones. Solo el propietario de las llaves privadas puede desbloquear una sección y mover el dinero que tiene. Tu cartera Bitcoin consta de todas las secciones y contiene todas las llaves privadas para desbloquearlas. Las llaves privadas y las direcciones de Bitcoin se generan a partir de la semilla. La semilla es la raíz de todas las llaves y direcciones, es como un depósito en el que se almacenan todas tus llaves privadas.
 
-![Definición de términos](assets/_seed-postbox.png) [^69]
+![Definición de términos](resources/_seed-postbox.png) [^69]
 
 La cartera es una aplicación en tu teléfono o software en tu computadora, que maneja todo en segundo plano: tus llaves privadas, tus direcciones y el envío y recepción de bitcoins.
 
@@ -24,7 +24,7 @@ Un ejemplo de una dirección de Bitcoin: 346n4apJCQPg2XAXU3bfNQTogz4PyTkrEf
 
 Por supuesto, escribir 34 dígitos es muy poco práctico, por lo tanto, los códigos QR de las direcciones se usan comúnmente y generalmente se crean automáticamente en tu cartera.
 
-![Dirección BTC como código QR](assets/_address-book.PNG)
+![Dirección BTC como código QR](resources/_address-book.PNG)
 
 Bitcoin es seudónimo, lo que significa que no es necesario que conectes tu dirección de correo electrónico o identificación personal con una cartera. Sin embargo, la cadena de bloques de Bitcoin es transparente, lo que significa que tus direcciones de Bitcoin se pueden ver públicamente en Internet. Por ejemplo, puedes buscarla en Blockcypher y ver todas las transacciones y valores actuales. Aquí hay un enlace de ejemplo: [https://anita.link/explorer](https://anita.link/explorer)
 

@@ -8,18 +8,18 @@ Las reglas de Bitcoin estipulan que la recompensa para los mineros se reducirá 
 
 Satoshi Nakamoto codificó estas mitades en el software del cliente base de Bitcoin (o el "Bitcoin Core"). La cantidad de producción disminuye con el tiempo, lo que resulta en una curva de oferta aplanada.
 
-![El código del intervalo del Halving en el software de Bitcoin Core en C++](assets/_halving-interval.jpg)
+![El código del intervalo del Halving en el software de Bitcoin Core en C++](resources/_halving-interval.jpg)
 
-![Explicación de Andreas M. Antonopoulos](assets/_aantonop-21-million.png)[^24]
+![Explicación de Andreas M. Antonopoulos](resources/_aantonop-21-million.png)[^24]
 
 Este algoritmo tiende a cero, por lo que solo habrá un máximo de 21 millones de bitcoins. Actualmente hay alrededor de 18,7 millones en circulación. En 2.140 se habrán acuñado los 21 millones de bitcoins. La minería continuará y los mineros serán recompensados únicamente con las comisiones de las transacciones. En ese momento, se espera que Bitcoin como red tenga una adopción tan alta que las tarifas de transacción por sí solas faciliten adecuadamente una recompensa justa para los mineros.
 
-![Suministro total de bitcoins a lo largo del tiempo](assets/_Total_bitcoins_over_time.png)[^25]
+![Suministro total de bitcoins a lo largo del tiempo](resources/_Total_bitcoins_over_time.png)[^25]
 
 ### ¿Por qué 21 millones?
 ¿Por qué Satoshi Nakamoto eligió 21 millones para el límite de suministro? Hay muchas teorías, pero aquí está la respuesta de Satoshi:
 
-![Explicación de Satoshi Nakamoto para el límite de suministro de 21 millones](assets/_Why-21-million.png)[^26]
+![Explicación de Satoshi Nakamoto para el límite de suministro de 21 millones](resources/_Why-21-million.png)[^26]
 
 >“Mi elección para la cantidad de monedas y el programa de distribución fue una suposición fundamentada. Fue una elección difícil, porque una vez que la red está funcionando, se bloquea y nos quedamos atrapados. Quería elegir algo que hiciera que los precios fueran similares a las monedas existentes, pero sin saber el futuro, eso es muy difícil. Terminé eligiendo algo que se encontraba en un punto intermedio. Si Bitcoin sigue siendo un nicho pequeño, valdrá menos por unidad que las monedas existentes. Si te imaginas que se usará para una fracción del comercio mundial, entonces solo habrá 21 millones de monedas para todo el mundo, por lo que valdría mucho más por unidad. Los valores son números enteros de 64 bits con 8 posiciones decimales, por lo que 1 moneda se representa internamente como 100000000 unidades. Hay mucha granularidad, si los precios típicos se vuelven pequeños. Por ejemplo, si 0,001 vale 1 euro, entonces podría ser más fácil cambiar dónde se muestra el punto decimal, por lo que si teníamos 1 Bitcoin ahora se muestra como 1000 y 0,001 se muestra como 1”.
 

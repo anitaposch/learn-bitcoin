@@ -14,7 +14,7 @@ Desde la década de 1990, expertos en informática, matemáticos y criptógrafos
 ### Proyectos de Criptomonedas Previos a Bitcoin
 Partes de los siguientes conceptos se incorporaron en el documento técnico de Bitcoin de Satoshi Nakamoto.
 
-![Proyectos de criptomonedas previos a Bitcoin](assets/_History-of-Bitcoin.png)[^22]
+![Proyectos de criptomonedas previos a Bitcoin](resources/_History-of-Bitcoin.png)[^22]
 
 **Pares de Llaves Públicas y Privadas**  
 En 1990, David Chaum estaba preocupado por la naturaleza pública y el acceso abierto que tenían los pagos en línea y la información personal de estos. Fundó "Digicash", una corporación y plataforma de dinero electrónico del mismo nombre, que utilizaba protocolos criptográficos, así como llaves públicas y privadas para anonimizar las transacciones. El uso de firmas criptográficas (con pares de llaves públicas - privadas), se volvió esencial en el desarrollo posterior del dinero electrónico y Bitcoin.

@@ -45,14 +45,14 @@ Bloqueie sua conta de e-mail principal e remova seu número de telefone de sua c
 Em 2020, o banco de dados de marketing do fabricante francês de hardware Ledger foi hackeado. Os aparelhos são seguros, mas milhares de endereços de e-mail, telefones e até endereços residenciais de clientes vazaram e podem ser encontrados por qualquer pessoa na internet. Isso é um desastre absoluto porque há uma grande chance de que as pessoas que compram uma carteira de hardware também possuam bitcoin. Na pior das hipóteses, você será "visitado" em casa. O mais provável é que sejam ameaças via e-mail e ataques de phishing. Para evitar isso, lembre-se de que talvez você nunca precise usar seu endereço físico para entrega de um produto relacionado ao Bitcoin, como uma carteira de hardware. Você pode organizar uma caixa postal para si mesmo. Nos EUA existem serviços que podem receber correio para você (CMRAs). Se possível, nem use seu nome verdadeiro ao fazer o pedido. Obtenha um segundo número de telefone e use-o caso o fornecedor solicite um. Dê a eles um endereço de e-mail descartável que você usa apenas para esse pedido específico.
 
 Os ataques de phishing são tentativas de assustá-lo ou manipulá-lo para que você insira suas palavras iniciais no site do invasor. Por exemplo, você pode receber um e-mail dizendo: "Seu dispositivo foi corrompido ou desativado, visite este link e insira suas 12 palavras iniciais para salvar seus fundos". ou "Detectamos uma grande retirada da sua Ledger. Você tem 24 horas para responder para tornar esta transação válida. Lamentamos, mas não conseguimos entrar em contato com sua Ledger, parece estar corrompida. Vamos autorizar a retirada a menos que você comece o processo de recuperação, dê-nos suas 24 palavras-seed." ou "você recebeu um airdrop. O dinheiro está entrando em sua conta, tudo o que precisamos é de uma verificação, por favor, inicie seu processo de recuperação e nos dê suas 24 palavras iniciais."
-![E-mail de phishing](assets/_phishing-mail-ledger.png) [^70]
+![E-mail de phishing](resources/_phishing-mail-ledger.png) [^70]
 Os atacantes tentam fazer você agir rápido sem pensar. Se você receber tal e-mail. Pare. Não faça nada. Como ninguém pode confiscar seu dinheiro, ninguém pode desativar remotamente sua carteira de hardware. Esse é o objetivo de uma moeda descentralizada como o bitcoin.
 
 Nunca confie em um email! Especialmente: nunca clique em links anexados.
 
 Marque os sites reais dos sites oficiais do Ledger, Shift Crypto, Trezor etc. ou digite o nome de domínio você mesmo na barra de endereços do navegador e procure o certificado de autenticação SSL. Os invasores enviarão você para um site falso que se parece com o real. A única diferença é a URL. Um dos novos truques é usar domínios com caracteres Unicode que pareçam iguais ao domínio real. Por exemplo, você pode notar a mancha embaixo do l de electrum? Se você abrir esse URL, verá electrum.org, mas está visitando xn--eectrum-9hb.org.
 
-![](assets/_phishing.png) [^71]
+![](resources/_phishing.png) [^71]
 
 Navegadores como Opera e Chrome irão avisá-lo, mas o Firefox não faz isso por padrão. Você pode mudar isso habilitando "punycode" no Firefox, veja [anita.link/puny](https://anita.link/puny).
 

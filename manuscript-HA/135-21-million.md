@@ -8,19 +8,19 @@ The Bitcoin rules stipulate that the reward for the miners will be halved every 
 
 Satoshi Nakamoto coded these halvings into the Bitcoin Core software. The output quantity decreases over time, resulting in a flattening supply curve.  
 
-![The halving interval code in the Bitcoin Core software in C++](assets/_halving-interval.jpg)
+![The halving interval code in the Bitcoin Core software in C++](resources/_halving-interval.jpg)
 
-![Explanation by Andreas M. Antonopoulos](assets/_aantonop-21-million.png) [^24]
+![Explanation by Andreas M. Antonopoulos](resources/_aantonop-21-million.png) [^24]
 
 This algorithm tends to zero such that there will be a maximum of 21 million bitcoin. There are currently around 18.7 million in circulation. In 2140 all 21 million bitcoin will have been generated. Mining will continue and the miners will be rewarded solely with transaction fees. By that point, it is expected that Bitcoin as a network will have such high adoption that transaction fees alone will adequately facilitate fair reward for miners.
 
-![Total bitcoin supply over time](assets/_Total_bitcoins_over_time.png) [^25]
+![Total bitcoin supply over time](resources/_Total_bitcoins_over_time.png) [^25]
 
 
 ### Why 21 Million?
 Why did Satoshi Nakamoto choose 21 million for the supply cap? There are many theories, but here is Satoshi's answer:
 
-![Satoshi Nakamoto's explanation for the 21 million supply cap](assets/_Why-21-million.png) [^26]
+![Satoshi Nakamoto's explanation for the 21 million supply cap](resources/_Why-21-million.png) [^26]
 
 
 ### Bitcoin Units

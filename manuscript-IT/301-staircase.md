@@ -23,7 +23,7 @@ Una volta imparati e fatti i primi passi verso la libertà finanziaria, comprend
 
 Stephanie Murphy, co-conduttrice del podcast _“Speaking of Bitcoin”_ inquadra il modello di libertà finanziaria come una scalinata di livelli differenti di sovranità. Dato che il Bitcoin è una tecnologia in continuo sviluppo, il grado di libertà che uno può ottenere cambia in continuazione. Questo libro provvede a guidarti per raggiungere lo step 2: il livello _“Your keys, your coins”_. Il raggiungimento del livello _“Don’t trust, verify”_ diventerà più semplice negli anni a venire. Al momento richiede un pregresso know-how tecnico e uno sforzo rilevante in termini di tempo e risorse, ma in principio tutti lo potranno raggiungere.
 
-![3 steps to financial sovereignty](assets/_staircase-sovereignty-3-steps.png) [^68]
+![3 steps to financial sovereignty](resources/_staircase-sovereignty-3-steps.png) [^68]
 
 **Piano terra**: sei un _pre-coiner_ – dato che stai leggendo il mio libro, devi essere interessato in Bitcoin ma non ne possiedi alcuno.
 

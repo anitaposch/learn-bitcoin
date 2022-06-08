@@ -21,7 +21,7 @@ Annotati la seed phrase – 12 o 24 parole in lingua inglese, il nome, modello e
 ### Step 3 - Comprare Bitcoin
 Molti wallet includono l’abilità di acquistare bitcoin direttamente dall’interfaccia. I produttori di wallet cooperano con gli exchange, i quali onorano loro una commissione. Se devo usare una borsa di scambio, preferisco selezionarla precedentemente ed esternamente al wallet. In questo modo rimango indipendente dal tipo di wallet, posso usare l’exchange per inviare bitcoin a tutti i miei svariati wallet, e devo lasciare i miei dati KYC solamente in quell’exchange, riducendo il rischio di perdita e fuga di dati. Sarebbe ancora meglio utilizzare metodi non-custodial e non-KYC (capitolo 7.3).
 
-![How to get bitcoin](assets/_Buying-methods.png) [^72]
+![How to get bitcoin](resources/_Buying-methods.png) [^72]
 
 [^72]: Anita Posch
 

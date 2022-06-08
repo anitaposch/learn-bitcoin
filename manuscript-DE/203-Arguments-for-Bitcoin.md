@@ -25,7 +25,7 @@ Es sind die Menschen in Regionen wie Afrika und Südamerika, die die Verbreitung
 
 **Schutz vor Inflation**
 Diese Tabelle des Internationalen Währungsfonds zeigt die jährliche Veränderung der Verbraucherpreise in Prozent.
-![Inflationsrate, Durchschnittlicher Verbraucherpreis, Jährliche Änderung in %](assets/_inflation-2021.png) [^58]
+![Inflationsrate, Durchschnittlicher Verbraucherpreis, Jährliche Änderung in %](resources/_inflation-2021.png) [^58]
 
 * In Venezuela stiegen die Preise um 5.500 %. Das Leid der Menschen ist einfach unvorstellbar.
 * Im Sudan stiegen die Preise allein im Jahr 2021 um 200 %.
@@ -36,7 +36,7 @@ Diese Tabelle des Internationalen Währungsfonds zeigt die jährliche Veränderu
 
 Von Mai 2020 bis April 2021 stieg das Bitcoin-Handelsvolumen in Nigeria um 40 % von 287 Millionen Dollar auf 399 Millionen Dollar. Eine Umfrage aus dem Jahr 2020 zeigt, dass 32 % der befragten Nigerianer Kryptowährungen verwendet oder besessen haben. In den entwickelten demokratischen Ländern wie Deutschland und den USA haben dagegen nur 5-6 % Kryptowährungen genutzt oder besessen.
 
-![Handelsvolumen auf P2P-Bitcoin-Börsen in Ländern südlich der Sahara von Mai 2020 bis April 2021](assets/_Nigeria-trading-volume-BTC.png) [^59]
+![Handelsvolumen auf P2P-Bitcoin-Börsen in Ländern südlich der Sahara von Mai 2020 bis April 2021](resources/_Nigeria-trading-volume-BTC.png) [^59]
 
 Angesichts dieser jährlichen Inflationsraten wissen die Menschen, dass sie ihr Vermögen in härterem Geld wie USD oder besser noch Bitcoin anlegen müssen. 
 Als ich auf meiner Simbabwe-Reise 2020 die Unterschiede zwischen lokaler Währung und Bitcoin erklärte, haben die Menschen sofort den Sinn und Nutzen von Bitcoin verstanden.
@@ -130,7 +130,7 @@ Im Jahr 2014 hat Ryan Walker die Konzepte von Darwins Theorie der natürlichen S
 
 > Das Aufkommen von Kryptowährungen hat wichtige neue Eigenschaften ermöglicht, die bei herkömmlichen Geldformen nicht möglich waren. Darüber hinaus wird die Anwendung dieser Eigenschaften wahrscheinlich einen dramatischen Einfluss auf das Umfeld haben, in dem diese Währungen konkurrieren. In den Zeilen 10 und 11 wird die Besonderheit von Kryptowährungen im Vergleich zu den traditionellen und neu realisierten Eigenschaften von Geld bewertet." - **Ryan Walker**
 
-![Die Eigenschaften von Geld](assets/_table-characteristics-money.PNG)[^67]
+![Die Eigenschaften von Geld](resources/_table-characteristics-money.PNG)[^67]
 Diese Tabelle zeigt, in welchem Maß Gold, Fiat- und Kryptowährungen die traditionell anerkannten Eigenschaften von Geld, sowie die neuen Eigenschaften, die durch die Erfindung von Bitcoin möglich wurden, erfüllen.
 
 Wie Sie sehen, sprengt Bitcoin den traditionellen Rahmen und entwickelt völlig neue Dimensionen dessen, was Geld leisten kann und worauf zukünftige Anwendungen aufbauen können.

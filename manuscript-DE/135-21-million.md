@@ -8,13 +8,13 @@ Die Bitcoin-Regeln legen fest, dass sich die ausbezahlte Menge an Bitcoin alle 2
 
 Satoshi Nakamoto programmierte diese Intervalle in die Bitcoin-Core Software. Die Ausgabemenge halbiert sich regelmäßig, was sich in einer flacher werdenden Kurve ausdrückt.  
 
-![Der Teil des Bitcoin-Core Programmes, der das Halving Intervall festlegt. In C++](assets/_halving-interval.jpg)
+![Der Teil des Bitcoin-Core Programmes, der das Halving Intervall festlegt. In C++](resources/_halving-interval.jpg)
 
-![Erklärung von Andreas M. Antonopoulos](assets/_aantonop-21-million.png) [^24]
+![Erklärung von Andreas M. Antonopoulos](resources/_aantonop-21-million.png) [^24]
 
 Der Algorithmus legt auch fest, dass es maximal 21 Millionen Bitcoin geben wird. Derzeit sind es etwa 18,7 Millionen. Im Jahr 2140 werden alle 21 Millionen erzeugt und im Umlauf sein. Das Mining wird weiter stattfinden, die Miner werden jedoch ausschließlich durch die Transaktionsgebühren ihre Kosten decken müssen. Es wird angenommen, dass das Bitcoin-Netzwerk zu diesem Zeitpunkt so stark genutzt wird, dass die Transaktionsgebühren hoch genug sind, um die Kosten des Minings zu decken.
 
-![Gesamte Bitcoin Menge über die Zeit](assets/_Total_bitcoins_over_time.png) [^25]
+![Gesamte Bitcoin Menge über die Zeit](resources/_Total_bitcoins_over_time.png) [^25]
 
 
 ### Warum 21 Millionen?

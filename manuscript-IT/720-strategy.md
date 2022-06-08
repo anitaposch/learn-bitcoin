@@ -28,7 +28,7 @@ Altcoin è l’abbreviazione di _“alternative coin”_, ossia monete alternati
 ### Se solo avessi… È troppo tardi
 Se solo avessi comprato Bitcoin nel 2011, ora saresti molto ricco. Sarebbe vero, e mi congratulerei senza invidia alcuna perché saresti stata una delle poche persone che ha creduto in Bitcoin, e pronte a mettere in gioco i propri risparmi guadagnati duramente in un esperimento rischioso. Nessuno tra i primi utilizzatori poteva sapere che Bitcoin si sarebbe apprezzato come dimostrato nel tempo. Allora era molto complesso mettere in sicurezza le chiavi, e molti bitcoin sono andati perduti o rubati. Se tu avessi preservato le tue coin superando indenne quel periodo, forse li avresti venduti nel 2014 o 2017? È inutile speculare sul “cosa sarebbe se”. Siamo ancora all’inizio. Se stai iniziandoti all’educazione e all’uso di Bitcoin, sei in rilevante anticipo rispetto alla massa. Non è mai troppo tardi per imparare Bitcoin.
 
-![Here is someone thinking to be too late in 2013](assets/_too-late.png) [^73]
+![Here is someone thinking to be too late in 2013](resources/_too-late.png) [^73]
 
 ### Tasse
 Non sono un consulente fiscale, ma ciò che posso dire è di imparare le normative e gli adempimenti fiscali nella tua giurisdizione. La blockchain di Bitcoin è trasparente, e sempre più autorità fiscali richiedono alle borse di scambio di consegnare i dati relativi al trading dei propri utenti. Mantieni prova dei tuoi acquisti in caso le autorità inizializzassero accertamenti fiscali.

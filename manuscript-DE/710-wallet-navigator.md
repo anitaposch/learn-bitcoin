@@ -21,6 +21,6 @@ Notieren Sie sich den mnemonischen Seed - 12 bis 24 Wörter, den Namen, den Typ 
 ### Schritt 3 - Bitcoin kaufen
 Die meisten Wallets bieten die Möglichkeit, Bitcoin direkt innerhalb der Wallet zu kaufen. Die Wallet-Hersteller arbeiten mit Börsen zusammen, die ihnen im Gegenzug eine Provision zahlen. Wenn ich eine Börse nutze, ziehe ich externe Anbieter vor. Auf diese Weise bleibe ich unabhängig vom Wallet, kann eine einzige Börse nutzen, um Bitcoin an alle meine verschiedenen Wallets zu senden, und muss meine KYC-Daten nur einmal hinterlegen, was das Risiko von Datenschutzverletzungen verringert. Die Verwendung von non-custodial Börsen ohne KYC (Kapitel 7.3) ist diesbezüglich sogar noch besser.
 
-![Wie man Bitcoin bekommt](assets/_Buying-methods.png) [^72] 
+![Wie man Bitcoin bekommt](resources/_Buying-methods.png) [^72] 
 
 [^72]: Anita Posch

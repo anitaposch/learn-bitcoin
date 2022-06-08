@@ -11,7 +11,7 @@ Para comprar, usar e armazenar bitcoin, você precisará de:
 ### Carteira Bitcoin
 Pense em uma carteira como um cofre público com várias seções. Qualquer pessoa pode depositar dinheiro em cada uma das seções. Somente o proprietário das chaves privadas pode desbloquear uma seção e mover o dinheiro que ela detém. Sua carteira Bitcoin consiste em todas as seções e contém todas as chaves privadas para desbloqueá-las. Chaves privadas e endereços Bitcoin são gerados a partir da seed (semente). A seed é a raiz de todas as chaves e endereços, é como um balde no qual todas as suas chaves privadas são armazenadas.
 
-![Definindo termos](assets/_seed-postbox.png) [^69]
+![Definindo termos](resources/_seed-postbox.png) [^69]
 
 A carteira é um aplicativo em seu telefone ou software em seu computador, que lida com tudo em segundo plano - suas chaves privadas, seus endereços e envio e recebimento de bitcoin.
 
@@ -24,7 +24,7 @@ Um exemplo de endereço Bitcoin: 346n4apJCQPg2XAXU3bfNQTogz4PyTkrEf
 
 Digitar 34 dígitos é obviamente muito impraticável, portanto, os códigos QR dos endereços são comumente usados e geralmente são criados automaticamente pela sua carteira.
 
-![endereço BTC como código QR](assets/_address-book.PNG)
+![endereço BTC como código QR](resources/_address-book.PNG)
 
 Bitcoin é um pseudônimo, o que significa que não é necessário conectar seu endereço de e-mail ou identificação pessoal a uma carteira. No entanto, a blockchain Bitcoin é transparente, o que significa que seus endereços Bitcoin podem ser vistos publicamente na Internet. Por exemplo, você pode procurá-lo no Blockcypher e ver todas as transações e valores atuais. Aqui está um link de exemplo: [https://anita.link/explorer](https://anita.link/explorer)
 

@@ -26,7 +26,7 @@ Son aquellas personas que viven en regiones tales como África y América del Su
 
 **Cobertura contra la inflación**
 Esta tabla del Fondo Monetario Internacional muestra la variación anual de los precios al consumidor en porcentajes.  
-![Tasas de inflación, precios promedio al consumidor, variación anual en %](assets/_inflation-2021.png) [^58]
+![Tasas de inflación, precios promedio al consumidor, variación anual en %](resources/_inflation-2021.png) [^58]
 
 * Venezuela registró aumentos de precios por el orden del 5.500 %. El sufrimiento de la gente es simplemente incomprensible.
 * En Sudán, los precios aumentaron en un 200% solo en 2021.
@@ -37,7 +37,7 @@ Esta tabla del Fondo Monetario Internacional muestra la variación anual de los 
 
 Desde mayo de 2020 hasta abril de 2021, el volumen de comercio de bitcoins en Nigeria aumentó en un 40% de unos 287 millones de dólares a 399 millones de dólares. Una encuesta hecha en 2020 muestra que el 32% de los nigerianos que fueron entrevistados habían usado o poseído criptomonedas. Mientras tanto, en países democráticos desarrollados como Alemania o EE.UU., solo entre el 5% al 6% ha utilizado o poseído criptomonedas.
 
-![Volumen de operaciones en intercambios P2P de Bitcoin en países subsaharianos desde mayo de 2020 hasta abril de 2021](assets/_Nigeria-trading-volume-BTC.png) [^59]
+![Volumen de operaciones en intercambios P2P de Bitcoin en países subsaharianos desde mayo de 2020 hasta abril de 2021](resources/_Nigeria-trading-volume-BTC.png) [^59]
 
 Dadas estas tasas de inflación anual, las personas saben que necesitan resguardar su riqueza en algún tipo de dinero más duro, como el dólar norteamericano o, mejor aún, en Bitcoin. Si les explicamos las diferencias entre el Bitcoin y las monedas locales de estos países, todos comprenderán de inmediato cómo y por qué Bitcoin puede ayudarlos.
 
@@ -130,7 +130,7 @@ En 2014, Ryan Walker tomó los conceptos de la teoría de la selección natural 
 
 > "La llegada de las monedas basadas en criptografía ha permitido nuevos rasgos clave que antes no eran posibles con las formas tradicionales del dinero. Además, la incorporación de tales rasgos probablemente tendrá un impacto dramático en el entorno en el que compiten estas monedas. Las filas 10 y 11 incluyen rasgos distintivos de las criptomonedas cuando se comparan con los rasgos tradicionales y recientemente reconocidos del dinero". - **Ryan Walker**
 
-![Los rasgos del dinero](assets/_table-characteristics-money.PNG) [^67]  
+![Los rasgos del dinero](resources/_table-characteristics-money.PNG) [^67]  
 Esto muestra el grado en que el oro, las monedas fiduciarias y las monedas criptográficas cumplen con los rasgos tradicionalmente reconocidos de la moneda, así como los nuevos rasgos que el descubrimiento del Bitcoin hizo posible.
 
 Como puede verse, Bitcoin va más allá del marco tradicional de lo que es el dinero. Está evolucionando hacia una dimensión completamente nueva de lo que puede hacer el dinero y a partir de qué aplicaciones se construirán en el futuro.

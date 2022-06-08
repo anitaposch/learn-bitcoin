@@ -10,7 +10,7 @@ Questo sistema auto-regolato possiede le seguenti caratteristiche:
 -   Le transazioni in Bitcoin sono altamente sicure senza la necessità di alcun intermediario, come ad esempio una banca.
 -   Le transazioni in Bitcoin sono trasparenti, pubblicamente consultabili e possono essere verificate da tutti.
 
-![A PayPal payment vs. Bitcoin](assets/_paypal-bitcoin-intermediaries.PNG) [^1]
+![A PayPal payment vs. Bitcoin](resources/_paypal-bitcoin-intermediaries.PNG) [^1]
 In una transazione di pagamento tradizionale vi sono circa sette passaggi intermedi prima che il pagamento raggiunga il destinatario. Bitcoin non ne ha nessuno.
 
 -   Bitcoin è una rete neutrale: non giudica e non distingue tra pagamenti “buoni” e pagamenti “cattivi”.
@@ -21,7 +21,7 @@ In una transazione di pagamento tradizionale vi sono circa sette passaggi interm
 
 Bitcoin è il denaro della gente. Bitcoin è l’evoluzione del denaro. È una continuazione dell’instancabile processo di scoperta di nuove forme di denaro che è sempre stata parte della storia dell’umanità. Nel corso dei millenni, varie nuove forme di denaro sono state scoperte e utilizzate, dallo scambio di beni tra persone a un sistema di credito basato sul sistema aureo, alla valuta fiat fino a giungere all’attuale sistema inflazionistico non coperto da riserve. I sistemi bancari e monetari come li conosciamo oggi sono esistiti e si sono evoluti per circa 300 anni. È un processo naturale che, col sorgere di nuove forme di comunicazione via Internet, emergano una nuova forma di economia e una nuova tipologia di denaro nativa di Internet.  
 
-![History of money](assets/_money-history.png) [^2]
+![History of money](resources/_money-history.png) [^2]
 
 Il denaro crittograficamente programmabile o l’”Internet of Money” – come definito da Andreas M. Antonopoulos – è inarrestabile. Siamo agli inizi di una nuova era nella storia dell’umanità.   
 
@@ -30,7 +30,7 @@ Se Bitcoin può sembrare complesso e non si è in grado di afferrare il concetto
 
 Le pietre Rai sono dei grossi dischi di pietra utilizzati nelle isole di Yap, situate nell’Oceano Pacifico Occidentale (Micronesia). Sono ricavate dai depositi calcarei estratte dalle rocce delle isole di Palau, e sono state utilizzate come moneta fino al XX secolo.
 
-![Rai stones with carrying logs, 1903](assets/_Stone_Money_of_Uap_1903_Jayne,_String_Figures_p160.jpg) [^3] 
+![Rai stones with carrying logs, 1903](resources/_Stone_Money_of_Uap_1903_Jayne,_String_Figures_p160.jpg) [^3] 
 
 Le pietre Rai sono state trasportate a Yap tramite imbarcazioni e, quando venivano spese, a causa delle dimensioni e del peso rilevanti non venivano spostate, bensì veniva semplicemente cambiato il proprietario. Ogni transazione veniva “registrata” oralmente, rendendo la proprietà della pietra di dominio pubblico e tramandata alla comunità. Lo “storico”/“registro” della transazione divenne l’unica parte che conta. In passato, una pietra cadde dalla zattera mentre veniva trasportata alla volta di Yap, ed affondò. La pietra venne in ogni caso ritenuta utilizzabile come denaro, in quanto esistente seppur nessuno potesse vederla o ne avesse accesso.   
 
@@ -67,7 +67,7 @@ In aggiunta, c’è uno strumento denominato riserva frazionaria. Questo meccani
 
 Nel 2020 il debito pubblico è aumentato da 24 trilioni ad un incredibile ammontare di 281 trilioni USD, o il 355% del PIL globale. [^6]
 
-![Debt-to-GDP ratios](assets/_Debt-to-GDP-ratio-2020.jpg)
+![Debt-to-GDP ratios](resources/_Debt-to-GDP-ratio-2020.jpg)
 
 ### Le banche centrali come prestatori di ultima istanza  
 Le banche commerciali hanno facoltà di richiedere assistenza alla banca centrale come prestatori di ultima istanza, e hanno esercitato questo diritto. Nel 2008/2009 le banche responsabili della crisi finanziaria globale hanno potuto beneficiare di piani di salvataggio. Sono state salvate perché erano considerate _“too big to fail”_ (troppo grandi per fallire). E cosa ne hanno fatto del denaro ricevuto? Hanno riacquistato azioni delle loro società. Niente è stato riversato nell’economia. Il divario tra ricchi e poveri si è inevitabilmente allargato.
@@ -100,7 +100,7 @@ M2 comprende M0, M1, titoli del mercato monetario, fondi comuni di investimento 
 
 L’ammontare di liquidità secondaria M2 in circolazione negli Stati Uniti d’America ammontava a **19.7 trilioni di USD** nel febbraio 2021. [^11] Si noti la crescita nel 2020.
 
-![M2 Money Stock Growth USA, 2021 ](assets/_M2-money-stock-US-2021.png)
+![M2 Money Stock Growth USA, 2021 ](resources/_M2-money-stock-US-2021.png)
 
 "Accettiamo tutto questo come fosse normale in quanto presumiamo che non avrà mai fine. Il meccanismo di riserva frazionaria del sistema bancario ha funzionato in tutto il mondo per centinaia di anni (in primis il sistema aureo, e successivamente il denaro fiat), seppur con occasionali eventi inflazionari lungo la strada che hanno parzialmente risistemato le cose.
 
@@ -109,7 +109,7 @@ Ogni singola unità di valuta fiat si è svalutata di circa il 99% o più nel co
 Un ulteriore fattore dell’inflazione della massa monetaria è il dato del tasso di crescita della popolazione USA e delle nazioni occidentali, il quale non sale proporzionalmente all’offerta di moneta. “La popolazione americana cresceva di circa 1.5% annualmente, ora cresce ad un ammontare che rasenta lo 0.5% per anno. Ciò è molto importante. Contemporaneamente, la massa monetaria è salita del 25% anno dopo anno, ed è sulla buona strada per essere 75%+ in un periodo di 5 anni nel futuro." [^13]
 
 Strettamente parlando, l’inflazione avviene quando la massa monetaria supera la crescita del PIL nominale, che include popolazione e crescita della produttività. L’indice dei prezzi al consumo USA dimostra che i prezzi dei beni è salito al declinare del valore della moneta.
-![Consumer Price Index US 2020](assets/_Consumer-Price-index-US-2021.png) [^14]
+![Consumer Price Index US 2020](resources/_Consumer-Price-index-US-2021.png) [^14]
 
 ### Schema Ponzi	
 
@@ -190,7 +190,7 @@ Agli inizi degli anni ’70 vi erano svariati conflitti geopolitici inclusa la g
 
 Da decenni siamo in una guerra di valute. Quale valuta è più forte? Quale Paese può godere di maggiori benefit nel manipolare la propria valuta? L’euro, il dollaro americano, lo yuan cinese? Oppure Diem di Facebook? La moneta privata delle corporazioni è il nuovo player nel mercato. Per mantenere i propri poteri, le banche centrali hanno iniziato a lavorare sulle proprie valute digitali (CBDC – Central Bank Digital Currency).
 
-![New forms of money emerge](assets/_new-forms-money.png) [^19]
+![New forms of money emerge](resources/_new-forms-money.png) [^19]
 
 Bitcoin è la nostra alternativa in risposta a questo sistema. Proteggere la nostra privacy in quest’era digitale, votare contro l’abuso del potere monopolistico del sistema attuale, e dare alle persone che vivono in regimi autoritari di dittatori corrotti le stesse opportunità di partecipare al sistema economico. Bitcoin è una strategia di difesa, uno strumento tramite il quale possiamo preservare il diritto umano di libertà di transazione e di privacy.
 

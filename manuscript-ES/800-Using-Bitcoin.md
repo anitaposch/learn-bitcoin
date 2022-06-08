@@ -9,17 +9,17 @@ En nuestra cartera Bitcoin sin custodia, sí podemos determinar por nosotros mis
 
 Para tener más control, podemos estimar las comisiones y la velocidad de confirmación en páginas como [Mempool.space](https://mempool.space/) o [Johoe's Bitcoin Mempool](https://jochen-hoenicke.de/queue/). Estos sitios web muestran el número y el tamaño de todas las transacciones por confirmar. Ofrecen una vista en tiempo real y muestran cómo evoluciona el tanque de memoria de Bitcoin. Las transacciones están coloreadas por la cantidad de comisión que pagan por byte (o “byte virtual”).
 
-![Vista en tiempo real de transacciones por confirmar](assets/_Mempool-space-white-back.png) [^74]
+![Vista en tiempo real de transacciones por confirmar](resources/_Mempool-space-white-back.png) [^74]
 
 A continuación, podemos ver la configuración de comisiones en la cartera Edge. Podemos elegir uno de los rangos de comisiones de red predeterminados o un valor personalizado.
 
-![Configuración de las comisiones de red en la cartera Edge](assets/_transaction-fee-setting.png) [^75]
+![Configuración de las comisiones de red en la cartera Edge](resources/_transaction-fee-setting.png) [^75]
 
 **Transacción Pendiente**
 Dado que los bloques nuevos se minan cada 10 minutos, tomará un promedio de al menos 10 minutos hasta que se confirme nuestra transacción. Si establecemos una comisión de red demasiado baja, entonces nuestra transacción podría permanecer sin confirmar por un período más largo a medida que el Mempool (o tanque de memoria) se libere y los mineros comiencen a volver a incluir transacciones con tarifas más bajas. Aquí se puede ver una de mis transacciones que ha estado atrapada en el Mempool ¡durante un mes!
-![Transacción pendiente](assets/_Pending-transaction-edge.png) [^76]
+![Transacción pendiente](resources/_Pending-transaction-edge.png) [^76]
 Puedes buscar el estado de tu transacción en un [Explorador de Bitcoin](https://blockchair.com). Como puede verse a continuación, mi transacción está a 4.717 rangos de ser minada con un total de 41.610 transacciones en el Mempool. Elegí una tarifa de 5 sat por vbyte.
-![Estado de la transacción como se muestra en blockexplorer](assets/_Pending-transaction-explorer.png) [^77]
+![Estado de la transacción como se muestra en blockexplorer](resources/_Pending-transaction-explorer.png) [^77]
 
 No es necesario que sigas los pasos a continuación para lograr que tu transacción original sea incluida en un bloque. La mayoría de las transacciones con tarifas bajas siguen siendo válidas durante días y finalmente se confirmarán. Sin embargo, hay dos formas de resolver el problema de una transacción estancada y lograr que se confirme antes.
 

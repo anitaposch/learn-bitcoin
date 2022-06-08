@@ -11,7 +11,7 @@ Um Bitcoin zu kaufen, zu verwenden und aufzubewahren, benötigen Sie:
 ### Bitcoin-Wallet
 Stellen Sie sich eine Wallet wie ein öffentliches Schließfach mit mehreren Abteilungen vor. Jeder kann Geld in jedes der Fächer einzahlen. Nur der Besitzer der privaten Schlüssel kann ein Fach aufschließen und das darin befindliche Geld bewegen. Ihre Bitcoin-Wallet besteht aus allen Abteilungen und enthält alle privaten Schlüssel, um sie zu entsperren. Private Schlüssel und Bitcoin-Adressen werden aus dem Seed generiert. Der Seed ist die Wurzel aller Schlüssel und Adressen, er ist wie ein Eimer, in dem alle Ihre privaten Schlüssel gespeichert sind.
 
-[Begriffsdefinitionen](assets/_seed-postbox.png) [^69]
+[Begriffsdefinitionen](resources/_seed-postbox.png) [^69]
 
 Die Wallet ist eine App auf Ihrem Telefon oder eine Software auf Ihrem Computer, die alles im Hintergrund verwaltet - Ihre privaten Schlüssel, Ihre Adressen und das Senden und Empfangen von Bitcoin.
 
@@ -24,7 +24,7 @@ Ein Beispiel für eine Bitcoin-Adresse: 346n4apJCQPg2XAXU3bfNQTogz4PyTkrEf
 
 Das Eintippen von 34 Ziffern ist natürlich sehr unpraktisch, daher werden häufig QR-Codes der Adressen verwendet, die automatisch von Ihrem Wallet erstellt werden.
 
-![BTC-Adresse als QR-Code](assets/_address-book.PNG)
+![BTC-Adresse als QR-Code](resources/_address-book.PNG)
 
 Bitcoin ist pseudonym, d. h. Sie müssen weder Ihre E-Mail-Adresse noch Ihre persönliche Identität mit einer Wallet verbinden. Die Bitcoin-Blockchain ist jedoch transparent, was bedeutet, dass Ihre Bitcoin-Adressen im Internet öffentlich einsehbar sind. Sie können zum Beispiel bei Blockcypher danach suchen und alle aktuellen Transaktionen und Werte einsehen. Hier ist ein Beispiellink: [https://anita.link/explorer](https://anita.link/explorer)
 

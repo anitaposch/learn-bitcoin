@@ -10,7 +10,7 @@ Dieses System hat die folgenden Eigenschaften:
 -   Bitcoin-Transaktionen sind ohne Intermediäre wie Banken hochsicher.
 -   Bitcoin-Transaktionen sind transparent, öffentlich einsehbar und können von allen geprüft werden.
 
-![Eine PayPal Zahlung vs. Bitcoin](assets/_paypal-bitcoin-intermediaries.PNG) [^1]
+![Eine PayPal Zahlung vs. Bitcoin](resources/_paypal-bitcoin-intermediaries.PNG) [^1]
 Bei einer traditionellen Zahlung gibt es bis zu sieben Intermediäre, bis die Zahlung das Ziel erreicht. Bei Bitcoin gibt es keine.
 
 -   Bitcoin ist ein neutrales Netzwerk: Es moralisiert und beurteilt nicht, ob eine Zahlung aus einer subjektiven Sicht "gut" oder "schlecht" ist.
@@ -21,7 +21,7 @@ Bei einer traditionellen Zahlung gibt es bis zu sieben Intermediäre, bis die Za
 
 Bitcoin ist das Geld der Menschen. Bitcoin ist die Evolution des Geldes. Es ist Ergebnis der ständigen Weiterentwicklung des Geldes, welche Teil der Menschheitsgeschichte ist. Über die Jahrtausende sind neue Formen des Geldes entstanden und genutzt worden. Von direktem Tausch zwischen Menschen über das Kreditsystem zum Goldstandard, bis zum heutigen, ungedeckten, inflationären Fiat-Geldsystem. Das Banken- und Währungssystem, wie wir es heute kennen, ist vor etwa 300 Jahren entstanden. Es ist nur logisch, dass sich mit der Verbreitung völlig neuer Kommunikationsformen über das Internet auch neue Ökonomien gebildet haben, denen letztlich ein Internet-natives Geld entsprungen ist.
 
-![Die Geschichte des Geldes](assets/_money-history.png) [^2]
+![Die Geschichte des Geldes](resources/_money-history.png) [^2]
 
 Programmiertes Krypto-Geld oder das "Internet des Geldes", wie es Andreas M. Antonopoulos bezeichnet, ist unaufhaltbar. Wir befinden uns am Beginn einer neuen Ära in der Geschichte der Menschheit.
 
@@ -32,7 +32,7 @@ Falls Sie Bitcoin verwirrend und eine Blockchain als Kontobuch, das von allen ko
 
 Das Steingeld sind große Steinscheiben, die auf der Insel Yap im westlichen Pazifik (Mikronesien) genutzt wurden. Sie wurden aus den Kalksteinvorkommen der Insel Palau abgebaut und bis ins 20. Jahrhundert als Währung verwendet.
 
-![Rai Steine mit Tragehilfen, 1903](assets/_Stone_Money_of_Uap_1903_Jayne,_String_Figures_p160.jpg) [^3] 
+![Rai Steine mit Tragehilfen, 1903](resources/_Stone_Money_of_Uap_1903_Jayne,_String_Figures_p160.jpg) [^3] 
 
 Rai Steine wurden mit dem Boot von Palau nach Yap gebracht. Aufgrund ihrer Größe und ihres Gewichts wurde ihre Lage nach der Ankunft nicht mehr verändert, sondern die Bezahlung erfolgte durch Besitzwechsel. Jede Transaktion wurde in der kleinen Gemeinschaft mündlich "gespeichert". Der Besitzstand einzelner Steine wurde zu Allgemeinwissen. Es war also nicht wichtig, dass die Steine ausgetauscht und transportiert wurden, ausschließlich das gemeinsam geführte Gedächtnisbuch zählte. Jedes Mitglied der Gemeinschaft wusste Bescheid. Ein großer Stein fiel bei der Überfahrt nach Yap von Bord und sank. Obwohl niemand ihn sehen oder angreifen konnte, galt der Stein am Grund des Meeres liegend nach wie vor als Geld.
 
@@ -72,7 +72,7 @@ Wenn wir alle beschließen, am selben Tag unsere Bankguthaben abzuheben, würde 
 
 Im Jahr 2020 stieg die weltweite Verschuldung um unglaubliche 24 Billionen auf 281 Billionen USD oder 355 % des weltweiten BIP (Bruttoinlandsprodukt). [^6]
 
-![Verhältnis der Schulden zum BIP](assets/_Debt-to-GDP-ratio-2020.jpg)
+![Verhältnis der Schulden zum BIP](resources/_Debt-to-GDP-ratio-2020.jpg)
 
 ### Zentralbanken als Kreditgeber der letzten Instanz
 Banken können um die Hilfe der Zentralbank als letzte Refinanzierungsquelle bitten. 2008/2009 haben die Bankinstitute, die für die globale Finanzkrise verantwortlich waren, Rettungsgelder in Milliardenhöhe erhalten. Sie wurden gerettet, weil sie "too big to fail" waren; also zu groß, um zu scheitern. Was taten die Banken mit diesem Geld? Sie kauften Anteile an ihren eigenen Unternehmen zurück. Nichts sickerte hinab in die Realwirtschaft. Die Kluft zwischen Arm und Reich wurde zwangsläufig immer größer.
@@ -108,7 +108,7 @@ M2 inkludiert M0, M1, Geldmarktpapiere, Investmentfonds und sonstige Termineinla
 
 Die im Umlauf befindliche Menge an M2 Währung in den USA betrug im Februar 2021  **19,7 Billionen USD**. [^11] Sehen Sie sich das Wachstum im Jahr 2020 an.
 
-![M2 Geldmengenwachstum USA, 2021 ](assets/_M2-money-stock-US-2021.png)
+![M2 Geldmengenwachstum USA, 2021 ](resources/_M2-money-stock-US-2021.png)
 
 "Wir akzeptieren das als normal, weil wir davon ausgehen, dass es niemals enden wird. Das Mindestreserve-System hat ein paar hundert Jahre weltweit funktioniert (zuerst durch Gold gedeckt und dann komplett Fiat-basierend), wenngleich gelegentliche inflationäre Ereignisse, die Situation teilweise rücksetzten. 
 
@@ -118,7 +118,7 @@ Zur Geldmengeninflation kommt hinzu, dass die Einwohnerzahlen in den USA und and
 "Die US-Bevölkerung wuchs früher etwa um 1,5 % pro Jahr, jetzt sind es eher 0,5 %. Das ist sehr bedeutend. Zwischenzeitlich ist die Geldmenge im Jahresvergleich um 25 % gestiegen und wird in einem rollierenden 5-Jahres-Zeitraum voraussichtlich um mehr als 75 % zunehmen." [^13]
 
 Streng genommen entsteht Inflation, wenn die Geldmenge das nominale BIP-Wachstum übersteigt, das sich aus dem Bevölkerungs- und Produktivitätswachstum zusammensetzt. Der Verbraucherpreisindex der USA zeigt, dass die Preise für Waren gestiegen sind, da der Wert des Geldes gesunken ist.
-![Verbraucherpreisindex der USA, 2020](assets/_Consumer-Price-index-US-2021.png) [^14]
+![Verbraucherpreisindex der USA, 2020](resources/_Consumer-Price-index-US-2021.png) [^14]
 
 ### Ponzi-System
 
@@ -199,7 +199,7 @@ In den frühen 1970er-Jahren gab es eine Reihe geopolitischer Konflikte wie den 
 
 Wir befinden uns seit vielen Jahrzehnten in Währungskriegen. Welche Währung dominiert? Welches Land zieht aus der Manipulation seiner Währung mehr Nutzen? Der Euro, der US-Dollar, der chinesische Yuan? Oder sogar Facebooks Diem? Von Unternehmen aufgelegtes Geld ist der neue, starke Player am Markt. Um ihre Macht zu erhalten, haben Zentralbanken begonnen an ihrer eigenen Variante, dem digitalen Zentralbankgeld, zu arbeiten (CBDCs).
 
-![Neue Formen des Geldes entstehen.](assets/_new-forms-money.png) [^19]
+![Neue Formen des Geldes entstehen.](resources/_new-forms-money.png) [^19]
 
 Bitcoin ist eine Alternative zu diesem System. Es schützt unsere Privatsphäre im digitalen Zeitalter. Es gibt uns eine Stimme gegen den Missbrauch monopolistischer Macht des aktuellen Systems und ermöglicht Menschen, unter korrupten Machthabern  in autoritären Staaten, die Teilnahme am wirtschaftlichen Leben. Bitcoin ist digitale Verteidigung, ein Werkzeug, mit dem wir das Recht auf Transaktionsfreiheit und Privatsphäre sichern können.
 

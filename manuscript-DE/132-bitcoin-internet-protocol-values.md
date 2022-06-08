@@ -7,7 +7,7 @@ Ein Protokoll regelt den Austausch von Informationen oder den Ablauf von Prozess
 ### Der Internet-Protokollstack
 Das Bitcoin-Protokoll kann mit der Struktur des Internet-Protokolls verglichen werden. 
 
-![Bitcoin ist Allgemeingut](assets/_Bitcoin-protocol.png) [^23]
+![Bitcoin ist Allgemeingut](resources/_Bitcoin-protocol.png) [^23]
 
 Die Bitcoin-Blockchain ist ein neues Internet-Protokoll, das man mit dem TCP/IP-Protokoll, der Basis des Internets, vergleichen kann. Basierend auf den auf der Bitcoin-Blockchain gespeicherten Informationen transferiert das Bitcoin-Protokoll Werte - ähnlich wie das SMTP-Protokoll für den E-Mail-Versand verwendet wird. Darüber liegt die Bitcoin-Kryptowährung als Anwendung; ähnlich wie eine E-Mail-Software wie Gmail oder Outlook auf dem SMTP-Protokoll aufbaut und E-Mails verschicken kann. Diese drei untersten Ebenen - Bitcoin-Blockchain, Bitcoin-Protokoll und die Kryptowährung Bitcoin - nennt man gemeinsam den Baselayer (Basisebene) von Bitcoin.
 

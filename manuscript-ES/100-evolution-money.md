@@ -10,7 +10,7 @@ Este sistema autorregulado, tiene las siguientes características:
 - Las transacciones de Bitcoin son altamente seguras sin necesidad de intermediarios, tales como los bancos.
 - Las transacciones de Bitcoin son transparentes, visibles públicamente y pueden ser auditadas por cualquier persona.
 
-![Un Pago en PayPal vs. Bitcoin](assets/_paypal-bitcoin-intermediaries.PNG) [^1]
+![Un Pago en PayPal vs. Bitcoin](resources/_paypal-bitcoin-intermediaries.PNG) [^1]
 En un pago tradicional hay hasta siete intermediarios hasta que el pago llega finalmente al destinatario. Bitcoin no tiene ningún intermediario.
 
 - Bitcoin es una red neutral: no moraliza ni distingue entre pagos "buenos" o "malos".
@@ -21,7 +21,7 @@ En un pago tradicional hay hasta siete intermediarios hasta que el pago llega fi
 
 Bitcoin es el dinero de la gente. Bitcoin es resultado de la evolución del dinero. Es una continuación del proceso perpetuo de descubrimiento de nuevas formas de dinero que siempre ha sido parte de la historia de la humanidad. A lo largo de los milenios, se han encontrado y utilizado varias formas nuevas de dinero, desde un intercambio directo entre personas hasta un sistema de crédito con un patrón oro, pasando por una moneda fiduciaria y el actual sistema inflacionario sin respaldo actual. El sistema bancario y monetario tal como lo conocemos hoy existe y evoluciona desde hace unos 300 años. Es natural que, con la aparición de una nueva forma de comunicación a través de Internet, surja una nueva forma de economía y un nuevo tipo de dinero, a saber, el dinero nativo de Internet.
 
-![Historia del dinero](assets/_money-history.png) [^2]
+![Historia del dinero](resources/_money-history.png) [^2]
 
 El dinero criptográfico programable o la "Internet del dinero", como dice Andreas M. Antonopoulos, es dinero imparable. Estamos en el comienzo de una nueva era en la historia de la humanidad.
 
@@ -30,7 +30,7 @@ Si Bitcoin suena alucinante y no nos es posible comprender el concepto de una ca
 
 Los Rai son grandes discos de piedra que se usaron en la isla Yap en el Pacífico occidental (Micronesia). Fueron "acuñados" de los depósitos de piedra caliza de la isla de Palau y se utilizaron como moneda hasta el siglo XX.
 
-![Piedras Rai con troncos, 1903](assets/_Stone_Money_of_Uap_1903_Jayne,_String_Figures_p160.jpg) [^3]
+![Piedras Rai con troncos, 1903](resources/_Stone_Money_of_Uap_1903_Jayne,_String_Figures_p160.jpg) [^3]
 
 Las piedras Rai se llevaron a Yap en barco y, debido a su tamaño y peso, no se movían cuando se gastaban, sino que simplemente cambiaban de dueño. Cada transacción se "registraba" oralmente dentro de la pequeña comunidad, y el historial de propiedad de la piedra se convertía en parte del conocimiento común. Finalmente, el "historial" o "libro mayor contable" de transacciones se terminó convirtiendo en la única parte que importaba. Una vez, a una canoa se le cayó una piedra que era transferida a Yap y se hundió. Se consideró que la piedra seguía siendo dinero, ya que todavía existía, a pesar de que nadie la ha visto ni ha tenido acceso a ella desde entonces.
 
@@ -67,7 +67,7 @@ Además de todo esto, hay algo llamado banca de reserva fraccionaria. Esto permi
 
 En 2020, la deuda global aumentó de ser unos 24 billones de dólares a la cifra de unos 281 billones de dólares, es decir, aumentó un 355% del PIB mundial. [^6]
 
-![Tasas de deuda vs. PIB](assets/_Debt-to-GDP-ratio-2020.jpg)
+![Tasas de deuda vs. PIB](resources/_Debt-to-GDP-ratio-2020.jpg)
 
 ### Los Bancos Centrales como Prestamistas de Última Instancia
 Los bancos comerciales pueden y han pedido la ayuda de sus Bancos Centrales como prestamistas de última instancia. En 2008/2009, los bancos, responsables de la crisis financiera mundial, recibieron su dinero de rescate. Fueron rescatados porque eran "demasiado grandes para fracasar". ¿Y qué hicieron con ese dinero? Recompraron acciones de sus propias empresas. Nada "se filtró" hacia la economía. La brecha entre ricos y pobres inevitablemente se hizo cada vez más grande.
@@ -100,7 +100,7 @@ M2 incluye a M0 y a M1, y además a diversos valores del mercado monetario, fond
 
 La cantidad de dinero tipo M2 en circulación en los EE. UU. Fue de **19,7 billones de dólares** en febrero de 2021. [^11] Obsérvese el crecimiento en 2020:
 
-![Crecimiento de la Reserva Monetaria M2 en los EE.UU., 2021](assets/_M2-money-stock-US-2021.png)
+![Crecimiento de la Reserva Monetaria M2 en los EE.UU., 2021](resources/_M2-money-stock-US-2021.png)
 
 "Aceptamos esto como normal porque asumimos que nunca terminará. El sistema bancario de reserva fraccionaria ha funcionado en todo el mundo durante cientos de años (primero respaldado por oro y luego totalmente basado en moneda fiduciaria), aunque con eventos inflacionarios ocasionales en el camino para restablecer parcialmente las cosas.
 
@@ -109,7 +109,7 @@ Cada unidad individual de moneda fiduciaria se ha degradado aproximadamente en u
 A la inflación de la oferta monetaria se le suma el hecho de que la población en los EE. UU. Y otras naciones occidentales no está creciendo al mismo ritmo que la oferta monetaria. "La población de los EE. UU. Solía crecer tal vez a un 1,5% anual, y ahora crece alrededor del 0,5% anual. Eso es bastante importante. Mientras tanto, la oferta monetaria amplia ha aumentado en un 25% año tras año, y está en camino de crecer a un 75% adicional durante un período continuo de 5 años en el futuro". [^13]
 
 Estrictamente hablando, la inflación se produce cuando la oferta monetaria supera el crecimiento del PIB nominal, que consiste en el crecimiento de la población y de la productividad. El Índice de Precios al Consumidor de los EE. UU. muestra que los precios de los bienes subieron porque el valor del dinero disminuyó.
-![Índice de precios al consumidor de EE. UU. 2020](assets/_Consumer-Price-index-US-2021.png) [^14]
+![Índice de precios al consumidor de EE. UU. 2020](resources/_Consumer-Price-index-US-2021.png) [^14]
 
 ### Esquema Ponzi
 
@@ -190,7 +190,7 @@ A principios de la década de 1970, hubo una variedad de conflictos geopolítico
 
 Hemos estado en guerras de divisas durante muchas décadas. ¿Qué moneda es más fuerte? ¿Qué país puede obtener más beneficios manipulando su moneda? ¿El euro, el dólar estadounidense, el yuan chino? ¿O incluso el Diem de Facebook? El dinero de las corporaciones es el nuevo jugador fuerte del mercado. Para conservar sus poderes, los bancos centrales comenzaron a trabajar en sus propias monedas digitales (CBDC).
 
-![Surgen nuevas formas de dinero](assets/_new-forms-money.png) [^19]
+![Surgen nuevas formas de dinero](resources/_new-forms-money.png) [^19]
 
 Bitcoin es nuestra alternativa a este sistema. Proteger nuestra privacidad en esta era digital, votar contra el abuso del poder monopolístico en el sistema actual y brindar a las personas que viven en estados autoritarios con gobernantes corruptos las mismas oportunidades de participar en el sistema económico. Bitcoin es una estrategia de defensa, una herramienta con la que podemos preservar el derecho humano a la libertad y privacidad en el comercio.
 

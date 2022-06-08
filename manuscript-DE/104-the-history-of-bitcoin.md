@@ -14,7 +14,7 @@ Seit den 1990er-Jahren hatten Computer Experten, Mathematiker und Kryptographen 
 ### Kryptowährungsprojekte vor Bitcoin
 Teile der folgenden Konzepte wurden in das Bitcoin-Whitepaper von Satoshi Nakamoto aufgenommen. 
 
-![Kryptowährungsprojekte vor Bitcoin](assets/_History-of-Bitcoin.png)[^22]
+![Kryptowährungsprojekte vor Bitcoin](resources/_History-of-Bitcoin.png)[^22]
 
 **Öffentliche und private Schlüsselpaare**
 Im Jahr 1990 sorgte sich David Chaum wegen des öffentlichen Charakters digitaler Zahlungen und des ungehinderten Zugangs zu persönlichen Informationen. Er gründete "Digicash", ein Unternehmen und elektronisches Geld desselben Namens. Es verwendete kryptographische Protokolle sowie öffentliche und private Schlüsselpaare zur Anonymisierung von Transaktionen. Die Nutzung von Signaturen - öffentliche und private Schlüsselpaare - wurde zum essenziellen Bestandteil späterer Formen von elektronischem Geld und bei Bitcoin. 

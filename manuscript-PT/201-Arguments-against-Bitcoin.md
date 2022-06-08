@@ -11,13 +11,13 @@ _Bitcoin não é uma reserva de valor devido a suas mudanças de preço._
 
 Veja o bitcoin como um investimento de longo prazo, ele tem sido a reserva de valor com melhor desempenho de todas as classes de ativos na última década.
 
-![Bitcoin o melhor ativo nos 10 anos anteriores a 2021](assets/_best-asset-10years.png) [^27]
+![Bitcoin o melhor ativo nos 10 anos anteriores a 2021](resources/_best-asset-10years.png) [^27]
 
 É claro que não há garantia de que esse desempenho continuará para sempre.
 
 No momento em que escrevo, o bitcoin estava em alta, que começou no último trimestre de 2020. Isso significa que o preço se valorizou por um período de semanas e meses com pequenos contratempos no meio. Em maio de 2021 ocorreu uma queda significativa, que muitos interpretaram como um revés saudável em um mercado superaquecido. A última corrida de touros começou em 2017 e terminou no início de 2018. Desde então, o preço se moveu relativamente de lado - como dizem os traders - o que significa que não houve nenhum grande movimento para cima ou para baixo no preço.
 
-![Desenvolvimento do preço do Bitcoin](assets/_Bitcoin-price.png)[^28]
+![Desenvolvimento do preço do Bitcoin](resources/_Bitcoin-price.png)[^28]
 
 O desenvolvimento do preço do Bitcoin está seguindo os ciclos de halving. Aproximadamente a cada 4 anos, a quantidade de bitcoin cunhado é reduzida em 50%. Isso significa que o crescimento do bitcoin disponível no mercado está diminuindo. Mesmo que a demanda por bitcoin permaneça apenas no mesmo nível, o preço aumentará.
 
@@ -28,11 +28,11 @@ Em maio de 2021, cerca de 36 milhões de dólares (número de bitcoins cunhados 
 
 As datas dessas reduções estão anotadas no gráfico abaixo. O preço segue padrões semelhantes antes e depois de cada halving. Neste gráfico, o topo do bitcoin está previsto para setembro de 2021, após o qual o preço deve cair novamente, como você pode ver nas linhas de grade marcadas "Low". Claro, esta é apenas uma previsão baseada em alguns eventos e números históricos. Não podemos tomar isso como uma ocorrência certa no futuro.
 
-![Ciclos de preço do Halving](assets/_Halving-Price-cycles-by-Pladizow.png) [^29]
+![Ciclos de preço do Halving](resources/_Halving-Price-cycles-by-Pladizow.png) [^29]
 
 Desde o lançamento do Bitcoin em 2009, houve várias quedas de preços. Esteja preparado para que isso aconteça novamente. A questão é quão baixo ele vai porque em uma escala logarítmica você pode ver que, com o tempo, o bitcoin só ganhou valor no longo prazo.
 
-![Escala logarítmica do preço do Bitcoin](assets/_Bitcoin-price-log.png) [^30]
+![Escala logarítmica do preço do Bitcoin](resources/_Bitcoin-price-log.png) [^30]
 
 >Não tente enganar o mercado, não negocie. Apenas segure seu bitcoin. Pelo menos por cinco anos.
 
@@ -67,7 +67,7 @@ _Bitcoin é uma nova tecnologia. É o primeiro de seu tipo. Quando comparamos is
     
 Bitcoin tem sido a criptomoeda mais usada no mundo desde que se originou em 2009. Concordo, não há garantias de que continuará assim. O domínio de mercado do Bitcoin era superior a 80% até 2017. O que significa que, de todos os milhares de criptomoedas no mercado, mais de 80% de todos os investimentos foram realizados em Bitcoin. Isso mudou em 2017-18, quando houve uma "guerra" entre diferentes ideias sobre como o Bitcoin como tecnologia deveria avançar. O debate sobre o tamanho do bloco terminou com um hard fork, onde o blockchain do Bitcoin se dividiu em dois forks: Bitcoin (BTC) e Bitcoin Cash (BCH). Naquela época, outros projetos de criptomoedas como o Ethereum ganharam importância. Quatro anos depois, o BCH caiu constantemente em insignificância em comparação com o BTC. O Bitcoin manteve seu domínio com mais de 60% até a atual corrida de touros, onde caiu para 40% no momento da redação. Uma corrida de touros resulta em mais atenção do mainstream, o que leva a muitos artigos de mídia desinformados e, quando certos bilionários adicionam rumores e especulações à mistura, as Altcoins são colocadas em foco.
 
-![Porcentagem da capitalização de mercado total](assets/_Market-dominance.png) [^31]
+![Porcentagem da capitalização de mercado total](resources/_Market-dominance.png) [^31]
 
 O ressurgimento do domínio do Bitcoin após o momento crítico do hard-fork em 2017 foi um sinal de força para muitos especialistas como a macroeconomista Lyn Alden e o investidor americano Michael Saylor, o que os levou a acreditar no potencial futuro do Bitcoin como vencedor-leva-tudo das criptomoedas. E mesmo que houvesse inovações tecnológicas nas Altcoins que as impulsionassem na frente do Bitcoin, não há dúvida de que os desenvolvedores do Bitcoin as implementariam também.
 
@@ -79,11 +79,11 @@ Como o uso do Bitcoin, em princípio, não está vinculado a identidades, não �
 
 Essas trocas centralizadas precisam verificar sua identidade antes que você possa converter fiat em bitcoin. A estatística a seguir mostra que mais de 101 milhões de pessoas em todo o mundo têm uma conta em exchanges. As pessoas que conseguiram obter algum bitcoin nos primeiros dias, ou operam fora dos limites das exchanges centralizadas, não são contabilizadas.
 
-![Número de usuários de ativos de criptografia com identidade verificada em milhões](assets/_number-users-2020.png) [^32]
+![Número de usuários de ativos de criptografia com identidade verificada em milhões](resources/_number-users-2020.png) [^32]
 
 Cerca de 1,3% da população mundial tinha conta em uma exchange de criptomoedas no final de 2020, um crescimento de quase 190% entre 2018 e 2020. Ainda assim, pode-se argumentar que isso não é muito. No entanto, para uma classe de ativos completamente nova e dinheiro que se originou como um movimento de base sem uma empresa ou marketing por trás dele, o Bitcoin se desenvolveu a ponto de ser amplamente conhecido, discutido e usado por mais de 100 milhões de pessoas em todo o mundo.
 
-![Respondentes que disseram que usaram ou possuíam criptomoedas em 2020](assets/_users_around-world.png) [^33]
+![Respondentes que disseram que usaram ou possuíam criptomoedas em 2020](resources/_users_around-world.png) [^33]
 
 Este é o resultado de uma pesquisa em países selecionados mostrando que 32% da população nigeriana usou ou possui criptomoeda. Lembre-se de que a população nigeriana tem, em média, 19 anos, em comparação com os 38 dos EUA e a idade média da Alemanha de 44 anos. Eles são jovens, querem trabalhar, são conhecedores de tecnologia e valorizam as criptomoedas, apesar de sua volatilidade, porque sua própria moeda nacional Naira está perdendo 25% de seu valor por ano.
 
@@ -99,7 +99,7 @@ Um pool de mineração é uma estrutura que "agrupa" recursos computacionais for
 
 Embora seja verdade que os pools de mineração possam se concentrar em áreas ou jurisdições específicas, como na China antes de seu governo autoritário proibir a mineração de Bitcoin em junho de 2021, eles ainda têm menos influência do que você imagina. Em primeiro lugar, os pools de mineração consistem em milhares de mineradores individuais. Só porque um pool de mineração está localizado na China não significa que o minerador individual deva estar localizado na China. Os hashers querem garantir que o pool para o qual contribuem esteja engajado em um comportamento alinhado à filosofia do Bitcoin. Em caso de desacordo, os mineradores são livres para trocar de pool. Em 2013, o pool de mineração de Bitcoin GHash.io atingiu mais de 50% do hashrate total do Bitcoin por um curto período, o que levou os hashers a apontar proativamente seu poder de hash para outros pools, a fim de evitar uma concentração potencialmente prejudicial. O baixo custo para trocar de pool atua como um sistema de freios e contrapesos sobre o comportamento autorregulador dos mineradores. [^^33a]
 
-![Visão global das regiões de mineração de Bitcoin. Regiões com grandes regiões relevantes mostradas em azul-petróleo, Sichuan em azul e regiões menores restantes em preto](assets/_mining-locations.png) [^34]
+![Visão global das regiões de mineração de Bitcoin. Regiões com grandes regiões relevantes mostradas em azul-petróleo, Sichuan em azul e regiões menores restantes em preto](resources/_mining-locations.png) [^34]
 
 A ramificação, o hard-fork de 2017, entre Bitcoin e Bitcoin Cash é um segundo exemplo de como o Bitcoin é autorregulado. Mineradores e grandes exchanges queriam aumentar o tamanho do bloco de cada bloco Bitcoin para obter uma maior saída de transação por bloco. A comunidade de operadores de nós e usuários de Bitcoin não queria alterar o tamanho do bloco porque pessoas com menor largura de banda seriam prejudicadas. Em vez disso, eles optaram por soluções de 2ª camada, como a Lightning Network, para resolver esse problema. Isso resultou na "guerra dos blocos", onde mineradores e grandes empresas tentaram forçar as mudanças na rede. Isso resultou em um hard-fork: Bitcoin dividido em Bitcoin e Bitcoin Cash. Quatro anos depois, o Bitcoin Cash está quase esquecido, enquanto o Bitcoin é a maior criptomoeda. Isso mostra que os mineradores não têm mais poder do que outros usuários.
 

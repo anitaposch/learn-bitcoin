@@ -30,7 +30,7 @@ Sin embargo, es posible que tengas la tentación de intentarlo. Utiliza el sitio
 ### Ahh! Si Solo Hubiera… ¡He Llegado Muy Tarde!
 Si solo hubiera comprado Bitcoin en 2011, ahora sería muy rico. Eso es cierto y te felicitaría sin envidia, porque fuiste una de las pocas personas que creyó en Bitcoin y estabas dispuesto a poner el dinero que tanto te costó ganar en un experimento arriesgado. Ninguno de los primeros en adoptar sabía que Bitcoin aumentaría como lo ha hecho. Era muy difícil asegurar las llaves privadas en ese entonces y muchos bitcoins se perdieron o fueron robados. Si lo hubieras logrado y hubieras conservado tus monedas, podrías haberlo vendido todo en 2014, ¿o tal vez en 2017? No tiene sentido reflexionar sobre "qué hubiese pasado si…". Todavía estamos en los primeros días. Si estás comenzando a educarte y a usar Bitcoin ahora, todavía está muy por delante de las masas. Nunca es demasiado tarde para aprender sobre Bitcoin.
 
-![Aquí hay alguien que pensaba que había llegado demasiado tarde en 2013](assets/_too-late.png)  
+![Aquí hay alguien que pensaba que había llegado demasiado tarde en 2013](resources/_too-late.png)  
 > “8 de abril de 2013  
 Hola a todos:  
 Siento que llegué a Bitcoin justo un mes muy tarde. Cuando comencé a leer sobre ello aquí 1BTC = £27. Cuando volví a mirar días después ya estaba a £42. Sabía que era una buena oportunidad de inversión, pero estaba/estoy en quiebra. Sólo he estado viendo el precio subir, empeorando mi mala racha. He puesto en venta una que otra cosa de valor que yo ya no uso, comenzando la semana, con la esperanza de comprar algo de BTC aunque sea a £100, pero eche un ojo y ya esta a casi $200, o a £126.3 (nuestra moneda superior, jajaja).  

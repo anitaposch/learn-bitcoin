@@ -11,7 +11,7 @@ Per comprare, usare e conservare bitcoin, avrai bisogno del seguente:
 ### Wallet Bitcoin
 Pensa al wallet come un armadietto pubblico con molteplici cassetti di sicurezza. Tutti possono depositare denaro all’interno di ogni cassetto. Ma solamente chi possiede le chiavi private è in grado di sbloccare un cassetto e muoverne il contenuto. Il tuo wallet Bitcoin consiste di tutti i cassetti, e mantiene tutte le chiavi private per sbloccarle. Le chiavi private e gli indirizzi Bitcoin sono generati dal seed. Il seed è l’elemento dal quale si generano tutte le chiavi e gli indirizzi. È come un cesto nel quale sono conservate tutte le tue chiavi private.
 
-![Defining terms](assets/_seed-postbox.png) [^69]
+![Defining terms](resources/_seed-postbox.png) [^69]
 
 Il wallet è una app nel tuo telefono, oppure un programma nel tuo computer che gestisce tutto in background – le tue chiavi private, i tuoi indirizzi, l’invio e la ricezione di bitcoin.
 
@@ -24,7 +24,7 @@ Un esempio di indirizzo Bitcoin: 346n4apJCQPg2XAXU3bfNQTogz4PyTkrEf
 
 Digitare 34 caratteri è un’operazione poco pratica, pertanto vengono comunemente usati i codici QR degli indirizzi, i quali vengono solitamente creati in automatico dal tuo wallet.
 
-![BTC address as QR code](assets/_address-book.PNG)
+![BTC address as QR code](resources/_address-book.PNG)
 
 Bitcoin è pseudoanonimo, non c’è necessità di collegare un tuo indirizzo email o un tuo documento identificativo col wallet. Tuttavia, la blockchain di Bitcoin è trasparente, e ciò significa che i tuoi indirizzi Bitcoin sono pubblicamente visionabili in Internet. Ad esempio, le puoi cercare su Blockcypher e vedere lo storico delle transazioni e contestuali valori. Qui puoi visionarne un esempio: [https://anita.link/explorer](https://anita.link/explorer)
 

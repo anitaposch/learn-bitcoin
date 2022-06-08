@@ -26,7 +26,7 @@ Sarà il contributo delle persone che vivono in Africa e Sud-America ad accelera
 
 **Protezione dall’inflazione**  
 La seguente tabella del Fondo Monetario Internazionale mostra in percentuale le variazioni dei valori annuali dei prezzi al consumo.  
-![Inflation rate, average consumer prices, annual change in %](assets/_inflation-2021.png) [^58]
+![Inflation rate, average consumer prices, annual change in %](resources/_inflation-2021.png) [^58]
 
 * Il Venezuela ha visto i prezzi aumentare del 5,500%. La sofferenza della gente è semplicemente inimmaginabile.
 * In Sudan i prezzi sono aumentati del 200% nel solo 2021.
@@ -37,7 +37,7 @@ La seguente tabella del Fondo Monetario Internazionale mostra in percentuale le 
 
 In Nigeria, dal maggio 2020 ad aprile 2021, il volume di scambio di bitcoin è aumentato del 40% da 287 milioni a 399 milioni. Un sondaggio del 2020 ha dimostrato che il 32% dei nigeriani intervistati hanno usato o possiedono criptovalute. Nel frattempo, in Paesi democratici sviluppati come la Germania e gli Stati Uniti, solamente il 5-6% ha usato o possiede criptovalute.
 
-![Trading volume on P2P Bitcoin exchanges in Sub-Saharan countries from May 2020 to April 2021](assets/_Nigeria-trading-volume-BTC.png) [^59]
+![Trading volume on P2P Bitcoin exchanges in Sub-Saharan countries from May 2020 to April 2021](resources/_Nigeria-trading-volume-BTC.png) [^59]
 
 Considerando questi tassi d’inflazione annuali, la gente sa che deve conservare il proprio patrimonio in una valuta forte come il dollaro americano, o ancora meglio, Bitcoin. Se spieghi le differenze tra Bitcoin e le valute locali in questi Paesi, tutti comprendono immediatamente come e perché Bitcoin può costituire un valido supporto.
 
@@ -128,7 +128,7 @@ Nel 2014 Ryan Walker riprese i concetti della selezione naturale darwiniana per 
 
 > "L’avvento di valute basate sulla crittografia ha abilitato nuove caratteristiche chiave che prima non erano possibili per le forme tradizionali di denaro. Inoltre, è probabile che la realizzazione di tali caratteristiche avranno un impatto rilevante nell’ambito in cui queste valute competono. Le righe 10 e 11 comparano la specie della criptovaluta in relazione alle caratteristiche tradizionali e di nuova realizzazione del denaro." - **Ryan Walker**
 
-![The traits of money](assets/_table-characteristics-money.PNG)[^67]
+![The traits of money](resources/_table-characteristics-money.PNG)[^67]
 Il grafico mostra il livello per il quale l’oro, le valute fiat e le criptovalute soddisfino le caratteristiche tradizionali del denaro ed anche le nuove caratteristiche rese possibili dalla scoperta di Bitcoin.
 
 Da come si può vedere, Bitcoin va oltre l'idea tradizionale di cosa sia il denaro. Si sta evolvendo in una dimensione completamente nuova di ciò che il denaro possa fare, e dal quale verranno sviluppate applicazioni in un futuro.

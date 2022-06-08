@@ -14,7 +14,7 @@ Desde a década de 1990, especialistas em computação, matemáticos e criptógr
 ### Projetos de criptomoeda antes do Bitcoin
 Partes dos conceitos a seguir foram incorporadas ao white paper Bitcoin de Satoshi Nakamoto.
 
-![Projetos de criptomoeda antes do Bitcoin](assets/_History-of-Bitcoin.png)[^22]
+![Projetos de criptomoeda antes do Bitcoin](resources/_History-of-Bitcoin.png)[^22]
 
 **Pares de chaves públicas e privadas**
 Em 1990, David Chaum estava preocupado com a natureza pública e o acesso aberto a pagamentos online e informações pessoais. Ele fundou a "Digicash", uma corporação e dinheiro eletrônico de mesmo nome, que usava protocolos criptográficos, bem como chaves privadas e públicas para anonimizar transações. O uso de assinaturas - pares de chaves públicas e privadas - tornou-se essencial no desenvolvimento do dinheiro eletrônico e do Bitcoin.

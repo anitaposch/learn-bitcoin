@@ -11,13 +11,13 @@ _Bitcoin non è un bene rifugio a causa della variazione del proprio prezzo._
 
 Guarda a bitcoin come un investimento a lungo termine, tra tutti gli asset class è risultato il bene rifugio dalla migliore performance nel corso della scorsa decade. 
 
-![Bitcoin the best asset over the 10 years prior 2021](assets/_best-asset-10years.png) [^27]
+![Bitcoin the best asset over the 10 years prior 2021](resources/_best-asset-10years.png) [^27]
 
 Ovviamente, non vi sono garanzie che questa prestazione continuerà all’infinito.
 
 Al momento in cui scrivo, bitcoin si trova in una _bull run_ (mercato con tendenza al rialzo), iniziata nell’ultimo trimestre del 2020. Ciò significa che si è apprezzato per un periodo di settimane e mesi con minori battute d'arresto nel mezzo. Nel maggio 2021 è avvenuto un crollo, da molti interpretato come un arresto positivo nell’ambito di un surriscaldamento del mercato. La precedente bull run iniziò nel 2017 e si concluse agli inizi del 2018. Da allora, il prezzo ha assunto una tendenza relativamente laterale - _sideway_, utilizzando il termine finanziario – che va a significare che non si sono manifestati rilevanti movimenti di prezzo, sia in positivo che in negativo. 
 
-![Bitcoin price development](assets/_Bitcoin-price.png)[^28]
+![Bitcoin price development](resources/_Bitcoin-price.png)[^28]
 
 L’andamento del prezzo di bitcoin segue i cicli di halving. Approssimativamente ogni 4 anni l’ammontare di bitcoin generati viene ridotto del 50%. Ciò significa che la crescita di bitcoin disponibili sul mercato si sta riducendo. Anche se la domanda di bitcoin rimanesse al medesimo livello, il prezzo è destinato ad aumentare. 
 
@@ -28,11 +28,11 @@ A maggio 2021, circa 36 milioni di dollari americani (il numero di bitcoin conia
 
 Le date degli halving sono annotate nel grafico sottostante. Il prezzo segue una traiettoria simile a prima e dopo ogni halving. In questo grafico il picco massimo di bitcoin è previsto per settembre 2021, e ci si aspetta che in seguito il prezzo crolli nuovamente da come puoi vedere nella sezione della griglia contrassegnata con “Low”. Chiaramente questa è solamente una previsione basata su alcuni eventi storici e numeri. Non possiamo accertarci che questo evento accada effettivamente in futuro. 
 
-![Halving price cycles](assets/_Halving-Price-cycles-by-Pladizow.png) [^29]
+![Halving price cycles](resources/_Halving-Price-cycles-by-Pladizow.png) [^29]
 
 Dal lancio di Bitcoin nel 2009, ci sono stati diversi crolli dei prezzi. Preparati, perché ciò accadrà nuovamente. La domanda è quanto in basso si andrà, perché in una scala logaritmica potrai vedere che, col tempo e nel lungo termine, il prezzo di bitcoin si è solamente apprezzato.
 
-![Bitcoin price logarithmic scale](assets/_Bitcoin-price-log.png)  [^30]
+![Bitcoin price logarithmic scale](resources/_Bitcoin-price-log.png)  [^30]
 
 >Non tentare di battere il mercato, non fare trading. Conserva semplicemente i tuoi bitcoin. Per almeno cinque anni. 
 
@@ -67,7 +67,7 @@ _Bitcoin è una nuova tecnologia. È la prima del suo genere. Quando la comparia
     
 Bitcoin è stata la criptovaluta maggiormente usata a livello globale sin dalle sue origini nel 2009. Condivido il pensiero che non c’è garanzia che continuerà ad essere così. La posizione dominante di Bitcoin nel mercato si assestava ad oltre l’80% fino al 2017. Ciò significa che delle migliaia di criptovalute disponibili nel mercato, più dell’80% di tutti gli investimenti erano mantenuti in Bitcoin. Questo è cambiato nel 2017-18 quando si originò una “guerra” ideologica in merito a come la tecnologia Bitcoin avrebbe dovuto procedere da lì in futuro. Il dibattito sulla dimensione del blocco si concluse con un hard fork per il quale la blockchain di Bitcoin si scisse in due: Bitcoin (BTC) e Bitcoin Cash (BCH). Allora, altri progetti cripto come Ethereum guadagnarono terreno. Quattro anni dopo, BCH volse costantemente verso l’oblio se comparato con BTC. Bitcoin mantenne la propria posizione dominante con oltre il 60% fino all’attuale mercato rialzista, quando crollò al 40% al momento in cui scrivo. Un mercato tendente al rialzo produce maggiore attenzione nel mainstream ed innesca la formulazione di articoli disinformati da parte dei media, e quando si aggiungono nel calderone certi miliardari ad alimentare pettegolezzo e speculazione, le attenzioni si concentrano sulle altcoin. 
 
-![Percentage of total market capitalization](assets/_Market-dominance.png) [^31]
+![Percentage of total market capitalization](resources/_Market-dominance.png) [^31]
 
 La rinascita della posizione dominante di Bitcoin a seguito del periodo di crisi dell’hard fork del 2017 è stata un segnale di forza per molti esperti quali la macroeconomista Lyn Alden e l’investitore americano Michael Saylor, i quali sono stati portati a credere nel potenziale di Bitcoin come la criptovaluta dominante. E nonostante tutte le innovazioni tecnologiche portate dalle altcoin, le quali avrebbero potuto strappare il primato a Bitcoin, non vi è dubbio che gli sviluppatori di Bitcoin faranno in modo di implementarle a loro volta.
 
@@ -79,11 +79,11 @@ Considerato che per principio l’uso di Bitcoin non è associato all’identit�
 
 Questi exchange centralizzati devono verificare la tua identità prima che tu sia in grado di cambiare fiat per bitcoin. Le statistiche del grafico seguente dimostrano che oltre 101 milioni di persone nel mondo hanno un conto presso tali exchange. Le persone che ottennero qualche bitcoin durante i primissimi tempi, o coloro i quali operano al di là delle borse di scambio centralizzate, non sono inclusi.
 
-![Number of identity-verified crypto asset users in millions](assets/_number-users-2020.png) [^32]
+![Number of identity-verified crypto asset users in millions](resources/_number-users-2020.png) [^32]
 
 Alla fine del 2020, circa l’1.3% della popolazione mondiale ha avuto un conto presso un exchange di criptovalute, un aumento di quasi il 190% tra il 2018 e il 2020. Si potrebbe obiettare che questo non sia molto. Tuttavia, per un asset class completamente nuovo e una moneta originata da un movimento dal basso senza il supporto di una società o di qualsivoglia attività di marketing, Bitcoin si è sviluppato da sé al punto che è ampiamente conosciuto, discusso e utilizzato globalmente da almeno oltre 100 milioni di persone.
 
-![Respondents who said they used or owned cryptocurrencies 2020](assets/_users_around-world.png) [^33]
+![Respondents who said they used or owned cryptocurrencies 2020](resources/_users_around-world.png) [^33]
 
 Questo è il risultato di un sondaggio condotto in Paesi selezionati, che dimostra che il 32% della popolazione nigeriana ha utilizzato criptovalute. Si tenga in mente che l’età media della popolazione nigeriana è di 19 anni, comparata con i 38 degli Stati Uniti e i 44 della Germania. Sono giovani, laboriosi, esperti di tecnologia e, nonostante la volatilità, apprezzano le criptovalute in quanto la loro valuta nazionale, la Naira, perde annualmente il 25% del proprio valore.
 
@@ -99,7 +99,7 @@ Una mining pool è un tipo di struttura che “raccoglie” assieme risorse comp
 
 Se è vero che le mining pool possano concentrarsi in aree specifiche circoscritte o in particolari giurisdizioni, come in Cina prima che il governo autoritario a giugno 2021 rendesse il mining di Bitcoin fuorilegge, queste hanno meno influenza di quanto uno possa credere. In primis, le mining pool consistono di migliaia di miner individuali. Il solo fatto che una mining pool sia localizzata in Cina non significa che il miner individuale debba risiedere in Cina. Gli hasher (o miner) desiderano che la pool nella quale stanno contribuendo adotti un comportamento in linea con la filosofia di Bitcoin. Nell’evento di una disputa, i miner sono libero di cambiare pool. Per un breve periodo nel 2013, la mining pool GHash.io raggiunse più del 50% della potenza di elaborazione totale di Bitcoin, il che portò i partecipanti a reindirizzare proattivamente il loro hashrate verso altre pool onde evitare concentrazioni potenzialmente deleterie. Il basso costo per cambiare pool agisce come un sistema di autoregolazione del comportamento dei miner. [^^33a]
 
-![Global Overview of Bitcoin Mining Regions. Regions With Large Relevant Regions Shown in Teal, Sichuan in Blue and Remaining Minor Regions in Black](assets/_mining-locations.png) [^34]
+![Global Overview of Bitcoin Mining Regions. Regions With Large Relevant Regions Shown in Teal, Sichuan in Blue and Remaining Minor Regions in Black](resources/_mining-locations.png) [^34]
 
 L’hard fork del 2017 tra Bitcoin e Bitcoin Cash è un secondo esempio di come Bitcoin si autoregoli. Miner e grandi exchange volevano aumentare le dimensioni del blocco di Bitcoin affinché i blocchi ospitassero un numero maggiore di transazioni. La comunità degli operatori dei nodi e gli utenti di Bitcoin non erano intenzionati affatto a modificare la dimensione del blocco perché le persone con bassa banda Internet ne sarebbero state svantaggiate. In risposta al problema, hanno optato per soluzioni di secondo livello quale Lightning Network. Ciò portò alla cosiddetta _“Blocksize war”_, la guerra della dimensione del blocco, in cui miner e grosse società tentarono di forzare i cambiamenti nella rete. Ciò comportò anche un hard fork: Bitcoin si scisse in Bitcoin e Bitcoin Cash. Quattro anni più tardi, Bitcoin Cash è quasi caduto nel dimenticatoio, mentre Bitcoin è la criptovaluta più grande. Dimostra che i miner non hanno più potere degli altri utenti.
 

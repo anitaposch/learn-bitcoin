@@ -28,7 +28,7 @@ Altcoins is the abbreviation for alternative coins. These are all crypto assets 
 ### If I Had Only...I'm Too Late
 If you had only bought Bitcoin in 2011, you would be very rich by now. That is true and I would congratulate without envy, because you were one of the few people who believed in Bitcoin and were ready to put your hard earned money into a risky experiment. None of the early adopters knew that Bitcoin would rise like it has done. It was very difficult to secure your keys back then and many bitcoin were lost or stolen. If you had made it through and preserved your coins, you might have sold it all in 2014, maybe 2017? It is pointless to ponder about "what if". We are still in the early days. If you are starting to educate yourself and use Bitcoin now, you're still leagues ahead of the masses. It's never too late to learn about Bitcoin.
 
-![Here is someone thinking to be too late in 2013](assets/_too-late.png) [^73]
+![Here is someone thinking to be too late in 2013](resources/_too-late.png) [^73]
 
 ### Taxes
 I'm not a tax advisor but what I can say is, learn about the regulations and tax requirements in your jurisdiction. The Bitcoin blockchain is transparent and more and more tax authorities will require exchanges to hand them their trading data. Keep proofs of your purchases in case authorities start investigating.
