@@ -42,7 +42,7 @@ As pedras Rai foram vistas pelos economistas modernos como uma forma primitiva d
 
 ## Como o dinheiro é criado
 
->"Deve-se confiar no banco central para não desvalorizar a moeda, mas a história das moedas fiduciárias está cheia de violações dessa confiança." - Satoshi Nakamoto
+>"Deve-se confiar no banco central para não desvalorizar a moeda, mas a história das moedas fiduciárias está cheia de violações dessa confiança." - **Satoshi Nakamoto**
 
 Aprender sobre Bitcoin me abriu os olhos. Existem dois períodos distintos da minha vida, um antes do Bitcoin e outro depois do Bitcoin. Eu vejo as coisas de forma completamente diferente hoje. No meu objetivo de entender o Bitcoin, primeiro tive que entender o sistema monetário atual. Quais são as diferenças entre sistemas monetários como o USD ou Euro e Bitcoin? O que é inflação? Que papel estão desempenhando os bancos centrais? E assim por diante. É intrigante que não aprendamos esses conceitos na escola, mas essa falta específica de educação pode, infelizmente, ser intencional.
 

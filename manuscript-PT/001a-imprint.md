@@ -1,7 +1,3 @@
-Aprenda Bitcoin
-
-Torne-se financeiramente soberano
-
 1ª edição, 30 de Junho 2022
 
 Autora: Anita Posch
