@@ -7,7 +7,8 @@ Um protocolo rege a troca de informações ou procedimentos. A linguagem é um p
 ### Pilha de protocolos da Internet
 O protocolo Bitcoin pode ser comparado à estrutura de pilha de protocolos da Internet.
 
-![Bitcoin é um bem comum](resources/_Bitcoin-protocol.png) [^23]
+*Representação* [^23]
+![Bitcoin é um bem comum](resources/_Bitcoin-protocol.png)
 
 A blockchain do Bitcoin é um novo protocolo de internet comparável ao protocolo TCP/IP, que é a base da internet. Acima da blockchain Bitcoin está o protocolo Bitcoin que transfere valores, semelhantes ao protocolo SMTP para envio de e-mails. Acima dele está o bitcoin como um aplicativo comparável a softwares de e-mail como Gmail ou Outlook. Tudo isso é considerado a camada base do Bitcoin.
 

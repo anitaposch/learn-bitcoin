@@ -23,7 +23,8 @@ Depois de aprender e executar os passos para a liberdade financeira, você verá
 
 Stephanie Murphy, co-apresentadora do podcast "Speaking of Bitcoin", enquadra o modelo de liberdade financeira como uma escada com diferentes níveis de soberania. Como o Bitcoin é uma tecnologia em desenvolvimento, o grau de liberdade que se pode alcançar está mudando o tempo todo. Este livro lhe dará orientação para alcançar o passo 2: o nível "Suas chaves, suas moedas". Alcançar o nível "Não confie, verifique" se tornará muito mais fácil nos próximos anos. Neste momento requer know-how técnico e um maior esforço de tempo e recursos, mas em princípio todos podem alcançá-lo.
 
-![3 passos para a soberania financeira](resources/_staircase-sovereignty-3-steps.png) [^68]
+*Representação* [^68]
+![3 passos para a soberania financeira](resources/_staircase-sovereignty-3-steps.png)
 
 **Térreo** Você é um pré-coiner, já que está lendo meu livro, deve estar interessado em Bitcoin, mas não possui nenhum.
 

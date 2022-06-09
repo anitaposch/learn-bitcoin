@@ -9,17 +9,27 @@ Na sua carteira Bitcoin sem custódia, você mesmo pode determinar a taxa de tra
 
 Para ter mais controle, você pode estimar a taxa e a velocidade de confirmação em páginas como [Mempool.space](https://mempool.space/) ou [Johoe's Bitcoin Mempool](https://jochen-hoenicke.de/queue/) . Esses sites exibem o número e o tamanho de todas as transações não confirmadas. Eles dão uma visão em tempo real e mostram como o Mempool evolui. As transações são coloridas pelo valor da taxa paga por byte (virtual).
 
-![Visualização em tempo real de transações não confirmadas](resources/_Mempool-space-white-back.png) [^74]
+*Representação* [^74]
+![Visualização em tempo real de transações não confirmadas](resources/_Mempool-space-white-back.png)
 
 Abaixo você pode ver as configurações na carteira Edge. Você pode escolher um dos intervalos da taxa de transação padrão ou um valor personalizado.
 
-![Configurações de taxa de transação na carteira Edge](resources/_transaction-fee-setting.png) [^75]
+*Representação* [^75]
+{height: "70%"}
+![Configurações de taxa de transação na carteira Edge](resources/_transaction-fee-setting.png)
 
 **Transação pendente**
 Como novos blocos são extraídos a cada 10 minutos, levará em média pelo menos 10 minutos até que sua transação seja confirmada. Se você definir a taxa de transação muito baixa, sua transação poderá ficar pendente por um período mais longo, pois o Mempool é liberado e os mineradores começam a incluir novamente transações com taxas mais baixas. Aqui você vê uma das minhas transações que ficou presa no Mempool por um mês.
-![Transação pendente](resources/_Pending-transaction-edge.png) [^76]
+
+*Representação* [^76]
+{height: "50%"}
+![Transação pendente](resources/_Pending-transaction-edge.png)
+
 Você pode consultar o status de sua transação em um [Blockchain explorer](https://blockchair.com). Como você pode ver abaixo, minha transação está a 4.717 ranks de ser minerada com um total de 41.610 transações no Mempool. Eu escolhi uma taxa de 5 sat por vbyte.
-![Status da transação conforme mostrado no blockexplorer](resources/_Pending-transaction-explorer.png) [^77]
+
+*Representação* [^77]
+{height: "70%"}
+![Status da transação conforme mostrado no blockexplorer](resources/_Pending-transaction-explorer.png)
 
 Você não precisa seguir as etapas abaixo para confirmar sua transação original. A maioria das transações com taxas baixas permanece válida por dias e, eventualmente, será confirmada. No entanto, existem duas maneiras de resolver o problema da transação travada e confirmá-la mais cedo.
 

@@ -1,8 +1,8 @@
 # O futuro é agora
 
-> "O futuro é um canteiro de obras." - Anita Posch
+> "O futuro é um canteiro de obras." - **Anita Posch**
 
-Agora que você tem uma compreensão mais profunda do Bitcoin e como usá-lo, podemos mergulhar nos desenvolvimentos futuros que acho que terão um impacto enorme. Esta parte foi co-autoria de Mark Kersley com partes retiradas de: [conversa de Andreas M. Antonopoulos sobre Bitcoin, Layer 2 Solutions, and the Wild West of Crypto](https://youtu.be/TsbIMg-YHQk)
+Agora que você tem uma compreensão mais profunda do Bitcoin e como usá-lo, podemos mergulhar nos desenvolvimentos futuros que acho que terão um impacto enorme. Esta parte foi co-autoria de Mark Kersley com partes retiradas de: [conversa de Andreas M. Antonopoulos](https://youtu.be/TsbIMg-YHQk)
 
 ## Finanças Descentralizadas - DeFi
 Uma categoria intrigante de novos aplicativos é chamada de finanças descentralizadas, ou DeFi. As finanças descentralizadas visam expandir a liberdade monetária oferecida e inspirada pelo Bitcoin e introduzir esses recursos em todo o ecossistema de criptomoedas. É muito bom possuir bitcoin ou outros ativos descentralizados, mas quando a maioria das pessoas vai comprar, vender ou até mesmo manter seus ativos a longo prazo, eles usam uma entidade centralizada, como uma bolsa.
@@ -52,7 +52,7 @@ O primeiro token que o MoC oferece é o Dollar on Chain (DoC). Este é o primeir
 
 Em seguida está o BPRO, um token que retorna renda passiva por meio do compartilhamento distribuído de lucros agrupados e outros meios. Os detentores de BPRO podem se beneficiar de alavancagem longa gratuita, cortesia dos detentores de tokens DoC. Os detentores de BPRO também ganham com a mineração de liquidez e uma parcela das taxas geradas pelo protocolo MoC. Essencialmente, manter o BPRO é como manter o bitcoin, com uma leve alavancagem longa, enquanto obtém renda passiva do seu bitcoin.
 
-O terceiro token oferecido pelo MoC é um instrumento BTC/USD chamado BTCx. O BTCx é essencialmente uma representação tokenizada de uma posição longa alavancada em bitcoin. Esses tokens são cunhados quando um usuário envia BTC para o contrato inteligente e têm um custo de taxa de juros variável (que é fixado na criação do contrato). Os pagamentos de juros vão para os titulares de ₿PRO.
+O terceiro token oferecido pelo MoC é um instrumento BTC/USD chamado BTCx. O BTCx é essencialmente uma Representação tokenizada de uma posição longa alavancada em bitcoin. Esses tokens são cunhados quando um usuário envia BTC para o contrato inteligente e têm um custo de taxa de juros variável (que é fixado na criação do contrato). Os pagamentos de juros vão para os titulares de ₿PRO.
 
 Por fim, o protocolo MoC também inclui um token de governança, convenientemente chamado de Money on Chain token (MOC). Isso permite que os detentores de MOC apostem em troca de poder de voto/veto e recompensas de staking, tanto de taxas pagas na plataforma quanto de mineração de liquidez. Os usuários têm direito a um desconto nas taxas da plataforma quando pagam usando o token MOC.
 

@@ -1,6 +1,7 @@
 # Introdução
 
-> "Escrever uma descrição para esta coisa para o público em geral é muito difícil. Não há nada para correlacionar." - **Satoshi Nakamoto**
+> "Escrever uma descrição para esta coisa para o público em geral é muito difícil. Não há nada para correlacionar."
+> **Satoshi Nakamoto**
 
 Aprender Bitcoin é o melhor guia para decidir por que e como você deve entrar no mundo do Bitcoin. Apresenta o Bitcoin em todas as suas facetas, desde suas implicações técnicas, econômicas, políticas e sociais até como está evoluindo no cenário monetário atual. Ele fornece um roteiro passo a passo para navegar neste novo mundo financeiro e apresenta recomendações concretas sobre como adquirir, ganhar e armazenar bitcoin com segurança. Subir a escada da soberania financeira lhe concederá liberdade pessoal e controle sobre seu dinheiro.
 

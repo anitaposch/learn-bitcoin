@@ -1,7 +1,8 @@
 ### Pegada Ecológica do Bitcoin
 _Bitcoin consome muita eletricidade, o que aumentará nossa crise climática e é irresponsável._
 
-![Artigo da Newsweek de 2017](resources/_Newsweek-2020-energy.png) [^35]
+*Representação* [^35]
+![Artigo da Newsweek de 2017](resources/_Newsweek-2020-energy.png)
 
 A captura de tela acima é um artigo da Newsweek bem no meio da alta de 2017-2018. É baseado no trabalho de Alex de Vries (Digiconomist), ex-analista de dados do Banco Central Holandês. Muitos trabalhos de pesquisa e artigos da mídia tradicional são baseados em falsas suposições, como comparar o consumo de energia das transações Bitcoin com os pagamentos VISA e calcular uma pegada de carbono a partir disso. Argumento que muito desse trabalho é feito para espalhar alegações falsas para demonizar o Bitcoin.
 
@@ -9,25 +10,30 @@ A captura de tela acima é um artigo da Newsweek bem no meio da alta de 2017-201
 
 Vamos mergulhar nisso. Os críticos do Bitcoin costumam mencionar que o Bitcoin consome mais energia do que os benefícios que cria. É inegável que a mineração de Bitcoin requer muita eletricidade. Estima-se que entre 80 e 118 TWh por ano sejam usados globalmente para mineração, o que equivale a todo o consumo de energia de países como a Holanda.
 
-![Classificação do país, março de 2021](resources/_electricity-consumption-btc.png) [^36]
+*Representação* [^36]
+![Classificação do país, março de 2021](resources/_electricity-consumption-btc.png)
 
 O mundo desperdiça muita eletricidade. A quantidade de eletricidade consumida todos os anos por dispositivos domésticos sempre ativos, mas inativos, apenas nos EUA, poderia alimentar a rede Bitcoin por 1,9 anos. Isso significa que a quantidade de energia desperdiçada nos EUA quase poderia alimentar a rede Bitcoin duas vezes, ano a ano. [^37]
 
 Ao mesmo tempo, perdem-se dois terços de toda a energia produzida nos EUA. É razoável supor que isso esteja acontecendo em todas as outras partes do mundo também.
 
-![Consumo de energia estimado dos EUA em 2017 - Energia rejeitada](resources/_Energy_US_2020.png) [^38]
+*Representação* [^38]
+![Consumo de energia estimado dos EUA em 2017 - Energia rejeitada](resources/_Energy_US_2020.png)
 
 Observe que a energia rejeitada rejeitada cerca de 62% de toda a geração de eletricidade. A energia rejeitada é a energia que é produzida, mas, em última análise, não vai para algo útil. Para piorar a situação, ao longo do tempo, esse número vem aumentando de forma relativa. Em 1970, o Lawrence Livermore National Laboratory descobriu que nossa proporção de energia rejeitada era de cerca de 48%. [^39]
 
 Em outras palavras, o Bitcoin é responsável por 0,54% de toda a eletricidade usada globalmente.
-![Produção total de eletricidade do mundo, consumo e participação do Bitcoin, março de 2021](resources/_electricity-world-btc.png) [^40]
+
+*Representação* [^40]
+![Produção total de eletricidade do mundo, consumo e participação do Bitcoin, março de 2021](resources/_electricity-world-btc.png)
 
 **Consumo de eletricidade fácil de quantificar**
 A transparência do Bitcoin permite estimativas de sua demanda de energia em contraste com muitas outras indústrias, onde esses pontos de dados são mais obscuros. Medido apenas pelos custos de eletricidade, podemos supor que o Bitcoin é [muito mais eficiente](https://medium.com/@danhedl/pow-is-eficiente-aa3d442754d3) do que os bancos tradicionais e a mineração de ouro em escala global.
 
 O custo estimado em dólares da mineração de Bitcoin por Gigajoule gasto é 40 vezes mais eficiente do que o dos bancos tradicionais e 10 vezes mais eficiente do que o da mineração de ouro.
 
-![Comparação de gastos de energia entre sistemas monetários e bancários](resources/_energy-efficiency-ARK.png) [^41]
+*Representação* [^41]
+![Comparação de gastos de energia entre sistemas monetários e bancários](resources/_energy-efficiency-ARK.png)
 
 **Por que o Bitcoin precisa dessa quantidade de eletricidade**
 O mecanismo de mineração de prova de trabalho é um recurso fundamental que garante a independência, neutralidade e integridade automatizada da rede. É a maneira mais segura de evitar ataques aos ativos no valor de mais de 600 bilhões de dólares que estão bloqueados na rede. (valor de mercado do BTC, junho de 2021)
@@ -47,19 +53,23 @@ A segunda suposição errada é extrapolar linearmente e dizer que, se são nece
 **Suposição 3: Comparando VISA com Bitcoin**
 Uma transação Bitcoin on-chain não pode ser comparada com um pagamento VISA. Não é a mesma coisa. No banco tradicional, existem várias camadas de liquidação, o que significa que diferem em seu nível de segurança e finalização. Tomemos o exemplo do sistema dos EUA, que é comparável globalmente. A camada base são as redes Fedwire, CHIPS e SWIFT, enquanto os pagamentos com cartão de débito e cartão de crédito operam um ou dois níveis acima com muitos intermediários. A camada base do Bitcoin deve ser comparada com Fedwire, CHIPS e SWIFT. Apenas soluções de segunda camada, como micropagamentos rápidos na Lightning Network, podem ser comparadas com a VISA.
 
-![Falsa comparação entre uma transação bitcoin e VISA](resources/_VISA-BTC-comparison.png) [^43]
+*Representação* [^43]
+![Falsa comparação entre uma transação bitcoin e VISA](resources/_VISA-BTC-comparison.png)
 
 Vamos dar uma olhada no volume médio de transações de VISA e Bitcoin.
 
-![Valor médio de uma única transação com cartão de crédito em todo o mundo em 2012, USD](resources/_average-VISA-transaction.png) [^44]
+*Representação* [^44]
+![Valor médio de uma única transação com cartão de crédito em todo o mundo em 2012, USD](resources/_average-VISA-transaction.png)
 
-![Valor médio de uma única transação Bitcoin](resources/_average-transaction-value-bitcoin.png) [^45]
+*Representação* [^45]
+![Valor médio de uma única transação Bitcoin](resources/_average-transaction-value-bitcoin.png)
 
 O valor médio de transação de bitcoin foi de 258.766 USD em 21 de abril de 2021, enquanto a transação média de VISA foi de 91 USD em 2012. As transações de Bitcoin transportam muito mais valor em comparação com pagamentos com cartão de crédito. Supondo que o Bitcoin ganhe adoção em massa, então ele pode um dia liquidar milhões de dólares como o sistema Fedwire com taxas muito baixas em comparação com o sistema bancário.
 
 O valor médio da transação por transferência Fedwire foi de 4,5 milhões de dólares em fevereiro de 2021. [^46]
 
-![Liquidação de transações bancárias versus Bitcoin](resources/_settlement-compared.png) [^^47]
+*Representação* [^47]
+![Liquidação de transações bancárias versus Bitcoin](resources/_settlement-compared.png)
 
 As transações de Bitcoin são liquidadas a cada 10 minutos, 24 horas por dia, 365 dias por ano. Compare isso com as transações ACH que podem levar até dois anos para serem finalmente liquidadas. [^48] Para não esquecer: as transações Bitcoin e Lightning são sem permissão e sem confiança, enquanto o sistema de pagamento tradicional só funciona porque os intermediários assumem a custódia de fraudes e estornos.
 
@@ -78,7 +88,9 @@ Os mineradores de Bitcoin são bastante bem distribuídos em todo o mundo. Embor
 A questão não é quanta energia é necessária, mas como a eletricidade é produzida? Quanto CO2 é emitido? Se decidirmos como sociedade que não queremos energia poluente, devemos regular a produção de energia e não permitir o uso de sistemas poluentes. Trata-se de regular a produção de energia e não de regular o consumo de energia em um setor específico da economia que é o Bitcoin.
 
 O Bitcoin usa uma quantidade maior de eletricidade de fontes renováveis do que a rede na China, nos EUA e no mundo em geral.
-![Electricity Mix, Bitcoin vs. China vs. EUA vs. The World, 2020](resources/_Bitcoin-electricity-sources.jpg) [^50]
+
+*Representação* [^50]
+![Electricity Mix, Bitcoin vs. China vs. EUA vs. The World, 2020](resources/_Bitcoin-electricity-sources.jpg)
 
 **Emissões de carbono**
 Algumas pesquisas tentaram avaliar os fluxos de emissão de carbono e a sustentabilidade do Bitcoin por meio da estimativa da demanda futura, com base em suposições falsas. Um artigo, por exemplo, afirma que: “o consumo anual de energia da blockchain Bitcoin na China deve atingir o pico em 2024 em 296,59 Twh e gerar 130,50 milhões de toneladas métricas de emissão de carbono correspondentemente”. [^51]
@@ -87,7 +99,8 @@ Algumas pesquisas tentaram avaliar os fluxos de emissão de carbono e a sustenta
 
 Com base no [trabalho de Hass McCook](https://bitcoinmagazine.com/business/bitcoin-vs-financial-sector-energy-use) Bitcoin emite menos de 2% do complexo militar-industrial do mundo e menos de 5% das emissões de carbono do setor financeiro legado. As emissões globais anuais de gases de efeito estufa são de aprox. 50.000 milhões de toneladas de dióxido de carbono equivalente. O Bitcoin emite apenas 0,11% deles.
 
-![Emissões anuais de gases de efeito estufa, Hass McCook, junho de 2021](resources/_annual-GHG-emissions2021.png.png) [^53]
+*Representação* [^53]
+![Emissões anuais de gases de efeito estufa, Hass McCook, junho de 2021](resources/_annual-GHG-emissions2021.png)
 
 **Suposição final: Bitcoin não é útil, portanto, qualquer uso de energia para um Bitcoin é um desperdício**
 
@@ -95,7 +108,8 @@ Se você decidir que o Bitcoin não é útil, então esta é uma opinião muito 
 
 Podemos acender bilhões de luzes de Natal todos os anos para exibir o espírito natalino, o que pode ser completamente inútil para bilhões de pessoas de outras crenças. O uso número um de energia nos Estados Unidos, por exemplo, fora dos mercados civis é o Departamento de Defesa. O governo dos EUA usa enormes quantidades de energia e é o maior poluidor do país, sem dúvida por nenhuma razão legítima além de buscar controle extremo.
 
-![As forças armadas dos EUA emitem mais CO2 do que muitas nações](resources/_military-co2.png) [^54]
+*Representação* [^54]
+![As forças armadas dos EUA emitem mais CO2 do que muitas nações](resources/_military-co2.png)
 
 Isso nos leva de volta ao capítulo sobre o petrodólar, a ligação entre o dólar americano e a OPEP, que torna os EUA a potência globalmente dominante e é garantido pelos militares dos EUA e pelas guerras na região do Golfo.
 

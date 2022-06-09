@@ -28,7 +28,8 @@ Altcoins é a abreviação de moedas alternativas. Estes são todos os ativos cr
 ### Se eu tivesse apenas... estou muito atrasado
 Se você tivesse comprado Bitcoin em 2011 estaria muito rico agora. Isso é verdade e eu parabenizo sem inveja, porque você foi uma das poucas pessoas que acreditaram no Bitcoin e estavam prontas para colocar seu dinheiro arduamente ganho em um experimento arriscado. Nenhum dos primeiros adeptos sabia que o Bitcoin subiria como subiu. Era muito difícil proteger suas chaves naquela época e muitos bitcoins foram perdidos ou roubados. Se você tivesse conseguido e preservado suas moedas, você poderia ter vendido tudo em 2014, talvez 2017? É inútil refletir sobre "e se". Ainda estamos nos primeiros dias. Se você está começando a se educar e usar o Bitcoin agora, ainda está muito à frente das massas. Nunca é tarde para aprender sobre Bitcoin.
 
-![Aqui está alguém pensando em chegar tarde demais em 2013](resources/_too-late.png) [^73]
+*Representação* [^73]
+![Aqui está alguém pensando em chegar tarde demais em 2013](resources/_too-late.png)
 
 ### Impostos
 Não sou consultor fiscal, mas o que posso dizer é que conheça os regulamentos e os requisitos fiscais da sua jurisdição. A blockchain do Bitcoin é transparente e cada vez mais autoridades fiscais exigirão que as exchanges entreguem seus dados comerciais. Guarde os comprovantes de suas compras caso as autoridades comecem a investigar.

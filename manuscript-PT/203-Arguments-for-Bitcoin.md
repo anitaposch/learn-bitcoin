@@ -26,7 +26,9 @@ São pessoas em regiões como África e América do Sul que impulsionarão a ado
 
 **Hedge contra a inflação**
 Esta tabela do Fundo Monetário Internacional mostra a variação anual dos preços ao consumidor em porcentagem.
-![Taxa de inflação, preços médios ao consumidor, variação anual em %](resources/_inflation-2021.png) [^58]
+
+*Representação* [^58]
+![Taxa de inflação, preços médios ao consumidor, variação anual em %](resources/_inflation-2021.png)
 
 * A Venezuela teve aumentos de preços de 5.500%. O sofrimento do povo é simplesmente incompreensível.
 * No Sudão os preços aumentaram 200% somente em 2021.
@@ -37,7 +39,8 @@ Esta tabela do Fundo Monetário Internacional mostra a variação anual dos pre�
 
 De maio de 2020 a abril de 2021, o volume de negociação de bitcoin na Nigéria aumentou 40%, de US$ 287 milhões para US$ 399 milhões. Uma pesquisa de 2020 mostra que 32% dos nigerianos entrevistados usaram ou possuíam criptomoedas. Enquanto isso, em países democráticos desenvolvidos como Alemanha e EUA, apenas 5-6% usaram ou possuem criptomoedas.
 
-![Volume de negociação em exchanges de Bitcoin P2P em países subsaarianos de maio de 2020 a abril de 2021](resources/_Nigeria-trading-volume-BTC.png) [^59]
+*Representação* [^59]
+![Volume de negociação em exchanges de Bitcoin P2P em países subsaarianos de maio de 2020 a abril de 2021](resources/_Nigeria-trading-volume-BTC.png)
 
 Dadas essas taxas de inflação anuais, as pessoas sabem que precisam armazenar sua riqueza em dinheiro mais forte como USD e, melhor ainda, Bitcoin. Se você explicar as diferenças do Bitcoin para as moedas locais nesses países, todos entenderão imediatamente como e por que o Bitcoin pode apoiá-los.
 
@@ -128,7 +131,8 @@ Em 2014 Ryan Walker tomou os conceitos da teoria da seleção natural de Darwin 
 
 > "A chegada de moedas baseadas em criptografia possibilitou novas características importantes anteriormente não possíveis com as formas tradicionais de dinheiro. Além disso, a realização de tais características provavelmente terá um impacto dramático no ambiente em que essas moedas competem. As linhas 10 e 11 incluem a espécie de criptomoeda quando avaliada em relação às características tradicionais e recém-realizadas do dinheiro." - **Ryan Walker**
 
-![As características do dinheiro](resources/_table-characteristics-money.PNG)[^67]
+*Representação* [^67]
+![As características do dinheiro](resources/_table-characteristics-money.PNG)
 Isso mostra o grau em que o ouro, a moeda fiduciária e as moedas criptográficas cumprem as características tradicionalmente reconhecidas da moeda, bem como as novas características possibilitadas pela descoberta do Bitcoin.
 
 Como você pode ver, o Bitcoin vai além da estrutura tradicional do que é dinheiro. Está evoluindo para uma dimensão completamente nova do que o dinheiro pode fazer e de quais aplicativos serão construídos no futuro.
