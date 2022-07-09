@@ -1,6 +1,6 @@
 # L’evoluzione del denaro
 
-Bitcoin è nato il 3 gennaio 2009. Sin dalla sua creazione, l’Internet Protocol (IP) P2P di Bitcoin ha collegato nuovi blocchi di dati all'interno di una catena di transazioni approssimativamente ogni 10 minuti. La blockchain di Bitcoin registra le transazioni secondo un ordine cronologico che non è possibile alterare a posteriori, proprio come il tempo in sé e per sé. Come il battito cardiaco mantiene in vita il nostro corpo, il processo è preservato da un sistema che deriva i propri fondamenti dalla crittografia, teoria dei giochi, informatica e reti decentralizzate che lo mantiene in equilibrio.
+Bitcoin è nato il 3 gennaio 2009. Sin dalla sua creazione, l’Internet Protocol (IP) P2P di Bitcoin ha collegato nuovi blocchi di dati ad una catena di transazioni approssimativamente ogni 10 minuti. La blockchain di Bitcoin registra le transazioni secondo l'ordine cronologico corretto in modo che non sia possibile alterarlo a posteriori, immutabile come il tempo stesso. Così come il battito cardiaco preserva il nostro corpo, tale processo è preservato da un sistema basato su crittografia, teoria dei giochi, informatica e reti decentralizzate che lo mantiene in equilibrio.
 
 Questo sistema auto-regolato possiede le seguenti caratteristiche:
 
