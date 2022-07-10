@@ -1,22 +1,22 @@
 # L’evoluzione del denaro
 
-Bitcoin è nato il 3 gennaio 2009. Sin dalla sua creazione, l’Internet Protocol (IP) P2P di Bitcoin ha collegato nuovi blocchi di dati ad una catena di transazioni approssimativamente ogni 10 minuti. La blockchain di Bitcoin registra le transazioni secondo l'ordine cronologico corretto in modo che non sia possibile alterarlo a posteriori, immutabile come il tempo stesso. Così come il battito cardiaco preserva il nostro corpo, tale processo è preservato da un sistema basato su crittografia, teoria dei giochi, informatica e reti decentralizzate che lo mantiene in equilibrio.
+Bitcoin è nato il 3 gennaio 2009. Sin dalla sua creazione, l’Internet Protocol (IP) Peer-to-Peer di Bitcoin ha collegato nuovi blocchi di dati ad una catena di transazioni approssimativamente ogni 10 minuti. La blockchain di Bitcoin registra le transazioni secondo l'ordine cronologico corretto in modo che non sia possibile alterarlo a posteriori, immutabile come il tempo stesso. Così come il battito cardiaco preserva il nostro corpo, tale processo è preservato da un sistema basato su crittografia, teoria dei giochi, informatica e reti decentralizzate che lo mantiene in equilibrio.
 
 Questo sistema auto-regolato possiede le seguenti caratteristiche:
 
 -   Le transazioni in Bitcoin non possono essere censurate.
 -   Bitcoin è immutabile.
 -   Bitcoin non può essere contraffatto.
--   Le transazioni in Bitcoin sono altamente sicure senza la necessità di alcun intermediario, come ad esempio una banca.
+-   Le transazioni in Bitcoin sono estremamente sicure senza la necessità di alcun intermediario, come ad esempio una banca.
 -   Le transazioni in Bitcoin sono trasparenti, pubblicamente consultabili e possono essere verificate da tutti.
 
 ![A PayPal payment vs. Bitcoin](resources/_paypal-bitcoin-intermediaries.PNG) [^1]
-In una transazione di pagamento tradizionale vi sono circa sette passaggi intermedi prima che il pagamento raggiunga il destinatario. Bitcoin non ne ha nessuno.
+In un pagamento tradizionale possono esserci fino a sette intermediari prima che il pagamento raggiunga il destinatario. Bitcoin non ne ha alcuno.
 
 -   Bitcoin è una rete neutrale: non giudica e non distingue tra pagamenti “buoni” e pagamenti “cattivi”.
--   Bitcoin è permissionless: non vi sono sorveglianti che possano impedirne l’uso.
+-   Bitcoin è senza autorizazzione: non vi sono sorveglianti che possano impedirne l’uso.
 -   Bitcoin è senza confini: può essere utilizzato globalmente.
--   L’Internet Protocol di Bitcoin è un bene comune: appartiene a tutti quanti, non a una singola entità come ad esempio un’azienda privata.
+-   L’Internet Protocol di Bitcoin è un bene comune: appartiene a tutti quanti, non a una singola entità come ad esempio un’azienda.
 -   Le regole di Bitcoin vengono applicate dal consenso programmaticamente sicuro di tutte le parti coinvolte.
 
 Bitcoin è il denaro della gente. Bitcoin è l’evoluzione del denaro. È una continuazione dell’instancabile processo di scoperta di nuove forme di denaro che è sempre stata parte della storia dell’umanità. Nel corso dei millenni, varie nuove forme di denaro sono state scoperte e utilizzate, dallo scambio di beni tra persone a un sistema di credito basato sul sistema aureo, alla valuta fiat fino a giungere all’attuale sistema inflazionistico non coperto da riserve. I sistemi bancari e monetari come li conosciamo oggi sono esistiti e si sono evoluti per circa 300 anni. È un processo naturale che, col sorgere di nuove forme di comunicazione via Internet, emergano una nuova forma di economia e una nuova tipologia di denaro nativa di Internet.  
