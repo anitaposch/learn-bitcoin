@@ -3,7 +3,7 @@
 ## Price discovery
 Non esiste un prezzo ufficiale del bitcoin. È determinato in tempo reale e separatamente nelle borse di scambio come Kraken, Bitstamp, Coinbase, Binance ecc. Siti come CoinMarketCap, CoinGecko e BitcoinAverage https://anita.link/average mostrano la media globale dei prezzi dei vari exchange. Oppure puoi visitare direttamente il sito di uno degli exchange, e consultarne il prezzo.
 
-Il prezzo – che è dell’exchange – è determinato dalle attività che intercorrono tra compratori e venditori di criptovalute, che scambiano in tempo reale. Più domanda c’è, maggiore sarà il prezzo. Meno sarà l’offerta, maggiore il prezzo. Questo è il motivo per cui l’halving è un evento di fondamentale importanza. Anche se la domanda rimane invariata, la minore disponibilità muoverà il prezzo al rialzo.
+Il prezzo – ovvero il tasso di cambio – è determinato dalle attività che intercorrono tra compratori e venditori di criptovalute, che scambiano in tempo reale. Più domanda c’è, maggiore sarà il prezzo. Meno sarà l’offerta, maggiore il prezzo. Questo è il motivo per cui l’halving è un evento di fondamentale importanza. Anche se la domanda rimane invariata, la minore disponibilità muoverà il prezzo al rialzo.
 
 Bitcoin è un mercato aperto. La funzione del mercato è determinare il reale valore di bitcoin. Il prezzo attuale di ogni commodity nel mercato è il prezzo recente a cui le persone concordano e scambiano. Nessuno fissa il tasso di cambio, il prezzo di bitcoin è un processo di determinazione.
 
