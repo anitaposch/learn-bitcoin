@@ -104,7 +104,7 @@ Usare Bitcoin può sembrare intimidante perché si tratta di denaro reale. Ecco 
 
 Per la tua prima prova, installa un wallet nel tuo smartphone, cerca un [ATM Bitcoin](https://anita.link/atm) vicino a te, o partecipa a un meet-up locale per scambiare un piccolo ammontare. Prepara un wallet nel tuo computer e invia bitcoin tra i tuoi due wallet a indirizzi differenti.
 
-Il momento migliore per fare queste operazioni è nel fine settimana, quando la mempool non è congestionata di transazioni, e le commissioni sono minori.
+Il momento migliore per fare queste operazioni è nel fine settimana, quando la mempool non è congestionata di transazioni, e le fee sono minori.
 
 Utilizza wallet differenti, ripristina il wallet partendo dal seed dal wallet A al wallet B, usa il seed su dispositivi differenti. Affinando la tecnica, ti sentirai sempre più sicuro.
 
