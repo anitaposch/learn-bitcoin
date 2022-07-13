@@ -26,7 +26,7 @@ Di seguito alcuni esempi di broker di Bitcoin:
 * [Coinnexus](https://coinnexus.ch/en) consente di non identificarsi per importi fino a 1,000 franchi svizzeri all’anno.
 
 ### Acquisto peer-to-peer di persona
-Puoi partecipare agli svariati raduni e meet-up Bitcoin che si organizzano globalmente, connettere con altri bitcoiner e chiedere se sono disposti a venderti qualche bitcoin in cambio di denaro contante. In molti Paesi, le persone si incontrano su Telegram o gruppi Facebook per trovare controparti propense a scambiare di persona.
+Puoi partecipare agli svariati raduni e meet-up Bitcoin che si organizzano globalmente, metterti in contatto con altri bitcoiner e chiedere se sono disposti a venderti qualche bitcoin in cambio di denaro contante. In molti Paesi, le persone si incontrano su Telegram o gruppi Facebook per trovare controparti propense a scambiare di persona.
 
 ### Acquisto peer-to-peer online
 Gli exchange P2P leader nel mondo sono
@@ -95,7 +95,7 @@ Per acquisire bitcoin senza le procedure di identificazione utente, tu puoi:
 Fonti per gli exchange: https://kycnot.me/, https://github.com/cointastical/P2P-Trading-Exchanges/, https://bitcoiner.guide/nokyconly/
 
 ## Costi per comprare Bitcoin
-Quando acquisti criptovalute, devi pagare le fee del fornitore del servizio esattamente come quando cambi una valuta estera quando stai viaggiando in un Paese differente. Il prezzo di cambio è determinato dal fornitore di servizi (vedi il capitolo “Il prezzo di Bitcoin”). Normalmente, è il prezzo di mercato più un sovrapprezzo rappresentato dal servizio. Dato che ogni exchange fa il proprio prezzo di bitcoin e ha una struttura di commissioni e costi interna, ci sono grosse differenze nei costi di scambio tra un exchange e l’altro. Per risparmiare, quando selezioni la piattaforma puoi comparare le fee di trading.  
+Quando acquisti criptovalute, devi pagare le commissioni del fornitore del servizio esattamente come quando cambi una valuta estera quando stai viaggiando in un Paese differente. Il prezzo di cambio è determinato dal fornitore di servizi (vedi il capitolo “Il prezzo di Bitcoin”). Normalmente, è il prezzo di mercato più un sovrapprezzo rappresentato dal servizio. Dato che ogni exchange fa il proprio prezzo di bitcoin e ha una struttura di commissioni e costi interna, ci sono grosse differenze nei costi di scambio tra un exchange e l’altro. Per risparmiare, confronta le commissioni delle piattaforme prima di sceglierne una.  
 
 I seguenti tre fattori determinano i costi coinvolti nell’acquisto di bitcoin, e ogni fornitore di servizi ha il proprio:
 * Prezzo di mercato di bitcoin
