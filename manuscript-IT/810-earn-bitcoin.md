@@ -1,5 +1,5 @@
 # Guadagnare Bitcoin
-Guadagnare Bitcoin è indubbiamente il metodo migliore per ottenerli: nessuna (o limitata) registrazione, nessuna (o limitata) verifica KYC dell’identità, e nessuna trading fee. Alcuni di questi servizi sono disponibili solamente negli Stati Uniti o in altre specifiche regioni del mondo. Dato che l’ecosistema Bitcoin è in rapido sviluppo, questo capitolo può essere interpretato come un assaggio di ciò che deve ancora venire.
+Guadagnare Bitcoin è indubbiamente il metodo migliore per ottenerli: nessuna (o limitata) registrazione, nessuna (o limitata) verifica KYC dell’identità, e nessuna commissione di trading. Alcuni di questi servizi sono disponibili solamente negli Stati Uniti o in altre specifiche regioni del mondo. Dato che l’ecosistema Bitcoin è in rapido sviluppo, questo capitolo può essere interpretato come un assaggio di ciò che deve ancora venire.
 
 ## Bacheche di lavoro Bitcoin
 Trova un impiego o un cliente per guadagnare Bitcoin in cambio del tuo lavoro.
@@ -23,7 +23,7 @@ Come organizzazione non profit, blogger o podcaster, puoi facilmente ricevere ma
 
 * [Tippin.me](https://tippin.me/), ti permette di ricevere mance sul tuo sito e su Twitter, senza commissioni ed istantaneamente
 * [Tallyco.in](https://tallyco.in/), è una piattaforma di crowdfunding costruita sulla blockchain di Bitcoin. Puoi ricevere pagamenti in BTC e micropagamenti tramite il Lightning Network a zero commissioni
-* [Lightning Gifts](https://lightning.gifts/), crea buoni regalo senza fee da condividere con amici, parenti e il tuo pubblico
+* [Lightning Gifts](https://lightning.gifts/), crea buoni regalo senza commissioni da condividere con amici, parenti e il tuo pubblico
 
 ## Creatori di contenuti e podcast 2.0
 Con l’avvento del Lightning Network è stato inventato ed introdotto un nuovo metodo rivoluzionario per l’invio di valore e di pagamenti per contenuti in Internet. Lo “streaming money”, un termine coniato da Andreas M. Antonopoulos, permette a musicisti, creatori di video e podcaster di guadagnare in tempo reale, senza intermediari. Hai solamente bisogno di un wallet integrato col podcast, una manciata di bitcoin e puoi ascoltare il contenuto audio mentre paghi al minuto. L’obiettivo del podcast 2.0 e del streaming money è di liberare i creatori di contenuti e gli ascoltatori dalle pubblicità, dalla censura e dalla sorveglianza di massa. Il pagamento è volontario, privo di abbonamento o pagamento anticipato. Presta attenzione al fatto che, al momento in cui scrivo, questi servizi sono in fase di sviluppo costante. Maggiori informazioni [sul podcast 2.0 in questa mia intervista](https://anita.link/pod2).
