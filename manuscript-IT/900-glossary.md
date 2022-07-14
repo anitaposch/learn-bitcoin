@@ -16,8 +16,8 @@ Tutte le valute di stato sono valute fiat. Dal 1971 le valute fiat non sono conv
 **Riserva frazionaria**
 La riserva frazionaria, praticata dalle banche commerciali del mondo, prevede che le banche accettino i depositi dai propri clienti ed eroghino un prestito, detenendo una riserva di ammontare pari solamente ad una frazione del deposito. Le riserve bancarie sono mantenute in contanti presso la banca oppure come una scrittura contabile del saldo presso la banca centrale. La banca centrale del Paese determina l’ammontare minimo richiesto degli asset liquidi che le banche devono obbligatoriamente mantenere, chiamato “obbligo di riserva” o “coefficiente di riserva”. Questo ammontare varia da Paese a Paese. A marzo 2020, il FED abolì l’obbligo di riserva a causa della pandemia. Canada, Regno Unito, Nuova Zelanda, Australia, Svezia e Hong Kong non hanno obbligo di riserva.
 
-**Nodo pieno**
-Un nodo pieno è un programma software che valida tutte le transazioni e i blocchi. Puoi eseguire un nodo pieno nel tuo computer di casa o su un Raspberry Pi. Quasi tutti i nodi pieni assistono la rete ad accettare le transazioni e i blocchi dagli altri nodi, validando transazioni e blocchi, e trasmettendole ad altri nodi. Sono una parte della rete peer-to-peer.
+**Nodo Bitcoin**
+Un nodo Bitcoin è un programma software che valida tutte le transazioni e i blocchi. Puoi eseguire un nodo Bitcoin nel tuo computer di casa o su un Raspberry Pi. Quasi tutti i nodi Bitcoin assistono la rete ad accettare le transazioni e i blocchi dagli altri nodi, validando transazioni e blocchi, e trasmettendole ad altri nodi. Sono una parte della rete peer-to-peer.
 
 **Hasher**
 Un dispositivo di computer specializzato, chiamato ASIC, che è usato esclusivamente per il mining di Bitcoin. 
