@@ -42,7 +42,7 @@ Di seguito trovi un elenco di negozi dove puoi spendere bitcoin.
 ## Carte di debito Bitcoin
 Puoi usare una carta di debito Bitcoin per acquistare qualsiasi cosa proprio come una comune carta di debito bancaria. La differenza è che si appoggia a bitcoin o altcoin. La società che gestisce il pagamento accredita al venditore la valuta di sua scelta, mentre la spesa viene dedotta dal tuo saldo in bitcoin, e ciò ti permette di poter vivere puramente in soli bitcoin.
 
-Devi depositare i tuoi bitcoin alla società che eroga il servizio della carta di debito, il che significa che stai consegnando il controllo delle tue coin a una terza parte. Deposita nella carta solamente tanto quanto a te strettamente necessario, e controlla costi e fee caricati dalla società della carta.
+Devi depositare i tuoi bitcoin alla società che eroga il servizio della carta di debito, il che significa che stai consegnando il controllo delle tue coin a una terza parte. Deposita nella carta solamente lo stretto necessario, e controlla costi e commissioni imposti dalla società che ha emesso la carta.
 
 Una breve lista di carte attualmente disponibili nel mercato:
 Cryptocom Visa, Binance, Bitpanda Visa, Coinbase Visa, Wirex Visa, BlockCard, Cryptopay, Nexo, Bitwala Visa, BitPay Visa, Cash App
