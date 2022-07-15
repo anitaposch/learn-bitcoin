@@ -86,7 +86,7 @@ Das ist genau das, was Banken, Wall Street, Hedgefonds und ihre Lobbying-Industr
 
 "Klassischerweise halten die Zentralbanken Reserven für Notfälle, sie bestimmen Zinssätze und stellen Mittel bereit, um die Wirtschaft nach Disruptionen wie Paniken und Krieg anzukurbeln. Neuerdings haben sie die Rolle übernommen, das gesamte Finanzsystem sichern zu wollen und die ökonomische Entwicklung ganzer souveräner Staaten zu beeinflussen. Das ist das Gegenteil von demokratischer Führung. Eine solche monetäre Oligarchie agiert jenseits demokratischer Normen und Grenzen." [^7]
 
-Das Buch von Naomi Prins "Collusion" ergründet die Psyche der Wall Street. Sie zeigt auf, wie die Struktur des Finanzsystems davon abhängt, dass die Börsenhändler ohne Rücksicht auf Verluste auf die nächste große Wette setzen.
+Das Buch von Nomi Prins "Collusion" ergründet die Psyche der Wall Street. Sie zeigt auf, wie die Struktur des Finanzsystems davon abhängt, dass die Börsenhändler ohne Rücksicht auf Verluste auf die nächste große Wette setzen.
 
 "Außerdem tauchten immer wieder die _gleichen_ Personen und Familien auf, sie rotierten durch die Wall Street und Washington. Von ihrem hohen Status, ihrem Geld und ihren öffentlichen Ämtern aus, beeinflussten sie die Wirtschaft unterhalb von ihnen, durch die Abschaffung von Gesetzen, die ihnen im Weg standen und die Suche nach Schlupflöchern in anderen. Die Banken haben die Marktmanipulation normalisiert. Die Zentralbanken haben sie zu einer Kunstform gemacht, die keine Grenzen kennt." [^8] 
 
