@@ -41,7 +41,7 @@ Un’ulteriore somiglianza con Bitcoin riguarda la creazione delle pietre Rai, c
 Le pietre Rai sono considerate dagli economisti moderni come una forma primitiva di denaro, e sono spesso utilizzate come esempio a supporto della tesi che il valore di alcune forme di denaro può essere attribuito esclusivamente attraverso un sistema di credenze condiviso in tale valore.[^5] Le valute di oggi non sono garantite da alcuna riserva. Di fatto, sono state istituite e dichiarate monete a corso legale tramite disposizioni governative. Di conseguenza, costituiscono i mezzi e le unità di conto che utilizziamo e che  vengono dunque percepiti come aventi valore.  
 
 
-## Come viene creato il denaro
+## Come Viene Creato il Denaro
 
 >"Bisogna aver fiducia nel fatto che la banca centrale non svaluti la moneta, ma la storia delle monete fiat è piena di violazioni di tale fiducia." - Satoshi Nakamoto
 
@@ -60,7 +60,7 @@ La moneta fiat è _“moneta per decreto“_; è amministrata e gestita in modo 
 * Il denaro è creato attraverso stimoli governativi, attraverso bonus, sovvenzioni ed operazioni di salvataggio.
 * Il denaro è creato dalle banche commerciali tramite prestiti.
 
-### Il denaro è stato creato attraverso il debito
+### Il Denaro Viene Creato Attraverso il Debito
 Tutti conosciamo l’ultimo punto. È il modo in cui chiediamo un prestito per acquistare un immobile, iniziare un’impresa o comprare un’automobile. La procedura è semplice, ma solamente per chi è già privilegiato. Se non sei in grado di fornire una garanzia collaterale, sei un piccolo imprenditore, non hai un lavoro con un salario fisso, oppure sei una donna in un Paese in cui alle donne è ancora proibito possedere una proprietà, probabilmente non riuscirai ad ottenere un credito dalla banca. Se dovessi riuscire a ricevere il prestito, la banca modificherà il suo registro digitale e aggiungerà la somma del credito nel suo prospetto contabile. A quel punto tu dovrai restituire loro l’ammontare del prestito più il tasso di interesse. Dovrai quindi lavorare o vendere qualcosa in modo da poter ripagare il prestito più il tasso di interesse. È un ottimo affare per le banche. Non aggiungono nulla, ma guadagnano le commissioni sul tuo contratto di prestito e gli interessi quando li ripagherai.  
 
 In aggiunta, c’è uno strumento che si chiama riserva frazionaria bancaria. Questo meccanismo consente alle banche di prestare più denaro di quanto ne abbiano nelle proprie riserve o in giacenza nel proprio conto presso la banca centrale. L’ammontare minimo che le banche devono mantenere sotto forma di asset liquidi, denominato “coefficiente di riserva obbligatoria”, è determinato dalla banca centrale. Questo tasso varia da Paese a Paese. Nell'eurozona, al momento in cui scrivo, la riserva obbligatoria è dell’1%. A marzo 2020, la FED (la Federal Reserve, la banca centrale degli Stati Uniti d’America) ha abolito questo requisito di riserva obbligatoria a causa della pandemia di COVID-19. Canada, Regno Unito, Nuova Zelanda, Australia, Svezia e Hong Kong non hanno alcun requisito minimo in merito alla riserva. Se tutti noi oggi andassimo in banca e chiedessimo di prelevare i nostri depositi, il sistema bancario collasserebbe. Poiché le banche hanno prestato più denaro di quanto ne possiedono, sarebbero impossibilitate a restituirti i tuoi soldi.  
@@ -69,96 +69,96 @@ Nel 2020 il debito globale è aumentato dell'incredibile cifra di 24.000 miliard
 
 ![Debt-to-GDP ratios](resources/_Debt-to-GDP-ratio-2020.jpg)
 
-### Le banche centrali come prestatori di ultima istanza  
-Le banche commerciali hanno facoltà di richiedere assistenza alla banca centrale come prestatori di ultima istanza, e hanno esercitato questo diritto. Nel 2008/2009 le banche responsabili della crisi finanziaria globale hanno potuto beneficiare di piani di salvataggio. Sono state salvate perché erano considerate _“too big to fail”_ (troppo grandi per fallire). E cosa ne hanno fatto del denaro ricevuto? Hanno riacquistato azioni delle loro società. Niente è stato riversato nell’economia. Il divario tra ricchi e poveri si è inevitabilmente allargato.
+### Le Banche Centrali Come Prestatori di Ultima Istanza  
+Le banche commerciali possono richiedere ed hanno richiesto assistenza alla banca centrale come prestatore di ultima istanza. Nel 2008/2009 le banche, che erano le responsabili della crisi finanziaria globale, hanno potuto beneficiare di piani di salvataggio. Sono state salvate perché erano considerate _“too big to fail”_ , letteralmente "troppo grandi per fallire". E cos'hanno fatto del denaro ricevuto? Hanno riacquistato azioni delle loro stesse società. Niente è stato riversato "a cascata" nell’economia. Il divario tra ricchi e poveri si è inevitabilmente allargato.
 
-Le banche centrali sono chiamate prestatori di ultima istanza. L’obiettivo è di prevenire destabilizzazioni economiche come risultato del panico bancario, e corse agli sportelli da banca in banca causate dalla mancanza di liquidità. Attori della finanza quali le banche sanno che le banche centrali saranno in grado di salvarle, il che conduce a un rischio morale – l’assunzione di comportamenti eccessivamente rischiosi da parte di banchieri ed investitori.
+Le banche centrali sono definite prestatori di ultima istanza. L’obiettivo è quello di prevenire le destabilizzazioni economiche che derivano dal panico finanziario, e di impedire che le corse agli sportelli si diffondano da una banca all'altra a casusa della mancanza di liquidità. Attori finanziari come le banche sanno che le banche centrali dovranno salvarle, il che conduce a un rischio morale – l’assunzione di rischi eccessivi da parte sia dei banchieri che degli investitori.
 
-La creazione artificiale di denaro tramite le banche centrali ha oscurato le distorsioni del mercato. A causa delle manipolazioni e dell’inondazione del sistema monetario di denaro a buon mercato, non v’è più un razionale meccanismo di determinazione del prezzo. Normalmente, domanda e offerta determinano il valore di beni e servizi ma, in un mercato distorto e manipolato, non c’è possibilità di un processo di determinazione del prezzo veritiero. La classe media globale sta pagando per l’avidità dell’élite finanziaria che, a sua volta, è alimentata dal sistema corrotto di creazione del denaro.
+La creazione di denaro artificiale tramite le banche centrali ha fatto passare in secondo piano le distorsioni del mercato. Dal momento che il sistema monetario è stato manipolato e inondato di denaro a basso costo, non c’è più alcun meccanismo razionale di determinazione del prezzo. Normalmente, domanda e offerta determinano il valore di beni e servizi, ma in un mercato distorto e manipolato non c’è possibilità di avere un processo equo di determinazione dei prezzi. La classe media globale sta pagando per l’avidità delle élites finanziarie che, a sua volta, è alimentata da un sistema corrotto di creazione del denaro.
 
-Sei mai stato soggetto ad un piano di salvataggio? E in caso positivo, faresti la stessa cosa più e più volte, manipolando il sistema sapendo che ci sarà sempre un’ultima risorsa che ti salverà sempre? Questo è esattamente ciò che le banche, Wall Street, fondi speculativi e i loro legali fanno costantemente, assistiti dalle banche centrali ovunque nel mondo.
+Come individuo, sei mai stato coinvolto in un piano di salvataggio? Se sì, decideresti mai di fare la stessa cosa più e più volte, manipolando il sistema sapendo che esiste un’ultima risorsa che ti salverà sempre? Questo è esattamente ciò che le banche, Wall Street, i fondi speculativi e i loro legali fanno costantemente, assistiti dalle banche centrali ovunque nel mondo.
 
-“Normalmente, le banche centrali mantengono delle riserve in caso di emergenza, fissano dei tassi di interesse, e allocano fondi per stimolare o rallentare le economie a seguito di eventi destabilizzanti come guerre o panico bancario. Un ruolo assunto più recentemente è quello di assicurare l’intero sistema finanziario e influenzare la traiettoria economica di intere nazioni sovrane. Questa è l’antitesi della democrazia. Questa oligarchia monetaria opera oltre le norme e i limiti democratici." [^7]
+“Classicamente, le banche centrali mantengono delle riserve da usare in caso di emergenza, fissano dei tassi di interesse, e allocano i propri fondi in modo da stimolare o rallentare le economie a seguito di eventi destabilizzanti come guerre o episodi di panico finanziario. Il ruolo che esse hanno assunto più recentemente è quello di assicurare l’intero sistema finanziario e di influenzare la traiettoria economica di intere nazioni sovrane. Questa è l’antitesi della democrazia. Questa oligarchia monetaria opera al di là delle norme e dei limiti democratici." [^7]
 
-Il libro di Nomi Prins ha attinto alla psiche di Wall Street, rivelando come la struttura stessa del sistema finanziario è fortemente dipendente dai trader pronti ad accalcarsi verso la prossima grande scommessa, incuranti della posta in gioco. In aggiunta, le _stesse_ persone e famiglie continuano ad apparire, comparendo tra Wall Street e Washington. Hanno influenzato l’economia sotto di loro dall’alto del loro status, grazie al denaro privato e alle cariche pubbliche, smantellando leggi che li ostacolavano e trovando escamotage tramite l'individuazione di scappatoie. Le banche private hanno normalizzato la manipolazione del mercato. Le banche centrali ne hanno fatto un’arte, senza alcun freno." [^8] 
+Il libro di Nomi Prins tocca la psiche di Wall Street, rivelando come la struttura stessa del sistema finanziario dipenda fortemente dai trader pronti a buttarsi in massa sulla prossima grande scommessa, incuranti della posta in gioco. Inoltre, sono sempre le _stesse_ persone e famiglie che continuano a saltar fuori, alternandosi tra Wall Street e Washington. Hanno influenzato l’economia sotto di loro dall’alto del loro status, grazie al denaro privato e alle cariche pubbliche, smantellando le leggi che li ostacolavano e usandone altre per trovare scappatoie. Le banche private hanno normalizzato la manipolazione del mercato. Le banche centrali ne hanno fatto un’arte, senza alcun freno." [^8] 
 
-### Inflazione della massa monetaria
+### Inflazione dell'Offerta di Moneta
 
-Prendiamo il dollaro americano come esempio tra le monete fiat. A causa dell’inflazione della massa monetaria, maggiore è la disponibilità di USD, minore è il valore di ogni singola banconota. Immagina una banconota come fosse una commodity, come il rame. Se nel mercato ci fosse più disponibilità di rame di quanto sia la domanda, dunque il prezzo del rame crollerà; il suo valore decresce. Il medesimo meccanismo è vero per la tua banconota. Anche il valore delle valute fiat è determinato dal rapporto tra domanda ed offerta. Se aumenti la disponibilità ma la domanda rimane la stessa, il valore di una singola unità diminuirà. 
+Prendiamo il dollaro americano come esempio per tutte le monete fiat. A causa dell’inflazione dell'offerta di moneta, maggiore è la disponibilità di dollari, minore è il valore di ogni singola banconota. Immagina una banconota come fosse un prodotto, come ad esempio il rame. Se sul mercato c'è più disponibilità di rame rispetto alla domanda, il prezzo del rame crolla; il suo valore diminuisce. La stessa cosa vale per la tua banconota. Anche il valore delle valute fiat è determinato dal rapporto tra domanda ed offerta. Se si aumenta l'offerta ma la domanda rimane la stessa, il valore di ogni singola unità diminuisce. 
 
-L’offerta di moneta consiste di vari tipi di aggregati monetari classificati con la lettera “M”, come M0 (base monetaria), M1, M2 e M3. Le definizioni potrebbero leggermente variare da paese a paese. 
+L’offerta di moneta è composta da vari tipi di aggregati monetari classificati con la lettera “M”, quali M0 (base monetaria), M1, M2 e M3. Le loro definizioni potrebbero variare leggermente da Paese a Paese. 
 
-La base monetaria (M0) è l’ammontare totale di una valuta nella propria forma fisica di banconote e monete metalliche che sono in libera circolazione nelle mani del pubblico oppure sottoforma di depositi che le banche commerciali mantengono presso le riserve della banca centrale. [^9] 
+La base monetaria (M0) è l’ammontare totale di una valuta in forma di banconote e monete che siano o in circolazione nelle mani del pubblico oppure sotto forma di depositi che le banche commerciali mantengono presso le riserve della banca centrale. [^9] 
 
-Fintanto che mantieni contante, è un asset come bitcoin, ossia una proprietà che possiedi. Se hai contanti ma li depositi presso una banca, ottieni un credito ma non possiedi più tale denaro. Similmente con bitcoin presso un exchange, la borsa di scambio.
+Finché detieni denaro contante, si tratta di un asset al pari di bitcoin, ossia di una proprietà che tu possiedi. Se prendi i tuoi contanti e li depositi presso una banca, ottieni un credito ma non possiedi più quei soldi. Similmente a quello che succede quando detieni bitcoin presso un exchange, ovvero una piattaforma di scambio.
 
-Gli altri aggregatori monetari (M1, M2, M3) si basano su crediti verso la base monetaria. [^10]
+Gli altri aggregati monetari (M1, M2, M3) comprendono forme di credito sulla base monetaria. [^10]
 
-M1 include M0, la moneta scritturale, i traveller’s cheque e altre attività finanziare facilmente convertibili in denaro contante.
+M1 include M0 più i depositi a vista, gli assegni turistici e altri depositi verificabili che siano facilmente convertibili in denaro contante.
 
-M2 comprende M0, M1, titoli del mercato monetario, fondi comuni di investimento ed altri depositi vincolati. Questi asset finanziari sono meno liquidi rispetto all’M1, e seppur siano meno adatti come mezzo di pagamento, tuttavia possono essere convertiti velocemente in denaro contante o depositi bancari. L’aggregato M2 viene analizzato con attenzione in quanto indicatore della massa monetaria e della inflazione futura, oltre che essere espressione degli obiettivi della politica monetaria di una banca centrale.
+M2 comprende M0, M1, i titoli del mercato monetario, i fondi comuni d'investimento ed altri depositi vincolati. Questi asset sono meno liquidi rispetto a M1 e non altrettanto adatti come mezzi di pagamento, tuttavia possono essere convertiti velocemente in denaro contante o in depositi bancari. L’aggregato M2 viene analizzato con attenzione come indicatore dell'offerta di moneta e dell'inflazione futura, oltre ad essere espressione degli obiettivi della politica monetaria delle banche centrali.
 
-L’ammontare di liquidità secondaria M2 in circolazione negli Stati Uniti d’America ammontava a **19.7 trilioni di USD** nel febbraio 2021. [^11] Si noti la crescita nel 2020.
+La quantità di moneta dell'aggregato M2 in circolazione negli Stati Uniti d’America ammontava a **19.700 miliardi di USD** nel febbraio 2021. [^11] Si noti la crescita nel 2020.
 
 ![M2 Money Stock Growth USA, 2021 ](resources/_M2-money-stock-US-2021.png)
 
-"Accettiamo tutto questo come fosse normale in quanto presumiamo che non avrà mai fine. Il meccanismo di riserva frazionaria del sistema bancario ha funzionato in tutto il mondo per centinaia di anni (in primis il sistema aureo, e successivamente il denaro fiat), seppur con occasionali eventi inflazionari lungo la strada che hanno parzialmente risistemato le cose.
+"Accettiamo tutto questo come fosse normale poiché presumiamo che non avrà mai fine. Il meccanismo di riserva frazionaria del sistema bancario ha funzionato in tutto il mondo per centinaia di anni (prima con il sistema aureo, poi basandosi completamente sul denaro fiat), seppure con occasionali eventi inflazionistici lungo la strada che hanno parzialmente risistemato le cose.
 
-Ogni singola unità di valuta fiat si è svalutata di circa il 99% o più nel corso dei decenni. Questo va a significare che gli investitori necessitano di guadagnare un tasso di interesse che eccede il tasso di inflazione reale (e ciò non sta attualmente accadendo), oppure necessitano di effettuare investimenti, che gonfiano il valore dell’azione e della proprietà immobiliare rispetto ai propri flussi di cassa, e fa salire i prezzi di oggetti rari come le opere d’arte." [^12]
+Ogni singola unità di valuta fiat si è svalutata di circa il 99% o più nel corso dei decenni. Questo significa che gli investitori hanno bisogno o di guadagnare un tasso di interesse che ecceda il tasso di inflazione reale (il che non sta attualmente accadendo), oppure di fare acquisti strategici come investimenti, in modo da far gonfiare il valore delle azioni e del mercato immobiliare rispetto ai propri flussi di cassa, e così spingendo verso l'alto i prezzi di alcuni prodotti rari come le opere d’arte." [^12]
 
-Un ulteriore fattore dell’inflazione della massa monetaria è il dato del tasso di crescita della popolazione USA e delle nazioni occidentali, il quale non sale proporzionalmente all’offerta di moneta. “La popolazione americana cresceva di circa 1.5% annualmente, ora cresce ad un ammontare che rasenta lo 0.5% per anno. Ciò è molto importante. Contemporaneamente, la massa monetaria è salita del 25% anno dopo anno, ed è sulla buona strada per essere 75%+ in un periodo di 5 anni nel futuro." [^13]
+Si aggiunge all’inflazione dell'offerta di moneta il fatto che la popolazione negli Stati Uniti e nelle altre nazioni occidentali non stia crescendo alla stessa velocità a cui cresce l’offerta di moneta. “In passato, la popolazione americana cresceva circa dell'1.5% annualmente, ora questo tasso si avvicina più allo 0.5% annuo. Questo è un dato piuttosto importante. Nel frattempo, l'offerta di moneta è salita del 25% su base annua, ed è sulla buona strada per aumentare di più del 75% nel corso di cinque anni, in futuro." [^13]
 
-Strettamente parlando, l’inflazione avviene quando la massa monetaria supera la crescita del PIL nominale, che include popolazione e crescita della produttività. L’indice dei prezzi al consumo USA dimostra che i prezzi dei beni è salito al declinare del valore della moneta.
+In senso stretto, l’inflazione si verifica quando l'offerta di moneta supera la crescita del PIL nominale, che consiste nella crescita della popolazione e della produttività. L'andamento dell’Indice dei Prezzi al Consumo statunitense mostra che i prezzi dei beni sono saliti mentre il valore della moneta è sceso.
 ![Consumer Price Index US 2020](resources/_Consumer-Price-index-US-2021.png) [^14]
 
 ### Schema Ponzi	
 
-> Schema Ponzi: “Una tipologia di truffa in cui la fede nel successo di un'impresa fittizia è incoraggiata dal pagamento di ritorni rapidi ai primi investitori utilizzando il denaro investito dai successivi." - **Oxford English Dictionary**
+> Schema Ponzi: “Una forma di truffa in cui la fiducia nel successo di un'impresa fittizia è incoraggiata dall'ottenimento di guadagni rapidi da parte dei primi investitori, che vengono pagati utilizzando il denaro degli investitori successivi." - **Dizionario Oxford della Lingua Inglese**
 
-I nemici di Bitcoin lo ritengono uno schema Ponzi. Io ritengo che o non comprendono Bitcoin o non capiscono cosa sia un reale schema Ponzi, oppure hanno un interesse affinché Bitcoin non abbia successo. Charles Ponzi fu arrestato negli Stati Uniti nel 1920 per aver ottenuto 20 milioni di dollari da decine di migliaia di vittime. Prometteva di duplicare i loro risparmi in tre mesi. In cambio di denaro contante, gli investitori ricevevano una cambiale che garantiva la restituzione originaria dell’investimento più il 50% di interesse maturato. Queste cambiali recavano la firma con timbro ad inchiostro del Ponzi.  Molti si riferivano a queste cambiali come le “cambiali Ponzi".
+I nemici di Bitcoin lo definiscono uno schema Ponzi. Io credo che o non comprendano Bitcoin e cosa sia un vero schema Ponzi, oppure abbiano un tornaconto personale nel caso in cui Bitcoin dovesse fallire. Charles Ponzi fu arrestato negli Stati Uniti nel 1920 per aver ottenuto 20 milioni di dollari da decine di migliaia di vittime. Ciò che prometteva era di duplicare i loro soldi nel giro di tre mesi. In cambio di denaro contante, gli investitori ricevevano delle cambiali che garantivano la restituzione dell’investimento inizialw più il 50% di interesse maturato. Queste cambiali recavano la firma di Ponzi.  Molti le chiamavano le “cambiali Ponzi".
 
-> "Il mio business era semplice. Si trattava del vecchio giochetto di rubare Peter per pagare Paul. Mi avresti consegnato cento dollari e io ti avrei dato una cambiale a garanzia di un pagamento di cento-cinquanta dollari entro tre mesi… Le mie cambiali acquisirono maggior valore del denaro americano… Ma poi iniziarono i problemi. L’intero sistema collassò." - **Charles Ponzi**
+> "Il mio sistema era semplice. Si trattava del vecchio giochetto di rubare a Peter per pagare Paul. Tu mi davi 100 dollari e io in cambio ti davo una cambiale a garanzia di un pagamento di 150 dollari entro tre mesi… Le mie cambiali diventarono più preziose dei soldi americani… Ma poi iniziarono i problemi. L’intero sistema era marcio." - **Charles Ponzi**
 
-Qualora volessi approfondire, [ascolta l’episodio del mio podcast sulla vita e storia dell’italiano Charles Ponzi](https://anita.link/ponzi). Lo puoi trovare all’indirizzo https://anita.link/ponzi.
+Per saperne di più, [ascolta l’episodio del mio podcast sulla vita e storia dell’italiano Charles Ponzi](https://anita.link/ponzi). Lo puoi trovare all’indirizzo https://anita.link/ponzi.
 
-**Caratteristiche di uno schema Ponzi**
+**Caratteristiche di uno Schema Ponzi**
 
-* Lo schema Ponzi ha un attore, leader o organizzatore centralizzato che colleziona investimenti e, alla fine, fugge. 
-* Gli schemi Ponzi non sono revisionabili contabilmente né trasparenti. Nessuno tranne l’ideatore è a conoscenza di cosa accade ai fondi.
-* Lo schema Ponzi emette pagamenti fino a quando il meccanismo si spezza – non c’è limite nella fornitura.
-* Difficoltà nel ripagare gli investitori: maggiore è il volume di denaro che fluisce all’interno dello schema, maggiore è il denaro che dovrà essere restituito, e maggiore sarà la difficoltà per l’ideatore di fermare il meccanismo. 
-* Il sistema dovrà necessariamente spezzarsi – non c’è via di scampo.
-* Il truffatore ricava del denaro prestando fondi privi di reale contributo sulla performance economica di un Paese.
-* L’avidità è il fattore principale di uno schema Ponzi. Gli investitori al dettaglio che per primi vi partecipano, guadagnano interessi e lo riferiscono ad altri, che a loro volta desiderano arricchirsi velocemente.
+* In uno schema Ponzi troviamo un attore centralizzato, un leader o un'organizzazione che raccoglie investimenti e, alla fine, sparisce. 
+* Gli schemi Ponzi non sono revisionabili né trasparenti. Nessuno, tranne l’ideatore, è a conoscenza di cosa accada ai fondi.
+* Lo schema Ponzi continua a emettere pagamenti fino a quando il meccanismo si rompe – non c’è limite nell'offerta.
+* Difficoltà nel ripagare gli investitori: maggiore è il volume di denaro che fluisce all’interno dello schema, maggiore è la quantità di denaro che deve essere restituito, e maggiore diventa la difficoltà per l’ideatore nel fermare il meccanismo. 
+* Il sistema ad un certo punto si rompe, non c’è via di scampo.
+* Il truffatore ottiene un guadagno prestando fondi e senza dare un reale contributo alla performance economica del Paese.
+* L’avidità è ciò che fa funzionare uno schema Ponzi. I singoli investitori che ci entrano per primi guadagnano gli interessi e lo riferiscono ad altri, che a loro volta desiderano arricchirsi velocemente.
 
-Compariamo ora queste caratteristiche col sistema attuale di creazione del denaro.
+Paragoniamo ora queste caratteristiche col sistema attuale di creazione del denaro.
 
-**Caratteristiche della creazione della moneta fiat**
+**Caratteristiche della Creazione della Moneta Fiat**
 
-* Attori centralizzati come governi, banche centrali e banche commerciali creano denaro.
-* Il sistema monetario non è revisionabile contabilmente né trasparente.
-* Non vi è limite all'offerta monetaria.
-* Difficoltà nel ripagare gli investitori: a causa del meccanismo della riserva frazionaria, se solamente il 20% dei clienti di una banca richiedesse di prelevare tutti i propri risparmi allo stesso momento, la banca si troverebbe in un grosso guaio e non acconsentirebbe all’operazione. Questo accade frequentemente in tutto il mondo, ed accadde ad alcune banche americane agli inizi del 2020 durante il confinamento pandemico.
-* Il sistema dovrà necessariamente collassare – non c’è via di scampo.
-* Le banche ricavano del denaro prestando fondi privi di reale contributo sulla performance economica di un Paese.
-* L’avidità è il fattore principale del sistema fiat. Le élite finanziarie ricevono prestiti a tassi agevolati perché possiedono valori mobiliari per acquistare ulteriori valori mobiliari ed aumentare la propria ricchezza e potere.
+* Attori centralizzati, come governi, banche centrali e banche commerciali, creano denaro.
+* Il sistema monetario non è revisionabile né trasparente.
+* Non c'è limite all'offerta monetaria.
+* Difficoltà nel ripagare gli investitori: a causa del meccanismo della riserva frazionaria bancaria, se anche solo il 20% dei clienti di una banca richiedesse di prelevare tutti i propri risparmi nello stesso momento, la banca si troverebbe in un grosso guaio e non acconsentirebbe all’operazione. Questo accade regolarmente in tutto il mondo, ed è accaduto ad alcune banche americane agli inizi del 2020 durante il confinamento pandemico.
+* Il sistema ad un certo punto si rompe, non c’è via di scampo.
+* Le banche ottengono un guadagno prestando fondi e senza dare un reale contributo alla performance economica del Paese.
+* L’avidità è ciò che fa funzionare il sistema fiat. Le élites finanziarie ricevono prestiti a tassi agevolati perché possiedono titoli finanziari, prestiti che usano per acquistare ulteriori titoli ed accresce la propria ricchezza ed il proprio potere.
 
-### Il reale schema Ponzi
+### Il Vero Schema Ponzi
 
-* L’unica similitudine tra Bitcoin e uno schema Ponzi è l’economia di rete alimentata dall’avidità. Ma differentemente da uno schema Ponzi, tu sei in grado di detenere personalmente le chiavi di accesso ai tuoi bitcoin. Non vi è alcuna banca o attore centralizzato che controlla i tuoi bitcoin.
+* L’unica similitudine tra Bitcoin e uno schema Ponzi è l’effetto-rete causato dall’avidità. Ma, differentemente da uno schema Ponzi, tu puoi detenere personalmente le chiavi di accesso ai tuoi bitcoin. Non vi è alcuna banca o attore centralizzato che controlli i tuoi bitcoin.
 
-* Bitcoin ha una fornitura limitata. Ne saranno creati solamente 21 milioni. Bitcoin è limitato mentre una valuta fiat è infinita. Non vi sarà alcuna inflazione della massa monetaria in Bitcoin.
+* Bitcoin ha un'offerta limitata: ne saranno creati solamente 21 milioni. Bitcoin è limitato mentre una valuta fiat è infinita. Non ci può essere inflazione dell'offerta di moneta in Bitcoin.
 
-* L’emissione di bitcoin è predeterminata da un algoritmo che tutti i partecipanti in Bitcoin hanno concordato e difeso tramite l’impiego di nodi. Non può essere alterata senza il consenso della comunità Bitcoin globale. Considerato che il limite di emissione di 21 milioni di bitcoin è una tra le caratteristiche più importanti di Bitcoin, un accordo volto a mutarlo sarà molto difficile da ottenere, se non impossibile.
+* L’emissione di bitcoin è predeterminata da un algoritmo su cui tutti i partecipanti in Bitcoin hanno concordato e che loro proteggono operando i propri nodi. Non può essere alterata senza il consenso della comunità Bitcoin globale. Considerato che il limite di emissione fissato a 21 milioni di bitcoin è una tra le caratteristiche più importanti di Bitcoin, sarà molto difficile se non impossibile ottenere un accordo volto a mutarlo.
 
-* I banchieri delle banche centrali determinano il destino finanziario dei Paesi in tutto il mondo. Non sono eletti ma agiscono come i governi, e tentano di controllare l’intero mercato finanziario. 
+* I banchieri centrali stanno al momento determinando il destino finanziario dei Paesi di tutto il mondo. Non sono stati eletti, ma agiscono come dei governi e tentano di controllare l’intero mercato finanziario. 
 
-* L’effetto Cantillon è stato descritto dall’economista franco-irlandese Richard Cantillon attorno il 1730. Suggerì che l’inflazione avviene gradualmente e che la nuova fornitura di denaro creata dalle banche ha un effetto localizzato sull’inflazione, ricompensando i banchieri e attori a loro vicini creando artificialmente denaro, avvantaggiando coloro i quali siano più prossimi all’origine del denaro. 
+* L’effetto Cantillon è stato descritto dall’economista franco-irlandese Richard Cantillon attorno al 1730. Egli suggerì che l’inflazione avviene gradualmente e che la nuova moneta emessa dalle banche ha un effetto localizzato sull’inflazione, ricompensando i banchieri stessi e gli agenti economici a loro vicini attraverso la creazione artificiale di denaro, avvantaggiando solo chi è più prossimo all’origine del denaro. 
 
-> "La crisi del FED (Federal Reserve System americano) e le politiche monetarie post-crisi, adottate dalle maggiori banche centrali, si supponevano dover ‘sgocciolare’ alle masse in ragione della teoria del "_trickle-down_". Ciò non accadde. L’élite globale ne era a conoscenza allora, e ne è ancor più consapevole adesso. Nel gennaio 2017, il World Economic Forum ha ammesso che l’aumento della disuguaglianza avrebbe minacciato l’economia mondiale. Sono questi collusi a provocare la disuguaglianza, perché traggono un beneficio per sé e per la preservazione delle gerarchie di potere globale, a discapito di tutto e tutti." - **Nomi Prins** [^15]
+> "Le politiche monetarie della FED durante la crisi e dopo la crisi, che furono poi adottate da altre importanti banche centrali, avrebbero dovuto avere un effetto "a cascata" sulle masse. Ciò non è accadduto. Le élites globali lo sapevano allora, e ne sono ancora più consapevoli adesso. Nel gennaio 2017 il World Economic Forum ha ammesso che l’aumento della disuguaglianza è una minaccia per l’economia mondiale. Sono questi collusi a provocare la disuguaglianza, perché ne traggono vantaggi per sé e per la preservazione delle gerarchie di potere mondiali, a discapito di tutto e tutti gli altri." - **Nomi Prins** [^15]
 
 
-### La fine di questo tipo di crescita
+### La Fine di Questo Tipo di Crescita
 
 La disuguaglianza economica è in aumento negli ultimi secoli, assieme alla mercificazione e monetizzazione delle risorse naturali. Nulla è rimasto ancora da consumare. Stiamo vivendo una lotta per le risorse, per pari opportunità contro l’establishment e l’élite che si arricchiscono tramite corruzione e vantaggi finanziari.
 
