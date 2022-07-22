@@ -62,7 +62,7 @@ A seguir estão as ferramentas e serviços que permitem que você gaste e receba
 * [Bity](https://bity.com/products/crypto-online-bill-pay/) pague contas online com bitcoin
 * [Cash App](https://cash.app/bitcoin) compre e venda BTC diretamente do seu saldo do Cash App
 * [Strike](https://global.strike.me/) envie e receba pagamentos internacionais instantâneos, remessas instantâneas e com acesso total à rede Bitcoin
-* [Piixpay](https://www.piixpay.com/?lang=en) pague qualquer pessoa em EURO usando sua criptomoeda
+* [Swapin](https://www.swapin.com/) pague qualquer pessoa em EURO usando sua criptomoeda
 * [Bitrefill](https://www.bitrefill.com/?hl=en) compre vales-presente e recargas de telefone
 
 [^74]: [Captura de tela por Anita Posch](https://mempool.space)

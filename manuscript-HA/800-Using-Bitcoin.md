@@ -52,7 +52,7 @@ The following are tools and services that enable you to spend and receive BTC in
 * [Bity](https://bity.com/products/crypto-online-bill-pay/) pay bills online with bitcoin
 * [Cash App](https://cash.app/bitcoin) buy and sell BTC straight from your Cash App balance
 * [Strike](https://global.strike.me/) send and receive instant international payments, instant remittances and with full access to the Bitcoin network
-* [Piixpay](https://www.piixpay.com/?lang=en) pay anyone in EURO using your crypto
+* [Swapin](https://www.swapin.com/) pay anyone in EURO using your crypto
 * [Bitrefill](https://www.bitrefill.com/?hl=en) buy giftcards and phone refills
 
 [^74]: [Screenshot by Anita Posch](https://mempool.space)  

@@ -52,7 +52,7 @@ Las siguientes son herramientas y servicios que nos permitirán gastar y recibir
 * [Bity](https://bity.com/products/crypto-online-bill-pay/); paga facturas en línea con bitcoin
 * [Cash App](https://cash.app/bitcoin); compra y vende BTC directamente desde el saldo de tu aplicación Cash
 * [Strike](https://global.strike.me/); envía y recibe pagos internacionales instantáneos, remesas instantáneas y con acceso completo a la red Bitcoin
-* [Piixpay](https://www.piixpay.com/?lang=en); paga a cualquiera en EURO usando tu cripto
+* [Swapin](https://www.swapin.com/); paga a cualquiera en EURO usando tu cripto
 * [Bitrefill](https://www.bitrefill.com/?hl=en); compra tarjetas de regalo y recargas de teléfonos
 
 [^74]: [Captura de pantalla de Anita Posch] (https://mempool.space)  

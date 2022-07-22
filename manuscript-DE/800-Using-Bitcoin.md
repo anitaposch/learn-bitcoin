@@ -52,7 +52,7 @@ Im Folgenden finden Sie Tools und Dienste, mit denen Sie alltägliche Zahlungen 
 * [Bity](https://bity.com/products/crypto-online-bill-pay/) Rechnungen online mit Bitcoin bezahlen
 * [Cash App](https://cash.app/bitcoin) Kaufen und verkaufen Sie BTC direkt von Ihrem Cash App-Guthaben
 * [Strike](https://global.strike.me/) Senden und empfangen Sie internationale Zahlungen über vollen Zugang zum Bitcoin-Netzwerk
-* [Piixpay](https://www.piixpay.com/?lang=en) Bezahlen Sie in Euro mit Ihrer Kryptowährung
+* [Swapin](https://www.swapin.com/) Bezahlen Sie in Euro mit Ihrer Kryptowährung
 * [Bitrefill](https://www.bitrefill.com/?hl=en) Kaufen Sie Geschenkgutscheine und Telefonaufladungen
 
 [^74]: [Screenshot von Anita Posch](https://mempool.space)

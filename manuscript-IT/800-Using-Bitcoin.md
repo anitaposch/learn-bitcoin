@@ -52,7 +52,7 @@ La lista seguente elenca strumenti e servizi che permettono di spendere a riceve
 * [Bity](https://bity.com/products/crypto-online-bill-pay/), salda bollette online con bitcoin
 * [Cash App](https://cash.app/bitcoin), compra e vendi BTC direttamente dal tuo saldo disponibile in Cash App
 * [Strike](https://global.strike.me/), invia e ricevi istantaneamente pagamenti internazionali, bonifici immediati e con accesso completo alla rete Bitcoin
-* [Piixpay](https://www.piixpay.com/?lang=en), paga chiunque in euro utilizzando le tue crypto
+* [Swapin](https://www.swapin.com/), paga chiunque in euro utilizzando le tue crypto
 * [Bitrefill](https://www.bitrefill.com/?hl=en), compra gift card e ricariche telefoniche
 
 [^74]: [Screenshot by Anita Posch](https://mempool.space)  
