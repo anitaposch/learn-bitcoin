@@ -37,7 +37,7 @@ Con l’avvento del Lightning Network è stato inventato ed introdotto un nuovo 
 * [Satoshis.stream](https://satoshis.stream/), configurazione semplice per podcaster senza nodo
 * [LN Cast](https://lncast.com/), podcast Lightning Network, paga un piccolo ammontare di satoshi e invia una donazione per ascoltare il tuo podcast preferito
 * [LN Pay](https://lnpay.co/), imposta un paywall per i tuoi contenuti, accessibili con pagamento Lightning
-* [WordPress Lightning Paywall](https://lightning-paywall.coincharge.io/)
+* [WordPress Lightning Paywall](https://btcpaywall.com)
 * [Scarce.City](https://scarce.city/) aste Lightning per beni e arte Bitcoin - [Intervista col fondatore Chris Tramount](https://anita.link/91)
 * [Sparkshot](https://sparkshot.io/), gli artisti possono vendere le loro creazioni in bitcoin
 

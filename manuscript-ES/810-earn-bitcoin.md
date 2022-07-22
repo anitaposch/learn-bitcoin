@@ -37,7 +37,7 @@ Con la llegada de Lightning Network, se ha inventado un nuevo método verdaderam
 * [Satoshis.stream](https://satoshis.stream/), fácil configuración para podcasters sin nodo propio.  
 * [LN Cast](https://lncast.com/). Podcasts mediante Lightning Network; paga una pequeña cantidad de satoshis y dona para escuchar tu podcast favorito.  
 * [LN Pay](https://lnpay.co/). Configura muros de pago para tus contenidos, pagaderos mediante la red lightning.  
-* [WordPress Lightning Paywall](https://lightning-paywall.coincharge.io/)  
+* [WordPress Lightning Paywall](https://btcpaywall.com)  
 * [Scarce.City] (https://scarce.city/) Subastas relámpago de bienes y arte de Bitcoin - [Entrevista con el fundador Chris Tramount] (https://anita.link/91)
 * [Sparkshot] (https://sparkshot.io/) Los artistas pueden vender su trabajo por bitcoins.
 
