@@ -13,7 +13,7 @@ Em sites como o [Bitcoin Dollar Cost Average](https://www.bitcoindollarcostavera
 Áustria, Alemanha: [Coinfinity](https://coinfinity.co/sparplan/?ref=6716)
 França: [SackinSat](https://www.stackinsat.com/)
 Europa: [Relai](https://relai.ch/)
-Reino Unido: [Coinfloor](https://coinfloor.co.uk/hodl/), [xsats](https://xsats.com/)
+Reino Unido: [Coincorner](https://www.coincorner.com/), [xsats](https://xsats.com/)
 Austrália: [Bitaroo](https://support.bitaroo.com.au/hc/en-au/articles/360042838874-Recurring-Buy-DCA-), [Amber App](https://amber.app/)
 Canadá: [Bull Bitcoin](https://bullbitcoin.com/)
 Nigéria: [Bitnob](https://bitnob.com/)
