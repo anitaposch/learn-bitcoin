@@ -4,7 +4,6 @@ Ganar Bitcoin es en realidad la mejor manera de adquirirlo: no hay necesidad de 
 ## Carteleras de Empleos Pagaderos en Bitcoin
 Encuentre un trabajo o un cliente para ganar Bitcoin por su trabajo.
 * [BitGigs](https://bitgigs.com/)  
-* [Coinalidad](https://coinality.com/)  
 * [CanWork](https://www.canwork.io/)  
 * [Freelance por monedas](https://freelanceforcoins.com/projects)  
 * [Trabajando por bitcoins](https://workingforbitcoins.com/)  

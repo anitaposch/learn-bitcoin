@@ -4,7 +4,6 @@ Bitcoin zu verdienen ist der beste Weg, sie zu erwerben: einfache oder gar keine
 ## Bitcoin-Jobbörsen
 Finden Sie einen Job oder einen Kunden, um Ihre Arbeit in Bitcoin bezahlt zu bekommen.
 * [BitGigs](https://bitgigs.com/)
-* [Coinality](https://coinality.com/)
 * [CanWork](https://www.canwork.io/)
 * [Freelance for Coins](https://freelanceforcoins.com/projects)
 * [Working for Bitcoin](https://workingforbitcoins.com/)

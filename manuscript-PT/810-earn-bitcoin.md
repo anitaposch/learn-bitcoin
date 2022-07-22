@@ -4,7 +4,6 @@ Ganhar Bitcoin é realmente a melhor maneira de adquiri-lo: registro limitado ou
 ## Quadros de empregos Bitcoin
 Encontre um emprego ou um cliente para ganhar Bitcoin pelo seu trabalho.
 * [BitGigs](https://bitgigs.com/)
-* [Coinality](https://coinality.com/)
 * [CanWork](https://www.canwork.io/)
 * [Freelance For Coins](https://freelanceforcoins.com/projects)
 * [Trabalhando para Bitcoin](https://workingforbitcoins.com/)

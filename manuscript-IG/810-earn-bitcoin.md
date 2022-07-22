@@ -4,7 +4,6 @@ Earning Bitcoin is actually the best way to acquire it: limited or no registrati
 ## Bitcoin Job Boards
 Find a job or a client to earn Bitcoin for your work.
 * [BitGigs](https://bitgigs.com/)
-* [Coinality](https://coinality.com/)
 * [CanWork](https://www.canwork.io/)
 * [Freelance For Coins](https://freelanceforcoins.com/projects)
 * [Working For Bitcoin](https://workingforbitcoins.com/)

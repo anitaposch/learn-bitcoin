@@ -4,7 +4,6 @@ Guadagnare Bitcoin è indubbiamente il metodo migliore per ottenerli: nessuna (o
 ## Bacheche di lavoro Bitcoin
 Trova un impiego o un cliente per guadagnare Bitcoin in cambio del tuo lavoro.
 * [BitGigs](https://bitgigs.com/)
-* [Coinality](https://coinality.com/)
 * [CanWork](https://www.canwork.io/)
 * [Freelance For Coins](https://freelanceforcoins.com/projects)
 * [Working For Bitcoin](https://workingforbitcoins.com/)
