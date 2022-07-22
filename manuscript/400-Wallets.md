@@ -70,6 +70,6 @@ Really, if you do not want to pay the 50 - 100 USD required to buy a hardware wa
 If you simply cannot afford a hardware wallet, use your phone in the meantime. As soon as you have saved enough funds, get yourself a hardware wallet.
 
 **Card Wallet**
-The Card Wallet (product) is in principle a paper wallet, but it is produced by professionals with high security standards. However, you need to trust the manufacturers to not record the private keys to the card. You can use the Card Wallet as an alternative if you do not own a computer or smartphone or do not want to take care of the maintenance of your hardware wallet. https://cardwallet.com/anita (my readers get 20% off)
+The Card Wallet (product) is in principle a paper wallet, but it is produced by professionals with high security standards. However, you need to trust the manufacturers to not record the private keys to the card. You can use the Card Wallet as an alternative if you do not own a computer or smartphone or do not want to take care of the maintenance of your hardware wallet. https://cardwallet.com
 
 The industry preferred and **recommended cold storage solution are hardware wallets**.
