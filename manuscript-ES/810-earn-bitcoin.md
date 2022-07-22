@@ -75,7 +75,6 @@ Ten en cuenta que existen muchas estafas en torno a la minería. Incluso yo me e
 
 **Bajo Custodia**
 * [BlockFi](https://blockfi.com/)  
-* [Celsius](https://celsius.network/borrow-dollars-using-crypto-as-collateral/)  
 * [Coinloan](https://coinloan.io/)  
 * [Coinrabbit](https://coinrabbit.io/)  
 * [Crypto.com](https://crypto.com/earn)  

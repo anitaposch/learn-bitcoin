@@ -73,16 +73,15 @@ Im Mining gibt es viele Betrüger, selbst ich bin vor einigen Jahren auf einen h
 ## Leihen & Ausleihen
 * [DeFi Rate](https://defirate.com/) Überblick über die Leih- und Kreditzinsen
 
-**Vermögensverwaltung**
+**Vermögensverwaltungen (treuhändisch)**
 * [BlockFi](https://blockfi.com/)
-* [Celsius](https://celsius.network/borrow-dollars-using-crypto-as-collateral/)
 * [Coinloan](https://coinloan.io/)
 * [Coinrabbit](https://coinrabbit.io/)
 * [Crypto.com](https://crypto.com/earn)
 * [Nexo](https://nexo.io/borrow)
 * [SpectroCoin](https://spectrocoin.com/)
 
-**Non-Custodial**
+**Non-Custodial - Sie behalten die Kontrolle über ihre Bitcoin**
 * [LEND at Hodl Hodl](https://lend.hodlhodl.com/) Globale P2P Bitcoin Leihplatform
 * [Sovryn](https://sovryn.app) ein erlaubnisfreies Smart-Contract-basiertes System für das Verleihen, Ausleihen und den Handel mit Bitcoin.
 

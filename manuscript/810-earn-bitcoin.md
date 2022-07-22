@@ -75,7 +75,6 @@ Be aware, there are a lot of mining scams out there. Even I fell for one some ye
 
 **Custodial**
 * [BlockFi](https://blockfi.com/)
-* [Celsius](https://celsius.network/borrow-dollars-using-crypto-as-collateral/)
 * [Coinloan](https://coinloan.io/)
 * [Coinrabbit](https://coinrabbit.io/)
 * [Crypto.com](https://crypto.com/earn)

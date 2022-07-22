@@ -75,7 +75,6 @@ Fai attenzione, ci sono molte truffe relative al mining. Anche io ci sono cascat
 
 **Custodial**
 * [BlockFi](https://blockfi.com/)
-* [Celsius](https://celsius.network/borrow-dollars-using-crypto-as-collateral/)
 * [Coinloan](https://coinloan.io/)
 * [Coinrabbit](https://coinrabbit.io/)
 * [Crypto.com](https://crypto.com/earn)

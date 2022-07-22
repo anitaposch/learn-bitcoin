@@ -78,7 +78,6 @@ Esteja ciente, existem muitos golpes de mineração por aí. Até eu me apaixone
 
 **Custodia**
 * [BlockFi](https://blockfi.com/)
-* [Celsius](https://celsius.network/borrow-dollars-using-crypto-as-collateral/)
 * [Coinloan](https://coinloan.io/)
 * [Coinrabbit](https://coinrabbit.io/)
 * [Crypto.com](https://crypto.com/earn)
