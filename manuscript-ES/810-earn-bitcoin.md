@@ -51,16 +51,13 @@ Con la llegada de Lightning Network, se ha inventado un nuevo método verdaderam
 ## Pagadores de Vuelto y Grifos
 * [Fold](https://foldapp.com/); gana bitcoins en cada compra con tu tarjeta VISA.  
 * [Lolli](https://www.lolli.com/); gana bitcoins cuando compras en más de 1,000 tiendas.  
-* [Pei](https://getpei.com/); vincula casi cualquier tarjeta de débito o crédito.  
-* [Satsback](https://satsback.com/en); gana satoshis en las tiendas en línea.  
-* [LN Pay](https://lnpay.co/faucets/); crea tu propio grifo para la red lightning y paga a tu audiencia en bitcoin.
+* [Satsback](https://satsback.com); gana satoshis en las tiendas en línea.  
 * [Purse](https://purse.io); usa bitcoin para comprar en Amazon y obtener un descuento.
 * [Satsy](https://satsy.com/) gana satoshis mientras compras en línea, realizas encuestas y juegas.
 
 ## Juegos
 * [Thndr Games](https://thndr.games/games); gana premios en bitcoin mientras juegas.  
 * [Zebedee](https://zebedee.io/); con ZEBEDEE Wallet puedes jugar juegos con bitcoin, enviar pagos dentro de aplicaciones de mensajería, recolectar donaciones por tus transmisiones en vivo y mucho más.
-* [Bitcoin Bounty Hunt](https://bitcoinbountyhunt.com/); un juego de disparos, donde puedes ganar satoshis.
 * [Satoshis Games](https://satoshis.games/); plataformas de juego y un mercado NFT para artistas.
 
 ## Gana a Través de la Inversión

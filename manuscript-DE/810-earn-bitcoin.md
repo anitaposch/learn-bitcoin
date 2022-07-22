@@ -51,16 +51,13 @@ Mit der Entwicklung des Lightning-Netzwerks wurde eine wirklich bahnbrechende ne
 ## Cashback und Faucets
 * [Fold](https://foldapp.com/) verdienen Sie Bitcoin bei jedem Einkauf mit Ihrer VISA-Karte.
 * [Lolli](https://www.lolli.com/) verdienen Sie Bitcoin, wenn Sie in über 1.000 Geschäften einkaufen.
-* [Pei](https://getpei.com/) verknüpft fast jede Debit- oder Kreditkarte.
-* [Satsback](https://satsback.com/en) verdienen Sie Satsback in Online-Shops.
-* [LN Pay](https://lnpay.co/faucets/) erstellen Sie Ihren eigenen Lightning Faucet und zahlen Sie Ihr Publikum in Bitcoin zurück.
+* [Satsback](https://satsback.com) verdienen Sie Satsback in Online-Shops.
 * [Purse](https://purse.io) verwenden Sie Bitcoin, um bei Amazon einzukaufen und einen Rabatt zu erhalten.
 * [Satsy](https://satsy.com/) verdienen Sie Sats, während Sie online einkaufen, an Umfragen teilnehmen und Spiele spielen.
 
 ## Spiele
 * [Thndr Games](https://thndr.games/games) gewinnen Sie Preise in Bitcoin beim Spielen.
 * [Zebedee](https://zebedee.io/) mit der ZEBEDEE Wallet können Sie Spiele mit Bitcoin spielen, Zahlungen in Messaging-Apps senden, Spenden für Ihren Live-Stream sammeln und vieles mehr.
-* [Bitcoin Bounty Hunt](https://bitcoinbountyhunt.com/) ein Shooter-Spiel, bei dem Sie Satoshis verdienen können.
 * [Satoshis Games](https://satoshis.games/) Spieleplattformen und ein NFT-Marktplatz für Künstler*innen.
 
 ## Verdienen durch Investieren

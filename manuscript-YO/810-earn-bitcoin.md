@@ -51,16 +51,13 @@ With the advent of the Lightning Network, a truly groundbreaking new method of s
 ## Cashback and Faucets
 * [Fold](https://foldapp.com/) earn bitcoin on every purchase with your VISA card
 * [Lolli](https://www.lolli.com/) earn bitcoin when you shop at over 1,000 stores
-* [Pei](https://getpei.com/) link almost any debit or credit card
-* [Satsback](https://satsback.com/en) earn sats back from online stores
-* [LN Pay](https://lnpay.co/faucets/) create your own lightning faucet and pay back your audience in bitcoin.
+* [Satsback](https://satsback.com/) earn sats back from online stores
 * [Purse](https://purse.io) use bitcoin to buy on Amazon and get a discount
 * [Satsy](https://satsy.com/) earn sats while you shop online, take surveys and play games
 
 ## Gaming
 * [Thndr Games](https://thndr.games/games) win bitcoin prizes while playing
 * [Zebedee](https://zebedee.io/) with the ZEBEDEE Wallet you can play games with bitcoin, send payments inside messaging apps, collect donations on your live stream and a lot more
-* [Bitcoin Bounty Hunt](https://bitcoinbountyhunt.com/) a shooter game, where you can earn satoshis
 * [Satoshis Games](https://satoshis.games/) gaming platforms and an NFT marketplace for artists
 
 ## Earn Through Investing
