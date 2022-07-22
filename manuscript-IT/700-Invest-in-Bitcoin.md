@@ -2,7 +2,7 @@
 In questo capitolo esploreremo le varie e differenti modalità per poter ottenere bitcoin. Generalmente, questo avviene tramite l’acquisto di bitcoin scambiandoli con valute fiat, oppure guadagnandoli. I metodi differiscono nel livello di auto-sovranità e privacy che puoi raggiungere.
 
 ## Comprare Bitcoin – Custodial
-In molti casi, la prima interazione delle persone con le criptovalute avviene nell’ambito delle borse di scambio custodial quali Kraken, Coinbase, Binance, Bitpanda e Bitfinex, per citarne alcune.
+In molti casi, la prima interazione delle persone con le criptovalute avviene nell’ambito delle borse di scambio custodial quali Okcoin, Kraken, Coinbase, Binance, Bitpanda e Bitfinex, per citarne alcune.
 
 Sono denominate custodial in quanto mantengono le chiavi dei tuoi bitcoin. In queste piattaforme ti viene assegnato un wallet, ma è simile ad avere un conto corrente bancario soggetto ai rischi di controparte quali attacchi hacker, sequestro e confisca dai governi.
 

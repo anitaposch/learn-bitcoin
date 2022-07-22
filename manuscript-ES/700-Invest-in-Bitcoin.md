@@ -2,7 +2,7 @@
 En este capítulo, exploraremos las diferentes formas en que podemos obtener bitcoins. En general, los bitcoins se consiguen comprándolos con moneda fiduciaria o ganándolos. Los métodos pueden diferir según el nivel de auto-soberanía y privacidad que podamos lograr.
 
 ## Comprando Bitcoin - Con Custodia
-En muchos casos, la primera interacción de las personas con las criptomonedas es a través de casas de cambio bajo custodia como lo son Kraken, Coinbase, Binance, Bitpanda y Bitfinex, solo por nombrar algunos.
+En muchos casos, la primera interacción de las personas con las criptomonedas es a través de casas de cambio bajo custodia como lo son Okcoin, Kraken, Coinbase, Binance, Bitpanda y Bitfinex, solo por nombrar algunos.
 
 Se les llama entidades bajo custodia, porque ellos van a poseer las llaves de tus bitcoins. Se te asigna una cartera en estas plataformas, pero es más como una cuenta bancaria, lo que genera riesgos de contraparte, como los de la piratería e incautación o confiscación por parte de los gobiernos.
 

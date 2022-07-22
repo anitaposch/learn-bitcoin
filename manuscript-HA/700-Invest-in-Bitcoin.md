@@ -2,7 +2,7 @@
 In this chapter, we will explore the different ways you can obtain bitcoin. In general, this is through buying bitcoin by exchanging it for fiat currency or by earning it. The methods differ in the level of self-sovereignty and privacy you can achieve.
 
 ## Buying Bitcoin - Custodial
-In many cases, people's first interaction with cryptocurrencies is through custodial exchanges like Kraken, Coinbase, Binance, Bitpanda and Bitfinex just to name a few.
+In many cases, people's first interaction with cryptocurrencies is through custodial exchanges like Okcoin, Kraken, Coinbase, Binance, Bitpanda and Bitfinex just to name a few.
 
 They are called custodial because they possess the keys to your bitcoin. You do get a wallet on these platforms, but it's more like a bank account, leading to counter-party risks such as hacking, seizure or confiscation by governments.
 

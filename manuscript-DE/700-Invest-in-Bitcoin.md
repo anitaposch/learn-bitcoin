@@ -2,7 +2,7 @@
 In diesem Kapitel werden wir die verschiedenen Möglichkeiten untersuchen, wie Sie Bitcoin erwerben können. In der Regel geschieht dies durch den Kauf von Bitcoin, indem Sie sie gegen Fiat-Währung tauschen, oder durch das Verdienen von Bitcoin. Die Methoden unterscheiden sich jeweils durch den Grad an Selbstbestimmung und Privatsphäre, den Sie erreichen können.
 
 ## Bitcoin kaufen - Custodial
-In vielen Fällen erfolgt der erste Kontakt mit Kryptowährungen über Depotbörsen wie Kraken, Coinbase, Binance, Bitpanda und Bitfinex, um nur einige zu nennen.
+In vielen Fällen erfolgt der erste Kontakt mit Kryptowährungen über Depotbörsen wie Okcoin, Kraken, Coinbase, Binance, Bitpanda und Bitfinex, um nur einige zu nennen.
 
 Sie werden auch als Verwahrer (Custodians) bezeichnet, weil sie die Schlüssel für Ihre Bitcoin besitzen. Auf diesen Plattformen erhalten Sie zwar eine Wallet, diese gleicht aber eher einem Bankkonto was Risiken wie Hacking, Pfändung oder Konfiszierung durch Regierungen birgt.
 

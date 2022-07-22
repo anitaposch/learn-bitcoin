@@ -2,7 +2,7 @@
 Neste capítulo, exploraremos as diferentes maneiras de obter bitcoin. Em geral, isso ocorre comprando bitcoin, trocando-o por moeda fiduciária ou ganhando. Os métodos diferem no nível de auto-soberania e privacidade que você pode alcançar.
 
 ## Comprando Bitcoin - Com Custódia
-Em muitos casos, a primeira interação das pessoas com criptomoedas é por meio de exchanges custodiantes como Kraken, Coinbase, Binance, Bitpanda e Bitfinex, só para citar algumas.
+Em muitos casos, a primeira interação das pessoas com criptomoedas é por meio de exchanges custodiantes como Okcoin, Kraken, Coinbase, Binance, Bitpanda e Bitfinex, só para citar algumas.
 
 Eles são chamados de custodiantes porque possuem as chaves do seu bitcoin. Você obtém uma carteira nessas plataformas, mas é mais como uma conta bancária, levando a riscos de contraparte, como hackers, apreensão ou confisco por governos.
 
