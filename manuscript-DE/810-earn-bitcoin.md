@@ -12,7 +12,7 @@ Finden Sie einen Job oder einen Kunden, um Ihre Arbeit in Bitcoin bezahlt zu bek
 Verdienen Sie Satoshis durch die Erledigung kleiner Aufgaben.
 * [Stakwork](https://stakwork.com)
 * [Microlancer](https://microlancer.io/)
-* [Sats 4 Likes](https://kriptode.com/satsforlikes/index.html)
+* [Sats 4 Likes](https://www.sats4likes.com/)
 
 ## Tauschen Sie Ihr Gehalt um
 * [Bitwage](https://www.bitwage.com/) Als Angestellte oder Freiberufler können Sie Ihren Lohn unmittelbar in Bitcoin statt in Euro erhalten. Auch Arbeitgeber können diesen Service nutzen, um ihr Team in Bitcoin zu bezahlen. [Interview mit dem Gründer Jonathan Chester](https://anita.link/106).

@@ -12,7 +12,7 @@ Find a job or a client to earn Bitcoin for your work.
 Earn satoshis through finishing small tasks.
 * [Stakwork](https://stakwork.com)
 * [Microlancer](https://microlancer.io/)
-* [Sats 4 Likes](https://kriptode.com/satsforlikes/index.html)
+* [Sats 4 Likes](https://www.sats4likes.com/)
 
 ## Convert Your Wage
 * [Bitwage](https://www.bitwage.com/) as an employee or freelancer, you can earn your wage in bitcoin instead of fiat. Employers can use this service to pay their team in bitcoin too. [Interview with founder Jonathan Chester](https://anita.link/106).

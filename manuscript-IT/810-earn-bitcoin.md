@@ -12,7 +12,7 @@ Trova un impiego o un cliente per guadagnare Bitcoin in cambio del tuo lavoro.
 Guadagna satoshi eseguendo semplici lavoretti.
 * [Stakwork](https://stakwork.com)
 * [Microlancer](https://microlancer.io/)
-* [Sats 4 Likes](https://kriptode.com/satsforlikes/index.html)
+* [Sats 4 Likes](https://www.sats4likes.com/)
 
 ## Converti il tuo salario
 * [Bitwage](https://www.bitwage.com/), che tu sia dipendente o un freelancer, puoi ricevere il tuo compenso in bitcoin anziché in fiat. Anche i datori possono sfruttare questo servizio per pagare in bitcoin il proprio gruppo di lavoro. Ascolta [l’intervista col fondatore Jonathan Chester](https://anita.link/106).
