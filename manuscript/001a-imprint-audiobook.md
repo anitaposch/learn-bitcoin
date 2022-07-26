@@ -1,7 +1,7 @@
 
 (L)earn Bitcoin  
-Become Financially Sovereign 
-2nd Edition, August 2022  
+Become Financially Sovereign  
+2nd Edition, August 2022   
 
 Author: Anita Posch  
 

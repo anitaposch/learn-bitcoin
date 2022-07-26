@@ -1,7 +1,7 @@
 
 (L)earn Bitcoin  
-Become Financially Sovereign 
-2nd Edition, August 2022 
+Become Financially Sovereign  
+2nd Edition, August 2022   
 
 The original English edition titled *(L)earn Bitcoin - Become Financially Sovryn* was published in June 2021.
 
