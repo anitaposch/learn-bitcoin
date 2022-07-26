@@ -20,6 +20,7 @@ You are welcome to share parts of the book in media articles, on your personal w
 
 ISBN (hb): 978-3-9504591-6-6  
 ISBN (pb): 978-3-9504591-5-9  
-ISBN (ebook): 978-3-9504591-4-2
+ISBN (ebook): 978-3-9504591-4-2  
+ISBN: (audiobook): 978-3-9505043-5-4  
 
 **Get current information about the book online at https://learnbitcoin.link**
