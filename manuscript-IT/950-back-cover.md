@@ -8,4 +8,6 @@
 
 IMAGE https://blotcdn.com/blog_378314d0a9ec45bfa46b3bc7d3718410/_image_cache/33e02f7d-d199-46ab-89a0-9fa5b575ba2b.png
 
-Anita Posch è una sostenitrice di Bitcoin, autrice, imprenditrice e presentatrice di Anita Posch show. È la fondatrice di Bitcoin for Fairness – un’iniziativa educazionale non-profit.
+**TRANSLATE THIS PLEASE
+
+[Anita Posch](https://anitaposch.com/) is a Bitcoin advocate, author and host of the Anita Posch show. She is the executive director of Bitcoin for Fairness - an educational non-profit initiative.

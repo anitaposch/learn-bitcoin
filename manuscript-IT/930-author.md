@@ -1,7 +1,9 @@
 
 # Autrice
 
-Anita Posch è una sostenitrice di Bitcoin, autrice, imprenditrice e presentatrice dell'Anita Posch show. È la fondatrice di Bitcoin for Fairness – un’iniziativa educativa non-profit.
+**TRANSLATE THIS PLEASE
+
+[Anita Posch](https://anitaposch.com/) is a Bitcoin advocate, author and host of the Anita Posch show. She is the executive director of Bitcoin for Fairness - an educational non-profit initiative.
 
 L’obiettivo di Anita è di portare bitcoin a miliardi di persone tramite le sue attività educative. Ha sviluppato un podcast su Bitcoin, un canale YouTube, e ha scritto il libro (L)earn Bitcoin. Ha inoltre intervistato persone da tutto il mondo, comprese alcune provenienti da Paesi emergenti quali la Nigeria, il Sudafrica, il Venezuela e l’Afghanistan, sugli gli effetti di Bitcoin sulla libertà delle persone.
 
