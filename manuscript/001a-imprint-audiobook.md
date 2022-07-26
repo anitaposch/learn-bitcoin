@@ -9,11 +9,10 @@ Narrator: Kevin Hanssen
 
 Editor: Mark Kersley   
 
-Review:  .....
-Cover graphic:  ....
-Cover design:  Anita Posch
-Music: Late Truth by Audio Hertz
-
+Review:  .....  
+Cover graphic:  ....  
+Cover design:  Anita Posch  
+Music: Late Truth by Audio Hertz  
 
 Publisher: PoshMedia e.U., Seilerstaette 24, 4. Stock, 1010 Wien, Austria
 
