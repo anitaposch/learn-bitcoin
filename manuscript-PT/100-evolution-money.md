@@ -74,7 +74,7 @@ Em 2020, a dívida global aumentou incríveis 24 trilhões para 281 trilhões de
 ![Taxa dívida/PIB](resources/_Debt-to-GDP-ratio-2020.jpg)
 
 ### Bancos Centrais como Credores de Último Recurso
-Os bancos comerciais podem e têm pedido a ajuda do banco central como credores de última instância. Em 2008/2009, os bancos, responsáveis ​​pela crise financeira global, receberam o dinheiro do resgate. Eles foram resgatados porque eram "grandes demais para falir". E o que fizeram com o dinheiro? Eles compraram de volta ações em suas próprias empresas. Nada "escorregou" para baixo na economia. A distância entre ricos e pobres inevitavelmente se tornou cada vez maior.
+Os bancos comerciais podem e têm pedido a ajuda do banco central como credores de última instância. Em 2008/2009, os bancos, responsáveis pela crise financeira global, receberam o dinheiro do resgate. Eles foram resgatados porque eram "grandes demais para falir". E o que fizeram com o dinheiro? Eles compraram de volta ações em suas próprias empresas. Nada "escorregou" para baixo na economia. A distância entre ricos e pobres inevitavelmente se tornou cada vez maior.
 
 Os bancos centrais são chamados de credores de última instância. O objetivo é evitar perturbações econômicas como resultado de pânicos financeiros, e corridas aos bancos se espalhando de um banco para outro devido à falta de liquidez. Atores financeiros como os bancos sabem que os bancos centrais terão que salvá-los, o que leva ao risco moral – risco excessivo por parte de banqueiros e investidores.
 
@@ -168,7 +168,7 @@ Vamos comparar essas características com o sistema atual de criação de dinhei
 
 A desigualdade de riqueza tem aumentado nos últimos séculos, juntamente com a mercantilização e monetização dos recursos naturais. Nada fica para ser consumido. Estamos vivendo uma luta por recursos, por oportunidades iguais contra o establishment e as elites que se enriquecem com a corrupção e as vantagens financeiras.
 
-"Outro subproduto da crise financeira e do conluio do banco central foi o aumento da ansiedade econômica que gerou uma virada para o nacionalismo, do Brasil à Grã-Bretanha e aos Estados Unidos. O choque do Brexit no Reino Unido reverberou em todo o mundo como eleitores se afastou da liderança incumbente e de suas políticas econômicas fracassadas. Nos Estados Unidos, a vitória eleitoral de Donald Trump, o presidente bilionário 'antiestablishment', foi outra manifestação dessa tendência. Esses votos marcantes não foram causados ​​diretamente pela política do banco central, mas foram os efeitos." [^16]
+"Outro subproduto da crise financeira e do conluio do banco central foi o aumento da ansiedade econômica que gerou uma virada para o nacionalismo, do Brasil à Grã-Bretanha e aos Estados Unidos. O choque do Brexit no Reino Unido reverberou em todo o mundo como eleitores se afastou da liderança incumbente e de suas políticas econômicas fracassadas. Nos Estados Unidos, a vitória eleitoral de Donald Trump, o presidente bilionário 'antiestablishment', foi outra manifestação dessa tendência. Esses votos marcantes não foram causados diretamente pela política do banco central, mas foram os efeitos." [^16]
 
 A crescente divisão entre ricos e pobres é baseada em nosso atual sistema monetário, que é o verdadeiro esquema Ponzi. Os banqueiros centrais não são eleitos democraticamente, mas decidem o destino financeiro do mundo. Banqueiros e seus amigos estão lucrando com este sistema. É hora de uma alternativa: uma forma de dinheiro descentralizada, aberta, neutra, transparente, imutável, não inflável e colaborativa para as pessoas: Bitcoin.
 
@@ -188,7 +188,7 @@ O sistema monetário de hoje é construído sobre o Petrodólar. Lyn Alden descr
 
 A moeda fiduciária é um sistema monetário pelo qual não há nada de valor na própria moeda; é apenas papel, moedas baratas de metal ou bits digitais de informação. Elas tem valor porque o governo declara ter e que é moeda legal para pagar todas as coisas, incluindo impostos.
 
-Um país pode impor o uso de uma moeda fiduciária como meio de troca e unidade de conta dentro de seu país, tornando todos os impostos pagáveis ​​apenas nessa moeda, ou promulgando outras leis para adicionar atrito ou, em alguns casos, banir totalmente outras meios de troca e unidades de conta. Se a moeda deles tiver um problema grande o suficiente, como é o caso de muitos mercados emergentes, um mercado negro se desenvolverá para outros meios de troca, como moeda estrangeira ou ativos tangíveis.
+Um país pode impor o uso de uma moeda fiduciária como meio de troca e unidade de conta dentro de seu país, tornando todos os impostos pagáveis apenas nessa moeda, ou promulgando outras leis para adicionar atrito ou, em alguns casos, banir totalmente outras meios de troca e unidades de conta. Se a moeda deles tiver um problema grande o suficiente, como é o caso de muitos mercados emergentes, um mercado negro se desenvolverá para outros meios de troca, como moeda estrangeira ou ativos tangíveis.
 
 Uma moeda fiduciária pode enfrentar problemas específicos ao tentar ser usada fora de seu país de origem. Por que empresas e governos de outros países deveriam aceitar pedaços de papel, que podem ser impressos indefinidamente por um governo estrangeiro e não têm apoio firme, como forma de pagamento por seus valiosos bens e serviços? Sem um apoio real, o que vale a pena? Por que você venderia petróleo para estrangeiros em troca de papel?
 
@@ -196,7 +196,8 @@ No início da década de 1970, houve uma variedade de conflitos geopolíticos, i
 
 Estamos em guerras cambiais há muitas décadas. Qual moeda é mais forte? Qual país pode obter mais benefícios manipulando sua moeda? O Euro, o Dólar Americano, o Yuan Chinês? Ou até mesmo o Diem do Facebook? O dinheiro corporativo é o novo e forte jogador do mercado. Para manter seus poderes, os bancos centrais começaram a trabalhar em suas próprias moedas digitais (CBDCs).
 
-*Representação* [^19] ![Novas formas de dinheiro surgem](resources/_new-forms-money.png)
+*Representação* [^19]
+![Novas formas de dinheiro surgem](resources/_new-forms-money.png)
 
 Bitcoin é a nossa alternativa a este sistema. Proteger nossa privacidade nesta era digital, votar contra o abuso do poder monopolista no sistema atual e dar às pessoas que vivem em estados autoritários com governantes corruptos as mesmas oportunidades de participar do sistema econômico. Bitcoin é uma estratégia de defesa, uma ferramenta com a qual podemos preservar o direito humano à liberdade e privacidade transacionais.
 
