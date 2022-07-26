@@ -37,10 +37,11 @@ Para iOS e Android
 * [Electrum](https://electrum.org) (Bitcoin e Lightning sem custódia, para usuários mais experientes em tecnologia)
 
 **Carteiras de computador**
-Devido aos riscos de segurança mencionados acima, não uso carteiras de software em meu computador, exceto quando as uso em combinação com carteiras de hardware. Para isso, utilizo a Electrum ou o software nativo do fabricante do hardware.
+Devido aos riscos de segurança mencionados acima, não uso carteiras de software em meu computador, exceto quando as uso em combinação com carteiras de hardware. Para isso, utilizo a Sparrow ou o software nativo do fabricante do hardware.
 
 * [Blockstream Green](https://blockstream.com/green/) (Bitcoin sem custódia, Liquid)
 * [Blue Wallet](https://bluewallet.io/) (Bitcoin sem custódia e custódia da Lightning)
+* [Sparrow](https://sparrowwallet.com/) (Bitcoin sem custódia)
 * [Electrum](https://electrum.org) (Bitcoin e Lightning sem custódia, para usuários mais experientes em tecnologia)
 
 ### Armazenamento Frio (Cold Wallets)

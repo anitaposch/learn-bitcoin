@@ -37,10 +37,11 @@ Para iOS y Android
 * [Electrum](https://electrum.org)
 
 **Carteras de Escritorio**
-Debido a los riesgos de seguridad mencionados anteriormente, no uso carteras de software en mi computadora, excepto cuando las uso en combinación con carteras de hardware. Para ello, utilizo Electrum o el software nativo del fabricante del hardware.
+Debido a los riesgos de seguridad mencionados anteriormente, no uso carteras de software en mi computadora, excepto cuando las uso en combinación con carteras de hardware. Para ello, utilizo Sparrow o el software nativo del fabricante del hardware.
 
 * [Blockstream Green](https://blockstream.com/green/) (Bitcoin, Red Liquid)
 * [Blue Wallet](https://bluewallet.io/) (Bitcoin sin custodia pero con custodia para Lightning)
+* [Sparrow](https://sparrowwallet.com/) (Bitcoin sin custodia)
 * [Electrum](https://electrum.org) (Bitcoin y Lightning, para usuarios más expertos en tecnología)
 
 ### Almacenamiento en Frío

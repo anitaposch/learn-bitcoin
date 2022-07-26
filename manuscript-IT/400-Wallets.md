@@ -37,10 +37,11 @@ Per iOS e Android
 * [Electrum](https://electrum.org) (Bitcoin e Lightning non-custodial, per utenti più esperti)
 
 **Wallet per computer**  
-Considerati i rischi di sicurezza menzionati precedentemente, non uso wallet software nel mio computer, ad accezione di quelli in combinazione d’uso col wallet hardware, come ad esempio Electrum o il software nativo del produttore del wallet hardware.
+Considerati i rischi di sicurezza menzionati precedentemente, non uso wallet software nel mio computer, ad accezione di quelli in combinazione d’uso col wallet hardware, come ad esempio Sparrow o il software nativo del produttore del wallet hardware.
 
 * [Blockstream Green](https://blockstream.com/green/) (Bitcoin non-custodial, Liquid)
 * [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial e Lightning custodial)
+* [Sparrow](https://sparrowwallet.com/) (Bitcoin non-custodial)
 * [Electrum](https://electrum.org) (Bitcoin e Lightning non-custodial, per utenti più esperti)
 
 ### Cold Storage

@@ -37,10 +37,11 @@ Für iOS und Android
 * [Electrum](https://electrum.org) (Bitcoin und Lightning non-custodial, für technisch versiertere Nutzer)
 
 **Desktop-Wallets**
-Aufgrund der oben genannten Sicherheitsrisiken verwende ich keine Software-Wallets auf meinem Computer, es sei denn, ich verwende sie in Kombination mit Hardware-Wallets. Hierfür verwende ich Electrum oder die native Software des Hardware-Herstellers.
+Aufgrund der oben genannten Sicherheitsrisiken verwende ich keine Software-Wallets auf meinem Computer, es sei denn, ich verwende sie in Kombination mit Hardware-Wallets. Hierfür verwende ich Sparrow oder die native Software des Hardware-Herstellers.
 
 * [Blockstream Green](https://blockstream.com/green/) (Bitcoin non-custodial, Liquid)
 * [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial und Lightning custodial)
+* [Sparrow](https://sparrowwallet.com/) (Bitcoin non-custodial)
 * [Electrum](https://electrum.org) (Bitcoin und Lightning non-custodial, für technisch versiertere Nutzer)
 
 ### Cold Storage
