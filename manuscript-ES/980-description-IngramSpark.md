@@ -1,4 +1,8 @@
-Anita Posch es una defensora de Bitcoin, autora, emprendedora y presentadora del programa Anita Posch. El objetivo de Anita es llevar Bitcoin a miles de millones a través de su trabajo educativo. Anita tradujo al alemán dos volúmenes de The Internet of Money de Andreas M. Antonopoulos. En su podcast, ha entrevistado a personas de todo el mundo, incluidos algunos de países en desarrollo como Nigeria, Sudáfrica, Venezuela y Afganistán, sobre los efectos positivos de Bitcoin en la libertad de las personas.
+**TRANSLATE THIS PLEASE
+
+[Anita Posch](https://anitaposch.com/) is a Bitcoin advocate, author and host of the Anita Posch show. She is the executive director of Bitcoin for Fairness - an educational non-profit initiative.  
+
+El objetivo de Anita es llevar Bitcoin a miles de millones a través de su trabajo educativo. Anita tradujo al alemán dos volúmenes de The Internet of Money de Andreas M. Antonopoulos. En su podcast, ha entrevistado a personas de todo el mundo, incluidos algunos de países en desarrollo como Nigeria, Sudáfrica, Venezuela y Afganistán, sobre los efectos positivos de Bitcoin en la libertad de las personas.
 
 Antes de comenzar su trabajo educativo con Bitcoin en 2017, Anita obtuvo más de 20 años de experiencia en desarrollo web, comercio electrónico y negocios en línea.
 

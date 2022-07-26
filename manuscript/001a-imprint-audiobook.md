@@ -1,7 +1,7 @@
 
 (L)earn Bitcoin  
-Become Financially Sovryn  
-1st Edition, June 2021  
+Become Financially Sovereign 
+2nd Edition, August 2022  
 
 Author: Anita Posch  
 
@@ -10,9 +10,9 @@ Narrator: Kevin Hanssen
 Editor: Mark Kersley   
 
 Review:  .....  
-Cover graphic:  ....  
-Cover design:  Anita Posch  
-Music: Late Truth by Audio Hertz  
+Cover graphic:  Level39  
+Cover design: Anita Posch  
+Music: Late Truth by Audio Hertz (CC BY 3.0)  
 
 Publisher: PoshMedia e.U., Seilerstaette 24, 4. Stock, 1010 Wien, Austria
 

@@ -1,5 +1,8 @@
 # Credits
-**Special thanks to Sovryn** for contributing to the creation of this book (editing, typesetting, design, translations). 
+
+This is the 2nd edition of (L)earn Bitcoin with updates to the content, typesetting and the cover.
+
+**Special thanks to Sovryn** for contributing to the creation of the first edition of this book (editing, typesetting, design, translations) published in 2021.
 
 I would also like to thank the following people for lending their time and expertise: Exiledsurfer, Jameson Lopp, Nic Carter, Andreas M. Antonopoulos, Caitlin Long, Maya Zehavi, Lyn Alden, Alena Vranova, Thomas Voegtlin, Max Hillebrand, Hass McCook, Ryan Gentry, embarrassedOK, Erik24020105, Chris Chester, Johannes Grill, Daniel Pichler, Stephanie Jagl-Posch.
 
