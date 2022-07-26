@@ -75,7 +75,7 @@ RGB é um sistema de contrato inteligente, trabalhando na camada 2 e 3 em cima d
 
 Os possíveis casos de uso são:
 - Emitir ativos fungíveis digitais, como ações, títulos e outras formas de títulos
-- Crie diferentes formas de colecionáveis ​​(ativos não fungíveis)
+- Crie diferentes formas de colecionáveis (ativos não fungíveis)
 - Criar e gerenciar identidades soberanas/descentralizadas
 - Projete e execute outras formas de contratos inteligentes de complexidade arbitrária
 
