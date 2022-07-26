@@ -15,16 +15,19 @@ For more control you can estimate the fee and the confirmation speed on pages li
 Below you can see the settings in the Edge wallet. You can choose one of the ranges of the default transaction fee or a custom value.
 
 *Figure* [^75]
+{height: "70%"}
 ![Transaction fee settings in Edge wallet](resources/_transaction-fee-setting.png) 
 
 **Pending Transaction**
 Since new blocks are mined every 10 minutes, it will take an average of at least 10 minutes until your transaction is confirmed. If you set the transaction fee too low then your transaction might be pending for a longer period as the Mempool gets cleared and miners begin to re-include transactions with lower fees. Here you see one of my transactions that has been trapped in the Mempool for a month.
 
 *Figure* [^76]
+{height: "70%"}
 ![Pending transaction](resources/_Pending-transaction-edge.png) 
 You can look up the status of your transaction in a [Blockchain explorer](https://blockchair.com). As you can see below my transaction is 4,717 ranks away from being mined with a total of 41,610 transactions in the Mempool. I chose a fee of 5 sat per vbyte.
 
 *Figure* [^77]
+{height: "70%"}
 ![Transaction status as shown in blockexplorer](resources/_Pending-transaction-explorer.png) [^77]
 
 You do not need to follow the below steps to get your original transaction confirmed. Most low-fee transactions remain valid for days and will eventually confirm. However, there are two ways to solve the problem of the stuck transaction and get it confirmed sooner.
