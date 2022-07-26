@@ -52,7 +52,8 @@ Never trust email! Especially: never click on the links attached.
 
 Bookmark the real websites of official sites of Ledger, Shift Crypto, Trezor etc. or type the domain name yourself in the browser address bar and look up the SSL authentication certificate. The attackers will send you to a fake website that looks the same as the real one. The only difference is the URL. One of the new tricks is to use domains with Unicode characters that look the same as the real domain. For instance, can you notice the stain underneath the l of electrum? If you open that URL you see electrum.org, but are visiting xn--eectrum-9hb.org instead.
 
-![](resources/_phishing.png) [^71]
+*Figure* [^71]
+![](resources/_phishing.png) 
 
 Browsers like Opera and Chrome will warn you, but Firefox doesn't do this by default. You can change that by enabling "punycode" in Firefox, see [anita.link/puny](https://anita.link/puny).
 
