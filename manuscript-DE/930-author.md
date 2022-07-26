@@ -1,6 +1,6 @@
 # Autorin
 
-Anita Posch ist Bitcoin-Expertin, Autorin und Podcast-Gastgeberin. Sie ist Vorstandsmitglied des gemeinnützigen Vereines Bitcoin Austria.
+Anita Posch ist Bitcoin-Expertin, Autorin und Podcast-Gastgeberin. Sie ist Geschäftsführerin der Non-Profit Initiative Bitcoin for Fairness. 
 
 > "Bitcoin ist das wichtigste Werkzeug, das unser Menschenrecht auf Privatsphäre und Transaktionsfreiheit sichert. Es ist ein Instrument der Emanzipation für Milliarden Menschen und schützt unsere Persönlichkeitsrechte im digitalen Zeitalter." - **Anita Posch**
 
