@@ -3,14 +3,15 @@
 Become Financially Sovereign 
 2nd Edition, August 2022 
 
+The original English edition titled *(L)earn Bitcoin - Become Financially Sovryn* was published in June 2021.
+
 Author: Anita Posch  
 
 Publisher: PoshMedia e.U., Seilerstaette 24, 4. Stock, 1010 Wien, Austria    
 
 Editor: Mark Kersley   
-Typesetting: Anita Posch  
 Cover graphic: Level39   
-Cover design: Anita Posch    
+Cover design and typesetting: Anita Posch  
 
 Copyright 2022 by Anita Posch, all rights reserved.  
 
