@@ -24,6 +24,8 @@ This is neither financial advice, nor a trading guide to the thousands of Altcoi
 
 ## Recommended by
 
-[Anita Posch](https://anitaposch.com/) is a Bitcoin advocate, author, [podcaster](https://bitcoinundco.com/en/) and solopreneur. She is the founder of Bitcoin for Fairness - an educational non-profit initiative. Bitcoin is money from the people, for the people. Its mathematical rules can't be corrupted - neither by governments nor by billionaires. This guarantees a level of fairness which cannot be achieved in traditional human driven systems. It gives underprivileged individuals, such as people from developing nations, women, and oppressed minority groups, the chance to participate globally in a free and private manner with each other. This freedom to exchange value, unleashing people's creativity and innovation, is what drives Anita Posch.
+[Anita Posch](https://anitaposch.com/) is a Bitcoin advocate, author and host of the Anita Posch show. She is the executive director of Bitcoin for Fairness - an educational non-profit initiative. 
+
+Bitcoin is money from the people, for the people. Its mathematical rules can't be corrupted - neither by governments nor by billionaires. This guarantees a level of fairness which cannot be achieved in traditional human driven systems. It gives underprivileged individuals, such as people from developing nations, women, and oppressed minority groups, the chance to participate globally in a free and private manner with each other. This freedom to exchange value, unleashing people's creativity and innovation, is what drives Anita Posch.
 
 Subscribe to my free newsletter to (L)earn Bitcoin

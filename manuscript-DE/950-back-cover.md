@@ -4,8 +4,8 @@
 
 "Die besten Lehrenden sind Studierende. Seitdem Anita auf meinem Radar aufgetaucht ist, ist sie eine wissbegierige und einsichtsvolle Forscherin und Förderin von Bitcoins revolutionärer Technologie. Sie trennt die Spreu vom Weizen und schreibt mit der notwendigen Klarheit, Präzision und Simplizität, um ein komplexes, multidisziplinäres Themengebiet einfach zu erklären. Sovryns Mission ist Bitcoin unaufhaltbar zu machen. Daher sind wir stolz, die Publikation von (L)earn Bitcoin zu unterstützen." - **exiledsurfer, Gründer, Parallele Polis, Kommunikationsleiter bei SovrynBTC**
 
-"Anita Posch ist eine der produktivsten und fachkundigsten Stimmen in der Bitcoin-Welt. Ihre Arbeit macht Bitcoin verständlich, nachvollziehbar und spannend für Neulinge und unterstützt Sie auf ihrem Weg zum eigenen Know-How. In einem lauten und verwirrenden Umfeld ist ihr Schaffen sachlich und integer." - **Andreas M. Antonopoulos, Autor "Mastering Bitcoin" und "Das Internet des Geldes"**
+"Anita Posch ist eine der produktivsten und fachkundigsten Stimmen in der Bitcoin-Welt. Ihre Arbeit macht Bitcoin verständlich, nachvollziehbar und spannend für Neulinge und unterstützt Sie auf ihrem Weg zum eigenen Know-How. In einem lauten und verwirrenden Umfeld ist ihr Schaffen sachlich und integer." - **Andreas M. Antonopoulos, Autor "Mastering Bitcoin", "Mastering the Lightning Network" und "Das Internet des Geldes"**
 
 IMAGE https://blotcdn.com/blog_378314d0a9ec45bfa46b3bc7d3718410/_image_cache/33e02f7d-d199-46ab-89a0-9fa5b575ba2b.png
 
-Anita Posch ist Bitcoin-Expertin, Autorin und Podcast-Gastgeberin. Sie ist Vorstandsmitglied des gemeinnützigen Vereines Bitcoin Austria.
+Anita Posch ist Bitcoin-Expertin, Autorin und Podcast-Gastgeberin. Sie ist Geschäftsführerin der Non-Profit Initiative Bitcoin for Fairness. 

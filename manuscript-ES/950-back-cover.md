@@ -4,8 +4,10 @@
 
 "Los mejores profesores son los estudiantes. Desde el primer día que Anita apareció en mi radar, ha sido una investigadora y promotora curiosa y perspicaz de la tecnología revolucionaria de Bitcoin. Recogiendo trigo de la paja, escribe con sencillez, claridad y precisión necesaria para un tema complejo que exige experiencia en múltiples disciplinas. Sovryn se enorgullece de patrocinar la publicación de (L)earn Bitcoin (Ganar y Aprender con Bitcoin) como parte de nuestra misión de hacer que Bitcoin sea imparable". **"exiledsurfer", Fundador de "Parallele Polis" y líder de comunicaciones en @SovrynBTC**
 
-"Anita Posch es una de las voces alemanas más productivas y perspicaces en el espacio de Bitcoin. Su trabajo hace que Bitcoin sea accesible, comprensible y atractivo para aquellos que son nuevos en Bitcoin y les ayuda en su viaje para convertirse en expertos. En un entorno lleno de ruido, su trabajo es claro como el cristal y honesto".  **Andreas M. Antonopoulos, autor de "Mastering Bitcoin" y "The Internet of Money"**
+"Anita Posch es una de las voces alemanas más productivas y perspicaces en el espacio de Bitcoin. Su trabajo hace que Bitcoin sea accesible, comprensible y atractivo para aquellos que son nuevos en Bitcoin y les ayuda en su viaje para convertirse en expertos. En un entorno lleno de ruido, su trabajo es claro como el cristal y honesto".  **Andreas M. Antonopoulos, autor de "Mastering Bitcoin", "Mastering the Lightning Network" y "The Internet of Money"**
 
 IMAGEN https://blotcdn.com/blog_378314d0a9ec45bfa46b3bc7d3718410/_image_cache/33e02f7d-d199-46ab-89a0-9fa5b575ba2b.png
 
-Anita Posch es defensora de Bitcoin, autora, emprendedora y presentadora del programa Anita Posch. Es la fundadora de Bitcoin for Fairness, una iniciativa educativa sin ánimo de lucro.
+**TRANSLATE THIS PLEASE
+
+[Anita Posch](https://anitaposch.com/) is a Bitcoin advocate, author and host of the Anita Posch show. She is the executive director of Bitcoin for Fairness - an educational non-profit initiative.  

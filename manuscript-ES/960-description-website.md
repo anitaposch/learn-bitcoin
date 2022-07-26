@@ -24,7 +24,10 @@ Esto no representa ningún consejo financiero ni una guía comercial para las mi
 
 ## Recomendado por
 
-[Anita Posch](https://anitaposch.com/) es una defencsora de Bitcoin, autor, [productora de podcasts](https://bitcoinundco.com/en/) y emprendedora independiente. Ella es miembro de la junta de Bitcoin Austria, una organización educativa sin fines de lucro. 
+**TRANSLATE THIS PLEASE
+
+[Anita Posch](https://anitaposch.com/) is a Bitcoin advocate, author and host of the Anita Posch show. She is the executive director of Bitcoin for Fairness - an educational non-profit initiative.  
+
 Bitcoin es dinero del pueblo y para el pueblo. Sus reglas matemáticas no pueden ser corrompidas, ni por los gobiernos ni por los multimillonarios. Esto garantiza un nivel de equidad que no se puede lograr en los sistemas tradicionales impulsados manualmente por criterios humanos. Brinda a personas desfavorecidas, como personas de países en desarrollo, mujeres y grupos minoritarios oprimidos, la oportunidad de participar de un comercio realmente global de manera libre y privada entre ellos. Esta libertad para intercambiar valor, que da rienda suelta a la creatividad y la innovación de las personas, es lo que impulsa a Anita Posch.
 
 ¡Suscríbete a mi boletín gratuito para Ganar con Bitcoin!

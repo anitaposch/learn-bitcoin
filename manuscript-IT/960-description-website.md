@@ -24,6 +24,10 @@ Questa non è né una consulenza finanziaria né una guida per fare trading dell
 
 ## Consigliato da
 
-[Anita Posch](https://anitaposch.com/) è una sostenitrice di Bitcoin, autrice, [podcaster](https://bitcoinundco.com/en/) e imprenditrice individuale. È la fondatrice di Bitcoin for Fairness – un’iniziativa educazionale non-profit. Bitcoin è la moneta delle persone, per le persone. Le sue regole matematiche non possono essere corrotte – né dai governi né dai miliardari. Questo garantisce un livello di equità che non può essere ottenuto in sistemi tradizionali gestiti da umani. Provvede a fornire a individui sottoprivilegiati come persone provenienti da nazioni in via di sviluppo, donne e minoranze oppresse, la possibilità di partecipare globalmente in misura libera e privata tra di loro. Questa libertà di poter scambiare valore, liberare la creatività e l’innovazione delle persone, è ciò che motiva Anita Posch.
+**TRANSLATE THIS PLEASE
+
+[Anita Posch](https://anitaposch.com/) is a Bitcoin advocate, author and host of the Anita Posch show. She is the executive director of Bitcoin for Fairness - an educational non-profit initiative. 
+
+Bitcoin è la moneta delle persone, per le persone. Le sue regole matematiche non possono essere corrotte – né dai governi né dai miliardari. Questo garantisce un livello di equità che non può essere ottenuto in sistemi tradizionali gestiti da umani. Provvede a fornire a individui sottoprivilegiati come persone provenienti da nazioni in via di sviluppo, donne e minoranze oppresse, la possibilità di partecipare globalmente in misura libera e privata tra di loro. Questa libertà di poter scambiare valore, liberare la creatività e l’innovazione delle persone, è ciò che motiva Anita Posch.
 
 Iscriviti alla mia newsletter gratuita per imparare e guadagnare Bitcoin.
