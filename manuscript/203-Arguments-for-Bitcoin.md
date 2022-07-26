@@ -26,7 +26,9 @@ It's people in regions like Africa and South America who will drive Bitcoin adop
 
 **Hedge Against Inflation**
 This table by the International Monetary Fund shows the annual change of consumer prices in percent.
-![Inflation rate, average consumer prices, annual change in %](resources/_inflation-2021.png) [^58]
+
+*Figure* [^58]
+![Inflation rate, average consumer prices, annual change in %](resources/_inflation-2021.png) 
 
 * Venezuela saw prices increases by 5,500%. The suffering of the people is simply incomprehensible.
 * In Sudan the prices increased 200% in 2021 alone.
@@ -37,7 +39,8 @@ This table by the International Monetary Fund shows the annual change of consume
 
 From May 2020 to April 2021 the bitcoin trading volume in Nigeria increased by 40% from $287 million to $399 million. A 2020 survey shows that 32% of Nigerians who were interviewed had used or owned cryptocurrencies. Meanwhile, in developed democratic countries like Germany and the USA, only 5-6% have used or owned cryptocurrencies.
 
-![Trading volume on P2P Bitcoin exchanges in Sub-Saharan countries from May 2020 to April 2021](resources/_Nigeria-trading-volume-BTC.png) [^59]
+*Figure* [^59]
+![Trading volume on P2P Bitcoin exchanges in Sub-Saharan countries from May 2020 to April 2021](resources/_Nigeria-trading-volume-BTC.png) 
 
 Given these annual inflation rates, people know that they need to store their wealth in harder money like USD, and better still, Bitcoin. If you explain the differences of Bitcoin to local currencies in these countries, everybody understands immediately how and why Bitcoin can support them.
 
@@ -128,7 +131,8 @@ In 2014 Ryan Walker took the concepts of Darwin's theory of natural selection to
 
 > "The arrival of cryptographic-based currencies has enabled key new traits previously not possible with traditional forms of money. Furthermore, the realization of such traits will likely have a dramatic impact on the environment in which these currencies compete. Row 10 and 11 include the specie of cryptocurrency when rated against the traditional and newly realized traits of money." - **Ryan Walker**
 
-![The traits of money](resources/_table-characteristics-money.PNG)[^67]
+*Figure* [^67]
+![The traits of money](resources/_table-characteristics-money.PNG)
 This shows the degree to which gold, fiat, and cryptographic currencies fulfill the traditionally recognized traits of currency as well as the new traits made possible by the discovery of Bitcoin.
 
 As you can see, Bitcoin goes beyond the traditional framework of what money is. It's evolving into a completely new dimension of what money can do and from which applications will be built upon in the future.

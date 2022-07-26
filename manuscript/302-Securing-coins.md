@@ -11,7 +11,8 @@ To buy, use and store bitcoin, you will need:
 ### Bitcoin Wallet
 Think of a wallet like a public lock-box with multiple sections. Anyone can deposit money in each of the sections. Only the owner of the private keys can unlock a section and move the money it holds. Your Bitcoin wallet consists of all the sections and holds all the private keys to unlock them. Private keys and Bitcoin addresses are generated from the seed. The seed is the root of all keys and addresses, it's like a bucket in which all your private keys are stored.
 
-![Defining terms](resources/_seed-postbox.png) [^69]
+*Figure* [^69]
+![Defining terms](resources/_seed-postbox.png) 
 
 The wallet is an app on your phone or software on your computer, which handles everything in the background - your private keys, your addresses, and sending and receiving bitcoin.
 

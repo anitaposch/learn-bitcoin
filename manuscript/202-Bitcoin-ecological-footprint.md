@@ -1,7 +1,8 @@
 ### Bitcoin's Ecological Footprint
 _Bitcoin consumes a lot of electricity, which will increase our climate crisis and is irresponsible._
 
-![Newsweek article from 2017](resources/_Newsweek-2020-energy.png) [^35]
+*Figure* [^35]
+![Newsweek article from 2017](resources/_Newsweek-2020-energy.png) 
 
 The above screenshot is an article from Newsweek right in the middle of the 2017-2018 bull run. It is based on the work of Alex de Vries (Digiconomist), a former data analyst for the Dutch Central Bank. Many research papers and mainstream media articles are based on his false assumptions like comparing Bitcoin transactions' energy consumption to VISA payments and calculating a carbon footprint from this. I argue that a lot of this work is done to spread false claims in order to demonize Bitcoin.
 
@@ -9,25 +10,30 @@ The above screenshot is an article from Newsweek right in the middle of the 2017
 
 Let's dive into this. Bitcoin critics often mention that Bitcoin consumes more energy than the benefits it creates. It's undeniable that Bitcoin mining requires lots of electricity. It is estimated that between 80 and 118 TWh per year are used globally for mining which is equivalent to the entire power consumption of countries like the Netherlands.
 
-![Country ranking, March 2021](resources/_electricity-consumption-btc.png) [^36]
+*Figure* [^36]
+![Country ranking, March 2021](resources/_electricity-consumption-btc.png) 
 
 The world wastes a lot of electricity. The amount of electricity consumed every year by always-on but inactive home devices in the USA alone could power the Bitcoin network for 1.9 years. This means that the amount of energy wasted in the USA could almost power the Bitcoin network twice over, year-on-year. [^37]
 
 At the same time, two-thirds of all energy produced in the USA is lost. It's reasonable to assume that this is happening in all other parts of the world too.
 
-![Estimated US Energy Consumption in 2017 - Rejected Energy](resources/_Energy_US_2020.png) [^38]
+*Figure* [^38]
+![Estimated US Energy Consumption in 2017 - Rejected Energy](resources/_Energy_US_2020.png) 
 
 Notice that rejected energy accounts for around 62% of all electricity generation. Rejected energy is energy that is produced but ultimately does not go to useful work. To make matters worse, over time, this number has been increasing on a relative basis. In 1970 Lawrence Livermore National Laboratory found our proportion of rejected energy was around 48%. [^39]
 
 To put it another way, Bitcoin accounts for 0.54% of all electricity used globally.
-![The world's total electricity production, consumption and Bitcoin's share, March 2021](resources/_electricity-world-btc.png) [^40]
+
+*Figure* [^40]
+![The world's total electricity production, consumption and Bitcoin's share, March 2021](resources/_electricity-world-btc.png) 
 
 **Electricity Consumption Easy to Quantify**
 Bitcoin's transparency allows estimations of its energy demand quite in contrast to many other industries, where these data points are more obscure. Measured by electricity costs alone, we can assume that Bitcoin is [much more efficient](https://medium.com/@danhedl/pow-is-efficient-aa3d442754d3) than traditional banking and gold mining on a global scale.
 
 Bitcoin mining’s estimated dollar cost per Gigajoule expended is 40 times more efficient than that of traditional banking and 10 times more efficient than that of gold mining.
 
-![Comparing energy expenditure across monetary and banking systems](resources/_energy-efficiency-ARK.png) [^41]
+*Figure* [^41]
+![Comparing energy expenditure across monetary and banking systems](resources/_energy-efficiency-ARK.png) 
 
 **Why Does Bitcoin Need This Amount of Electricity**
 The proof-of-work mining mechanism is a fundamental feature that secures the independence, neutrality and automated integrity of the network. It is the most secure way to prevent attacks on the assets worth over 600 billion USD that are locked in the network. (BTC market cap, June 2021)
@@ -47,19 +53,23 @@ The second wrong assumption is to extrapolate linearly and say that, if it takes
 **Assumption 3: Comparing VISA to Bitcoin**
 A Bitcoin on-chain transaction cannot be compared with a VISA payment. It is not the same. In traditional banking there are various layers of settlement, meaning they differ in their level of security and finalization. Let's take the example of the US system, which is comparable globally. The base layer is Fedwire, CHIPS and SWIFT networks, while debit card and credit card payments operate one or two levels above with many intermediaries. The base layer of Bitcoin has to be compared with Fedwire, CHIPS and SWIFT. Only second-layer solutions like fast, micropayments on the Lightning Network can be compared with VISA.
 
-![False comparison between a bitcoin transaction and VISA](resources/_VISA-BTC-comparison.png) [^43]
+*Figure* [^43]
+![False comparison between a bitcoin transaction and VISA](resources/_VISA-BTC-comparison.png) 
 
 Let's take a look at the average transaction volume of VISA and Bitcoin.
 
-![Average value of a single credit card transaction worldwide in 2012, USD](resources/_average-VISA-transaction.png) [^44]
+*Figure* [^44]
+![Average value of a single credit card transaction worldwide in 2012, USD](resources/_average-VISA-transaction.png)
 
-![Average value of a single Bitcoin transaction](resources/_average-transaction-value-bitcoin.png) [^45]
+*Figure* [^45]
+![Average value of a single Bitcoin transaction](resources/_average-transaction-value-bitcoin.png) 
 
 The average bitcoin transaction value was 258,766 USD on April 21st, 2021, while the average VISA transaction was 91 USD in 2012. Bitcoin transactions transport magnitudes more value in comparison to credit card payments. Assuming Bitcoin gains mass adoption then it might one day settle millions of dollars worth like the Fedwire system at very low fees compared to the banking system.
 
 The average transaction value per Fedwire transfer was 4.5 million USD in February 2021. [^46]
 
-![Settlement of banking versus Bitcoin](resources/_settlement-compared.png) [^^47]
+*Figure* [^47]
+![Settlement of banking versus Bitcoin](resources/_settlement-compared.png) 
 
 Bitcoin transactions are settled every 10 minutes, 24 hours per day, 365 days per year. Compare this to ACH transactions which can take up to two years to be finally settled. [^48] Not to forget: Bitcoin and Lightning transactions are permissionless and trustless while the traditional payment system only works because intermediaries take custody of fraud and chargebacks.
 
@@ -78,7 +88,9 @@ Bitcoin miners are fairly well distributed across the globe. While it is easy to
 The question is not how much energy is required, but how is electricity produced? How much CO2 is emitted? If we decide as a society that we don't want polluting energy, then we should regulate the production of energy and not allow the use of polluting systems. This is about regulating energy production and not about regulating the consumption of energy in one particular sector of the economy which happens to be Bitcoin.
 
 Bitcoin uses a higher amount of electricity from renewables than the grid in China the USA and the wider world.
-![Electricity Mix, Bitcoin vs. China vs. USA vs. The World, 2020](resources/_Bitcoin-electricity-sources.jpg) [^50]
+
+*Figure* [^50]
+![Electricity Mix, Bitcoin vs. China vs. USA vs. The World, 2020](resources/_Bitcoin-electricity-sources.jpg) 
 
 **Carbon Emissions**
 Some research has tried to assess the carbon emission flows and sustainability of Bitcoin through estimating future demand, based on false assumptions. One paper for instance is claiming that: "the annual energy consumption of the Bitcoin blockchain in China is expected to peak in 2024 at 296.59 Twh and generate 130.50 million metric tons of carbon emission correspondingly." [^51]
@@ -87,7 +99,8 @@ Some research has tried to assess the carbon emission flows and sustainability o
 
 Based on the [work of Hass McCook](https://bitcoinmagazine.com/business/bitcoin-vs-financial-sector-energy-use) Bitcoin emits less than 2% of the world's military-industrial complex and less than 5% of the legacy financial sector's carbon emissions. The annual global greenhouse gas emissions are approx. 50,000 million ton carbon dioxide equivalent. Bitcoin emits only 0.11% of those.
 
-![Annual Greenhouse Gas Emissions, Hass McCook, June 2021](resources/_annual-GHG-emissions2021.png.png) [^53]
+*Figure* [^53]
+![Annual Greenhouse Gas Emissions, Hass McCook, June 2021](resources/_annual-GHG-emissions2021.png.png) 
 
 **Final Assumption: Bitcoin Isn't Useful, Therefore Any Use of Energy for a Bitcoin Is Wasteful**
 
@@ -95,7 +108,8 @@ If you decide Bitcoin isn't useful, then this is a very subjective opinion. Bitc
 
 We can light up billions of Christmas lights every year for a display of Christmas spirit, which might be completely pointless for billions of people of other beliefs. The number one use of energy in the United States, for example, outside of civilian markets is the Department of Defense. The US government uses enormous amounts of energy and is the largest polluter in the country, arguably for no legitimate reason other than seeking extreme control.
 
-![US military emits more CO2 than many nations](resources/_military-co2.png) [^54]
+*Figure* [^54]
+![US military emits more CO2 than many nations](resources/_military-co2.png) 
 
 This leads back to the chapter about the Petrodollar, the linkage between the US dollar and the OPEC, which makes the USA the globally dominant powerhouse and is secured by the US military and wars in the Gulf region.
 
