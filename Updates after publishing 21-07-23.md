@@ -1,4 +1,4 @@
-test change on mac
+test change
 ----
 in 100-evolution-money.md last paragraph changed defence to defense
 
