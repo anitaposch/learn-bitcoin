@@ -9,5 +9,5 @@ A>				**Satoshi Nakamoto**
 
 9 de junho de 2021
 
-Algumas horas atrás, eu estava ao vivo no Twitter Spaces junto com 20.000 Bitcoiners e o presidente de El Salvador quando o congresso do país votou pela adoção do bitcoin como moeda legal, tornando-o o primeiro país do mundo a fazê-lo. Coincidentemente também estou terminando o manuscrito deste livro hoje. Que momento incrível para estar vivo e estou honrado por poder contribuir com esse movimento através da educação sobre o Bitcoin. Ao pegar este livro e compartilhá-lo com seus amigos, estamos acelerando a revolução monetária em direção a mais liberdade e soberania individual.
+Algumas horas atrás, eu estava ao vivo no Twitter Spaces junto com 20.000 Bitcoiners e o presidente de El Salvador quando o congresso do país votou pela adoção do bitcoin como moeda legal, tornando-o o primeiro país do mundo a fazê-lo. Coincidentemente também estou terminando o manuscrito deste livro hoje. Que momento incrível para estar viva e estou honrada por poder contribuir com esse movimento através da educação sobre o Bitcoin. Ao pegar este livro e compartilhá-lo com seus amigos, estamos acelerando a revolução monetária em direção a mais liberdade e soberania individual.
 					**Anita Posch**
