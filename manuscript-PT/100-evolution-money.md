@@ -21,7 +21,7 @@ Em um pagamento tradicional existem até sete intermediários até que o pagamen
 - Bitcoin, como o protocolo da internet, é um bem comum: pertence a todos, não a uma única entidade, como uma empresa.
 - As regras do Bitcoin são aplicadas pelo consenso programado e seguro de todas as partes envolvidas.
 
-Bitcoin é o dinheiro das pessoas. Bitcoin é a evolução do dinheiro. É uma continuação do processo perpétuo de descoberta de dinheiro novo que sempre fez parte da história da humanidade. Ao longo dos milênios, várias novas formas de dinheiro foram encontradas e usadas, desde uma troca direta entre pessoas a um sistema de crédito em padrão-ouro, a moeda fiduciária ao atual sistema inflacionário sem lastro de hoje. O sistema bancário e monetário como o conhecemos hoje existe e evoluiu por cerca de 300 anos. É natural que, com o surgimento de uma nova forma de comunicação via internet, surja uma nova forma de economia e um novo tipo de dinheiro, o dinheiro nativo da internet.
+Bitcoin é o dinheiro das pessoas. Bitcoin é a evolução do dinheiro. É uma continuação do processo perpétuo de descoberta de dinheiro novo que sempre fez parte da história da humanidade. Ao longo dos milênios, várias novas formas de dinheiro foram encontradas e usadas, desde uma troca direta entre pessoas até um sistema de crédito no padrão-ouro, da moeda fiduciária ao atual sistema inflacionário sem lastro de hoje. O sistema bancário e monetário como o conhecemos hoje existe e evoluiu por cerca de 300 anos. É natural que, com o surgimento de uma nova forma de comunicação via internet, surja uma nova forma de economia e um novo tipo de dinheiro, o dinheiro nativo da internet.
 
 *Representação* [^2]
 ![História do dinheiro](resources/_money-history.png)
