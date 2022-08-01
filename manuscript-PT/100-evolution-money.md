@@ -28,7 +28,7 @@ Bitcoin é o dinheiro das pessoas. Bitcoin é a evolução do dinheiro. É uma c
 
 O dinheiro criptográfico programável ou a "Internet do Dinheiro" - como diz Andreas M. Antonopoulos - é imparável. Estamos no início de uma nova era na história da humanidade.
 
-## Rai Stones of Yap
+## Pedras Rai de Yap
 Se o Bitcoin parece incompreensível e você não consegue entender o conceito de blockchain como um livro razão compartilhado, as pedras Rai da Ilha de Yap é um bom exemplo para introduzir alguns conceitos sobrepostos.
 
 Rai são grandes discos de pedra usados na ilha Yap no Pacífico Ocidental (Micronésia). Eles foram "cunhados" dos depósitos de calcário da ilha de Palau e usados como moeda até o século XX.
