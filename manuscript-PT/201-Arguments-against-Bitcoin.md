@@ -4,7 +4,7 @@
 
 _Bitcoin é volátil, você não pode usá-lo como meio de troca._
 
-Sim, o preço do bitcoin é volátil, pode perder ou ganhar muito valor em um único dia. Se você quiser pagar por algo em bitcoin, ainda poderá fazê-lo. Basta trocar o mesmo valor que você gastou de fiat de volta para bitcoin no mesmo dia. Sem volatilidade, sem perda ou ganho.
+Sim, o preço do bitcoin é volátil, pode perder ou ganhar muito valor em um único dia. Se você quiser pagar por algo em bitcoin, ainda poderá fazê-lo. Basta trocar o mesmo valor que você gastou em fiat de volta para bitcoin no mesmo dia. Sem volatilidade, sem perda ou ganho.
 
 ### Desenvolvimento de preços
 _Bitcoin não é uma reserva de valor devido a suas mudanças de preço._
