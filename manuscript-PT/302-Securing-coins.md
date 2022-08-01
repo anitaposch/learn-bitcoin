@@ -27,7 +27,7 @@ Digitar 34 dígitos é obviamente muito impraticável, portanto, os códigos QR 
 
 ![endereço BTC como código QR](resources/_address-book.PNG)
 
-Bitcoin é um pseudônimo, o que significa que não é necessário conectar seu endereço de e-mail ou identificação pessoal a uma carteira. No entanto, a blockchain Bitcoin é transparente, o que significa que seus endereços Bitcoin podem ser vistos publicamente na Internet. Por exemplo, você pode procurá-lo no Blockcypher e ver todas as transações e valores atuais. Aqui está um link de exemplo: [https://anita.link/explorer](https://anita.link/explorer)
+Bitcoin é pseudônimo, o que significa que não é necessário conectar seu endereço de e-mail ou identificação pessoal a uma carteira. No entanto, a blockchain Bitcoin é transparente, o que significa que seus endereços Bitcoin podem ser vistos publicamente na Internet. Por exemplo, você pode procurá-lo no Blockcypher e ver todas as transações e valores atuais. Aqui está um link de exemplo: [https://anita.link/explorer](https://anita.link/explorer)
 
 Portanto, por motivos de privacidade, não compartilhe seus endereços Bitcoin em conexão com sua identidade na internet. A privacidade também é a razão pela qual você não deve reutilizar endereços. A maioria das carteiras Bitcoin fornece automaticamente novos endereços para cada transação.
 
