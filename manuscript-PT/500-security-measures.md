@@ -95,7 +95,7 @@ Isso parece ótimo, mas também há riscos envolvidos.
 1. Como a senha não é armazenada automaticamente em nenhum lugar, você precisa tomar **todas as precauções necessárias** para garantir que a senha permaneça segura e acessível, por exemplo, fazendo um backup físico.
 2. Se a senha for perdida, você **não poderá mais acessar essa carteira** e quaisquer moedas armazenadas nessa carteira ficarão inacessíveis.
 
-Com uma senha, você não precisa apenas armazenar sua seed, mas também a senha. Agora você precisa encontrar armazenamento seguro de longo prazo para a seed. E a senha, o que torna o processo mais complicado. Esteja ciente: para restaurar uma carteira desse tipo, você precisaria da sua semente E da senha que você usou para essa carteira para restaurar o acesso aos fundos.
+Com uma senha, você não precisa apenas armazenar sua seed, mas também a senha. Agora você precisa encontrar armazenamento seguro de longo prazo para a seed. E a senha, o que torna o processo mais complicado. Esteja ciente: para restaurar uma carteira desse tipo, você precisaria da sua semente e da senha que você usou para essa carteira para restaurar o acesso aos fundos.
 
 Como os ataques físicos acontecem raramente, armazenar a seed com o método 3-2-1 deve ser suficiente.
 
@@ -112,27 +112,29 @@ A melhor hora para fazer isso geralmente é no fim de semana, quando o Mempool n
 Use um software de carteira diferente, reinstale a seed da carteira A para a carteira B, use a seed em dispositivos diferentes. Você se sentirá cada vez mais seguro mantendo as habilidades.
 
 ### Endereço de recebimento de teste
-Antes de enviar uma grande quantia pela primeira vez, certifique-se de que o endereço é realmente do destinatário e faça uma pequena transação de teste. Sempre verifique o endereço Bitcoin duas ou três vezes antes de enviar a transação. Compare o primeiro e o último dígito do endereço. Bitcoin que você envia para um endereço incorreto são perdidos.
+Antes de enviar uma grande quantia pela primeira vez, certifique-se de que o endereço é realmente do destinatário e faça uma pequena transação de teste. Sempre verifique o endereço Bitcoin duas ou três vezes antes de enviar a transação. Compare o primeiro e o último dígito do endereço. Bitcoins que você envia para um endereço incorreto são perdidos.
 
 ### Teste sua carteira de hardware
 
-Antes de economizar grandes quantias em uma nova carteira de hardware, você deve verificar a funcionalidade e a seed.
+Antes de guardar grandes quantias em uma nova carteira de hardware, você deve verificar a funcionalidade e a seed.
 
 Quando você configura o dispositivo inicialmente, ele cria a seed pra você e você anota à mão (além do fornecedor, modelo e versão do software). Depois, você usa o software do fornecedor (ou outro software como o Electrum) e cria o primeiro endereço Bitcoin em sua carteira de hardware clicando em "Receber". Em seguida, envie uma pequena quantia para ele da carteira do smartphone instalada anteriormente. Se a quantia na carteira de hardware chegou -status "confirmado" - o primeiro teste foi bem-sucedido.
 
 Além disso, tente enviar da sua carteira de hardware para outra carteira. Por exemplo, você pode enviar uma pequena quantia para sua carteira de smartphone ou outro endereço de sua carteira de hardware. Não importa particularmente. O principal é que você também está testando um pagamento da carteira de hardware. Para fazer isso, você deve verificar o endereço de recebimento na carteira de hardware e confirmar o envio com um ou mais cliques diretamente na carteira de hardware. Essa confirmação manual no dispositivo torna as carteiras de hardware seguras, pois somente você pode pressionar os botões e ninguém pode pressionar os botões virtualmente pela Internet.
 
 **Restaure sua carteira**
+
 Em seguida, certifique-se de ter seu backup/seed! Depois, exclua todos os dados da sua carteira de hardware. Alguns fornecedores chamam isso de "redefinição de fábrica", "limpar" ou "redefinir o dispositivo". Sua carteira está vazia. Agora restaure seus fundos e carteira com a seed. Isso é chamado de "Restaurar da palavra de recuperação", "Restaurar carteira" ou "Importar seed". Em seguida, insira sua frase inicial no dispositivo de hardware. Se tudo estiver correto, a carteira é restaurada e você pode ver suas transações e saldo anteriores.
 
 **Atualizar firmware e software**
+
 Não basta bloquear o dispositivo. Você deve procurar atualizações para o software ou atualizações de firmware pelo menos a cada 6 meses. O espaço criptográfico está se movendo rapidamente e novos desenvolvimentos são integrados ao software de carteira regularmente.
 
 ## Smartphone perdido? Computador roubado?
 
 ### Perda, roubo ou mau funcionamento do seu dispositivo
 
-Se seu dispositivo for roubado, lembre-se de que seu bitcoin ainda está listado no blockchain sob sua chave privada. Como você definiu um PIN de acesso para a carteira, o ladrão não poderá abri-la. No entanto, eles ainda tentarão encontrar uma maneira de decifrar seu PIN.
+Se seu dispositivo for roubado, lembre-se de que seu bitcoin ainda está no blockchain sob sua chave privada. Como você definiu um PIN de acesso para a carteira, o ladrão não poderá abri-la. No entanto, eles ainda tentarão encontrar uma maneira de decifrar seu PIN.
 
 Você deve instalar imediatamente uma nova carteira e importar a semente que manteve em segurança para recuperar o acesso aos seus fundos (consulte "restaurar sua carteira"). Em seguida, mova as moedas de sua carteira roubada para um novo endereço Bitcoin em sua nova carteira assim que puder, repetindo os mesmos procedimentos de configuração de segurança para a nova carteira.
 
