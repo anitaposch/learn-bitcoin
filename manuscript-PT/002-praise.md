@@ -16,7 +16,7 @@
 **Michael Peterson, Bitcoin Beach, El Salvador**
 ***
 "Os melhores professores são alunos. Desde o primeiro dia em que Anita apareceu no meu radar, ela tem sido uma pesquisadora curiosa, perspicaz e promotora da tecnologia revolucionária do Bitcoin. Separando o trigo do joio, ela escreve com a simplicidade, clareza e precisão necessárias para um tópico complexo que exige experiência em várias disciplinas. A Sovryn tem orgulho de patrocinar a publicação de Aprenda Bitcoin como parte de nossa missão de tornar o Bitcoin imparável."
-**exiledsurfer, fundador, Parallele Polis, líder de comunicação da SovrynBTC**
+**Exiledsurfer, fundador, Parallele Polis, líder de comunicação da SovrynBTC**
 ***
 "Não é uma tarefa simples explicar o Bitcoin, o novo elefante na sala das finanças. Como cegos, especialistas muitas vezes limitam sua descrição a um campo estreito de especialização. O ângulo de ataque de Anita é holístico, sintético e claro. Traz um novo olhar para o 'dinheiro do povo'."
 **Thomas Voegtlin, Fundador e CEO, Electrum**
