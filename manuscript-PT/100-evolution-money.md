@@ -74,7 +74,7 @@ Em 2020, a dívida global aumentou dos incríveis 24 trilhões para 281 trilhõe
 ![Taxa dívida/PIB](resources/_Debt-to-GDP-ratio-2020.jpg)
 
 ### Bancos Centrais como Credores de Último Recurso
-Os bancos comerciais podem e têm pedido a ajuda do banco central como credores de última instância. Em 2008/2009, os bancos, responsáveis pela crise financeira global, receberam o dinheiro do resgate. Eles foram resgatados porque eram "grandes demais para falir". E o que fizeram com o dinheiro? Eles compraram de volta ações em suas próprias empresas. Nada "escorregou" para baixo na economia. A distância entre ricos e pobres inevitavelmente se tornou cada vez maior.
+Os bancos comerciais podem e têm pedido a ajuda do banco central como credores de última instância. Em 2008/2009, os bancos, responsáveis pela crise financeira global, receberam o dinheiro do resgate. Eles foram resgatados porque eram "grandes demais para falir". E o que fizeram com o dinheiro? Eles compraram de volta ações em suas próprias empresas. Nada "escorregou" na economia. A distância entre ricos e pobres inevitavelmente se tornou cada vez maior.
 
 Os bancos centrais são chamados de credores de última instância. O objetivo é evitar perturbações econômicas como resultado de pânicos financeiros, e corridas aos bancos se espalhando de um banco para outro devido à falta de liquidez. Atores financeiros como os bancos sabem que os bancos centrais terão que salvá-los, o que leva ao risco moral – risco excessivo por parte de banqueiros e investidores.
 
