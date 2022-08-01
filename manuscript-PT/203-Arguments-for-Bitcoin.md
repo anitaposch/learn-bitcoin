@@ -62,6 +62,7 @@ Países com economias fracas e democracias defeituosas usam controles cambiais p
 * Em 2020, até 1 bilhão de dólares foram enviados como remessas para o Zimbábue. Mais de um terço da população depende de remessas de parentes no exterior. Muitos zimbabuenses vivem na África do Sul e do dinheiro que enviam, até 20-30% são perdidos através de taxas bancárias e taxas de câmbio oficiais. [^60]
 
 **Barreiras para Mulheres**
+
 Usar uma conta bancária básica está além do alcance de quase um bilhão de mulheres em todo o mundo. Graus variados de desigualdade de gênero permitidos ou exigidos por lei negam às mulheres a participação financeira total em muitos países ao redor do mundo. Dependendo do país, as mulheres são discriminadas nas leis de herança e são obrigadas a obter permissão do marido para trabalhar legalmente, obter uma conta bancária, registrar um negócio ou assinar um contrato; muitas mulheres são proibidas de entrar em certas profissões. As mulheres também podem achar mais difícil acessar carteiras de identidade legais devido a leis existentes ou requisitos de registro restritivos, e essa identificação é geralmente necessária para usar produtos e serviços financeiros.
 
 Outros obstáculos que impedem as mulheres de acessar serviços financeiros são a necessidade de viajar longas distâncias, o risco de serem roubadas ao acessar dinheiro e a falta de privacidade que lhes permitiria proteger suas economias de outras pessoas.
@@ -114,12 +115,15 @@ De acordo com Jevons, o Bitcoin só é dinheiro se cumprir essas funções:
 Fonte: https://en.wikipedia.org/wiki/Money
 
 **1. Reserva de valor**
+
 Os críticos dizem que o bitcoin não é uma reserva de valor devido à sua volatilidade e potencial para perdas de curto prazo. Bem, como expus no capítulo 3.1, a longo prazo esse não é realmente o caso. Além disso, questiono a definição de "estável ao longo do tempo". Qual é o período de tempo? A inflação em moeda fiduciária na Áustria foi de 20% na última década. Todas as outras moedas fiduciárias, como o Euro, são reservas de valor igualmente não confiáveis por esse motivo.
 
 **2. Meio de troca**
+
 Você pode usar bitcoin como meio de troca, se quiser. Sim, há apenas um pequeno número de empresas, serviços e restaurantes que aceitam bitcoin como pagamento no momento da redação. Mas, para fazer isso, você pode usar diferentes ferramentas e serviços que você pode preencher com bitcoin e gastar em moeda fiduciária. Além disso, existem muitas empresas dentro do espaço que já aceitam e pagam salários em bitcoin também.
 
 **3. Meio da conta**
+
 O dinheiro fiduciário é obrigado a ser o meio de conta por lei. Simplesmente não temos escolha. Bitcoin é baseado em uso voluntário, é opt-in; se especularmos que o valor está subindo, não vamos gastá-lo. Como a volatilidade do bitcoin se torna menor ao longo do tempo, um dia o valor atingirá um patamar e as pessoas começarão a gastar bitcoin. Ainda antes disso, mais e mais empresas começarão a aceitar o bitcoin, pois confiarão que ele não perde valor, mas valoriza.
 
 Uma nova forma de dinheiro que não é imposta a nós, mas é um opt-in, tem que passar por certas etapas nessa ordem: primeiro, tem que se tornar uma reserva de valor, então a confiança tem que ser construída, então as pessoas vão usá-lo como meio de troca. Só então será usado como meio de conta.
