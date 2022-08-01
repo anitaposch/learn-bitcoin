@@ -64,7 +64,9 @@ Nunca compre uma carteira de hardware de estranhos no eBay ou Amazon e, claro, n
 Além do dispositivo, o fornecedor fornece software de carteira para gerenciar suas moedas. Por questões de privacidade, muitos usuários pegam a carteira do fornecedor apenas para fazer a inicialização e backup do dispositivo (anotar a seed) e para atualizações de firmware. Depois disso, eles usam uma carteira como a Electrum para gerenciar as moedas.
 
 **Carteiras off-line**
+
 **Carteira de papel**
+
 Na internet, você encontrará recomendações para usar carteiras de papel. Eles são endereços bitcoin autogerados com suas chaves privadas e públicas que você pode imprimir em papel. Como você mesmo os gera e imprime, não precisa gastar dinheiro com eles. Mas, eles são difíceis de gerar com segurança. As medidas de segurança que você precisa tomar são extremamente altas. **Aconselho não usá-los**.
 
 Realmente, se você não quiser pagar os 50 - 100 USD necessários para comprar uma carteira de hardware para garantir valores mais altos do que você carrega confortavelmente em seu telefone, você deve reconsiderar o uso do bitcoin como uma reserva de valor em primeiro lugar.
