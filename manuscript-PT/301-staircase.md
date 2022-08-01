@@ -26,17 +26,25 @@ Stephanie Murphy, co-apresentadora do podcast "Speaking of Bitcoin", enquadra o 
 *Representação* [^68]
 ![3 passos para a soberania financeira](resources/_staircase-sovereignty-3-steps.png)
 
-**Térreo** Você é um pré-coiner, já que está lendo meu livro, deve estar interessado em Bitcoin, mas não possui nenhum.
+**Térreo** 
 
-**1º andar** Você está conhecendo o BTC com uma solução de custódia em uma exchange centralizada, mas não controla nenhuma das chaves. Você tem alguma independência porque está investido em uma criptomoeda e não mais apenas em moeda fiduciária. Mas não é muita independência porque você depende de um terceiro, que vem com os riscos de contraparte mencionados acima. Você está no nível **"sem suas chaves, sem suas moedas"**.
+Você é um pré-coiner, já que está lendo meu livro, deve estar interessado em Bitcoin, mas não possui nenhum.
+
+**1º andar** 
+
+Você está conhecendo o BTC com uma solução de custódia em uma exchange centralizada, mas não controla nenhuma das chaves. Você tem alguma independência porque está investido em uma criptomoeda e não mais apenas em moeda fiduciária. Mas não é muita independência porque você depende de um terceiro, que vem com os riscos de contraparte mencionados acima. Você está no nível **"sem suas chaves, sem suas moedas"**.
 
 O ideal é pular o primeiro andar e ir para o segundo andar o mais rápido possível.
 
-**2º andar** Você assume o controle de suas chaves e as armazena de forma segura em uma carteira sem custódia que lhe dá sua seed. Este é um grau muito maior de soberania financeira. Você pode fazer isso com uma carteira móvel em seu smartphone para pequenas quantias ou - a melhor maneira e altamente recomendada - com uma carteira de hardware para quantias maiores. Você atinge o nível **"suas chaves, suas moedas"**. Você atingiu um nível muito alto de independência.
+**2º andar**
+
+Você assume o controle de suas chaves e as armazena de forma segura em uma carteira sem custódia que lhe dá sua seed. Este é um grau muito maior de soberania financeira. Você pode fazer isso com uma carteira móvel em seu smartphone para pequenas quantias ou - a melhor maneira e altamente recomendada - com uma carteira de hardware para quantias maiores. Você atinge o nível **"suas chaves, suas moedas"**. Você atingiu um nível muito alto de independência.
 
 A partir daqui, as etapas são para usuários experientes. Eles lhe dão ainda mais soberania, privacidade e controle sobre seu bitcoin.
 
-**3º andar** Você obtém total soberania sobre seus fundos conectando sua carteira de hardware com seu próprio nó completo. Com essa configuração, você pode não apenas visualizar e receber informações sobre suas transações, mas também verificar blocos e transações minerados sem depender de terceiros. Você não precisa mais confiar em mais ninguém e tem um alto nível de privacidade e controle. **"Você é seu próprio banco"** e agora atingiu o nível **"Não confie, verifique"**.
+**3º andar** 
+
+Você obtém total soberania sobre seus fundos conectando sua carteira de hardware com seu próprio nó completo. Com essa configuração, você pode não apenas visualizar e receber informações sobre suas transações, mas também verificar blocos e transações minerados sem depender de terceiros. Você não precisa mais confiar em mais ninguém e tem um alto nível de privacidade e controle. **"Você é seu próprio banco"** e agora atingiu o nível **"Não confie, verifique"**.
 
 Você pode levar essas medidas de segurança e independência ainda mais longe com soluções air-gapped, configurações multi-sig e muito mais.
 
