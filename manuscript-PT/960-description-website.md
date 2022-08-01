@@ -1,8 +1,8 @@
-- [Autor](https://learnbitcoin.link/#autor)
+- [Autora](https://learnbitcoin.link/#autor)
  - [Introdução](https://learnbitcoin.link/#intro)
  - [Depoimentos](https://learnbitcoin.link/#recommendation)
 
-Aprenda Bitcoin é uma introdução concisa e acessível a todos os aspectos que envolvem o tópico. O livro divide o que a maioria dos Bitcoiners levou anos para aprender em uma leitura rápida. Dá-lhe o porquê e como começar a aprender e a ganhá-lo. A organização magistral e o fluxo de uma área de assunto para outra realmente tornam o Bitcoin simples de entender.
+Aprenda Bitcoin é uma introdução concisa e acessível a todos os aspectos que envolvem o Bitcoin. O livro compartilha o que a maioria dos Bitcoiners levou anos para aprender em uma leitura rápida. Explica o porquê, como começar a aprender e a ganhar Bitcoin. A organização magistral e o fluxo de uma área de assunto para outra realmente torna simples de entender.
 
 **Peça o [ebook (epub, mobi) com bitcoin**
 
@@ -20,7 +20,7 @@ Enquanto a grande mídia e especialistas econômicos no mundo ocidental pensam q
 
 Mais adiante no livro, focarei nas aplicações mais práticas do Bitcoin (BTC) e como você pode adquiri-lo e armazená-lo com segurança. Você aprenderá como ganhar confiança começando com pequenas quantias, como minimizar os riscos existentes e proceder de forma estratégica e eficiente no armazenamento de seu patrimônio a longo prazo.
 
-Este não é um conselho financeiro nem um guia de negociação para os milhares de Altcoins existentes. Se você está interessado apenas em ganhos de curto prazo, tratando o dinheiro como se estivesse jogando em um cassino, este livro não é para você. É para pessoas que querem aprender e entender os fundamentos do Bitcoin e controlar seus fundos de maneira auto-soberana.
+Este não é um conselho financeiro nem um guia de negociação para os milhares de altcoins existentes. Se você está interessado apenas em ganhos de curto prazo, tratando o dinheiro como se estivesse jogando em um cassino, este livro não é para você. É para pessoas que querem aprender e entender os fundamentos do Bitcoin e controlar seus fundos de maneira auto-soberana.
 
 ## Recomendado por
 
