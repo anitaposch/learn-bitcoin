@@ -1,5 +1,5 @@
-## Argumentos para Bitcoin
-> "Bitcoin é um sistema opt-in. Você escolhe usá-lo. Você escolhe quais aplicativos você vai rodar. Você escolhe com quem você vai interagir. Você escolhe as regras do jogo pelo qual você está vai interagir. É por isso que o bitcoin vai vencer. Ele oferece a inovação que os consumidores querem e precisam." - **Andreas M. Antonopoulos**
+## Argumentos a favor do Bitcoin
+> "Bitcoin é um sistema opt-in. Você escolhe usá-lo. Você escolhe quais aplicativos você vai rodar. Você escolhe com quem você vai interagir. Você escolhe as regras do jogo pelo qual você vai interagir. É por isso que o bitcoin vai vencer. Ele oferece a inovação que os consumidores querem e precisam." - **Andreas M. Antonopoulos**
 
 ### Uma mudança de paradigma
 Eu sou um indivíduo nativo digital em um corpo da Geração X. Eu me lembro da vida sem internet, mesmo sem videocassete. Tínhamos uma estação de TV na Áustria, era isso. Meus pais ganharam nosso primeiro telefone fixo quando eu tinha 12 anos. Aos 14 usei meu primeiro computador, em 1997 instalei minha primeira conexão com a internet e e-mail em casa. Naquele mesmo ano, havia apenas 1 milhão de sites globalmente e Google e Amazon não existiam internacionalmente.
