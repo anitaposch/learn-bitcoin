@@ -20,7 +20,7 @@ Ao mesmo tempo, perdem-se dois terços de toda a energia produzida nos EUA. É r
 *Representação* [^38]
 ![Consumo de energia estimado dos EUA em 2017 - Energia rejeitada](resources/_Energy_US_2020.png)
 
-Observe que a energia rejeitada rejeitada cerca de 62% de toda a geração de eletricidade. A energia rejeitada é a energia que é produzida, mas, em última análise, não vai para algo útil. Para piorar a situação, ao longo do tempo, esse número vem aumentando de forma relativa. Em 1970, o Lawrence Livermore National Laboratory descobriu que nossa proporção de energia rejeitada era de cerca de 48%. [^39]
+Observe que a energia rejeitada é cerca de 62% de toda a geração de eletricidade. A energia rejeitada é a energia que é produzida, mas, em última análise, não vai para algo útil. Para piorar a situação, ao longo do tempo, esse número vem aumentando de forma relativa. Em 1970, o Lawrence Livermore National Laboratory descobriu que nossa proporção de energia rejeitada era de cerca de 48%. [^39]
 
 Em outras palavras, o Bitcoin é responsável por 0,54% de toda a eletricidade usada globalmente.
 
