@@ -28,12 +28,12 @@ Por que Satoshi Nakamoto escolheu 21 milhões para o limite de fornecimento? Exi
 ### Unidades de Bitcoin
 A menor unidade de denominação de um bitcoin é um satoshi. 1 bitcoin é composto por 100.000.000 satoshis; 1 satoshi é um centésimo milionésimo de 1 bitcoin (0,00000001).
 
-Você não precisa comprar ou vender 1 bitcoin por vez, você pode começar pequeno e transacionar uma fração minúscula dele.
+Você não precisa comprar ou vender 1 bitcoin por vez, você pode começar com pouco e transacionar uma fração minúscula dele.
 
 ### Bitcoin ou bitcoin, mas nunca BitCoin
 Bitcoin com B maiúsculo é usado para se referir à rede Bitcoin, blockchain, comunidade e o conceito como um todo, enquanto bitcoin com b minúsculo é usado para referenciar a moeda, o token bitcoin.
 
-Na verdade, moeda é o termo errado para descrever o ativo digital, é um pouco enganador. Em termos técnicos, é chamado de UTXO - saída de transação não gasta. Um UTXO define a quantidade de valor que é armazenada no blockchain em um endereço Bitcoin específico. Portanto, há opiniões divergentes sobre se existe um plural para bitcoin, a unidade, porque é fluido e não há moedas individuais definidas. Mas como Satoshi Nakamoto falou de bitcoins, nós, como comunidade, também o nomeamos assim. Não há plural para Bitcoin, pois há apenas um blockchain e uma rede.
+Na verdade, moeda é o termo errado para descrever o ativo digital, é um pouco enganador. Em termos técnicos, é chamado de UTXO - saída de transação não gasta. Um UTXO define a quantidade de valor que é armazenada em um endereço Bitcoin específico. Portanto, há opiniões divergentes sobre se existe um plural para bitcoin, a unidade, porque é fluido e não há moedas individuais definidas. Mas como Satoshi Nakamoto falou de bitcoins, nós, como comunidade, também o nomeamos assim. Não há plural para Bitcoin, pois há apenas uma blockchain e uma rede.
 
 Golpes como a rede BitClub se referiam a ela como BitCoin e isso também é usado erroneamente por iniciantes em Bitcoin.
 
