@@ -59,7 +59,7 @@ KYC e AML significam os regulamentos "Know Your Customer" (conheça seu cliente)
 - Número de telefone
 - Carteira de motorista
 - Identidade Governamental, Registro Geral
-- Uma selfie segurando um pedaço de papel com o nome da bolsa e a data
+- Uma selfie segurando um pedaço de papel com o nome da exchange e a data
 - Uma chamada de vídeo com a central
 
 Agora, pode-se argumentar que precisamos encontrar criminosos, terroristas, lavadores de dinheiro etc. e, portanto, esses regulamentos fazem sentido. O problema é que os bancos frequentemente regulam demais; eles exigem mais dados do que o necessário e rastreiam cada transação que, em combinação com o dinheiro digital, se transforma em uma máquina de vigilância pior do que George Orwell jamais imaginou. Enquanto apontamos e criticamos a moeda digital do banco central da China e seu programa de crédito social exagerado, estamos construindo sistemas semelhantes que invadem massivamente a privacidade das pessoas.
