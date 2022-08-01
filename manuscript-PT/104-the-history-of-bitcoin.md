@@ -3,9 +3,9 @@
 
 >"A crise financeira de 2007-2008 que devastou a economia global foi desencadeada por um sistema bancário voraz nos Estados Unidos. Em resposta, comandados pelo Fed, os bancos centrais dos países do G7 desceram uma trilha interminável de fabricação de dinheiro - em plena luz do dia." [^21]
 
-Em 31 de outubro de 2008, no advento das maiores crises financeiras que o mundo já viu, alguém usando o pseudônimo Satoshi Nakamoto publicou um white paper chamado "Bitcoin: A Peer-to-Peer Electronic Cash System" no domínio bitcoin.org e propôs uma nova forma digital de dinheiro.
+Em 31 de outubro de 2008, no advento das maiores crises financeiras que o mundo já viu, alguém usando o pseudônimo Satoshi Nakamoto publicou um documento, um white paper, chamado "Bitcoin: A Peer-to-Peer Electronic Cash System" no domínio bitcoin.org e propôs uma nova forma digital de dinheiro.
 
-Em 3 de janeiro de 2009, o primeiro bloco público de Bitcoin, o chamado Genesis Block, foi minerado. Satoshi deixou uma mensagem nele: "Chanceler à beira do segundo resgate dos bancos", que foi a manchete do jornal diário The Times, no Reino Unido naquele mesmo dia. É um timestamp que marca o início do Bitcoin e mostra a intenção de que ele seja uma alternativa ao sistema bancário e financeiro atual, no qual você precisa confiar em intermediários para processar pagamentos eletrônicos.
+Em 3 de janeiro de 2009, o primeiro bloco público de Bitcoin, o chamado Genesis Block, foi minerado. Satoshi deixou uma mensagem nele: "Chanceler à beira do segundo resgate aos bancos", que foi a manchete do jornal diário The Times, no Reino Unido naquele mesmo dia. É um timestamp que marca o início do Bitcoin e mostra a intenção de que ele seja uma alternativa ao sistema bancário e financeiro atual, no qual você precisa confiar em intermediários para processar pagamentos eletrônicos.
 
 Em 9 de junho de 2021, o bitcoin se tornou moeda legal em El Salvador.
 
