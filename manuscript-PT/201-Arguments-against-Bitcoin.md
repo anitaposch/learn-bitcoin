@@ -50,7 +50,7 @@ _Se você enviar bitcoin para o endereço errado, eles serão perdidos. Você n�
 
 Verifique o endereço três vezes antes de enviar bitcoin. Você não pode reverter um pagamento. Assim como acontece com o dinheiro fiduciário, se você comprar algo em uma loja online e devolver o produto, é responsabilidade comercial da loja lidar com o bitcoin e enviá-lo de volta para você. No entanto, um simples erro de digitação de um endereço deve resultar em um erro em vez de perda de fundos, pois os endereços incluem verificações de integridade.
 
-### Sem rede de segurança
+### Sem uma rede segura
 
 _Nas regiões desenvolvidas do mundo, os depósitos em contas bancárias (na Europa até 100.000 euros) são segurados. Este não é o caso do bitcoin._
 
@@ -69,20 +69,20 @@ Você também pode ganhar bitcoin, mas vou falar mais sobre isso no capítulo 9 
 
 _Bitcoin é uma nova tecnologia. É o primeiro de seu tipo. Quando comparamos isso com as primeiras empresas de computadores na década de 1980 ou com as plataformas de internet do boom das pontocom, quase nenhuma sobreviveu. Bitcoin foi o primeiro blockchain do mercado, pode seguir o mesmo caminho._
     
-Bitcoin tem sido a criptomoeda mais usada no mundo desde que se originou em 2009. Concordo, não há garantias de que continuará assim. O domínio de mercado do Bitcoin era superior a 80% até 2017. O que significa que, de todos os milhares de criptomoedas no mercado, mais de 80% de todos os investimentos foram realizados em Bitcoin. Isso mudou em 2017-18, quando houve uma "guerra" entre diferentes ideias sobre como o Bitcoin como tecnologia deveria avançar. O debate sobre o tamanho do bloco terminou com um hard fork, onde o blockchain do Bitcoin se dividiu em dois forks: Bitcoin (BTC) e Bitcoin Cash (BCH). Naquela época, outros projetos de criptomoedas como o Ethereum ganharam importância. Quatro anos depois, o BCH caiu constantemente em insignificância em comparação com o BTC. O Bitcoin manteve seu domínio com mais de 60% até a atual corrida de touros, onde caiu para 40% no momento da redação. Uma corrida de touros resulta em mais atenção do mainstream, o que leva a muitos artigos de mídia desinformados e, quando certos bilionários adicionam rumores e especulações à mistura, as Altcoins são colocadas em foco.
+Bitcoin tem sido a criptomoeda mais usada no mundo desde que se originou em 2009. Concordo, não há garantias de que continuará assim. O domínio de mercado do Bitcoin era superior a 80% até 2017. O que significa que, de todos os milhares de criptomoedas no mercado, mais de 80% de todos os investimentos foram realizados em Bitcoin. Isso mudou em 2017-18, quando houve uma "guerra" entre diferentes ideias sobre como o Bitcoin como tecnologia deveria avançar. O debate sobre o tamanho do bloco terminou com um hard fork, onde o blockchain do Bitcoin se dividiu em dois forks: Bitcoin (BTC) e Bitcoin Cash (BCH). Naquela época, outros projetos de criptomoedas como o Ethereum ganharam importância. Quatro anos depois, o BCH caiu constantemente em insignificância em comparação com o BTC. O Bitcoin manteve seu domínio com mais de 60% até a atual corrida de touros, onde caiu para 40% no momento da redação. Uma corrida de touros resulta em mais atenção do mainstream, o que leva a muitos artigos de mídia desinformados e, quando certos bilionários adicionam rumores e especulações à mistura, as altcoins são colocadas em foco.
 
 *Representação* [^31]
 ![Porcentagem da capitalização de mercado total](resources/_Market-dominance.png)
 
-O ressurgimento do domínio do Bitcoin após o momento crítico do hard-fork em 2017 foi um sinal de força para muitos especialistas como a macroeconomista Lyn Alden e o investidor americano Michael Saylor, o que os levou a acreditar no potencial futuro do Bitcoin como vencedor-leva-tudo das criptomoedas. E mesmo que houvesse inovações tecnológicas nas Altcoins que as impulsionassem na frente do Bitcoin, não há dúvida de que os desenvolvedores do Bitcoin as implementariam também.
+O ressurgimento do domínio do Bitcoin após o momento crítico do hard-fork em 2017 foi um sinal de força para muitos especialistas como a macroeconomista Lyn Alden e o investidor americano Michael Saylor, o que os levou a acreditar no potencial futuro do Bitcoin como vencedor-leva-tudo das criptomoedas. E mesmo que houvesse inovações tecnológicas nas altcoins que as impulsionassem a frente do Bitcoin, não há dúvida de que os desenvolvedores do Bitcoin as implementariam também.
 
 ### Bitcoin falhou
 
 _Existem apenas alguns usuários de Bitcoin. Após 12 anos de existência, muito mais pessoas deveriam usar o Bitcoin. O Bitcoin falhou._
 
-Como o uso do Bitcoin, em princípio, não está vinculado a identidades, não é estatisticamente possível saber quantas pessoas realmente usam o Bitcoin. Além disso, o número de endereços Bitcoin não nos dá ideia de quantas pessoas o usam. Uma pessoa pode ter milhões de endereços ou, no caso do bitcoin em trocas centralizadas, milhares de pessoas podem ser gerenciadas por apenas um grande endereço de custódia.
+Como o uso do Bitcoin, em princípio, não está vinculado a identidades, não é estatisticamente possível saber quantas pessoas realmente usam o Bitcoin. Além disso, o número de endereços Bitcoin não nos dá ideia de quantas pessoas o usam. Uma pessoa pode ter milhões de endereços ou, no caso do bitcoin em exchanges centralizadas, milhares de pessoas podem ser gerenciadas por apenas um grande endereço de custódia.
 
-Essas trocas centralizadas precisam verificar sua identidade antes que você possa converter fiat em bitcoin. A estatística a seguir mostra que mais de 101 milhões de pessoas em todo o mundo têm uma conta em exchanges. As pessoas que conseguiram obter algum bitcoin nos primeiros dias, ou operam fora dos limites das exchanges centralizadas, não são contabilizadas.
+Essas exchanges centralizadas precisam verificar sua identidade antes que você possa converter fiat em bitcoin. A estatística a seguir mostra que mais de 101 milhões de pessoas em todo o mundo têm conta em exchanges. As pessoas que conseguiram obter algum bitcoin nos primeiros dias, ou operam fora dos limites das exchanges centralizadas, não foram contabilizadas.
 
 *Representação* [^32]
 ![Número de usuários de ativos de criptografia com identidade verificada em milhões](resources/_number-users-2020.png)
