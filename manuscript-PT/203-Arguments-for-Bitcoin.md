@@ -8,7 +8,7 @@ Muita gente descartou a internet como uma tendência que iria embora. Em 1995, o
 
 >"Depois, há o cibernegócio. Prometem-nos compras instantâneas por catálogo - basta apontar e clicar para obter grandes ofertas. Compramos passagens aéreas pela rede, fazemos reservas em restaurantes e negociamos contratos de vendas. As lojas se tornarão obsoletas. O shopping faz mais negócios em uma tarde do que toda a Internet lida em um mês? Mesmo que houvesse uma maneira confiável de enviar dinheiro pela Internet - o que não existe - a rede está perdendo um ingrediente essencial do capitalismo: vendedores." - **Clifford Stoll** [^56]
 
-Avançando para 2019 e a Amazon está entre as dez maiores empresas do mundo, o Google e o YouTube são os maiores mecanismos de pesquisa e existem 1,8 bilhão de sites ativos. Meu primeiro contato com Bitcoin e blockchains foi em abril de 2017 quando ouvi uma palestra de Shermin Voshmgir. A ficha caiu imediatamente pra mim. 20 anos depois de mudar minha carreira de planejadora urbana para empreendedora da internet, entendi que o Bitcoin é tão grande quanto o surgimento da internet em 1997.
+Avançando para 2019 e a Amazon está entre as dez maiores empresas do mundo, o Google e o YouTube são os maiores mecanismos de pesquisa e existem 1,8 bilhão de sites ativos. Meu primeiro contato com Bitcoin e blockchain foi em abril de 2017 quando ouvi uma palestra de Shermin Voshmgir. A ficha caiu imediatamente pra mim. 20 anos depois de mudar minha carreira de planejadora urbana para empreendedora da internet, entendi que o Bitcoin é tão grande quanto o surgimento da internet em 1997.
 
 A descoberta do Bitcoin foi o advento de uma nova tecnologia em cima da internet que usamos para mídia e comunicação. A internet do dinheiro, que nos permite trocar valor globalmente sem fronteiras. A comunicação pela internet mudou o mundo massivamente nas últimas décadas. Qual você acha que o impacto da livre circulação de valor terá? Bitcoin e outros ativos digitais públicos e abertos mudarão a dinâmica de poder entre as nações, uma vez que de repente é possível movimentar enormes quantias de dinheiro em velocidade, sem atrito ou tocar no sistema financeiro atual.
 
@@ -25,6 +25,7 @@ Mais de 50% da população mundial vive em nações longe de democracias livres 
 São pessoas em regiões como África e América do Sul que impulsionarão a adoção do Bitcoin. Os principais casos de uso são:
 
 **Hedge contra a inflação**
+
 Esta tabela do Fundo Monetário Internacional mostra a variação anual dos preços ao consumidor em porcentagem.
 
 *Representação* [^58]
