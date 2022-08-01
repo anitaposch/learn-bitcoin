@@ -23,7 +23,7 @@ Use uma senha diferente para cada site em que você fizer login. Caso contrário
 
 Você pode usar software como 1Password, Bitwarden ou KeePass (gratuito e de código aberto). São bancos de dados de senhas criptografados, onde você pode gerar e armazenar todas as suas senhas e só precisa lembrar de uma senha para abri-la.
 
-### ALFINETE
+### PIN
 Configure um PIN para o software da sua carteira para que ninguém possa abrir facilmente a sua carteira no seu dispositivo.
 
 ### 2FA
@@ -34,11 +34,12 @@ A troca de SIM é quando alguém sequestra seu SIM e número de telefone. Eles p
 
 O ataque geralmente é iniciado ligando para o atendimento ao cliente em seu provedor de telecomunicações (Verizon, Vodafone, AT & T, Magenta,...). Eles dizem algo como "Sou o proprietário do número de telefone, perdi meu telefone, por favor, transfira meu número para o meu novo SIM". A pessoa de atendimento ao cliente solicitará uma informação pessoal para verificar sua identidade. Os atacantes, então, tentarão muitos truques. Eles atormentam a pessoa de suporte para obter pequenos pedaços de informação deles, desligam e ligam para outra pessoa e usam esse fragmento de informação para avançar para o próximo nível. Eles então obtêm mais informações e continuam construindo até que tenham informações suficientes para persuadir a última pessoa de que eles são os proprietários da conta e transferir o SIM.
 
-Eles irão atrás de todas asexchanges de criptomoedas nas quais você possa ter configurado uma conta com seu endereço de e-mail e número de telefone.
+Eles irão atrás de todas as exchanges de criptomoedas nas quais você possa ter configurado uma conta com seu endereço de e-mail e número de telefone.
 
 Quando eles souberem seu e-mail, eles tentarão alterar a senha da sua conta com a funcionalidade "esqueci a senha". Bons sites não informam se a conta existe. Os invasores tentarão redefinir a senha ou tentar obter uma verificação de mensagem de texto.
 
 **O que você pode fazer - Exemplo do Gmail**
+
 Bloqueie sua conta de e-mail principal e remova seu número de telefone de sua conta de e-mail (como uma conta do Gmail). Veja como é feito: [https://anita.link/removegmail](https://anita.link/removegmail). Use uma senha diferente para cada conta em cada site ou serviço. Como usuário do Gmail, você pode se inscrever no Programa Proteção Avançada do Google, que protege contra ataques on-line direcionados.
 
 ## Ataques de phishing
