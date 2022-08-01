@@ -11,4 +11,4 @@ Enquanto a grande mídia e especialistas econômicos no mundo ocidental pensam q
 
 Mais adiante no livro, focarei nas aplicações mais práticas do bitcoin (BTC) e como você pode adquiri-lo e armazená-lo com segurança. Você aprenderá como ganhar confiança começando com pequenas quantias, como minimizar os riscos existentes e proceder de forma estratégica e eficiente no armazenamento de seu patrimônio a longo prazo.
 
-Este não é um conselho financeiro nem um guia de negociação para os milhares de Altcoins existentes. Se você está interessado apenas em ganhos de curto prazo, tratando o dinheiro como se estivesse jogando em um cassino, este livro não é para você. É para pessoas que querem aprender e entender os fundamentos do Bitcoin e controlar seus fundos de maneira auto-soberana.
+Este não é um conselho financeiro nem um guia de negociação para as milhares de Altcoins existentes. Se você está interessado apenas em ganhos de curto prazo, tratando o dinheiro como se estivesse jogando em um cassino, este livro não é para você. É para pessoas que querem aprender e entender os fundamentos do Bitcoin e controlar seus fundos de maneira auto-soberana.
