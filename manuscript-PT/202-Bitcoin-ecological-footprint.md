@@ -28,6 +28,7 @@ Em outras palavras, o Bitcoin é responsável por 0,54% de toda a eletricidade u
 ![Produção total de eletricidade do mundo, consumo e participação do Bitcoin, março de 2021](resources/_electricity-world-btc.png)
 
 **Consumo de eletricidade é fácil de quantificar**
+
 A transparência do Bitcoin permite estimativas de sua demanda de energia em contraste com muitas outras indústrias, onde esses dados são mais obscuros. Medido apenas pelos custos de eletricidade, podemos supor que o Bitcoin é [muito mais eficiente](https://medium.com/@danhedl/pow-is-eficiente-aa3d442754d3) do que os bancos tradicionais e a mineração de ouro em escala global.
 
 O custo estimado em dólares da mineração de Bitcoin por Gigajoule gasto é 40 vezes mais eficiente do que o dos bancos tradicionais e 10 vezes mais eficiente do que o da mineração de ouro.
@@ -36,7 +37,8 @@ O custo estimado em dólares da mineração de Bitcoin por Gigajoule gasto é 40
 ![Comparação de gastos de energia entre sistemas monetários e bancários](resources/_energy-efficiency-ARK.png)
 
 **Por que o Bitcoin precisa dessa quantidade de eletricidade**
-O mecanismo de mineração de prova de trabalho é um recurso fundamental que garante a independência, neutralidade e integridade automatizada da rede. É a maneira mais segura de evitar ataques aos ativos no valor de mais de 600 bilhões de dólares que estão bloqueados na rede. (valor de mercado do BTC, junho de 2021)
+
+O mecanismo de mineração de prova de trabalho é um recurso fundamental que garante a independência, neutralidade e integridade automatizada da rede. É a maneira mais segura de evitar ataques ao valor de mais de 600 bilhões de dólares que estão bloqueados na rede. (valor de mercado do BTC, junho de 2021)
 
 Bitcoin pode liquidar transações sem intermediários porque hardware especializado e dedicado prova de forma transparente que o computador executou um cálculo caro.
 
