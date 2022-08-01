@@ -102,7 +102,7 @@ A rede Bitcoin é uma infraestrutura pública; é uma rede de comunicação desc
 ### Bitcoin incentiva a economizar
 Bitcoin é ideal para economia de longo prazo. Se você acredita que o valor vai subir no futuro, você é encorajado a manter e não gastar seu bitcoin em coisas que não são realmente necessárias.
 
-### Você pode pagar Bitcoin
+### Você pode pagar por Bitcoin
 Você não precisa comprar um bitcoin inteiro. Um bitcoin é divisível por cem milhões de unidades. A menor unidade é chamada de "Satoshi" - em homenagem à figura fundadora pseudônima, Satoshi Nakamoto. Você pode comprar partes de um bitcoin e começar com apenas 20 euros, por exemplo.
 
 ### Bitcoin e as funções do dinheiro
