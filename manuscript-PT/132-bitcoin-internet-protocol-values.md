@@ -1,4 +1,4 @@
-## Bitcoin a Internet dos Valores
+## Bitcoin a Internet do Valor
 
 Bitcoin é mais do que uma moeda digital ou dinheiro nativo da Internet. É uma infraestrutura de internet pública. É um protocolo de internet através do qual se trocam valores entre computadores operados por humanos, mas também pelas próprias máquinas autônomas. Por exemplo, os carros não apenas dirigirão de forma autônoma no futuro, mas também navegarão para a estação de carregamento por conta própria para recarregar. Nesse cenário, o pagamento é feito automaticamente via bitcoin sem que ninguém precise intervir manualmente.
 
