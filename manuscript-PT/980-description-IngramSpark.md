@@ -1,4 +1,4 @@
-Anita Posch is a Bitcoin advocate, author and host of the Anita Posch show. She is the executive director of Bitcoin for Fairness - an educational non-profit initiative.
+Anita Posch é uma defensora do Bitcoin, autora e apresentadora do programa Anita Posch. Ela é a diretora executiva do Bitcoin for Fairness - uma iniciativa educacional sem fins lucrativos.
 
 O objetivo de Anita é levar o Bitcoin a bilhões por meio de seu trabalho educacional. Anita traduziu dois volumes de A Internet do Dinheiro de Andreas M. Antonopoulos para o alemão. Em seu podcast, ela entrevistou pessoas de todo o mundo, incluindo alguns de países em desenvolvimento como Nigéria, África do Sul, Venezuela e Afeganistão, sobre os efeitos positivos do Bitcoin na liberdade das pessoas.
 
