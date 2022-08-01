@@ -40,9 +40,9 @@ Desde o lançamento do Bitcoin em 2009, houve várias quedas de preços. Esteja 
 
 >Não tente enganar o mercado, não negocie. Apenas segure seu bitcoin. Pelo menos por cinco anos.
 
-No caso de um mercado em baixa, quando o preço do bitcoin inevitavelmente cair, você perderá valor em termos de moeda fiduciária. No entanto, sua pilha de bitcoins permanece a mesma. Se você possui 0,3 bitcoin em um mercado em alta, você também possui 0,3 bitcoin em um mercado em baixa. Suas perdas estão apenas em sua percepção, dependendo de qual moeda ou ativo você compara seu bitcoin em um determinado dia. Seja paciente, espere, não venda - a história indica que a manutenção de longo prazo é uma maneira segura de proteger seu valor.
+No caso de um mercado em baixa, quando o preço do bitcoin inevitavelmente cair, você perderá valor em termos de moeda fiduciária. No entanto, sua pilha de bitcoins permanece a mesma. Se você possui 0,3 bitcoin em um mercado em alta, você também possui 0,3 bitcoin em um mercado em baixa. Suas perdas estão apenas em sua percepção, dependendo de qual moeda ou ativo você compara seu bitcoin em um determinado dia. Seja paciente, espere, não venda - a história indica que a visão de longo prazo é a maneira segura de proteger seu valor.
 
->Apenas coloque tanto dinheiro em bitcoin quanto você está disposto a perder. Se você não consegue dormir em tempos de depreciação, pode ter um ativo muito arriscado como o bitcoin.
+>Apenas coloque tanto dinheiro em bitcoin quanto você está disposto a perder. Se você não consegue dormir em tempos de depreciação, não pode ter um ativo arriscado como o bitcoin.
 
 ### Sem recurso
   
@@ -54,14 +54,14 @@ Verifique o endereço três vezes antes de enviar bitcoin. Você não pode rever
 
 _Nas regiões desenvolvidas do mundo, os depósitos em contas bancárias (na Europa até 100.000 euros) são segurados. Este não é o caso do bitcoin._
 
-Está correto. Se você auto-custódia seu bitcoin, então você é o único responsável. Não há seguro. Mas esteja ciente de que, no caso de uma grande crise financeira, esses seguros fiduciários podem não ser capazes de pagá-lo de volta. Durante a crise financeira em Chipre em 2013, 47,5% de todos os depósitos bancários acima de 100.000 euros foram apreendidos. Se você se auto-custódia - ninguém pode apreender seu bitcoin.
+Está correto. Se você faz auto-custodia do seu bitcoin então você é o único responsável. Não há seguro. Mas esteja ciente de que, no caso de uma grande crise financeira, esses seguros fiduciários podem não ser capazes de pagá-lo de volta também. Durante a crise financeira em Chipre em 2013, 47,5% de todos os depósitos bancários acima de 100.000 euros foram apreendidos. Se você faz auto-custódia - ninguém pode apreender seu bitcoin.
 
 Se abrirmos os olhos e pensarmos no resto do mundo, onde 2 bilhões de pessoas não têm conta bancária e 80% da população mundial vive em estados autoritários, o caso de um dinheiro não censurável como o bitcoin, onde você está no controle e não um banco, faz sentido lógico novamente. Nesses países, onde as pessoas não têm nenhuma rede de segurança, a rede Bitcoin pode oferecer segurança. 
 
 ### Não posso investir
 _Não consigo comprar um bitcoin, é muito caro._
 
-Tudo bem, você não precisa. Não há orçamento mínimo necessário para usar bitcoin. Um bitcoin é divisível em unidades extremamente pequenas, muito menores que um centavo. Você pode comprar uma fração de bitcoin e começar a brincar com 20 USD ou menos.
+Tudo bem, você não precisa. Não há orçamento mínimo necessário para usar bitcoin. Um bitcoin é divisível em unidades extremamente pequenas, muito menores que um centavo. Você pode comprar uma fração de bitcoin e começar a brincar com 20 dólares ou menos.
 
 Você também pode ganhar bitcoin, mas vou falar mais sobre isso no capítulo 9 "Ganhar Bitcoin".
 
