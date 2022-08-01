@@ -74,6 +74,7 @@ Realmente, se você não quiser pagar os 50 - 100 USD necessários para comprar 
 Se você simplesmente não puder comprar uma carteira de hardware, use seu telefone enquanto isso. Assim que você tiver economizado fundos suficientes, obtenha uma carteira de hardware.
 
 **Card Wallet**
+
 A Card Wallet (produto) é em princípio uma carteira de papel, mas é produzida por profissionais com altos padrões de segurança. No entanto, você precisa confiar nos fabricantes para não gravar as chaves privadas no cartão. Você pode usar a Carteira de Cartões como alternativa caso não possua um computador ou smartphone ou não queira cuidar da manutenção de sua carteira de hardware. https://cardwallet.com/anita (meus leitores ganham 20% de desconto)
 
 A solução de armazenamento a frio preferida e **recomendada do setor são as carteiras de hardware**.
