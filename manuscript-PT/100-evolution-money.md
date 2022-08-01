@@ -142,12 +142,12 @@ Vamos comparar essas características com o sistema atual de criação de dinhei
 
 **Características da Criação do Dinheiro Fiat**
 
-* Atores centralizados como governos, bancos centrais e bancos comerciais criam dinheiro.
-* O sistema monetário não é auditável nem transparente.
+* Possui atores centralizados como governos, bancos centrais e bancos comerciais criam dinheiro.
+* O sistema monetário não é auditável e nem transparente.
 * Não há limite de oferta de dinheiro.
-* Dificuldade em reembolsar os investidores: devido ao sistema bancário de reserva fracionária, se apenas 20% dos clientes de um banco solicitarem saque ao mesmo tempo, o banco entra em apuros e dirá "não" à sua retirada. Isso acontece regularmente em todo o mundo e aconteceu com alguns bancos dos EUA no início de 2020 durante a pandemia.
+* Dificuldade em reembolsar os investidores devido ao sistema bancário de reserva fracionária, se apenas 20% dos clientes de um banco solicitarem saque ao mesmo tempo o banco entra em apuros e dirá "não" à sua retirada. Isso acontece regularmente em todo o mundo e aconteceu com alguns bancos dos EUA no início de 2020 durante a pandemia.
 * O sistema tem que quebrar um dia, não tem saída.
-* Os bancos ganham dinheiro emprestando fundos sem nenhuma contribuição real para o desempenho econômico de um país.
+* Os bancos ganham dinheiro emprestando fundos sem nenhuma contribuição real para o desempenho econômico do país.
 * A ganância está conduzindo o sistema fiduciário. As elites financeiras recebem empréstimos baratos porque possuem títulos para comprar mais títulos e aumentar sua riqueza e poder.
 
 ### O verdadeiro esquema Ponzi
@@ -160,7 +160,7 @@ Vamos comparar essas características com o sistema atual de criação de dinhei
 
 * Os banqueiros centrais estão determinando o destino financeiro de todos os países do mundo. Eles não são eleitos, mas atuam como governos tentando controlar todo o mercado financeiro.
 
-* O efeito Cantillon foi descrito pelo economista irlandês-francês Richard Cantillon por volta de 1730. Ele sugeriu que a inflação ocorre gradualmente e que a nova oferta de dinheiro criada pelos bancos tem um efeito localizado sobre a inflação, recompensando os banqueiros e atores próximos criando dinheiro artificialmente, beneficiando os mais próximos da origem do dinheiro.
+* O Efeito Cantillon foi descrito pelo economista irlandês-francês Richard Cantillon por volta de 1730. Ele sugeriu que a inflação ocorre gradualmente e que a nova oferta de dinheiro criada pelos bancos tem um efeito localizado sobre a inflação, recompensando os banqueiros e atores próximos criando dinheiro artificialmente, beneficiando os mais próximos da origem do dinheiro.
 
 > "As políticas monetárias da crise e pós-crise do Fed, adotadas por outros grandes bancos centrais, deveriam "gotejar" para as massas. Isso não aconteceu. As elites globais sabiam disso na época e estão mais conscientes disso agora. Em janeiro de 2017, o Fórum Econômico Mundial admitiu que o aumento da desigualdade ameaça a economia mundial. Esses coniventes provocam a desigualdade porque os beneficia e a preservação de suas hierarquias de poder global em detrimento de tudo e de todos." - **Nomi Prins** [^15]
 
@@ -190,7 +190,7 @@ A moeda fiduciária é um sistema monetário pelo qual não há nada de valor na
 
 Um país pode impor o uso de uma moeda fiduciária como meio de troca e unidade de conta dentro de seu país, tornando todos os impostos pagáveis apenas nessa moeda, ou promulgando outras leis para adicionar atrito ou, em alguns casos, banir totalmente outras meios de troca e unidades de conta. Se a moeda deles tiver um problema grande o suficiente, como é o caso de muitos mercados emergentes, um mercado negro se desenvolverá para outros meios de troca, como moeda estrangeira ou ativos tangíveis.
 
-Uma moeda fiduciária pode enfrentar problemas específicos ao tentar ser usada fora de seu país de origem. Por que empresas e governos de outros países deveriam aceitar pedaços de papel, que podem ser impressos indefinidamente por um governo estrangeiro e não têm apoio firme, como forma de pagamento por seus valiosos bens e serviços? Sem um apoio real, o que vale a pena? Por que você venderia petróleo para estrangeiros em troca de papel?
+Uma moeda fiduciária pode enfrentar problemas específicos ao tentar ser usada fora de seu país de origem. Por que empresas e governos de outros países deveriam aceitar pedaços de papel que podem ser impressos indefinidamente por um governo estrangeiro e não têm apoio firme como forma de pagamento por seus valiosos bens e serviços? Sem um apoio real, o que vale a pena? Por que você venderia petróleo para estrangeiros em troca de papel?
 
 No início da década de 1970, houve uma variedade de conflitos geopolíticos, incluindo a Guerra do Yom Kippur e o embargo de petróleo da OPEP. Em 1974, no entanto, os Estados Unidos e a Arábia Saudita chegaram a um acordo e, a partir daí, o mundo foi colocado no sistema petrodólar; uma maneira inteligente de fazer um sistema global de moeda fiduciária funcionar decentemente o suficiente... Com o sistema petrodólar, a Arábia Saudita (e outros países da OPEP) vendem seu petróleo exclusivamente em dólares em troca da proteção e cooperação dos EUA. Mesmo que a França queira comprar petróleo da Arábia Saudita, por exemplo, eles o fazem em dólares. Em troca, os Estados Unidos usam sua incomparável marinha para proteger as rotas marítimas globais e preservar o status quo geopolítico com ação militar ou a ameaça disso, conforme necessário... Alguns de nós, particularmente perto do topo da escada de renda, se beneficiam direta ou indiretamente deste sistema. Os americanos que trabalham com finanças, governo, saúde e tecnologia obtêm muitos dos benefícios de viver no poder hegemônico, sem as desvantagens. Por outro lado, os americanos que fabricam produtos físicos tendem a não se beneficiar, porque perderam seus empregos ou tiveram seus rendimentos suprimidos e, portanto, não se beneficiaram dos ganhos. E fora dos Estados Unidos, os países exportadores se beneficiam do sistema, enquanto os países que não gostam de como o sistema monetário global está estruturado não têm muito recurso para fazer nada a respeito, a menos que se tornem grandes o suficiente como Rússia e China. "[^18]
 
