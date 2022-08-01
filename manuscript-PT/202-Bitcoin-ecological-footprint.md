@@ -27,8 +27,8 @@ Em outras palavras, o Bitcoin é responsável por 0,54% de toda a eletricidade u
 *Representação* [^40]
 ![Produção total de eletricidade do mundo, consumo e participação do Bitcoin, março de 2021](resources/_electricity-world-btc.png)
 
-**Consumo de eletricidade fácil de quantificar**
-A transparência do Bitcoin permite estimativas de sua demanda de energia em contraste com muitas outras indústrias, onde esses pontos de dados são mais obscuros. Medido apenas pelos custos de eletricidade, podemos supor que o Bitcoin é [muito mais eficiente](https://medium.com/@danhedl/pow-is-eficiente-aa3d442754d3) do que os bancos tradicionais e a mineração de ouro em escala global.
+**Consumo de eletricidade é fácil de quantificar**
+A transparência do Bitcoin permite estimativas de sua demanda de energia em contraste com muitas outras indústrias, onde esses dados são mais obscuros. Medido apenas pelos custos de eletricidade, podemos supor que o Bitcoin é [muito mais eficiente](https://medium.com/@danhedl/pow-is-eficiente-aa3d442754d3) do que os bancos tradicionais e a mineração de ouro em escala global.
 
 O custo estimado em dólares da mineração de Bitcoin por Gigajoule gasto é 40 vezes mais eficiente do que o dos bancos tradicionais e 10 vezes mais eficiente do que o da mineração de ouro.
 
