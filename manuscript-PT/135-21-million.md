@@ -4,7 +4,7 @@ Bitcoin são criados, conforme descrito nas páginas anteriores, quando um compu
 Atualmente, os mineradores recebem um prêmio de 6,25 bitcoin por este trabalho. Essa recompensa é o incentivo para os mineradores se comportarem positivamente em relação à rede Bitcoin e impedir que eles se associem a outros e ataquem a rede.
 
 ### Halving
-As regras do Bitcoin estipulam que a recompensa para os mineradores será reduzida pela metade a cada 210.000 blocos, aproximadamente a cada quatro anos. No início, essa recompensa era de 50 bitcoin. Desde maio de 2020 são 6,25 bitcoins. Em 2024, essa recompensa será reduzida pela metade em 3.125 bitcoins por bloco. Este evento é comumente chamado de Halving.
+As regras do Bitcoin estipulam que a recompensa para os mineradores será reduzida pela metade a cada 210.000 blocos, aproximadamente a cada quatro anos. No início, essa recompensa era de 50 bitcoin. Desde maio de 2020 são 6,25 bitcoins. Em 2024, essa recompensa será reduzida pela metade em 3,125 bitcoins por bloco. Este evento é comumente chamado de Halving.
 
 Satoshi Nakamoto codificou esses halvings no software Bitcoin Core. A quantidade produzida diminui ao longo do tempo, resultando em uma curva de oferta achatada.
 
