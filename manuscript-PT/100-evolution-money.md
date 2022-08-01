@@ -107,7 +107,7 @@ A quantidade de moeda M2 em circulação nos EUA era de **19,7 trilhões de dól
 *Representação* [^11]
 ![M2 Money Stock Growth USA, 2021 ](resources/_M2-money-stock-US-2021.png)
 
-"Aceitamos isso como normal porque assumimos que nunca terminará. O sistema bancário de reservas fracionárias funciona em todo o mundo há centenas de anos (primeiro apoiado em ouro e depois totalmente baseado em moeda fiduciáriz), embora com eventos inflacionários ocasionais ao longo do caminho para redefinir parcialmente as coisas.
+"Aceitamos isso como normal porque assumimos que nunca terminará. O sistema bancário de reservas fracionárias funciona em todo o mundo há centenas de anos (primeiro apoiado em ouro e depois totalmente baseado em moeda fiduciária), embora com eventos inflacionários ocasionais ao longo do caminho para redefinir parcialmente as coisas.
 
 Cada unidade individual de moeda fiduciária degradou cerca de 99% em valor ou mais ao longo de uma linha de tempo de várias décadas. Isso significa que os investidores precisam ganhar uma taxa de juros que exceda a taxa de inflação real (o que não está acontecendo atualmente) ou precisam comprar investimentos, o que infla o valor de ações e imóveis em comparação com seus fluxos de caixa e empurra aumentar os preços de objetos escassos como obras de arte." [^12]
 
