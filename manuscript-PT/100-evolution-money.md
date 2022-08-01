@@ -68,7 +68,7 @@ O último ponto é o que todos nós conhecemos. É como fazemos um empréstimo p
 
 Além disso, há algo chamado reserva fracionária. Isso permite que os bancos emprestem mais dinheiro do que mantêm em reservas ou como saldos em sua conta no banco central. O valor mínimo que os bancos devem manter em ativos líquidos, chamado de "taxa de reserva", é determinado pelo banco central. Esta taxa varia de país para país. Na área do euro, os bancos devem deter um mínimo de 1% no momento da redação. Em março de 2020, o FED aboliu essa exigência de reserva mínima devido à pandemia de COVID-19. Canadá, Reino Unido, Nova Zelândia, Austrália, Suécia e Hong Kong não têm requisitos de reserva. Se cada um de nós fosse ao banco hoje e pedisse para retirar nosso dinheiro, o sistema bancário desmoronaria. Como os bancos emprestaram mais dinheiro do que possuem, eles não poderão devolver seu próprio dinheiro.
 
-Em 2020, a dívida global aumentou incríveis 24 trilhões para 281 trilhões de dólares, ou 355% do PIB global.[^6]
+Em 2020, a dívida global aumentou dos incríveis 24 trilhões para 281 trilhões de dólares, ou 355% do PIB global.[^6]
 
 *Representação* [^6] 
 ![Taxa dívida/PIB](resources/_Debt-to-GDP-ratio-2020.jpg)
