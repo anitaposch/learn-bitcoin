@@ -69,7 +69,7 @@ Vamos dar uma olhada no volume médio de transações de VISA e Bitcoin.
 *Representação* [^45]
 ![Valor médio de uma única transação Bitcoin](resources/_average-transaction-value-bitcoin.png)
 
-O valor médio de transação de bitcoin foi de 258.766 USD em 21 de abril de 2021, enquanto a transação média de VISA foi de 91 USD em 2012. As transações de Bitcoin transportam muito mais valor em comparação com pagamentos com cartão de crédito. Supondo que o Bitcoin ganhe adoção em massa, então ele pode um dia liquidar milhões de dólares como o sistema Fedwire com taxas muito baixas em comparação com o sistema bancário.
+O valor médio de transação de bitcoin foi de 258,76 dólares em 21 de abril de 2021, enquanto a transação média de VISA foi de 91 dólares em 2021. As transações de Bitcoin transportam muito mais valor em comparação com pagamentos com cartão de crédito. Supondo que o Bitcoin ganhe adoção em massa, então ele pode um dia liquidar milhões de dólares como o sistema Fedwire com taxas muito baixas em comparação com o sistema bancário.
 
 O valor médio da transação por transferência Fedwire foi de 4,5 milhões de dólares em fevereiro de 2021. [^46]
 
@@ -88,7 +88,7 @@ Indiscutivelmente, os mineradores de Bitcoin estão usando energia desperdiçada
 
 **Mix de Energia da Produção de Eletricidade**
 
-Os mineradores de Bitcoin são bastante bem distribuídos em todo o mundo. Embora seja fácil quantificar a demanda de eletricidade, é mais difícil quantificar as fontes de eletricidade, pois a indústria de mineração de Bitcoin continua sendo uma indústria altamente privada e pseudônima. Portanto, pesquisas sobre a eletricidade usada na mineração estimam que o uso de energia renovável varia de 39% (Cambridge Center, CBECI.org) a 73% no CoinShares Mining Whitepaper, que conclui:
+Os mineradores de Bitcoin estão bem distribuídos em todo o mundo. Embora seja fácil quantificar a demanda de eletricidade, é mais difícil quantificar as fontes de eletricidade, pois a indústria de mineração de Bitcoin continua sendo uma indústria altamente privada e pseudônima. Portanto, pesquisas sobre a eletricidade usada na mineração estimam que o uso de energia renovável varia de 39% (Cambridge Center, CBECI.org) a 73% no CoinShares Mining Whitepaper, que conclui:
 
 "Usando uma combinação de estimativas de locais de mineração globais e penetrações regionais de energias renováveis, calculamos novamente que a indústria de mineração de Bitcoin é fortemente impulsionada por energias renováveis. Nossa porcentagem atual aproximada de geração de energia renovável no mix de energia de mineração de Bitcoin é de 73%, cerca de quatro vezes a média global. No geral, nossas descobertas reafirmam nossa visão de que a mineração de Bitcoin está atuando como um comprador global de eletricidade de último recurso e, portanto, tende a se agrupar em torno de infraestruturas renováveis comparativamente subutilizadas. à medida que a indústria amadurece e se estabelece como permanente aos olhos do público - poderia atuar como um impulsionador de novos desenvolvimentos de energias renováveis em locais que antes eram antieconômicos." [^49]
 
