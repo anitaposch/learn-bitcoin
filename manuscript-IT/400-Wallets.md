@@ -4,7 +4,7 @@ Nel mercato ci sono differenti tipologie di wallet che variano a seconda del dis
 
 ### Sicurezza del wallet
 
-Più un software wallet è resistente ad attacchi da esterni via Internet, più è considerabile sicuro. Pertanto, la categorizzazione basilare da farsi è tra le soluzioni di storage _hot_ e _cold_. Gli hot wallet - i wallet su smartphone e computer - sono app che si connettono a Internet e pertanto soffrono del rischio di virus, di attacchi hacker, di regolatorio e del rischio di controparte. Le soluzioni cold wallet – wallet hardware – che non sono sempre connesse online, pertanto sono molto più sicure.
+Più un software wallet è resistente ad attacchi da esterni via Internet, più è considerabile sicuro. Pertanto, la categorizzazione basilare da farsi è tra le soluzioni di storage _hot_ e _cold_. Gli hot wallet - i wallet su smartphone e computer - sono app che si connettono a Internet e pertanto soffrono del rischio di virus, di attacchi hacker, di regolamentazione e del rischio di controparte. Le soluzioni cold wallet – wallet hardware – che non sono sempre connesse online, pertanto sono molto più sicure.
 
 In aggiunta, il tuo smartphone, Android o iOS, è più sicuro del tuo laptop o PC. I sistemi Windows sono meno sicuri dei dispositivi Apple, al momento in cui scrivo. Al di là del sistema operativo dello smartphone, non vi sono rilevanti differenze nel livello di sicurezza.
 
