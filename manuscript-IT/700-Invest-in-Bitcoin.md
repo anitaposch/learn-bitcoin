@@ -16,7 +16,7 @@ Come menzionato nel capitolo 4 “La scalinata della sovranità finanziaria”, 
 Mantenere bitcoin in modo non-custodial è il risultato desiderabile. Questa modalità provvede a rendere le tue transazioni non censurabili e restituisce massima libertà sui tuoi fondi. Puoi raggiungere questo obiettivo acquisendo bitcoin con le seguenti modalità.
 
 ### Broker Bitcoin
-Un broker è una società d’intermediazione che abilita l’acquisto di bitcoin in modalità non-custodial. Dato che sono società di diritto debitamente registrate, adempiono al regolatorio e dovrai dunque essere identificato tramite le procedure di KYC/AML. I broker di bitcoin invieranno il contestuale ammontare di bitcoin acquistato direttamente al tuo indirizzo (al tuo wallet, dove mantieni il seed).
+Un broker è una società d’intermediazione che abilita l’acquisto di bitcoin in modalità non-custodial. Dato che sono società di diritto debitamente registrate, adempiono alle regolamentazioni e dovrai dunque essere identificato tramite le procedure di KYC/AML. I broker di bitcoin invieranno il contestuale ammontare di bitcoin acquistato direttamente al tuo indirizzo (al tuo wallet, dove mantieni il seed).
 
 Di seguito alcuni esempi di broker di Bitcoin:
 
