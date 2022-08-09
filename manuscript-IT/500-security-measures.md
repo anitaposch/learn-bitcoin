@@ -100,7 +100,7 @@ Considerato che gli attacchi fisici accadano raramente, conservare il seed col m
 Alcuni wallet usano differenti meccanismi per il backup. Ad esempio, Muun utilizza una combinazione di codici di recupero – che dovrai annotarti come il seed – e un kit d’emergenza.
 
 ## Imparare facendo
-Usare Bitcoin può sembrare intimidante perché si tratta di denaro reale. Ecco perché è considerabile una buona pratica iniziare con importi molto piccoli.
+Usare Bitcoin può sembrare intimidatorio perché si tratta di denaro reale. Ecco perché è considerabile una buona pratica iniziare con importi molto piccoli.
 
 Per la tua prima prova, installa un wallet nel tuo smartphone, cerca un [ATM Bitcoin](https://anita.link/atm) vicino a te, o partecipa a un meet-up locale per scambiare un piccolo ammontare. Prepara un wallet nel tuo computer e invia bitcoin tra i tuoi due wallet a indirizzi differenti.
 
@@ -137,4 +137,3 @@ Se il tuo dispositivo si corrompe, segui i medesimi passaggi, senza la premura d
 
 [^70]: Anita Posch  
 [^71]: [Source @ElectrumWallet](https://twitter.com/ElectrumWallet/status/1144678604523147265?s=20)
-
