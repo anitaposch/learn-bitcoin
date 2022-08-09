@@ -10,7 +10,7 @@ Una banca centrale, o autorità monetaria, è un’istituzione che gestisce la v
 Una valuta è un sistema di denaro di uso comune definito dai governi. Molte giurisdizioni definiscono la valuta nazionale come moneta a corso legale, è denaro legittimato al saldo del debito e non può essere rifiutato come mezzo di pagamento.
 
 **Moneta fiat**
-Una valuta (mezzo di scambio) stabilita come moneta, spesso da un regolamento governativo. La moneta fiat non ha valore intrinseco e non ha valore d’uso (utilità inerente, come può averla la pelle di mucca o di castoro). Ha valore solamente perché un governo mantiene tale valore, o perché le parti ingaggiate in uno scambio commerciale ne concordano il valore.[^81] 
+Una valuta (mezzo di scambio) stabilita come moneta, spesso da un regolamento governativo. La moneta fiat non ha valore intrinseco e non ha valore d’uso (utilità inerente, come può averla la pelle di mucca o di castoro). Ha valore solamente perché un governo mantiene tale valore, o perché le parti ingaggiate in uno scambio commerciale ne concordano il valore.[^81]
 Tutte le valute di stato sono valute fiat. Dal 1971 le valute fiat non sono convertibili in oro. Il termine “fiat” deriva dal latino e significa “_e così sia_”.
 
 **Riserva frazionaria**
@@ -29,7 +29,7 @@ L’FMI è un’istituzione finanziaria internazionale di base a Washington, D.C
 Un prestatore di ultima istanza è quell’istituzione del sistema finanziario che agisce in qualità di fornitore di liquidità a beneficio di un istituto finanziario incapace ad ottenere sufficiente liquidità nel mercato del prestito interbancario, ed altre fonti di approvvigionamento sono esaurite. Si tratta a tutti gli effetti di una garanzia governativa di liquidità a beneficio delle istituzioni finanziare. [^83]
 
 **Base monetaria M0**
-La base monetaria (M0) è l’ammontare totale di una valuta nella propria forma fisica di banconote e monete metalliche che sono in libera circolazione nelle mani del pubblico oppure sottoforma di depositi che le banche commerciali mantengono presso le riserve della banca centrale. [^84]
+La base monetaria (M0) è l’ammontare totale di una valuta nella propria forma fisica di banconote e monete metalliche che sono in libera circolazione nelle mani del pubblico oppure sotto forma di depositi che le banche commerciali mantengono presso le riserve della banca centrale. [^84]
 
 **Liquidità primaria M1**
 M1 è un aggregatore che misura la massa monetaria che include valuta in forma fisica, depositi in conto corrente trasferibili a vista, traveller’s cheque e altri depositi facilmente convertibili in denaro contante. M1 non è inclusivo di asset finanziari quali banconote e monete depositate e le obbligazioni.[^85]
