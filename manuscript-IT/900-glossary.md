@@ -9,8 +9,8 @@ Una banca centrale, o autorità monetaria, è un’istituzione che gestisce la v
 **Valuta**
 Una valuta è un sistema di denaro di uso comune definito dai governi. Molte giurisdizioni definiscono la valuta nazionale come moneta a corso legale, è denaro legittimato al saldo del debito e non può essere rifiutato come mezzo di pagamento.
 
-**Moneta fiat** 
-Una valuta (mezzo di scambio) stabilita come moneta, spesso da un regolatorio governativo. La moneta fiat non ha valore intrinseco e non ha valore d’uso (utilità inerente, come può averla la pelle di mucca o di castoro). Ha valore solamente perché un governo mantiene tale valore, o perché le parti ingaggiate in uno scambio commerciale ne concordano il valore.[^81] 
+**Moneta fiat**
+Una valuta (mezzo di scambio) stabilita come moneta, spesso da un regolamento governativo. La moneta fiat non ha valore intrinseco e non ha valore d’uso (utilità inerente, come può averla la pelle di mucca o di castoro). Ha valore solamente perché un governo mantiene tale valore, o perché le parti ingaggiate in uno scambio commerciale ne concordano il valore.[^81] 
 Tutte le valute di stato sono valute fiat. Dal 1971 le valute fiat non sono convertibili in oro. Il termine “fiat” deriva dal latino e significa “_e così sia_”.
 
 **Riserva frazionaria**
@@ -20,7 +20,7 @@ La riserva frazionaria, praticata dalle banche commerciali del mondo, prevede ch
 Un nodo Bitcoin è un programma software che valida tutte le transazioni e i blocchi. Puoi eseguire un nodo Bitcoin nel tuo computer di casa o su un Raspberry Pi. Quasi tutti i nodi Bitcoin assistono la rete ad accettare le transazioni e i blocchi dagli altri nodi, validando transazioni e blocchi, e trasmettendole ad altri nodi. Sono una parte della rete peer-to-peer.
 
 **Hasher**
-Un dispositivo di computer specializzato, chiamato ASIC, che è usato esclusivamente per il mining di Bitcoin. 
+Un dispositivo di computer specializzato, chiamato ASIC, che è usato esclusivamente per il mining di Bitcoin.
 
 **Fondo Monetario Internazionale**
 L’FMI è un’istituzione finanziaria internazionale di base a Washington, D.C., che consiste di 190 Paesi il cui scopo è promuovere la cooperazione monetaria globale, assicurare la stabilità finanziaria, facilitare il commercio internazionale, promuovere l’occupazione e la crescita economica sostenibile, ridurre la povertà nel mondo mentre è periodicamente dipendente dalla Banca Mondiale per finanziare le proprie risorse. Formatosi nel luglio 1944 con la conferenza di Bretton Woods scaturita dalle idee di Harry Dexter White e John Maynard Keynes, è stato formalmente istituito nel 1945 da 29 Stati Membri e con l’obiettivo di ristrutturare il sistema monetario internazionale. Oggi gioca un ruolo centrale nell’amministrazione degli squilibri della bilancia dei pagamenti e nella gestione delle crisi finanziarie internazionali. I Paesi contribuiscono a finanziare l’FMI sulla base di un sistema di quote, e dal quale possono attingere sottoforma di prestito in caso di difficoltà finanziaria. [^82]
@@ -63,4 +63,4 @@ Software o hardware che gestisce i tuoi indirizzi e le chiavi private dei tuoi b
 [^84]: [Monetary Base](https://www.investopedia.com/terms/m/monetarybase.asp)  
 [^85]: [M1 Money](https://www.investopedia.com/terms/m/m1.asp)  
 [^86]: [M2 Money](https://www.investopedia.com/terms/m/m2.asp)  
-[^87]: [Panopticon on Wikipedia](https://en.wikipedia.org/wiki/Panopticon) 
+[^87]: [Panopticon on Wikipedia](https://en.wikipedia.org/wiki/Panopticon)
