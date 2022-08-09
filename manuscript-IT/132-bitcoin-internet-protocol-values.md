@@ -9,7 +9,7 @@ Il protocollo di Bitcoin può essere paragonato alla struttura della suite di pr
 
 ![Bitcoin is a common good](resources/_Bitcoin-protocol.png) [^23]
 
-La blockchain di Bitcoin è un nuovo protocollo internet paragonabile al protocollo TCP/IP, che è la base di nternet. Sulla blockchain di Bitcoin, il protocollo di Bitcoin trasferisce valore in bitcoin, similmente a come il protocollo SMTP permette l’invio di email. Su di esso, troviamo bitcoin in quanto applicazione, paragonabile a un software per email come Gmail o Outlook. L'insieme di questi livelli è definito _base layer_, o livello base, di Bitcoin.
+La blockchain di Bitcoin è un nuovo protocollo internet paragonabile al protocollo TCP/IP, che è la base di internet. Sulla blockchain di Bitcoin, il protocollo di Bitcoin trasferisce valore in bitcoin, similmente a come il protocollo SMTP permette l’invio di email. Su di esso, troviamo bitcoin in quanto applicazione, paragonabile a un software per email come Gmail o Outlook. L'insieme di questi livelli è definito _base layer_, o livello base, di Bitcoin.
 
 ### Il Lightning Network
 
