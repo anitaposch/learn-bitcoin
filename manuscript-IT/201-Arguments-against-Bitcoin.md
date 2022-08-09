@@ -9,24 +9,24 @@ Certamente, il prezzo di bitcoin è volatile, può perdere o guadagnare un sacco
 ### Andamento del Prezzo
 _Bitcoin non è un riserva di valore a causa della variazione del proprio prezzo._
 
-Guarda a bitcoin come ad un investimento a lungo termine: tra tutti le classi di asset è risultato la miglior riserva di valore nel corso della scorsa decade. 
+Guarda a bitcoin come ad un investimento a lungo termine: tra tutti le classi di asset è risultato la miglior riserva di valore nel corso della scorsa decade.
 
 ![Bitcoin the best asset over the 10 years prior 2021](resources/_best-asset-10years.png) [^27]
 
 Ovviamente non vi sono garanzie che questa prestazione continuerà all’infinito.
 
-Nel momento in cui scrivo, bitcoin si trova in una _bull run_, ovvero un momento in cui il mercato ha tendenze al rialzo, iniziata nell’ultimo trimestre del 2020. Questo significa che il suo prezzo è salito per un periodo di settimane e mesi, subendo solo minime battute d'arresto nel mezzo. Nel maggio 2021 c'è stato un crollo significativo, da molti interpretato come una frenata sana nell’ambito di un surriscaldamento del mercato. La precedente bull run era iniziata nel 2017 e si è conclusa agli inizi del 2018. Da allora, l'andamento del prezzo ha assunto una tendenza relativamente laterale - _sideways_, come la chiamano sui mercati finanziari – che significa che non si sono manifestati rilevanti movimenti di prezzo, né in positivo né in negativo. 
+Nel momento in cui scrivo, bitcoin si trova in una _bull run_, ovvero un momento in cui il mercato ha tendenze al rialzo, iniziata nell’ultimo trimestre del 2020. Questo significa che il suo prezzo è salito per un periodo di settimane e mesi, subendo solo minime battute d'arresto nel mezzo. Nel maggio 2021 c'è stato un crollo significativo, da molti interpretato come una frenata sana nell’ambito di un surriscaldamento del mercato. La precedente bull run era iniziata nel 2017 e si è conclusa agli inizi del 2018. Da allora, l'andamento del prezzo ha assunto una tendenza relativamente laterale - _sideways_, come la chiamano sui mercati finanziari – che significa che non si sono manifestati rilevanti movimenti di prezzo, né in positivo né in negativo.
 
 ![Bitcoin price development](resources/_Bitcoin-price.png)[^28]
 
-L’andamento del prezzo di bitcoin segue i cicli di halving. Approssimativamente ogni 4 anni l’ammontare di bitcoin coniati viene ridotto del 50%. Ciò significa che la crescita di bitcoin disponibili sul mercato si sta riducendo. Anche se la domanda di bitcoin rimanesse al medesimo livello, il prezzo è destinato ad aumentare. 
+L’andamento del prezzo di bitcoin segue i cicli di halving. Approssimativamente ogni 4 anni l’ammontare di bitcoin coniati viene ridotto del 50%. Ciò significa che la crescita di bitcoin disponibili sul mercato si sta riducendo. Anche se la domanda di bitcoin rimanesse al medesimo livello, il prezzo è destinato ad aumentare.
 
 ### Scarsità Digitale
 La fornitura totale di bitcoin è limitata a 21 milioni, di cui 18,7 milioni sono già sul mercato. Ogni quattro anni (esattamente ogni 210.000 blocchi), l’ammontare di nuovi bitcoin coniati è ridotto della metà. Attualmente, il processo di mining genera 6,25 bitcoin ogni 10 minuti, ossia 900 bitcoin al giorno e 328.500 all'anno. Dal 2024 verranno coniati solamente 450 bitcoin al giorno, dato che per ogni blocco generato verranno emessi solamente 3,125 bitcoin. Ciò significa che l’ammontare disponibile diminuisce ogni giorno e la fornitura è sempre più scarsa. Se nel frattempo l’interesse per bitcoin aumentasse, il suo prezzo aumenterebbe esponenzialmente.
 
-La situazioine a maggio 2021 è che circa 36 milioni di dollari americani (il numero di bitcoin coniati giornalmente * prezzo) devono fluire nel mercato di Bitcoin ogni giorno perché il prezzo si mantenga stabile al livello attuale di \$40.000. Ogni qualvolta il prezzo crolla, sono stati comprati meno bitcoin rispetto a quanti erano disponibili quel giorno, e viceversa.
+La situazione a maggio 2021 è che circa 36 milioni di dollari americani (il numero di bitcoin coniati giornalmente * prezzo) devono fluire nel mercato di Bitcoin ogni giorno perché il prezzo si mantenga stabile al livello attuale di \$40.000. Ogni qualvolta il prezzo crolla, sono stati comprati meno bitcoin rispetto a quanti erano disponibili quel giorno, e viceversa.
 
-Le date degli halving sono annotate nel grafico sottostante. Il prezzo segue una traiettoria simile prima e dopo ogni halving. In questo grafico il picco massimo di bitcoin è previsto per settembre 2021 e ci si aspetta che in seguito il prezzo crolli nuovamente, come si può vedere dalle linee del grafico contrassegnata con la parola “Low”. Chiaramente questa è solo una previsione basata su pochi eventi storici e pochi numeri. Non possiamo assicurare che questo evento accadrà effettivamente in futuro. 
+Le date degli halving sono annotate nel grafico sottostante. Il prezzo segue una traiettoria simile prima e dopo ogni halving. In questo grafico il picco massimo di bitcoin è previsto per settembre 2021 e ci si aspetta che in seguito il prezzo crolli nuovamente, come si può vedere dalle linee del grafico contrassegnata con la parola “Low”. Chiaramente questa è solo una previsione basata su pochi eventi storici e pochi numeri. Non possiamo assicurare che questo evento accadrà effettivamente in futuro.
 
 ![Halving price cycles](resources/_Halving-Price-cycles-by-Pladizow.png) [^29]
 
@@ -34,25 +34,25 @@ Dal lancio di Bitcoin nel 2009, ci sono stati diversi crolli del prezzo. Prepara
 
 ![Bitcoin price logarithmic scale](resources/_Bitcoin-price-log.png)  [^30]
 
->Non tentare di battere il mercato in astuzia, non fare trading. Semplicemente, conserva i tuoi bitcoin. Per almeno cinque anni. 
+>Non tentare di battere il mercato in astuzia, non fare trading. Semplicemente, conserva i tuoi bitcoin. Per almeno cinque anni.
 
 Nel caso di un _bear market_, ovvero una situazione di contrazione del mercato, quando il prezzo di bitcoin inevitabilmente diminuirà, tu ci starai perdendo in termini di valuta fiat. Tuttavia, la tua riserva di bitcoin rimarrà inalterata. Se hai 0,3 bitcoin in un mercato rialzista, continuerai ad avere 0,3 bitcoin anche in un mercato ribassista. Le perdite sono soltanto una tua percezione, e dipendono esclusivamente da quale valuta o asset usi per valutare i tuoi bitcoin in un dato momento. Sii paziente, attendi, non vendere – la storia suggerisce che tenere bitcoin nel lungo termine è un metodo sicuro per proteggere il valore del tuo patrimonio.
 
 >Investi in bitcoin solamente la cifra che sei disposto a perdere. Se non riesci a dormire serenamente in tempi di deprezzamento, significa che stai tenendo una quantità eccessiva di un asset rischioso, quale bitcoin è.
 
 ### Nessun Ricorso
-  
+
 _Se invii dei bitcoin all’indirizzo sbagliato, sono perduti per sempre. Non puoi più riappropriartene._
 
 Fai un triplo controllo dell’indirizzo ricevente prima di inviare dei bitcoin. Non si può annullare un pagamento. Come con le valute fiat, se acquisti qualcosa tramite un negozio online e restituisci il prodotto, è responsabilità dell’esercizio commerciale gestire la restituzione dei bitcoin. Tuttavia, una semplice svista di battitura dell’indirizzo potrebbe risultare in un errore o addirittura nella perdita dei fondi, dato che all'interno degli indirizzi sono inclusi dei controlli d’integrità.
 
-### Nessuna Rete di Sicurezza	
+### Nessuna Rete di Sicurezza
 
 _Nelle regioni sviluppate del mondo, i depositi in banca sono assicurati (fino a 100,000 euro in Europa). Non è questo il caso con bitcoin._
 
 Esattamente. Tu auto-custodisci i tuoi bitcoin, dunque ne sei l’unico responsabile. Non c’è assicurazione. Ma sappi che in caso di una crisi finanziaria le assicurazioni sulle valute fiat potrebbero comunque non essere in grado di pagarti. Durante la crisi finanziaria di Cipro del 2013, il 47,5% di tutti i depositi bancari sopra i 100.000 euro sono stati sequestrati. Con l’auto-custodia nessuno potrà sequestrare i tuoi bitcoin.
 
-Se apriamo gli occhi e pensiamo al resto del mondo, dove 2 miliardi di persone non hanno accesso ai servizi bancari e l’80% della popolazione mondiale vive sotto regimi autoritari, avere una moneta non censurabile come bitcoin, che controlli tu e non la banca, ha un senso logico. In quei Paesi in cui la popolazione non ha assolutamente alcuna rete di sicurezza la rete di Bitcoin può fornire protezione. 
+Se apriamo gli occhi e pensiamo al resto del mondo, dove 2 miliardi di persone non hanno accesso ai servizi bancari e l’80% della popolazione mondiale vive sotto regimi autoritari, avere una moneta non censurabile come bitcoin, che controlli tu e non la banca, ha un senso logico. In quei Paesi in cui la popolazione non ha assolutamente alcuna rete di sicurezza la rete di Bitcoin può fornire protezione.
 
 ###  Non Posso Permettermi di Investire
 _Non posso acquistare un bitcoin, è troppo caro._
@@ -64,12 +64,12 @@ Puoi anche guadagnare bitcoin, ma ne discuteremo nel capitolo 9 “Guadagnare Bi
 ### Bitcoin Fallirà come le Prime Società di Internet
 
 _Bitcoin è una nuova tecnologia. È la prima del suo genere. Se la paragoniamo alle prime società di computer degli anni ’80 o alle piattaforme internet della bolla delle dot-com, vediamo che quasi nessuna è sopravvissuta. Bitcoin è stata la prima blockchain sul mercato, probabilmente seguirà la stessa rotta_
-    
-Bitcoin è la criptovaluta maggiormente usata a livello globale sin dalle sue origini nel 2009. Condivido il pensiero che non c’è garanzia del fatto che continuerà ad essere così. La posizione dominante di Bitcoin nel mercato si assestava ad oltre l’80% fino al 2017. Ciò significa che delle migliaia di criptovalute disponibili nel mercato, più dell’80% di tutti gli investimenti erano mantenuti in Bitcoin. Questo è cambiato nel 2017-18 quando ci fu una “guerra” in merito a come la tecnologia di Bitcoin avrebbe dovuto procedere. Il dibattito sulla dimensione dei blocchi si concluse con una _hard fork_, ovvero una modifica del protocollo che creava due versioni parallele della blockchain, in seguito alla quale la blockchain di Bitcoin si scisse appunto in due: Bitcoin (BTC) e Bitcoin Cash (BCH). Fu in quel momento che altri progetti cripto come Ethereum guadagnarono terreno. Quattro anni più tardi, BCH ha costantemente perso importanza fino ad essere diventato insignificante, se paragonato a BTC. Bitcoin ha mantenuto la propria posizione dominante, assestandosi oltre il 60% fino all’attuale bull run, quando, al momento in cui scrivo, è crollato al 40% del proprio valore. Una bull run produce maggiore attenzione da parte dell'opinione pubblica, il che innesca la pubblicazione di molti articoli da parte di media disinformati, e quando a tutto questo si aggiungono certi miliardari che alimentano pettegolezzi e speculazione, le attenzioni si concentrano sulle Altcoin. 
+
+Bitcoin è la criptovaluta maggiormente usata a livello globale sin dalle sue origini nel 2009. Condivido il pensiero che non c’è garanzia del fatto che continuerà ad essere così. La posizione dominante di Bitcoin nel mercato si assestava ad oltre l’80% fino al 2017. Ciò significa che delle migliaia di criptovalute disponibili nel mercato, più dell’80% di tutti gli investimenti erano mantenuti in Bitcoin. Questo è cambiato nel 2017-18 quando ci fu una “guerra” in merito a come la tecnologia di Bitcoin avrebbe dovuto procedere. Il dibattito sulla dimensione dei blocchi si concluse con una _hard fork_, ovvero una modifica del protocollo che creava due versioni parallele della blockchain, in seguito alla quale la blockchain di Bitcoin si scisse appunto in due: Bitcoin (BTC) e Bitcoin Cash (BCH). Fu in quel momento che altri progetti cripto come Ethereum guadagnarono terreno. Quattro anni più tardi, BCH ha costantemente perso importanza fino ad essere diventato insignificante, se paragonato a BTC. Bitcoin ha mantenuto la propria posizione dominante, assestandosi oltre il 60% fino all’attuale bull run, quando, al momento in cui scrivo, è crollato al 40% del proprio valore. Una bull run produce maggiore attenzione da parte dell'opinione pubblica, il che innesca la pubblicazione di molti articoli da parte di media disinformati, e quando a tutto questo si aggiungono certi miliardari che alimentano pettegolezzi e speculazione, le attenzioni si concentrano sulle Altcoin.
 
 ![Percentage of total market capitalization](resources/_Market-dominance.png) [^31]
 
-Il ritorno della posizione dominante di Bitcoin seguito al periodo di crisi dell’hard fork del 2017 è stato un segnale di forza per molti esperti, quali la macroeconomista Lyn Alden e l’investitore americano Michael Saylor, tanto da portarli a credere nel potenziale futuro di Bitcoin nel ruolo di criptovaluta dominante. E anche se ci dovessero essere innovazioni tecnologiche portate dalle Altcoin che permetterebbero loro di strappare il primato a Bitcoin, non vi è dubbio che gli sviluppatori di Bitcoin le implementaranno a loro volta.
+Il ritorno della posizione dominante di Bitcoin seguito al periodo di crisi dell’hard fork del 2017 è stato un segnale di forza per molti esperti, quali la macroeconomista Lyn Alden e l’investitore americano Michael Saylor, tanto da portarli a credere nel potenziale futuro di Bitcoin nel ruolo di criptovaluta dominante. E anche se ci dovessero essere innovazioni tecnologiche portate dalle Altcoin che permetterebbero loro di strappare il primato a Bitcoin, non vi è dubbio che gli sviluppatori di Bitcoin le implementeranno a loro volta.
 
 ### Bitcoin Ha Fallito
 
