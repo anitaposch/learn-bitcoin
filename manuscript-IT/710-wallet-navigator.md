@@ -3,7 +3,7 @@ Ci sono svariati fornitori di wallet, e nel tempo sempre di più vengono resi di
 
 ### Step 1 - Selezionare il wallet
 **Vuoi usare il wallet su base regolare per eseguire pagamenti?**
-Se non utilizzi uno smartphone o un computer, e non vuoi inviare pagamenti, puoi dunque usare il Card Wallet. Puoi inviarci bitcoin o ether, e conservarli. Quando vorrai fare un pagamento, dovrai installare un wallet. Se non hai intenzione di fare pagamenti regolari, dunque sarà appropriato affidarsi ad un wallet software possibilmente in combinazione con un autenticatore hardware come Trezor o BitBox02.
+Se non utilizzi uno smartphone o un computer, e non vuoi inviare pagamenti, puoi dunque usare il Card Wallet. Puoi inviarci bitcoin o ether, e conservarli. Quando vorrai fare un pagamento, dovrai installare un wallet. Se non hai intenzione di fare pagamenti regolari, dunque sarà appropriato affidarsi ad un wallet software possibilmente in combinazione con un dispositivo di autenticazione hardware come Trezor o BitBox02.
 
 **Vuoi mantenere costantemente aggiornato il software e il dispositivo?**
 La risposta è no? Dunque, di nuovo, il Card Wallet è la scelta giusta per te. Non dovrai preoccuparti del mantenimento del dispositivo.
@@ -24,4 +24,3 @@ Molti wallet includono l’abilità di acquistare bitcoin direttamente dall’in
 ![How to get bitcoin](resources/_Buying-methods.png) [^72]
 
 [^72]: Anita Posch
-
