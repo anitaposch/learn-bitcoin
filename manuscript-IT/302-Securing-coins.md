@@ -36,7 +36,7 @@ Procediamo ora con la parte più importante per la messa in sicurezza dei tuoi b
 
 Considerato che dal seed si generano tutte le chiavi private, nessuno oltre a te deve averne l’accesso. La persona a conoscenza del seed ha il controllo finale dei fondi.
 
-Il seed (chiamato anche frase mnemonica o frase di recupero) è una sequenza di 12 o 24 parole che fornisce accesso alle chiavi private degli indirizzi del wallet, e pertanto accesso alle criptovalute. Ciò significa che l’ordine di parole deve rimanere segreto. Qualsiasi persona a conoscenza del seed può accedere e sottrare le coin. Perché?
+Il seed (chiamato anche frase mnemonica o frase di recupero) è una sequenza di 12 o 24 parole che fornisce accesso alle chiavi private degli indirizzi del wallet, e pertanto accesso alle criptovalute. Ciò significa che l’ordine di parole deve rimanere segreto. Qualsiasi persona a conoscenza del seed può accedere e sottrarre le coin. Perché?
 
 Differentemente dalle monete metalliche che si trovano all’interno del tuo portafoglio fisico, le tue criptovalute non si trovano all’interno del tuo wallet digitale. Queste sono registrate nella blockchain. Comparalo alla differenza che sussiste tra email e lettere postali. Puoi accedere al tuo account email da ogni parte del mondo perché le email sono archiviate online, mentre la tua cassetta della posta ordinaria è stazionaria. Ciò è applicabile anche a Bitcoin.
 
