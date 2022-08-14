@@ -6,7 +6,8 @@
 "Anita has done tremendous work in the Bitcoin community, including and especially the content she has produced about Bitcoin’s use in less-privileged regions of the world. Her book is a concise and approachable introduction to Bitcoin that covers all of the major topics for someone to get started."
 **Lyn Alden, Investment Strategist**
 ***
-"'What is Bitcoin?' To even begin to start answering this question, one must first ask 'what is money?' Anita takes the reader through this journey of learning about money so that they can understand why Bitcoin is the next leap forward in financial technology. Once you know the 'why?' then there is the issue of 'how?' With great sovereignty comes great responsibility; in order to safely navigate this new system you’ll need the knowledge and tools that this book provides."    **Jameson Lopp, Co-founder & CTO, Casa**
+"'What is Bitcoin?' To even begin to start answering this question, one must first ask 'what is money?' Anita takes the reader through this journey of learning about money so that they can understand why Bitcoin is the next leap forward in financial technology. Once you know the 'why?' then there is the issue of 'how?' With great sovereignty comes great responsibility; in order to safely navigate this new system you’ll need the knowledge and tools that this book provides."
+**Jameson Lopp, Co-founder & CTO, Casa**
 ***
 "Anita is one of the preeminent Bitcoin educators, demonstrating an unmatched breadth of interest and curiosity. Her book is a fitting summary to her tireless work, and represents an invaluable contribution to the ever-growing and rich body of knowledge surrounding Bitcoin."
 **Nic Carter, Partner, Castle Island Ventures**
@@ -28,5 +29,5 @@
 ***
 "Buying bitcoin is easier than ever today. Storing your own bitcoin long-term and safely requires a minimum of technical and economic understanding. This book provides the necessary basics to keep you in control of your money. Wherever the Bitcoin journey takes us, investing in this book is a sure win."
 **Johannes Grill, President Bitcoin Austria**
-
+{pagebreak}
 

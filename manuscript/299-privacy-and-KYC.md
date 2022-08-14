@@ -9,3 +9,4 @@ If you publish your Bitcoin address on the internet or announce it anywhere else
 Bitcoin is not as anonymous as it is often assumed. All cash flows can be analyzed with sufficient effort. Companies such as Chainalysis specialize in these big data evaluations and clients, such as banks, can pay for this service. Work is underway to improve the privacy of Bitcoin. Over the next two years, there will be innovations here that do not interfere with the use of Bitcoin and offer more data protection.
 
 The cryptocurrency Monero, which has been in existence since 2014, offers already built-in privacy protection. Here the addresses are not publicly visible and blockchain analysis is not possible.
+{pagebreak}

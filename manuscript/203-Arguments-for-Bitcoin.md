@@ -29,7 +29,7 @@ It's people in regions like Africa and South America who will drive Bitcoin adop
 This table by the International Monetary Fund shows the annual change of consumer prices in percent.
 
 *Figure* [^58]
-{height: "70%"}
+{height: "50%"}
 ![Inflation rate, average consumer prices, annual change in %](resources/_inflation-2021.png) 
 
 * Venezuela saw prices increases by 5,500%. The suffering of the people is simply incomprehensible.

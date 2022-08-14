@@ -10,7 +10,7 @@ Trading on these exchanges is done off-chain, meaning that transactions are not 
 
 To acquire bitcoin in a custodial fashion, you need to open an account, comply with a KYC and AML registration process and then deposit fiat money into the platform's account. After your money's arrival you can trade it for bitcoin or other cryptocurrencies.
 
-As mentioned in chapter 4 "The Staircase of Financial Sovereignty", to mitigate the counter-party risks of custodial wallets you should either send your funds to your own wallet or skip these exchanges and go non-custodial immediately.
+As mentioned in chapter "The Staircase of Financial Sovereignty", to mitigate the counter-party risks of custodial wallets you should either send your funds to your own wallet or skip these exchanges and go non-custodial immediately.
 
 ## Buying Bitcoin - Non-Custodial
 Holding bitcoin in a non-custodial (self-hosted) manner is the desired outcome. It makes your transactions uncensorable and provides maximal freedom over your funds. You can achieve this by buying bitcoin in the right place to begin with.

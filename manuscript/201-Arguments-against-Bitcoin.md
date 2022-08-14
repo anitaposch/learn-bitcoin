@@ -63,7 +63,7 @@ _I can't buy one bitcoin, it's too expensive._
 
 That's ok, you don't have to. There is no minimum budget you need to use bitcoin. A bitcoin is divisible into extremely small units, much smaller than a cent. You can buy a fraction of a bitcoin and start to play around with 20 USD or less.
 
-You can also earn bitcoin, but more about that in chapter 9 "Earn Bitcoin".
+You can also earn bitcoin, but more about that in the chapter "Earn Bitcoin".
 
 ### Bitcoin Will Fail Like the First Internet Companies
 
@@ -90,7 +90,7 @@ Those centralized exchanges have to verify your identity before you are allowed 
 Around 1.3% of the world's population had an account at a cryptocurrency exchange at the end of 2020, a growth of nearly 190% between 2018 and 2020. Still, one could argue that this is not much. However, for a completely new asset class and money that originated as a grassroots movement without a company or marketing behind it, Bitcoin has developed itself to the point where it is widely known, discussed and used by over at least 100 million people worldwide.
 
 *Figure* [^33]
-{height: "80%"}
+{height: "60%"}
 ![Respondents who said they used or owned cryptocurrencies 2020](resources/_users_around-world.png) 
 
 This is the result of a survey in selected countries showing that 32% of the Nigerian population has used or owns cryptocurrency. Keep in mind, the Nigerian population is on average 19 years old, compared to the US figure of 38 and Germany's median age of 44 years. They are young, want to work, are tech-savvy and value cryptocurrencies, despite their volatility because their own national currency Naira is losing 25% of its value per year.

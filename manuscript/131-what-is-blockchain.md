@@ -1,5 +1,5 @@
 # What Is a Blockchain?
-The Bitcoin blockchain is a public, immutable database where all Bitcoin transactions are stored. Thus, "the blockchain" itself is not the revolutionary technological breakthrough as it is usually described in the media. As you learned in chapter 1.4 "The History of Bitcoin", adding a blockchain was the element that finally solved the problem of double-spending and enabled the decentralized issuance of money on a secured decentralized network. Bitcoin has a lot of other preceding technology in it.
+The Bitcoin blockchain is a public, immutable database where all Bitcoin transactions are stored. Thus, "the blockchain" itself is not the revolutionary technological breakthrough as it is usually described in the media. As you learned in chapter "The History of Bitcoin", adding a blockchain was the element that finally solved the problem of double-spending and enabled the decentralized issuance of money on a secured decentralized network. Bitcoin has a lot of other preceding technology in it.
 
 In fact, Satoshi Nakamoto never mentioned the word blockchain. Instead, Nakamoto used the term time chain, because the ledger's main use is to store all transactions in the correct chronological order.
 
