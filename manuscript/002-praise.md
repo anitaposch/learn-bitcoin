@@ -6,7 +6,7 @@
 "Anita has done tremendous work in the Bitcoin community, including and especially the content she has produced about Bitcoin’s use in less-privileged regions of the world. Her book is a concise and approachable introduction to Bitcoin that covers all of the major topics for someone to get started."
 **Lyn Alden, Investment Strategist**
 ***
-"'What is Bitcoin?' To even begin to start answering this question, one must first ask 'what is money?' Anita takes the reader through this journey of learning about money so that they can understand why Bitcoin is the next leap forward in financial technology. Once you know the 'why?' then there is the issue of 'how?' With great sovereignty comes great responsibility; in order to safely navigate this new system you’ll need the knowledge and tools that this book provides." **Jameson Lopp, Co-founder & CTO, Casa**
+"'What is Bitcoin?' To even begin to start answering this question, one must first ask 'what is money?' Anita takes the reader through this journey of learning about money so that they can understand why Bitcoin is the next leap forward in financial technology. Once you know the 'why?' then there is the issue of 'how?' With great sovereignty comes great responsibility; in order to safely navigate this new system you’ll need the knowledge and tools that this book provides."    **Jameson Lopp, Co-founder & CTO, Casa**
 ***
 "Anita is one of the preeminent Bitcoin educators, demonstrating an unmatched breadth of interest and curiosity. Her book is a fitting summary to her tireless work, and represents an invaluable contribution to the ever-growing and rich body of knowledge surrounding Bitcoin."
 **Nic Carter, Partner, Castle Island Ventures**
@@ -15,7 +15,7 @@
 **Michael Peterson, Bitcoin Beach, El Salvador**
 ***
 "The best teachers are students. Since the first day that Anita popped up on my radar, she has been a curious and insightful researcher and promoter of Bitcoin's revolutionary technology. Gleaning wheat from chaff, she writes with the simplicity, clarity, and precision necessary for a complex topic demanding expertise in multiple disciplines. Sovryn is proud to sponsor the publication of (L)earn Bitcoin as part of our mission to make Bitcoin unstoppable."
-**exiledsurfer, Founder, Parallele Polis, Comms Lead at SovrynBTC**
+**Exiledsurfer, Founder, Parallele Polis, Comms Lead at SovrynBTC**
 ***
 "It is no simple task to explain Bitcoin, the new elephant in the room of finance. Like blind men, specialists often limit their description to a narrow field of expertise. Anita's angle of attack is holistic, synthetic and clear. It brings a fresh look to 'the people's money'."
 **Thomas Voegtlin, Founder & CEO, Electrum**

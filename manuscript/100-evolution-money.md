@@ -71,6 +71,7 @@ On top of that, there is something called fractional-reserve banking. This allow
 In 2020 global debt rose by an incredible 24 trillion to 281 trillion USD, or 355% of global GDP.
 
 *Figure* [^6]
+{height: "70%"}
 ![Debt-to-GDP ratios](resources/_Debt-to-GDP-ratio-2020.jpg)
 
 ### Central Banks as Lenders of Last Resort

@@ -6,18 +6,18 @@ There is a very good way to avoid bitcoin volatility when using it as a payment.
 ### Create a Savings Plan
 Procure a small sum of bitcoin periodically - every day/week/month. This is also known as dollar cost averaging (DCA) - or fiat cost averaging (FCA). By spacing out your purchases you balance out the volatility of bitcoin's price over a longer period of time.
 
-On websites like [Bitcoin Dollar Cost Average](https://www.bitcoindollarcostaverage.com/) you can calculate the differences in returns for several purchasing strategies.
+On websites like [Bitcoin Dollar Cost Average](https://www.bitcoindollarcostaverage.com/) https://www.bitcoindollarcostaverage.com/ you can calculate the differences in returns for several purchasing strategies.
 
 **Bitcoin-only FCA services**
 
-Austria, Germany: [Coinfinity](https://coinfinity.co/sparplan/?ref=6716)
-France: [StackinSat](https://www.stackinsat.com/)
-Europe: [Relai](https://relai.ch/)
-UK: [Coincorner](https://www.coincorner.com/), [xsats](https://xsats.com/)
-Australia: [Bitaroo](https://support.bitaroo.com.au/hc/en-au/articles/360042838874-Recurring-Buy-DCA-), [Amber App](https://amber.app/)
-Canada: [Bull Bitcoin](https://bullbitcoin.com/)
-Nigeria: [Bitnob](https://bitnob.com/)
-USA: [Swan Bitcoin](https://www.swanbitcoin.com/), [River](https://river.com/)
+Austria, Germany: [Coinfinity](https://coinfinity.co/sparplan/?ref=6716) https://coinfinity.co/sparplan/?ref=6716
+France: [StackinSat](https://www.stackinsat.com/) https://www.stackinsat.com/
+Europe: [Relai](https://relai.ch/) https://relai.ch/
+UK: [Coincorner](https://www.coincorner.com/) https://www.coincorner.com/, [xsats](https://xsats.com/) https://xsats.com/
+Australia: [Bitaroo](https://support.bitaroo.com.au/hc/en-au/articles/360042838874-Recurring-Buy-DCA-) https://bitaroo.com, [Amber App](https://amber.app/) https://amber.app
+Canada: [Bull Bitcoin](https://bullbitcoin.com/) https://bullbitcoin.com
+Nigeria: [Bitnob](https://bitnob.com/) https://bitnob.com
+USA: [Swan Bitcoin](https://www.swanbitcoin.com/) https://swanbitcoin.com, [River](https://river.com/) https://river.com
 
 ### Trading
 There are countless trading experts online who tell beginners how to "time the market" and predict the movement of bitcoin's price. They try to sell you trading software and seminars. Stop. Don't spend your time and money on trying to do that. You can't time the market. The big players will get you "rekt." On top of that, you will pay a lot of trading fees and keep in mind that you may have to track all trading movements for tax reasons. In some countries your bitcoin gains are tax-free if you do not exchange the coins for 12 months. Each trade can be a new taxable event.

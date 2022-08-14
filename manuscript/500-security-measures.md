@@ -1,7 +1,8 @@
 # Storing Coins Safely
 
 ## Safety Measures
-All databases can get hacked. Search your email on https://haveibeenpwned.com/ - if you're lucky you have not been pwned, but billions of other accounts have. Therefore, it is important to follow general security measures that apply even more while using Bitcoin.
+All databases can get hacked. 
+Search your email on https://haveibeenpwned.com/ - if you're lucky you have not been pwned, but billions of other accounts have. Therefore, it is important to follow general security measures that apply even more while using Bitcoin.
 
 ### Hardware and Software Setup
 You can use popular browsers such as Firefox, Opera, Brave or Chrome. Browser extensions that block Javascript and Cookies are recommended. Ghostery, NoScript and ScriptSafe are the kind of extensions you can add to your browser. "HTTPS everywhere" enforces an SSL connection to all websites, including those that do not yet offer SSL.
@@ -103,7 +104,7 @@ Some wallets use different mechanisms for the backup. For instance, the Muun wal
 ## Learning by Doing
 It can be intimidating to start using Bitcoin because it's real money. That is why it is a good practice to start with very small amounts.
 
-For your first attempts, install a wallet on your phone, search for a [Bitcoin ATM](https://anita.link/atm) close to you or attend a local Bitcoin meet-up and exchange a small amount. Get a wallet for your computer and send bitcoin in between your two wallets to different addresses.
+For your first attempts, install a wallet on your phone, search for a [Bitcoin ATM](https://anita.link/atm) anita.link/atm close to you or attend a local Bitcoin meet-up and exchange a small amount. Get a wallet for your computer and send bitcoin in between your two wallets to different addresses.
 
 The best time to do this is usually on the weekend when the Mempool is not packed with transactions and the fees are lower.
 

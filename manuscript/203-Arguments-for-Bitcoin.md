@@ -1,5 +1,6 @@
 ## Arguments for Bitcoin
-> "Bitcoin is an opt-in system. You choose to use it. You choose what apps you're going to run. You choose who you're going to interact with. You choose the rules of the game by which you're going to interact. That's why bitcoin is going to win. It delivers innovation that consumers want and need." - **Andreas M. Antonopoulos**
+> "Bitcoin is an opt-in system. You choose to use it. You choose what apps you're going to run. You choose who you're going to interact with. You choose the rules of the game by which you're going to interact. That's why bitcoin is going to win. It delivers innovation that consumers want and need." - 
+> **Andreas M. Antonopoulos**
 
 ### A Paradigm Shift
 I'm a digital native individual in a Gen X body. I can remember life without the internet, even without a VCR. We had one TV station in Austria, that was it. My parents got our first landline phone when I was 12. At 14 I used my first computer, in 1997 I installed my first internet connection and email at home. That same year there were only 1 million websites globally and Google and Amazon did not exist internationally.
@@ -28,6 +29,7 @@ It's people in regions like Africa and South America who will drive Bitcoin adop
 This table by the International Monetary Fund shows the annual change of consumer prices in percent.
 
 *Figure* [^58]
+{height: "70%"}
 ![Inflation rate, average consumer prices, annual change in %](resources/_inflation-2021.png) 
 
 * Venezuela saw prices increases by 5,500%. The suffering of the people is simply incomprehensible.
@@ -82,7 +84,7 @@ Bitcoin can lower the cost of receiving payments, leaving people with more of th
 For more insights about the living conditions of people in Zimbabwe and their real-life use of Bitcoin in Venezuela, Argentina, Afghanistan, Nigeria, and more, [listen to my podcast interviews](https://anita.link/show). Regarding the advantages for women using Bitcoin, look up the section "Women in Bitcoin".
 
 ### Slow, But Safe
-One criticism of Bitcoin is that its development is slow and clunky. In fact, reality shows that Bitcoin is the longest standing and technically safest blockchain. It has never been hacked or altered. The reason for this is a community of independent, open-source developers whose first interest is to contribute to the broader social good. Listen to [Adam Back](https://anita.link/12), [Gloria Zhao](https://anita.link/82), [Tim Akinbo](https://anita.link/63), [Amiti Uttawar](https://anita.link/62) or [Matt Corrallo](https://anita.link/19) to understand how thoughtful and driven they are by their mission. Secondly, the pace of development is deliberately slow. The Silicon Valley mantra of "Move fast and break things" is the opposite of what you want for a 600 billion USD digital asset that is at the same time, live software.
+One criticism of Bitcoin is that its development is slow and clunky. In fact, reality shows that Bitcoin is the longest standing and technically safest blockchain. It has never been hacked or altered. The reason for this is a community of independent, open-source developers whose first interest is to contribute to the broader social good. Listen to [Adam Back](https://anita.link/12) anita.link/12, [Gloria Zhao](https://anita.link/82) anita.link/82, [Tim Akinbo](https://anita.link/63) anita.link/63, [Amiti Uttawar](https://anita.link/62) anita.link/62 or [Matt Corrallo](https://anita.link/19) anita.link/19 to understand how thoughtful and driven they are by their mission. Secondly, the pace of development is deliberately slow. The Silicon Valley mantra of "Move fast and break things" is the opposite of what you want for a 600 billion USD digital asset that is at the same time, live software.
 
 ### Internet of Things
 An internet native money like bitcoin can be used by machines too. Self-driving electric cars like auto-taxis will be able to recharge themselves at charging stations and pay automatically with bitcoin. This is not science fiction, this is the near future. Andy Schroder from Kentucky is [loading his Tesla with real-time machine-to-machine micropayments over the Bitcoin Lightning Network](http://andyschroder.com/DistributedCharge/) already. This will not be the only innovation that will come from the intersections of new technology, money and communication.
@@ -110,7 +112,7 @@ According to Jevons, Bitcoin is only money if it fulfills these functions:
 1. Store of value - the value must remain stable over time
 2. Medium of exchange - it is widely accepted in exchange for goods and services
 3. Medium of account - it is used as a measure for prices, costs and profits
-Source: https://en.wikipedia.org/wiki/Money
+_Source: https://en.wikipedia.org/wiki/Money_
 
 **1. Store of Value**
 Critics say bitcoin is not a store of value due to its volatility and potential for short-term losses. Well, as I laid out in chapter 3.1, in the long-term that is not really the case. Further, I question the definition of "stable over time". What is the time frame? Inflation in fiat money in Austria has been 20% over the last decade. All other fiat currencies like the Euro are similarly unreliable stores of value for this very reason.

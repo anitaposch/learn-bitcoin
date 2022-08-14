@@ -7,7 +7,7 @@ When you're buying bitcoin via an exchange, the transaction fee (mining fee) is 
 
 In your non-custodial Bitcoin wallet, you can determine the transaction fee for outgoing payments by yourself. The higher you set the fee, the faster your transaction will be processed by the miners because they pick the transactions with the highest fees first. If your transfer is not time-sensitive, you can choose a lower fee.
 
-For more control you can estimate the fee and the confirmation speed on pages like [Mempool.space](https://mempool.space/) or [Johoe's Bitcoin Mempool](https://jochen-hoenicke.de/queue/). These websites display the number and size of all unconfirmed transactions. They give a real-time view and show how the Mempool evolves. The transactions are colored by the amount of fee they pay per (virtual) byte.
+For more control you can estimate the fee and the confirmation speed on pages like [Mempool.space](https://mempool.space/) https://mempool.space or [Johoe's Bitcoin Mempool](https://jochen-hoenicke.de/queue/) https://jochen-hoenicke.de/queue/. These websites display the number and size of all unconfirmed transactions. They give a real-time view and show how the Mempool evolves. The transactions are colored by the amount of fee they pay per (virtual) byte.
 
 *Figure* [^74]
 ![Real-time view of unconfirmed transactions](resources/_Mempool-space-white-back.png) 
@@ -15,19 +15,19 @@ For more control you can estimate the fee and the confirmation speed on pages li
 Below you can see the settings in the Edge wallet. You can choose one of the ranges of the default transaction fee or a custom value.
 
 *Figure* [^75]
-{height: "70%"}
+{height: "50%"}
 ![Transaction fee settings in Edge wallet](resources/_transaction-fee-setting.png) 
 
 **Pending Transaction**
 Since new blocks are mined every 10 minutes, it will take an average of at least 10 minutes until your transaction is confirmed. If you set the transaction fee too low then your transaction might be pending for a longer period as the Mempool gets cleared and miners begin to re-include transactions with lower fees. Here you see one of my transactions that has been trapped in the Mempool for a month.
 
 *Figure* [^76]
-{height: "70%"}
+{height: "40%"}
 ![Pending transaction](resources/_Pending-transaction-edge.png) 
-You can look up the status of your transaction in a [Blockchain explorer](https://blockchair.com). As you can see below my transaction is 4,717 ranks away from being mined with a total of 41,610 transactions in the Mempool. I chose a fee of 5 sat per vbyte.
+You can look up the status of your transaction in a [Blockchain explorer](https://blockchair.com) https://blockchair.com. As you can see below my transaction is 4,717 ranks away from being mined with a total of 41,610 transactions in the Mempool. I chose a fee of 5 sat per vbyte.
 
 *Figure* [^77]
-{height: "70%"}
+{height: "40%"}
 ![Transaction status as shown in blockexplorer](resources/_Pending-transaction-explorer.png) [^77]
 
 You do not need to follow the below steps to get your original transaction confirmed. Most low-fee transactions remain valid for days and will eventually confirm. However, there are two ways to solve the problem of the stuck transaction and get it confirmed sooner.
@@ -42,11 +42,11 @@ Please look up the documentation of the wallet you are using for detailed instru
 
 ## Buy Something With Bitcoin
 Here are some directories with shops where you can spend bitcoin.
-* [Accepted here](https://www.acceptedhere.io)
-* [B2B services accepting BTC](https://cryptwerk.com/companies/b2b/btc/)
-* [Coinmap](https://coinmap.org/view/) physical stores accepting Bitcoin
-* [Spending Bitcoin](https://spending-bitcoin.com/) directory
-* [UseBitcoins](https://usebitcoins.info/) directory
+* [Accepted here](https://www.acceptedhere.io) https://www.acceptedhere.io
+* [B2B services accepting BTC](https://cryptwerk.com/companies/b2b/btc/) https://cryptwerk.com/companies/b2b/btc/
+* [Coinmap](https://coinmap.org/view/) https://coinmap.org/view/ physical stores accepting Bitcoin
+* [Spending Bitcoin](https://spending-bitcoin.com/) https://spending-bitcoin.com/ directory
+* [UseBitcoins](https://usebitcoins.info/) https://usebitcoins.info/ directory
 
 ## Bitcoin Debit Cards
 You can use a Bitcoin debit card to buy anything just like any other banking debit card. The difference is that it's loaded with bitcoin or altcoins. The merchants get paid in their own currency by the debit company and the charge will be deducted from your bitcoin balance, which allows you to live purely through bitcoin.
@@ -58,11 +58,11 @@ Cryptocom Visa, Binance, Bitpanda Visa, Coinbase Visa, Wirex Visa, BlockCard, Cr
 
 ## Spending and Receiving
 The following are tools and services that enable you to spend and receive BTC in your daily life.
-* [Bity](https://bity.com/products/crypto-online-bill-pay/) pay bills online with bitcoin
-* [Cash App](https://cash.app/bitcoin) buy and sell BTC straight from your Cash App balance
-* [Strike](https://global.strike.me/) send and receive instant international payments, instant remittances and with full access to the Bitcoin network
-* [Swapin](https://www.swapin.com/) pay anyone in EURO using your crypto
-* [Bitrefill](https://www.bitrefill.com/?hl=en) buy giftcards and phone refills
+* [Bity](https://bity.com/products/crypto-online-bill-pay/) https://bity.com/products/crypto-online-bill-pay/ pay bills online with bitcoin
+* [Cash App](https://cash.app/bitcoin) https://cash.app/bitcoin buy and sell BTC straight from your Cash App balance
+* [Strike](https://global.strike.me/) https://global.strike.me/ send and receive instant international payments, instant remittances and with full access to the Bitcoin network
+* [Swapin](https://www.swapin.com/) https://www.swapin.com/ pay anyone in EURO using your crypto
+* [Bitrefill](https://www.bitrefill.com/?hl=en) https://www.bitrefill.com/ buy giftcards and phone refills
 
 [^74]: [Screenshot by Anita Posch](https://mempool.space)  
 [^75]: Screenshot by Anita Posch, Edge wallet  

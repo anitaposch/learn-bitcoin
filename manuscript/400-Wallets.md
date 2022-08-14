@@ -31,7 +31,7 @@ As an alternative, you can use a company called Casa and their industry-leading 
 For iOS and Android
 * [Blockstream Green](https://blockstream.com/green/) (Bitcoin non-custodial, Liquid)
 * [Breez Wallet](https://breez.technology/) (Lightning non-custodial)
-* If you want to use Bitcoin and micro-payments on the Lightning Network:
+* If you want to use both - Bitcoin and micro-payments on the Lightning Network - in one wallet:
 * [Muun Wallet](https://muun.com/) (Bitcoin and Lightning non-custodial)
 * [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial and Lightning custodial)
 * [Electrum](https://electrum.org) (Bitcoin and Lightning non-custodial, for more tech-savvy users)
