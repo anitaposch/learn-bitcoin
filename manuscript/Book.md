@@ -1,6 +1,6 @@
 001-frontmatter.md
-002a-firstpage.md
 002-praise.md
+002a-firstpage.md
 005-mainmatter.md
 006-introduction.md
 100-evolution-money.md
