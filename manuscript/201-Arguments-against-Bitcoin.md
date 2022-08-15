@@ -119,5 +119,5 @@ The 2017 hard-fork split between Bitcoin and Bitcoin Cash is a second example of
 [^31]: [Source CoinMarketCap](https://coinmarketcap.com/charts/) June 7, 2021  
 [^32]: [Source Cambridge Center for Alternative Finance, 3rd Global Cryptoasset Benchmarking Study, Fig. 34, Illustration: Anita Posch](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/3rd-global-cryptoasset-benchmarking-study)  
 [^33]: [Source Statista](https://www.statista.com/chart/18345/crypto-currency-adoption/)  
-[^33a]: [2nd global cryptoasset benchmarking study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study/)  
+[^33a]:[2nd global cryptoasset benchmarking study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study/)  
 [^34]: [Source CoinShares, Bitcoin Mining, Dec. 2019](https://coinshares.com/de/research/bitcoin-mining-network-december-2019)
