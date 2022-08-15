@@ -22,7 +22,7 @@ Just to name a few examples of Bitcoin brokers:
 
 * [AnyCoin direct](https://anycoindirect.eu/) https://anycoindirect.eu
 * [Bity](https://bity.com/) https://bity.com
-* [Coinfinity](https://coinfinity.co/start-en/) https://coinfinity.co/start-en/
+* [Coinfinity](https://anita.link/coinfinity) https://anita.link/coinfinity
 * [Coinnexus](https://coinnexus.ch/en) https://coinnexus.ch/en works without verification up to CHF 1,000 per year.
 
 ### Peer-to-Peer Purchase in Person
@@ -92,8 +92,8 @@ To buy bitcoin without user identification you can:
 * [LocalCryptos](https://localcryptos.com/Bitcoin) https://localcryptos.com/Bitcoin
 * [Sovryn](https://live.sovryn.app) https://live.sovryn.app
 
-Exchange sources: https://kycnot.me/, 
-https://github.com/cointastical/P2P-Trading-Exchanges/, https://bitcoiner.guide/nokyconly/
+Exchange sources: https://kycnot.me/,  
+https://github.com/cointastical/P2P-Trading-Exchanges/
 
 ## Costs for Buying Bitcoin
 When you buy cryptocurrencies you have to pay fees for the service provider, just like when you exchange to a foreign currency when you travel to a different country. The price at which you exchange is determined by the service provider (see chapter Bitcoin price). Usually, this is the market price plus a surcharge for the service. Since each exchange has its own bitcoin price and different fee structures, there are big differences in the trading costs between them. You can save money by comparing the trading fees when choosing a specific platform.

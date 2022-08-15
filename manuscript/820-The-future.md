@@ -2,7 +2,7 @@
 
 > "The future is a construction site." - Anita Posch
 
-Now that you have a deeper understanding of Bitcoin and how to use it, we can dip our toes into future developments that I think will have enormous impact. This part was co-authored by Mark Kersley with parts taken from: [Andreas M. Antonopoulos' talk about Bitcoin, Layer 2 Solutions, and the Wild West of Crypto](https://youtu.be/TsbIMg-YHQk)
+Now that you have a deeper understanding of Bitcoin and how to use it, we can dip our toes into future developments that I think will have enormous impact. This part was co-authored by Mark Kersley with parts taken from: [Andreas M. Antonopoulos' talk about Bitcoin, Layer 2 Solutions, and the Wild West of Crypto](https://youtu.be/TsbIMg-YHQk) anita.link/future
 
 ## Decentralized Finance - DeFi
 One intriguing category of new applications is called decentralized finance, or DeFi. Decentralized finance aims to expand upon the monetary freedom offered and inspired by Bitcoin, and introduce these features to the whole crypto ecosystem. It's all well and good owning bitcoin or other decentralized assets, but when most people go to buy, sell or even hold their assets long-term, they use a centralized entity such as an exchange. 

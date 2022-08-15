@@ -6,14 +6,14 @@ There is a very good way to avoid bitcoin volatility when using it as a payment.
 ### Create a Savings Plan
 Procure a small sum of bitcoin periodically - every day/week/month. This is also known as dollar cost averaging (DCA) - or fiat cost averaging (FCA). By spacing out your purchases you balance out the volatility of bitcoin's price over a longer period of time.
 
-On websites like [Bitcoin Dollar Cost Average](https://www.bitcoindollarcostaverage.com/) https://www.bitcoindollarcostaverage.com/ you can calculate the differences in returns for several purchasing strategies.
+On websites like [Bitcoin Dollar Cost Average](https://www.bitcoindollarcostaverage.com/) you can calculate the differences in returns for several purchasing strategies (https://www.bitcoindollarcostaverage.com/).
 
 **Bitcoin-only FCA services**
 
 Austria, Germany: [Coinfinity](https://coinfinity.co/sparplan/?ref=6716) https://coinfinity.co/sparplan/?ref=6716
-France: [StackinSat](https://www.stackinsat.com/) https://www.stackinsat.com/
-Europe: [Relai](https://relai.ch/) https://relai.ch/
-UK: [Coincorner](https://www.coincorner.com/) https://www.coincorner.com/, [xsats](https://xsats.com/) https://xsats.com/
+France: [StackinSat](https://www.stackinsat.com/) https://www.stackinsat.com
+Europe: [Relai](https://relai.ch/) https://relai.ch
+UK: [Coincorner](https://www.coincorner.com/) https://www.coincorner.com, [xsats](https://xsats.com/) https://xsats.com
 Australia: [Bitaroo](https://support.bitaroo.com.au/hc/en-au/articles/360042838874-Recurring-Buy-DCA-) https://bitaroo.com, [Amber App](https://amber.app/) https://amber.app
 Canada: [Bull Bitcoin](https://bullbitcoin.com/) https://bullbitcoin.com
 Nigeria: [Bitnob](https://bitnob.com/) https://bitnob.com

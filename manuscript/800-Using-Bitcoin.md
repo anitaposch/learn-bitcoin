@@ -1,7 +1,7 @@
 # Using Bitcoin
 
 ## Transaction Fees
-A mining fee has to be paid for every bitcoin transaction and these fees are required for the operation of the Bitcoin network to continue. The work of miners is rewarded with these fees and newly minted bitcoin (see chapter 2.3). Mining is an essential factor in the Bitcoin protocol. After a block of transactions has been mined, it is attached to the blockchain. This is the way to ensure the security of the network. Since Bitcoin has a fixed supply limit of 21 million coins, the miners would no longer receive any remuneration for their performance after reaching this maximum supply, and would no longer be interested in processing transactions and thus maintaining the blockchain. Therefore, Satoshi Nakamoto introduced transaction fees. According to the white paper, the aim is to keep these fees lower than the comparable fees and costs of the traditional banking system. However, it is not the case that transfers are free of charge simply because, in theory, there is no need for intermediaries or banks.
+A mining fee has to be paid for every bitcoin transaction and these fees are required for the operation of the Bitcoin network to continue. The work of miners is rewarded with these fees and newly minted bitcoin. Mining is an essential factor in the Bitcoin protocol. After a block of transactions has been mined, it is attached to the blockchain. This is the way to ensure the security of the network. Since Bitcoin has a fixed supply limit of 21 million coins, the miners would no longer receive any remuneration for their performance after reaching this maximum supply, and would no longer be interested in processing transactions and thus maintaining the blockchain. Therefore, Satoshi Nakamoto introduced transaction fees. According to the white paper, the aim is to keep these fees lower than the comparable fees and costs of the traditional banking system. However, it is not the case that transfers are free of charge simply because, in theory, there is no need for intermediaries or banks.
 
 When you're buying bitcoin via an exchange, the transaction fee (mining fee) is usually not adjustable and is fixed by the provider.
 
@@ -28,7 +28,7 @@ You can look up the status of your transaction in a [Blockchain explorer](https:
 
 *Figure* [^77]
 {height: "40%"}
-![Transaction status as shown in blockexplorer](resources/_Pending-transaction-explorer.png) [^77]
+![Transaction status as shown in blockexplorer](resources/_Pending-transaction-explorer.png)
 
 You do not need to follow the below steps to get your original transaction confirmed. Most low-fee transactions remain valid for days and will eventually confirm. However, there are two ways to solve the problem of the stuck transaction and get it confirmed sooner.
 
@@ -45,8 +45,8 @@ Here are some directories with shops where you can spend bitcoin.
 * [Accepted here](https://www.acceptedhere.io) https://www.acceptedhere.io
 * [B2B services accepting BTC](https://cryptwerk.com/companies/b2b/btc/) https://cryptwerk.com/companies/b2b/btc/
 * [Coinmap](https://coinmap.org/view/) https://coinmap.org/view/ physical stores accepting Bitcoin
-* [Spending Bitcoin](https://spending-bitcoin.com/) https://spending-bitcoin.com/ directory
-* [UseBitcoins](https://usebitcoins.info/) https://usebitcoins.info/ directory
+* [Spending Bitcoin](https://spending-bitcoin.com/) https://spending-bitcoin.com directory
+* [UseBitcoins](https://usebitcoins.info/) https://usebitcoins.info directory
 
 ## Bitcoin Debit Cards
 You can use a Bitcoin debit card to buy anything just like any other banking debit card. The difference is that it's loaded with bitcoin or altcoins. The merchants get paid in their own currency by the debit company and the charge will be deducted from your bitcoin balance, which allows you to live purely through bitcoin.
@@ -60,9 +60,9 @@ Cryptocom Visa, Binance, Bitpanda Visa, Coinbase Visa, Wirex Visa, BlockCard, Cr
 The following are tools and services that enable you to spend and receive BTC in your daily life.
 * [Bity](https://bity.com/products/crypto-online-bill-pay/) https://bity.com/products/crypto-online-bill-pay/ pay bills online with bitcoin
 * [Cash App](https://cash.app/bitcoin) https://cash.app/bitcoin buy and sell BTC straight from your Cash App balance
-* [Strike](https://global.strike.me/) https://global.strike.me/ send and receive instant international payments, instant remittances and with full access to the Bitcoin network
-* [Swapin](https://www.swapin.com/) https://www.swapin.com/ pay anyone in EURO using your crypto
-* [Bitrefill](https://www.bitrefill.com/?hl=en) https://www.bitrefill.com/ buy giftcards and phone refills
+* [Strike](https://global.strike.me/) https://global.strike.me send and receive instant international payments, instant remittances and with full access to the Bitcoin network
+* [Swapin](https://www.swapin.com/) https://www.swapin.com pay anyone in EURO using your crypto
+* [Bitrefill](https://www.bitrefill.com/?hl=en) https://www.bitrefill.com buy giftcards and phone refills
 
 [^74]: [Screenshot by Anita Posch](https://mempool.space)  
 [^75]: Screenshot by Anita Posch, Edge wallet  
