@@ -55,12 +55,12 @@ A term coined by Shoshana Zuboff. It describes the systematic commodification of
 **Wallet**
 Software or hardware that holds all your bitcoin addresses and private keys. Use it to send, receive, and store your bitcoin.
 
-[^79]: [Cantillon Effect on Wikipedia](https://en.wikipedia.org/wiki/Richard_Cantillon)  
-[^80]: [Central bank on Wikipedia](https://en.wikipedia.org/wiki/Central_bank)  
-[^81]: [Fiat money on Wikipedia](https://en.wikipedia.org/wiki/Fiat_money)  
-[^82]: [IMF on Wikipedia](https://en.wikipedia.org/wiki/International_Monetary_Fund)  
-[^83]: [Lender of last resort on Wikipedia](https://en.wikipedia.org/wiki/Lender_of_last_resort)  
-[^84]: [Monetary Base](https://www.investopedia.com/terms/m/monetarybase.asp)  
-[^85]: [M1 Money](https://www.investopedia.com/terms/m/m1.asp)  
-[^86]: [M2 Money](https://www.investopedia.com/terms/m/m2.asp)  
-[^87]: [Panopticon on Wikipedia](https://en.wikipedia.org/wiki/Panopticon)  
+[^79]: [Cantillon Effect on Wikipedia](https://en.wikipedia.org/wiki/Richard_Cantillon) https://en.wikipedia.org/wiki/Richard_Cantillon  
+[^80]: [Central bank on Wikipedia](https://en.wikipedia.org/wiki/Central_bank) https://en.wikipedia.org/wiki/Central_bank  
+[^81]: [Fiat money on Wikipedia](https://en.wikipedia.org/wiki/Fiat_money) https://en.wikipedia.org/wiki/Fiat_money  
+[^82]: [IMF on Wikipedia](https://en.wikipedia.org/wiki/International_Monetary_Fund) https://en.wikipedia.org/wiki/International_Monetary_Fund  
+[^83]: [Lender of last resort on Wikipedia](https://en.wikipedia.org/wiki/Lender_of_last_resort) https://en.wikipedia.org/wiki/Lender_of_last_resort   
+[^84]: [Monetary Base](https://www.investopedia.com/terms/m/monetarybase.asp) https://www.investopedia.com/terms/m/monetarybase.asp  
+[^85]: [M1 Money](https://www.investopedia.com/terms/m/m1.asp) https://www.investopedia.com/terms/m/m1.asp  
+[^86]: [M2 Money](https://www.investopedia.com/terms/m/m2.asp) https://www.investopedia.com/terms/m/m2.asp  
+[^87]: [Panopticon on Wikipedia](https://en.wikipedia.org/wiki/Panopticon) https://en.wikipedia.org/wiki/Panopticon  

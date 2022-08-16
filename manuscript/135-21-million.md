@@ -39,6 +39,6 @@ In fact, coin is the wrong term to describe the digital asset, it is a little bi
 
 Scams like the BitClub network referred to it as BitCoin and this is often mistakenly used by Bitcoin beginners too.
 
-[^24]: [Source Andreas M. Antonopoulos](https://twitter.com/aantonop/status/1257366095515848716?s=20) https://twitter.com/aantonop/status/1257366095515848716?s=20  
+[^24]: [Source Andreas M. Antonopoulos](https://twitter.com/aantonop/status/1257366095515848716?s=20) https://twitter.com/aantonop/status/ 1257366095515848716?s=20  
 [^25]: [Source: Insti](https://commons.wikimedia.org/wiki/File:Total_bitcoins_over_time.png) https://commons.wikimedia.org/wiki/File:Total_bitcoins_over_time.png  
 [^26]: [Source plan99.net](https://plan99.net/~mike/satoshi-emails/thread1.html) https://plan99.net/~mike/satoshi-emails/thread1.html  
