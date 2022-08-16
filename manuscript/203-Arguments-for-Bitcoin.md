@@ -81,7 +81,7 @@ Financial services can also help people accumulate savings and increase spending
 
 Bitcoin can lower the cost of receiving payments, leaving people with more of their money. While traditional financial instruments require an ID and proof of address, using Bitcoin is open to everyone. Therefore, Bitcoin can support women in gaining more freedom and self-sovereignty.
 
-For more insights about the living conditions of people in Zimbabwe and their real-life use of Bitcoin in Venezuela, Argentina, Afghanistan, Nigeria, and more, [listen to my podcast interviews](https://anita.link/show). Regarding the advantages for women using Bitcoin, look up the section "Women in Bitcoin".
+For more insights about the living conditions of people in Zimbabwe and their real-life use of Bitcoin in Venezuela, Argentina, Afghanistan, Nigeria, and more, [listen to my podcast interviews](https://anita.link/show) https://anita.link/show. Regarding the advantages for women using Bitcoin, look up the section "Women in Bitcoin".
 
 ### Slow, But Safe
 One criticism of Bitcoin is that its development is slow and clunky. In fact, reality shows that Bitcoin is the longest standing and technically safest blockchain. It has never been hacked or altered. The reason for this is a community of independent, open-source developers whose first interest is to contribute to the broader social good. Listen to [Adam Back](https://anita.link/12) anita.link/12, [Gloria Zhao](https://anita.link/82) anita.link/82, [Tim Akinbo](https://anita.link/63) anita.link/63, [Amiti Uttawar](https://anita.link/62) anita.link/62 or [Matt Corrallo](https://anita.link/19) anita.link/19 to understand how thoughtful and driven they are by their mission. Secondly, the pace of development is deliberately slow. The Silicon Valley mantra of "Move fast and break things" is the opposite of what you want for a 600 billion USD digital asset that is at the same time, live software.
@@ -108,11 +108,10 @@ You don't have to buy a whole bitcoin. A bitcoin is divisible to a hundred milli
 ### Bitcoin and the Functions of Money
 Many textbook economists are insisting on the fact that Bitcoin is not money because it does not fulfill the three functional criteria that money must have. These functions were defined by William Stanley Jevons[^66] in 1875, his analysis becoming widely popular in macroeconomic textbooks ever since.
 
-According to Jevons, Bitcoin is only money if it fulfills these functions:
+According to Jevons, Bitcoin is only money if it fulfills these functions: [^66a] 
 1. Store of value - the value must remain stable over time
 2. Medium of exchange - it is widely accepted in exchange for goods and services
 3. Medium of account - it is used as a measure for prices, costs and profits
-_Source: https://en.wikipedia.org/wiki/Money_
 
 **1. Store of Value**
 Critics say bitcoin is not a store of value due to its volatility and potential for short-term losses. Well, as I laid out in chapter 3.1, in the long-term that is not really the case. Further, I question the definition of "stable over time". What is the time frame? Inflation in fiat money in Austria has been 20% over the last decade. All other fiat currencies like the Euro are similarly unreliable stores of value for this very reason.
@@ -139,15 +138,16 @@ This shows the degree to which gold, fiat, and cryptographic currencies fulfill 
 
 As you can see, Bitcoin goes beyond the traditional framework of what money is. It's evolving into a completely new dimension of what money can do and from which applications will be built upon in the future.
 
-[^56]: [Clifford Stoll](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)  
-[^57]: [Wikipedia, Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index)  
-[^58]: [International Monetary Fund, Inflation rate](https://www.imf.org/external/datamapper/PCPIPCH@WEO/OEMDC/ADVEC/WEOWORLD), requested on April 26th, 2021  
-[^59]: [Trading volume on P2P Bitcoin exchanges in Sub-Saharan countries from May 2020 to April 2021](https://www.usefultulips.org/combined_Sub%20Saharan%20Africa_Page.html), requested on April 26th, 2021  
-[^60]: [World Bank, Sending money from South Africa to Zimbabwe](https://remittanceprices.worldbank.org/en/corridor/South-Africa/Zimbabwe), requested on April 26th, 2021  
-[^61]: [BNY Mellon Supports Global Push for Financial Gender Equality](https://www.bnymellon.com/us/en/about-us/newsroom/company-news/bny_mellon_supports_a_global_push_for_financial_gender_equality.html)  
-[^62]:[Georgetown Journal of International Law](https://www.law.georgetown.edu/international-law-journal/wp-content/uploads/sites/21/2018/08/4-Kenya-Report-508.pdf)  
-[^63]: [World Bank, Global ID Coverage, Barriers, and Use by the Numbers : An In-Depth Look at the 2017 ID4D-Findex Survey](https://globalfindex.worldbank.org/sites/globalfindex/files/chapters/2017%20Findex%20full%20report_chapter2.pdf)  
-[^64]: [World Bank, The Little Data Book on Financial Inclusion 2018](https://openknowledge.worldbank.org/bitstream/handle/10986/29654/LDB-FinInclusion2018.pdf)  
-[^65]: [World Bank, The Global Findex Database Measuring Financial Inclusion and the Fintech Revolution 2017](https://www.notion.so/Financial-Inclusion-feb3e3913cb042b9bc0ef525ad0f8272#f24c9e8d868e49fe9052c61ead55e080)  
-[^66]: [William Stanley Jevons](https://en.wikipedia.org/wiki/William_Stanley_Jevons)  
-[^67]: [Ryan Walker](https://www.coindesk.com/origins-money-darwin-evolution-cryptocurrency)  
+[^56]: [Clifford Stoll](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306) https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306    
+[^57]: [Wikipedia, Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index) https://en.wikipedia.org/wiki/Democracy_Index  
+[^58]: [International Monetary Fund, Inflation rate](https://www.imf.org/external/datamapper/PCPIPCH@WEO/OEMDC/ADVEC/WEOWORLD) https://www.imf.org/external/datamapper/PCPIPCH@WEO/OEMDC/ADVEC/WEOWORLD, requested on April 26th, 2021  
+[^59]: [Trading volume on P2P Bitcoin exchanges in Sub-Saharan countries from May 2020 to April 2021](https://www.usefultulips.org/combined_Sub%20Saharan%20Africa_Page.html) https://www.usefultulips.org/combined_Sub%20Saharan%20Africa_Page.html, requested on April 26th, 2021  
+[^60]: [World Bank, Sending money from South Africa to Zimbabwe](https://remittanceprices.worldbank.org/en/corridor/South-Africa/Zimbabwe) https://remittanceprices.worldbank.org/en/corridor/South-Africa/Zimbabwe, requested on April 26th, 2021  
+[^61]: [BNY Mellon Supports Global Push for Financial Gender Equality](https://www.bnymellon.com/us/en/about-us/newsroom/company-news/bny_mellon_supports_a_global_push_for_financial_gender_equality.html) https://www.bnymellon.com/us/en/about-us/newsroom/company-news/bny_mellon_supports_a_global_push_for_financial_gender_equality.html    
+[^62]:[Georgetown Journal of International Law](https://www.law.georgetown.edu/international-law-journal/wp-content/uploads/sites/21/2018/08/4-Kenya-Report-508.pdf) https://www.law.georgetown.edu/international-law-journal/wp-content/uploads/sites/21/2018/08/4-Kenya-Report-508.pdf    
+[^63]: [World Bank, Global ID Coverage, Barriers, and Use by the Numbers : An In-Depth Look at the 2017 ID4D-Findex Survey](https://globalfindex.worldbank.org/sites/globalfindex/files/chapters/2017%20Findex%20full%20report_chapter2.pdf) https://globalfindex.worldbank.org/sites/globalfindex/files/chapters/2017%20Findex%20full%20report_chapter2.pdf    
+[^64]: [World Bank, The Little Data Book on Financial Inclusion 2018](https://openknowledge.worldbank.org/bitstream/handle/10986/29654/LDB-FinInclusion2018.pdf) https://openknowledge.worldbank.org/bitstream/handle/10986/29654/LDB-FinInclusion2018.pdf    
+[^65]: [World Bank, The Global Findex Database Measuring Financial Inclusion and the Fintech Revolution 2017](https://www.notion.so/Financial-Inclusion-feb3e3913cb042b9bc0ef525ad0f8272#f24c9e8d868e49fe9052c61ead55e080) https://www.notion.so/Financial-Inclusion-feb3e3913cb042b9bc0ef525ad0f8272#f24c9e8d868e49fe9052c61ead55e080    
+[^66]: [William Stanley Jevons](https://en.wikipedia.org/wiki/William_Stanley_Jevons) https://en.wikipedia.org/wiki/William_Stanley_Jevons    
+[^66a]: [Source](https://en.wikipedia.org/wiki/Money) https://en.wikipedia.org/wiki/Money  
+[^67]: [Ryan Walker](https://www.coindesk.com/origins-money-darwin-evolution-cryptocurrency) https://www.coindesk.com/origins-money-darwin-evolution-cryptocurrency    

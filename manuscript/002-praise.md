@@ -21,6 +21,7 @@
 "It is no simple task to explain Bitcoin, the new elephant in the room of finance. Like blind men, specialists often limit their description to a narrow field of expertise. Anita's angle of attack is holistic, synthetic and clear. It brings a fresh look to 'the people's money'."
 **Thomas Voegtlin, Founder & CEO, Electrum**
 ***
+{pagebreak}
 "It has been great to see Anita's journey over the past several years, speaking to and learning from the best in the industry, all around the world, and making it accessible to beginners. One of the hardest workers in the space, and a great person to learn from!"
 **Hass McCook, Engineer and Bitcoin Evangelist**
 ***

@@ -21,7 +21,8 @@ Bitcoin wallets contain keys, not coins. Each user has a wallet containing keys.
 ### Bitcoin Address
 To receive bitcoin, you need a Bitcoin address to which someone can send you bitcoin. The Bitcoin address consists of a long series of digits and letters.
 
-An example of a Bitcoin address: 346n4apJCQPg2XAXU3bfNQTogz4PyTkrEf
+An example of a Bitcoin address:  
+346n4apJCQPg2XAXU3bfNQTogz4PyTkrEf
 
 Typing 34 digits is of course very impractical, therefore QR codes of the addresses are commonly used and are usually created automatically by your wallet.
 

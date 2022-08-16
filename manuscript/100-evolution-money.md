@@ -69,7 +69,7 @@ The last point is one we all know. It is how we take out a loan to buy a house, 
 On top of that, there is something called fractional-reserve banking. This allows banks to lend out more money than they hold in reserves or as balances in their account at the central bank. The minimum amount that banks must hold in liquid assets, called the "reserve ratio", is determined by the central bank. This rate varies from country to country. In the Euro area, banks have to hold a minimum of 1% at the time of writing. In March 2020 the FED abolished this minimum reserve requirement due to the COVID-19 pandemic. Canada, the UK, New Zealand, Australia, Sweden and Hong Kong all have no reserve requirements. If each of us were to go to the bank today and request to withdraw our money, the banking system would fall apart. Because the banks have lent out more money than they own, they would be unable to give you back your own money. 
 
 In 2020 global debt rose by an incredible 24 trillion to 281 trillion USD, or 355% of global GDP.
-
+{pagebreak}
 *Figure* [^6]
 {height: "70%"}
 ![Debt-to-GDP ratios](resources/_Debt-to-GDP-ratio-2020.jpg)
@@ -104,7 +104,7 @@ M1 includes M0, demand deposits, traveler’s checks, and other checkable deposi
 M2 includes M0, M1, money market securities, mutual funds and other time deposits. These assets are less liquid than M1 and not as suitable as exchange mediums, but they can be quickly converted into cash or checking deposits. M2 is closely watched as an indicator of money supply and future inflation, and as a target for central bank monetary policy.
 
 The amount of M2 currency in circulation in the US was **19.7 trillion USD** in February 2021. [^11] Look at the growth in 2020.
-
+{pagebreak}
 *Figure* [^11]
 ![M2 Money Stock Growth USA, 2021 ](resources/_M2-money-stock-US-2021.png)
 
@@ -203,22 +203,22 @@ We have been in currency wars for many decades. Which currency is stronger? Whic
 
 Bitcoin is our alternative to this system. Protecting our privacy in this digital age, voting against the abuse of monopolistic power in the current system, and giving people living in authoritarian states with corrupt rulers the same opportunities to participate in the economic system. Bitcoin is a defense strategy, a tool with which we can preserve the human right to transactional freedom and privacy.
 
-[^1]: [Illustration NetGuardians retrieved April 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)  
+[^1]: [Illustration NetGuardians retrieved April 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)  https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1  
 [^2]: Anita Posch, credits: University of Nicosia, MOOC in Digital Currency, “A brief history of money” with image: Lotus Head, CC BY-SA 3.0, wikimedia.org  
 [^3]: Image: "Stone Money of Uap, Western Caroline Islands." - Dr. Caroline Furness Jayne took this photograph during a 1903 stay on Yap, Public domain, via Wikimedia Commons  
-[^4]: [Wikipedia Rai stones](https://en.wikipedia.org/wiki/Rai_stones)  
+[^4]: [Wikipedia Rai stones](https://en.wikipedia.org/wiki/Rai_stones) https://en.wikipedia.org/wiki/Rai_stones  
 [^5]: [University of Nicosia, Introduction to Digital Currencies, Session 1, p. 15]  
-[^6]: [Debt to GDP ratio, JS Blokland](https://twitter.com/jsblokland/status/1362138620665221122?s=20)  
+[^6]: [Debt to GDP ratio, JS Blokland](https://twitter.com/jsblokland/status/1362138620665221122?s=20) https://twitter.com/jsblokland/status/1362138620665221122?s=20  
 [^7]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 7.  
 [^8]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. xvii  
-[^9]: [Monetary Base](https://www.investopedia.com/terms/m/monetarybase.asp)  
-[^10]: [Global Monetary Base, Crypto Voices](https://cryptovoices.com/basemoney)  
-[^11]: [FRED, M2 Money Stock](https://fred.stlouisfed.org/graph/?graph_id=248494)  
-[^12]: [Lyn Alden, Ponzi scheme](https://www.lynalden.com/bitcoin-ponzi-scheme/)  
-[^13]: [Lyn Alden](https://twitter.com/LynAldenContact/status/1362912907659522049?s=20)
-[^14]: [US Consumer Price Index](https://fred.stlouisfed.org/series/CPIAUCSL)
+[^9]: [Monetary Base](https://www.investopedia.com/terms/m/monetarybase.asp) https://www.investopedia.com/terms/m/monetarybase.asp  
+[^10]: [Global Monetary Base, Crypto Voices](https://cryptovoices.com/basemoney) https://cryptovoices.com/basemoney  
+[^11]: [FRED, M2 Money Stock](https://fred.stlouisfed.org/graph/?graph_id=248494) https://fred.stlouisfed.org/graph/?graph_id=248494  
+[^12]: [Lyn Alden, Ponzi scheme](https://www.lynalden.com/bitcoin-ponzi-scheme/) https://www.lynalden.com/bitcoin-ponzi-scheme/  
+[^13]: [Lyn Alden](https://twitter.com/LynAldenContact/status/1362912907659522049?s=20) https://twitter.com/LynAldenContact/status/1362912907659522049?s=20
+[^14]: [US Consumer Price Index](https://fred.stlouisfed.org/series/CPIAUCSL) https://fred.stlouisfed.org/series/CPIAUCSL
 [^15]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 253.
 [^16]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 249.
-[^17]: [Lyn Alden, The Structure of the Global Monetary System](https://www.lynalden.com/fraying-petrodollar-system/)
-[^18]: [Lyn Alden, Petrodollar System (1974-Present)](https://www.lynalden.com/fraying-petrodollar-system/)
+[^17]: [Lyn Alden, The Structure of the Global Monetary System](https://www.lynalden.com/fraying-petrodollar-system/) https://www.lynalden.com/fraying-petrodollar-system/
+[^18]: [Lyn Alden, Petrodollar System (1974-Present)](https://www.lynalden.com/fraying-petrodollar-system/) https://www.lynalden.com/fraying-petrodollar-system/
 [^19]: Anita Posch

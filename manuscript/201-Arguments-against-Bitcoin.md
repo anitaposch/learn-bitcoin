@@ -90,7 +90,7 @@ Those centralized exchanges have to verify your identity before you are allowed 
 Around 1.3% of the world's population had an account at a cryptocurrency exchange at the end of 2020, a growth of nearly 190% between 2018 and 2020. Still, one could argue that this is not much. However, for a completely new asset class and money that originated as a grassroots movement without a company or marketing behind it, Bitcoin has developed itself to the point where it is widely known, discussed and used by over at least 100 million people worldwide.
 
 *Figure* [^33]
-{height: "60%"}
+{height: "50%"}
 ![Respondents who said they used or owned cryptocurrencies 2020](resources/_users_around-world.png) 
 
 This is the result of a survey in selected countries showing that 32% of the Nigerian population has used or owns cryptocurrency. Keep in mind, the Nigerian population is on average 19 years old, compared to the US figure of 38 and Germany's median age of 44 years. They are young, want to work, are tech-savvy and value cryptocurrencies, despite their volatility because their own national currency Naira is losing 25% of its value per year.
@@ -112,12 +112,12 @@ While it is true that mining pools can become concentrated in specific areas or 
 
 The 2017 hard-fork split between Bitcoin and Bitcoin Cash is a second example of how Bitcoin is self-regulating. Miners and big exchanges wanted to increase the block size of each Bitcoin block to achieve a higher transaction output per block. The community of node operators and Bitcoin users did not want to change the block size because people with lower bandwidth would have been disadvantaged. Instead, they opted for 2nd layer solutions like the Lightning Network to address this problem. This resulted in the "Blocksize war", where miners and big companies tried to force the changes upon the network. This resulted in a hard-fork: Bitcoin split into Bitcoin and Bitcoin Cash. Four years later, Bitcoin Cash is almost forgotten, while Bitcoin is the largest cryptocurrency. It shows that miners do not have more power than other users.
 
-[^27]: [Source Charlie Bilello](https://twitter.com/charliebilello/status/1370722188739891202/photo/1)  
-[^28]: [Source CoinGecko](https://www.coingecko.com/en/coins/bitcoin/usd), June 7, 2021  
-[^29]: [Source Pladizow](https://twitter.com/Pladizow/status/1358545292782497792/photo/1)  
-[^30]: [Source CoinGecko](https://www.coingecko.com/en/coins/bitcoin/usd), June 7, 2021  
-[^31]: [Source CoinMarketCap](https://coinmarketcap.com/charts/) June 7, 2021  
-[^32]: [Source Cambridge Center for Alternative Finance, 3rd Global Cryptoasset Benchmarking Study, Fig. 34, Illustration: Anita Posch](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/3rd-global-cryptoasset-benchmarking-study)  
-[^33]: [Source Statista](https://www.statista.com/chart/18345/crypto-currency-adoption/)  
-[^33a]:[2nd global cryptoasset benchmarking study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study/)  
-[^34]: [Source CoinShares, Bitcoin Mining, Dec. 2019](https://coinshares.com/de/research/bitcoin-mining-network-december-2019)
+[^27]: [Source Charlie Bilello](https://twitter.com/charliebilello/status/1370722188739891202/photo/1) https://twitter.com/charliebilello/status/1370722188739891202/photo/1  
+[^28]: [Source CoinGecko](https://www.coingecko.com/en/coins/bitcoin/usd) https://www.coingecko.com/en/coins/bitcoin/usd, June 7, 2021  
+[^29]: [Source Pladizow](https://twitter.com/Pladizow/status/1358545292782497792/photo/1) https://twitter.com/Pladizow/status/1358545292782497792/photo/1  
+[^30]: [Source CoinGecko](https://www.coingecko.com/en/coins/bitcoin/usd) https://www.coingecko.com/en/coins/bitcoin/usd, June 7, 2021  
+[^31]: [Source CoinMarketCap](https://coinmarketcap.com/charts/) https://coinmarketcap.com/charts/, June 7, 2021  
+[^32]: [Source Cambridge Center for Alternative Finance, 3rd Global Cryptoasset Benchmarking Study, Fig. 34, Illustration: Anita Posch](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/3rd-global-cryptoasset-benchmarking-study) https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/3rd-global-cryptoasset-benchmarking-study    
+[^33]: [Source Statista](https://www.statista.com/chart/18345/crypto-currency-adoption/) https://www.statista.com/chart/18345/crypto-currency-adoption/    
+[^33a]:[2nd global cryptoasset benchmarking study](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study) https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2nd-global-cryptoasset-benchmark-study/  
+[^34]: [Source CoinShares, Bitcoin Mining, Dec. 2019](https://coinshares.com/de/research/bitcoin-mining-network-december-2019) https://coinshares.com/de/research/bitcoin-mining-network-december-2019  

@@ -40,13 +40,16 @@ They will go after all crypto exchanges where you might have set up an account w
 When they know your email, they will try to change your account password with the "forgot password" functionality. Good sites will not tell them if the account exists. The attackers will try to do a password reset or try to get a text message verification.
 
 **What You Can Do - Gmail Example**
-Lock down your primary email account and remove your phone number from your email account (such as a Gmail account). Here is how it's done: [https://anita.link/removegmail](https://anita.link/removegmail). Use a different password for every account on every website or service. As a Gmail user, you can enroll in the Google Advanced Protection Program, which defends against targeted online attacks.
+Lock down your primary email account and remove your phone number from your email account (such as a Gmail account). Here is how it's done: [https://anita.link/removegmail](https://anita.link/removegmail) https://anita.link/removegmail. Use a different password for every account on every website or service. As a Gmail user, you can enroll in the Google Advanced Protection Program, which defends against targeted online attacks.
 
 ## Phishing Attacks
 In 2020, the marketing database of the French hardware manufacturer Ledger was hacked. The devices are safe, but thousands of email addresses, phone numbers and even home addresses of customers were leaked and can be found by anyone on the internet. This is an absolute disaster because there's a high chance that people ordering a hardware wallet own bitcoin too. In the worst case, you will be "visited" at home. Most likely are threats via email and phishing attacks. To prevent this, keep in mind that you may never need to use your physical address for delivery of a Bitcoin related product such as a hardware wallet. You could organize a postbox for yourself. In the US there are services that can receive mail for you (CMRAs). If possible, do not even use your real name when ordering. Get yourself a second phone number and use this in case the vendor requests one. Give them a disposable email address that you only use for this specific order.
 
 Phishing attacks are attempts to scare or manipulate you so that you enter your seed words on the attacker's website. For instance, you could receive an email saying: "Your ledger device has been corrupted or deactivated, visit this link and enter your 12 seed words to save your funds." or "We have detected a large withdrawal from your Ledger. You have 24 hours to respond to make this transaction valid. We are sorry, we can not reach your Ledger it seems to be corrupted. We are going to authorize the withdrawal unless you start the recovery process, give us your 24 seed words." or "you have received an airdrop. Money is coming into your account, all we need is a verification, please start your recovery process and give us your 24 seed words."
-![Phishing mail](resources/_phishing-mail-ledger.png) [^70]
+
+*Figure* [^70]
+{height: "50%"}
+![Phishing mail](resources/_phishing-mail-ledger.png)
 The attackers try to make you act fast without thinking. If you receive such a mail. Stop. Do not do anything. Because no one can seize your money, no one can remotely disable your hardware wallet. That is the whole point of a decentralized currency like bitcoin.
 
 Never trust email! Especially: never click on the links attached.
@@ -138,4 +141,4 @@ You should immediately install a new wallet and import the seed that you kept sa
 If your device gets corrupted, you follow the same steps, but there is no need to rush to move the coins. Just restore the software wallet and you're done.
 
 [^70]: Anita Posch  
-[^71]: [Source @ElectrumWallet](https://twitter.com/ElectrumWallet/status/1144678604523147265?s=20)  
+[^71]: [Source @ElectrumWallet](https://twitter.com/ElectrumWallet/status/1144678604523147265?s=20) https://twitter.com/ElectrumWallet/status/1144678604523147265?s=20  

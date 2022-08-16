@@ -2,7 +2,7 @@
 
 This puzzle may never be solved because there is no Satoshi Nakamoto. The name is a pseudonym. It could be an individual or a group of cryptographers, programmers and scientists. On August 18 2008, an unknown person registered the domain bitcoin.org. By registering the domain with the help of a company in Panama, the anonymity of the person is protected to this day.
 
-On October 1 2008, Satoshi Nakamoto appeared on the "Cryptography Mailing List" and explained in a message that they had been working on an electronic cash system and posted the link to the Bitcoin white paper on [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf).
+On October 1 2008, Satoshi Nakamoto appeared on the "Cryptography Mailing List" and explained in a message that they had been working on an electronic cash system and posted the link to the Bitcoin white paper on [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf) https://bitcoin.org/bitcoin.pdf.
 
 Hal Finney, an American cryptography and computer expert, had long been involved in the concept of digital money. However, none of the previous solutions were technically or conceptually mature enough to be used widely. The news from Satoshi Nakamoto sounded so interesting that Hal Finney started communicating with Nakamoto. On January 3, 2009, Nakamoto mined the first public Bitcoin block, the so-called "Genesis Block". Since then, on January 3, Bitcoin's birthday has been celebrated. 
 
