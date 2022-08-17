@@ -24,6 +24,7 @@ As a nonprofit organization, a blogger or podcaster, you can easily receive tips
 * [Tippin.me](https://tippin.me/) https://tippin.me lets you receive lightning bitcoin tips on your website and Twitter without fees
 * [Tallyco.in](https://tallyco.in/) https://tallyco.in a crowdfunding platform. You can receive payments in BTC and micro-payments via Lightning at zero fees
 * [Lightning Gifts](https://lightning.gifts/) https://lightning.gifts create fee-less bitcoin gift vouchers to share with friends & family and your audience
+* [Alby](https://getalby.com/) https://getalby.com/ is a Bitcoin Lightning wallet that lets you receive bitcoin payments on your own website, on other websites such as Twitter and YouTube or on a personal donation page: https://getalby.com/hello
 
 ## Content Creators and Podcasting 2.0
 With the advent of the Lightning Network, a truly groundbreaking new method of sending value and paying for content on the internet has been invented. Streaming money, a term coined by Andreas M. Antonopoulos, enables musicians, video creators and podcasters to earn money in real-time, without intermediaries. You only need a wallet that has podcasts integrated, a little bit of bitcoin and you can start listening while paying by the minute. The goal of Podcasting 2.0 and streaming money is to free content creators and the audience from ads, censorship and surveillance. Paying is voluntary, with no subscription fees and no prepayment. Be aware that at the time of writing these are all services in constant development. More about the [background of podcasting 2.0 in an interview](https://anita.link/pod2) with me at https://anita.link/pod2.
@@ -37,7 +38,7 @@ With the advent of the Lightning Network, a truly groundbreaking new method of s
 * [Breez](https://breez.technology/) https://breez.technology A non-custodial podcast app and a POS
 * [PodFriend](https://web.podfriend.com/) https://web.podfriend.com Podcast player
 * [Podstation](https://podstation.github.io/) https://podstation.github.io browser extension for podcasts
-* [Alby](https://getalby.com/) https://getalby.com Alby brings Bitcoin payments to the web with in-browser payments and identity, all with your own wallet.
+* [Alby](https://getalby.com/) https://getalby.com Alby´s Lightning wallet allows any podcaster to receive boosts and boostagrams from the audience. With the Alby browser extension listeners can send payments to their favourite podcasters on Lightning enabled web players.
 * [Satoshis.stream](https://satoshis.stream/) https://satoshis.stream easy setup for podcasters without own node
 * [LN Cast](https://lncast.com/) https://lncast.com Lightning Network podcasts, pay a small amount of satoshis and donate to listen to your favourite podcast
 * [LN Pay](https://lnpay.co/) https://lnpay.co Setup paywalls for your content, payable with lightning
@@ -76,7 +77,7 @@ Be aware, there are a lot of mining scams out there. Even I fell for one some ye
 
 ## Lending & Borrowing
 
-Be aware of the risks associated with lending out your bitcoin especially to centralized custodial platforms. 
+Be aware of the risks associated with lending out your bitcoin especially to centralized custodial platforms.
 
 * [DeFi Rate](https://defirate.com/) https://defirate.com Overview of lending and borrowing rates
 
