@@ -114,7 +114,7 @@ We can light up billions of Christmas lights every year for a display of Christm
 This leads back to the chapter about the Petrodollar, the linkage between the US dollar and the OPEC, which makes the USA the globally dominant powerhouse and is secured by the US military and wars in the Gulf region.
 
 Is the war machine a useful thing to have in our society? Before you scream "Whataboutism!", say that it's comparing two different things and demand we should reduce the use of the war machine as well as the use of bitcoin, do not forget there's a very important link that is missing. The war machine all around the world is funded directly by fiat debt that is produced and paid off through inflation that is enabled through the uncontrolled central bank printing money, which in the end you, the taxpayer, are fronting the bill for. Bitcoin isn't just a solution for an open economy, it's a solution that constrains governments from producing currency at unreasonable rates and using inflation as a hidden form of taxation to fund the war machine, which ultimately pollutes and damages more than anything else in existence. Bitcoin isn't simply a substitute for general economic activity, it's also a direct control on the war machine that pollutes and uses far more energy simply to kill people. So in my opinion those two things are very closely tied. But that's just Andreas M. Antonopoulos' and my own opinion.
-{pagebreak}
+{pagebreak}{pagebreak}
 **Conclusion: The Benefits of Bitcoin**
 
 I spoke to someone who was saved from starvation in Venezuela between 2016 to 2019 thanks to Bitcoin. Bitcoin literally saves lives! What can be more useful than that?
