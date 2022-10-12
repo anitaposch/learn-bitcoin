@@ -37,6 +37,6 @@ Na verdade, moeda é o termo errado para descrever o ativo digital, é um pouco 
 
 Golpes como a rede BitClub se referiam a ela como BitCoin e isso também é usado erroneamente por iniciantes em Bitcoin.
 
-[^24]: [Fonte Andreas M. Antonopoulos](https://twitter.com/aantonop/status/1257366095515848716?s=20)
-[^25]: [Fonte: Insti](https://commons.wikimedia.org/wiki/File:Total_bitcoins_over_time.png)
-[^26]: [Fonte plan99.net](https://plan99.net/~mike/satoshi-emails/thread1.html)
+[^24]: [Fonte Andreas M. Antonopoulos](https://twitter.com/aantonop/status/1257366095515848716?s=20) https://twitter.com/aantonop/status/ 1257366095515848716?s=20  
+[^25]: [Fonte: Insti](https://commons.wikimedia.org/wiki/File:Total_bitcoins_over_time.png) https://commons.wikimedia.org/wiki/File:Total_bitcoins_over_time.png 
+[^26]: [Fonte plan99.net](https://plan99.net/~mike/satoshi-emails/thread1.html) https://plan99.net/~mike/satoshi-emails/thread1.html 

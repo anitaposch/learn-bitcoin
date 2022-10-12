@@ -12,10 +12,10 @@ Find a job or a client to earn Bitcoin for your work.
 Earn satoshis through finishing small tasks.
 * [Stakwork](https://stakwork.com) https://stakwork.com
 * [Microlancer](https://microlancer.io/) https://microlancer.io
-* [Sats 4 Likes](https://kriptode.com/satsforlikes/index.html) https://kriptode.com/satsforlikes/index.html
+* [Sats 4 Likes](https://sats4likes.com) https://sats4likes.com
 
 ## Convert Your Wage
-* [Bitwage](https://www.bitwage.com/) https://bitwage.com as an employee or freelancer, you can earn your wage in bitcoin instead of fiat. Employers can use this service to pay their team in bitcoin too. [Interview with founder Jonathan Chester](https://anita.link/106) anita.link/106.
+* [Bitwage](https://www.bitwage.com/) https://bitwage.com as an employee or freelancer, you can earn your wage in bitcoin instead of fiat. Employers can use this service to pay their team in bitcoin too. [Interview with founder Jonathan Chester](https://anita.link/106) https://anita.link/106.
 
 ## Receiving Donations or Payments
 As a nonprofit organization, a blogger or podcaster, you can easily receive tips in bitcoin/satoshis with these services:
@@ -65,7 +65,7 @@ With the advent of the Lightning Network, a truly groundbreaking new method of s
 * [Satoshis Games](https://satoshis.games/) https://satoshis.games/ gaming platforms and an NFT marketplace for artists
 
 ## Earn Through Investing
-* [SunExchange](https://thesunexchange.com/) https://thesunexchange.com offset your carbon footprint, buy solar cells and earn bitcoin - [Interview with founder Abe Cambridge](https://anita.link/104) anita.link/104
+* [SunExchange](https://thesunexchange.com/) https://thesunexchange.com offset your carbon footprint, buy solar cells and earn bitcoin - [Interview with founder Abe Cambridge](https://anita.link/104) https://anita.link/104
 * [Blockstream Mining Note, STOKR](https://blockstream.com/finance/bmn/) https://blockstream.com/finance/bmn/ participate in Bitcoin mining through purchasing the STOKR security token
 
 ## Mining

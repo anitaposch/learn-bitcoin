@@ -1,5 +1,5 @@
 # O que é uma Blockchain?
-O blockchain do Bitcoin é um banco de dados público e imutável onde todas as transações do Bitcoin são armazenadas. Assim, "o blockchain" em si não é o avanço tecnológico revolucionário, como geralmente é descrito na mídia. Como você aprendeu no capítulo 1.4 "A História do Bitcoin", adicionar uma blockchain foi o elemento que finalmente resolveu o problema do gasto duplo e permitiu a emissão descentralizada de dinheiro em uma rede descentralizada segura. O Bitcoin tem muitas outras tecnologias anteriores.
+O blockchain do Bitcoin é um banco de dados público e imutável onde todas as transações do Bitcoin são armazenadas. Assim, "o blockchain" em si não é o avanço tecnológico revolucionário, como geralmente é descrito na mídia. Como você aprendeu no capítulo "A História do Bitcoin", adicionar uma blockchain foi o elemento que finalmente resolveu o problema do gasto duplo e permitiu a emissão descentralizada de dinheiro em uma rede descentralizada segura. O Bitcoin tem muitas outras tecnologias anteriores.
 
 Na verdade, Satoshi Nakamoto nunca mencionou a palavra blockchain. Em vez disso, Nakamoto usou o termo cadeia de tempo "timechain", porque o principal uso do livro-razão é armazenar todas as transações na ordem cronológica correta.
 

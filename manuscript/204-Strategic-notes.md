@@ -20,7 +20,7 @@ In addition to bitcoin, there are more than 4,000 other crypto assets to date, a
 
 The emergence of these other assets can affect the price of bitcoin. Another currency could become the leading digital currency, although currently most of the acceptance and growth is within Bitcoin (BTC).
 
-Don't get carried away with quick promotions because someone is giving you a "get rich quick" offer and promises to buy and manage coins for you. Unfortunately, many people play nasty games and stage multi-level marketing offers, or [Ponzi schemes](https://anita.link/ponzi) anita.link/ponzi.
+Don't get carried away with quick promotions because someone is giving you a "get rich quick" offer and promises to buy and manage coins for you. Unfortunately, many people play nasty games and stage multi-level marketing offers, or [Ponzi schemes](https://anita.link/ponzi) https://anita.link/ponzi.
 
 If someone asks you to "join" Bitcoin or is writing "BitCoin", be aware. You don't need to join anything to use Bitcoin, there is no need to buy an entry package or anything like that - these are most likely scams.
 

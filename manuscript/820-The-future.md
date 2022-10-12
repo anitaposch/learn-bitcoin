@@ -27,7 +27,7 @@ Sovryn is an example of one such platform being built on the Rootstock network. 
 
 Sovryn is not a company or centralized entity. It consists of many contributors whose goal is to create the trustless monetary layer that ideally should have been created on top of Bitcoin long ago. Sovryn ensures decentralized governance of the protocol via a form of democratic system called the Bitocracy, an evolved version of a vetocracy. This involves the staking of SOV tokens in return for voting power and fee rewards. All protocol level decisions must pass voting in the Bitocracy to be implemented. The staking mechanism ensures that voters are incentivized to provide educated votes in favor of proposals that would benefit the Sovryn ecosystem and against harmful proposals. At the time of writing, Sovryn has just begun its token trading and are looking to release multiple bridges and new features. It will be interesting to watch the project develop.
 
-I interviewed founder Edan Yago, where he explores most of these topics - listen at anita.link/105
+I interviewed founder Edan Yago, where he explores most of these topics - listen at https://anita.link/105
 
 #### Thorchain
 Similar to Sovryn, Thorchain was founded upon the realization that centralized means of transferring ownership of cryptoassets are fundamentally flawed. Born in 2018, Thorchain was created to serve as a replacement to centralized exchanges (CEX), and instead facilitates cross-chain decentralized crypto exchange (DEX). Thorchain connects between different chains through its own cross-chain bridge, thematically named the Bifröst Protocol. The Bifröst allows native token swaps across different chains, meaning there is no need for synthetic or wrapped versions of tokens. Crucially, Thorchain is non-custodial and is 100% decentralized. 
@@ -82,6 +82,7 @@ Possible use cases are:
 By their abilities RGB smart contracts go beyond what is possible with Ethereum-like smart contract systems, providing more layered, scalable, private and safe approach, where the ownership of the smart contract state is separated from the smart contract creation.
 
 {pagebreak}
+
 ## NFTs
 The other category that I think is extremely interesting is NFTs, or non-fungible tokens. These are tokens that, instead of representing units of currency, represent unique objects, items, or properties in the form that is distinguishable from one another and are therefore non-fungible. So let's think of an art piece that is represented by a deeds document. That document could be a digital token that can be traded like bitcoin, or the deed to your house, or your car, or any other physical item or specific piece of land. It's basically taking things that exist in the real world or taking digital intellectual property - like a song or a brand - and tokenizing it so that it becomes something that can be digitally traded. We haven't even scratched the surface in that domain so far. 
 

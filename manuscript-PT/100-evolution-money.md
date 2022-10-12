@@ -71,6 +71,7 @@ Além disso, há algo chamado reserva fracionária. Isso permite que os bancos e
 Em 2020, a dívida global aumentou dos incríveis 24 trilhões para 281 trilhões de dólares, ou 355% do PIB global.[^6]
 
 *Representação* [^6] 
+{height: "70%"}
 ![Taxa dívida/PIB](resources/_Debt-to-GDP-ratio-2020.jpg)
 
 ### Bancos Centrais como Credores de Último Recurso
@@ -201,22 +202,22 @@ Estamos em guerras cambiais há muitas décadas. Qual moeda é mais forte? Qual 
 
 Bitcoin é a nossa alternativa a este sistema. Proteger nossa privacidade nesta era digital, votar contra o abuso do poder monopolista no sistema atual e dar às pessoas que vivem em estados autoritários com governantes corruptos as mesmas oportunidades de participar do sistema econômico. Bitcoin é uma estratégia de defesa, uma ferramenta com a qual podemos preservar o direito humano à liberdade e privacidade transacionais.
 
-[^1]: [Ilustração NetGuardians recuperada em abril de 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)
+[^1]: [Ilustração NetGuardians recuperada em abril de 2017](https://www.netguardians.ch/ngfintechblog/2016/11/17/blockchain-explained-part-1)https://www.netguardians.ch/ ngfintechblog/2016/11/17/blockchain-explained-part-1  
 [^2]: Anita Posch, créditos: Universidade de Nicósia, MOOC em moeda digital, “Uma breve história do dinheiro” com imagem: Lotus Head, CC BY-SA 3.0, wikimedia.org
 [^3]: Imagem: "Stone Money of Uap, Western Caroline Islands." - Dr. Caroline Furness Jayne tirou esta fotografia durante uma estadia de 1903 em Yap, domínio público, via Wikimedia Commons
-[^4]: [Wikipedia Rai stone](https://en.wikipedia.org/wiki/Rai_stones)
+[^4]: [Wikipedia Rai stone](https://en.wikipedia.org/wiki/Rai_stones) https://en.wikipedia.org/wiki/Rai_stones   
 [^5]: Universidade de Nicósia, Introdução às Moedas Digitais, Sessão 1, p. 15
-[^6]: [Relação dívida/PIB, JS Blokland](https://twitter.com/jsblokland/status/1362138620665221122?s=20)
+[^6]: [Relação dívida/PIB, JS Blokland](https://twitter.com/jsblokland/status/1362138620665221122?s=20) https://twitter.com/jsblokland/ status/1362138620665221122?s=20  
 [^7]: Collusion, de Nomi Prins, Bold Type Books, 2019, p. 7.
 [^8]: Collusion, de Nomi Prins, Bold Type Books, 2019, p. xvii
-[^9]: [Base Monetária](https://www.investopedia.com/terms/m/monetarybase.asp)
-[^10]: [Base Monetária Global, Crypto Voices](https://cryptovoices.com/basemoney)
-[^11]: [FRED, M2 Money Stock](https://fred.stlouisfed.org/graph/?graph_id=248494)
-[^12]: [Lyn Alden, esquema Ponzi](https://www.lynalden.com/bitcoin-ponzi-scheme/)
-[^13]: [Lyn Alden](https://twitter.com/LynAldenContact/status/1362912907659522049?s=20)
-[^14]: [Índice de preços ao consumidor dos EUA](https://fred.stlouisfed.org/series/CPIAUCSL)
+[^9]: [Base Monetária](https://www.investopedia.com/terms/m/monetarybase.asp) https://www.investopedia.com/terms/m/monetarybase.asp  
+[^10]: [Base Monetária Global, Crypto Voices](https://cryptovoices.com/basemoney) https://cryptovoices.com/basemoney 
+[^11]: [FRED, M2 Money Stock](https://fred.stlouisfed.org/graph/?graph_id=248494) https://fred.stlouisfed.org/graph/?graph_id=248494 
+[^12]: [Lyn Alden, esquema Ponzi](https://www.lynalden.com/bitcoin-ponzi-scheme/) https://www.lynalden.com/bitcoin-ponzi-scheme/
+[^13]: [Lyn Alden](https://twitter.com/LynAldenContact/status/1362912907659522049?s=20) https://twitter.com/LynAldenContact/status/1362912907659522049?s=20
+[^14]: [Índice de preços ao consumidor dos EUA](https://fred.stlouisfed.org/series/CPIAUCSL) https://fred.stlouisfed.org/series/CPIAUCSL
 [^15]: Collusion, de Nomi Prins, Bold Type Books, 2019, p. 253.
 [^16]: Collusion, de Nomi Prins, Bold Type Books, 2019, p. 249.
-[^17]: [Lyn Alden, The Structure of the Global Monetary System](https://www.lynalden.com/fraying-petrodollar-system/)
-[^18]: [Lyn Alden, Petrodollar System (1974-presente)](https://www.lynalden.com/fraying-petrodollar-system/)
+[^17]: [Lyn Alden, The Structure of the Global Monetary System](https://www.lynalden.com/fraying-petrodollar-system/) https://www.lynalden.com/fraying-petrodollar-system/
+[^18]: [Lyn Alden, Petrodollar System (1974-presente)](https://www.lynalden.com/fraying-petrodollar-system/) https://www.lynalden.com/fraying-petrodollar-system/
 [^19]: Anita Posch

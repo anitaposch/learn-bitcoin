@@ -10,7 +10,7 @@ A negociação nessas bolsas é feita fora da cadeia de blocos, o que significa 
 
 Para adquirir bitcoin de forma custodial, você precisa abrir uma conta, cumprir um processo de registro KYC e AML e, em seguida, depositar dinheiro fiduciário na conta da plataforma. Após a chegada do seu dinheiro, você pode trocá-lo por bitcoin ou outras criptomoedas.
 
-Conforme mencionado no capítulo 4 "A Escadaria da Soberania Financeira", para mitigar os riscos de contraparte das carteiras de custódia, você deve enviar seus fundos para sua própria carteira ou pular essas exchanges e deixar de custodiar com terceiros imediatamente.
+Conforme mencionado no capítulo "A Escadaria da Soberania Financeira", para mitigar os riscos de contraparte das carteiras de custódia, você deve enviar seus fundos para sua própria carteira ou pular essas exchanges e deixar de custodiar com terceiros imediatamente.
 
 ## Comprando Bitcoin - Sem Custódia
 Manter bitcoin de maneira não custodial (auto-hospedado) é o resultado desejado. Isso torna suas transações sem censura e oferece liberdade máxima sobre seus fundos. Você pode conseguir isso comprando bitcoin no lugar certo para começar.
@@ -20,34 +20,34 @@ Um corretor é uma empresa que permite que você compre bitcoin sem custódia. P
 
 Apenas para citar alguns exemplos de corretores Bitcoin:
 
-* [AnyCoin direct](https://anycoindirect.eu/)
-* [Bity](https://bity.com/)
-* [Coinfinity](https://coinfinity.co/start-en/)
-* [Coinnexus](https://coinnexus.ch/en) funciona sem verificação até CHF 1.000 por ano.
+* [AnyCoin direct](https://anycoindirect.eu/) https://anycoindirect.eu
+* [Bity](https://bity.com/) https://bity.com
+* [Coinfinity](https://anita.link/coinfinity) https://anita.link/coinfinity
+* [Coinnexus](https://coinnexus.ch/en) https://coinnexus.ch/en  funciona sem verificação até CHF 1.000 por ano.
 
 ### Compra ponto a ponto pessoalmente
 Você pode visitar um dos muitos encontros de Bitcoin ao redor do mundo, conectar-se com outros Bitcoiners e pedir-lhes para lhe vender algum bitcoin por dinheiro. Em muitos países, as pessoas se reúnem em grupos do Telegram ou do Facebook para encontrar colegas para trocar pessoalmente.
 
 ### Compra on-line ponto a ponto
 As principais exchanges P2P do mundo
-* [LocalBitcoins](https://localbitcoins.com)
-* [Paxful](https://paxful.com/)
+* [LocalBitcoins](https://localbitcoins.com) https://localbitcoins.com
+* [Paxful](https://paxful.com/) https://paxful.com
 
 ### Caixas eletrônicos Bitcoin
 Um caixa eletrônico Bitcoin é uma máquina semelhante a um caixa eletrônico, onde você pode comprar bitcoin e outras criptomoedas com dinheiro. A vantagem dos caixas eletrônicos Bitcoin é que você recebe seu bitcoin instantaneamente e em muitos lugares, até um certo limite, sem identificação KYC/AML. Mas tenha cuidado, pois muitos operadores de caixas eletrônicos cobram taxas acima da média.
 
-* [Mapa do ATM Bitcoin](https://bitcoinatmmap.com/)
-* [Caixas eletrônicos Bitrawr](https://www.bitrawr.com/bitcoin-atms)
-* [CoinATM Radar](https://coinatmradar.com/)
+* [Mapa do ATM Bitcoin](https://bitcoinatmmap.com/) https://bitcoinatmmap.com
+* [Caixas eletrônicos Bitrawr](https://www.bitrawr.com/bitcoin-atms) https://bitrawr.com/bitcoin-atms
+* [CoinATM Radar](https://coinatmradar.com/) https://coinatmradar.com
 
 ### Vales-presente e vouchers Bitcoin
 Na Áustria, por exemplo, é possível comprar cartões-presente 'Bitcoinbon' em postos de gasolina e em quiosques. Esses cartões-presente são frequentemente encontrados nos expositores onde também são vendidos cartões de crédito para celular ou presentes da Amazon, etc. Você pode comprar cartões-presente bitcoin sem configurar uma carteira e sem registro. Se você quiser converter o valor dos cartões em moedas, você configura uma carteira e resgata as moedas.
 
-* [Azteco](https://azte.co/)
-* [Bitcoinbon](http://www.bitcoinbon.at/)
-* [Bitpanda para ir](https://www.bitpanda.com/de/togo)
-* [Coincola](https://www.coincola.com/buy-bitcoin/gift-cards)
-* [Paxful](https://paxful.com/buy-bitcoin?group=gift-cards&hasScroll=true)
+* [Azteco](https://azte.co/) https://azte.co
+* [Bitcoinbon](http://www.bitcoinbon.at/) https://bitcoinbon.at
+* [Bitpanda to go](https://www.bitpanda.com/de/togo) https://bitpanda.com/de/togo
+* [Coincola](https://www.coincola.com/buy-bitcoin/gift-cards) https://www.coincola.com/buy-bitcoin/gift-cards
+* [Paxful](https://paxful.com/buy-bitcoin?group=gift-cards&hasScroll=true) https://paxful.com
 
 ## Bitcoin sem KYC
 
@@ -72,7 +72,7 @@ Embora eu não ache que os governos serão capazes de proibir efetivamente o uso
 
 A ordem executiva 6102, assinada em 5 de abril de 1933 pelo presidente dos Estados Unidos, Franklin D. Roosevelt, proibia o entesouramento de ouro. Em 1975, os americanos podiam legalmente possuir ouro novamente. Satoshi Nakamoto listou seu aniversário como 5 de abril de 1975. Claro que não é coincidência. Mostra as intenções de Satoshi, que o Bitcoin é sobre liberdade financeira.
 
-Para obter mais informações sobre como o sistema financeiro atual é injusto com bilhões de pessoas em todo o mundo, ouça minha [entrevista em podcast com Zachary Kelman,](https://anita.link/80), um advogado especializado em questões políticas, jurídicas e questões regulatórias dentro e ao redor do Bitcoin.
+Para obter mais informações sobre como o sistema financeiro atual é injusto com bilhões de pessoas em todo o mundo, ouça minha [entrevista em podcast com Zachary Kelman,](https://anita.link/80)  https://anita.link/80, um advogado especializado em questões políticas, jurídicas e questões regulatórias dentro e ao redor do Bitcoin.
 
 ### Obtendo Bitcoin Sem-KYC
 
@@ -86,13 +86,14 @@ Para comprar bitcoin sem identificação do usuário, você pode:
 * compre cartões-presente bitcoin
 * vá a lojas físicas onde você pode comprar ou vender bitcoin
 * use exchanges descentralizadas como
-* [Hodlhodl](https://hodlhodl.com)
-* [Bisq](https://bisq.network/)
-* [LocalCoinSwap](https://localcoinswap.com/buy-sell/BTC)
-* [LocalCryptos](https://localcryptos.com/Bitcoin)
-* [Sovryn](https://live.sovryn.app)
+* [Hodlhodl](https://hodlhodl.com) https://hodlhodl.com
+* [Bisq](https://bisq.network/) https://bisq.network/
+* [LocalCoinSwap](https://localcoinswap.com/buy-sell/BTC) https://localcoinswap.com/buy-sell/BTC
+* [LocalCryptos](https://localcryptos.com/Bitcoin) https://localcryptos.com/Bitcoin
+* [Sovryn](https://live.sovryn.app) https://live.sovryn.app
 
-Fontes de câmbio: https://kycnot.me/, https://github.com/cointastical/P2P-Trading-Exchanges/, https://bitcoiner.guide/nokyconly/
+Fontes de câmbio: https://kycnot.me/,  
+https://github.com/cointastical/P2P-Trading-Exchanges/
 
 ## Custos para comprar Bitcoin
 Quando você compra criptomoedas, você tem que pagar taxas para o provedor de serviços, assim como quando você troca para uma moeda estrangeira quando viaja para um país diferente. O preço pelo qual você troca é determinado pelo provedor de serviços (consulte o capítulo Preço do Bitcoin). Normalmente, este é o preço de mercado mais uma sobretaxa pelo serviço. Como cada exchange tem seu próprio preço de bitcoin e diferentes estruturas de taxas, existem grandes diferenças nos custos de negociação entre elas. Você pode economizar dinheiro comparando as taxas de negociação ao escolher uma plataforma específica.

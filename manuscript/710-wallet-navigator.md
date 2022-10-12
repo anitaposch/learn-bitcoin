@@ -13,7 +13,7 @@ No? Then, again, the Card Wallet is the correct choice for you. You do not have 
 
 *Similar to your bank account*: use a hardware wallet. Hardware wallets are highly sought after in Bitcoin bull runs and often sold out (keep this in mind in your schedule).
 
-There is an [extended helper on the Bitcoin.org website](https://bitcoin.org/en/choose-your-wallet), that you can use too. It guides you through the selection based on the operating system (mobile, desktop, hardware wallet) you choose.
+There is an [extended helper on the Bitcoin.org website](https://bitcoin.org/en/choose-your-wallet) https://bitcoin.org/en/choose-your-wallet, that you can use too. It guides you through the selection based on the operating system (mobile, desktop, hardware wallet) you choose.
 
 ### Step 2 - Make a Backup Of Your Keys
 Write down the mnemonic seed - 12 to 24 English words, the name, type and software version of your wallet and store them in a safe place.
@@ -22,6 +22,7 @@ Write down the mnemonic seed - 12 to 24 English words, the name, type and softwa
 Most wallets include the ability to buy bitcoin directly within their interface. Wallet manufacturers are cooperating with exchanges, which in return pay them a commission. If I need to use an exchange I prefer selecting one prior and externally from the wallet. That way I stay independent of the wallet type, can use this one exchange to send bitcoin to all my different wallets, and only have to leave my KYC data in that one exchange, reducing the risk of data breaches. Using non-custodial, non-KYC methods is even better.
 
 *Figure* [^72]
+{height: "70%"}
 ![How to get bitcoin](resources/_Buying-methods.png) [^72]
 
 [^72]: Anita Posch

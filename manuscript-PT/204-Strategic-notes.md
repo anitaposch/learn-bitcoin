@@ -20,7 +20,7 @@ Além do bitcoin, existem mais de 4.000 outros criptoativos até o momento, todo
 
 O surgimento desses outros ativos pode afetar o preço do bitcoin. Outra moeda pode se tornar a principal moeda digital, embora atualmente a maior parte da aceitação e crescimento esteja dentro do Bitcoin (BTC).
 
-Não se empolgue com promoções rápidas porque alguém está lhe dando uma oferta "fique rico rápido" e promete comprar e gerenciar moedas para você. Infelizmente, muitas pessoas jogam jogos desagradáveis e encenam ofertas de marketing multinível, ou [esquemas Ponzi](https://anita.link/ponzi).
+Não se empolgue com promoções rápidas porque alguém está lhe dando uma oferta "fique rico rápido" e promete comprar e gerenciar moedas para você. Infelizmente, muitas pessoas jogam jogos desagradáveis e encenam ofertas de marketing multinível, ou [esquemas Ponzi](https://anita.link/ponzi) https://anita.link/ponzi.
 
 Se alguém pedir para você "se juntar" ao Bitcoin ou estiver escrevendo "BitCoin", fique atento. Você não precisa se juntar a nada para usar o Bitcoin, não há necessidade de comprar um pacote de entrada ou algo assim - provavelmente são golpes.
 

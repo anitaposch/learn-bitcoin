@@ -28,7 +28,7 @@ Typing 34 digits is of course very impractical, therefore QR codes of the addres
 
 ![BTC address as QR code](resources/_address-book.PNG)
 
-Bitcoin is pseudonymous, meaning there is no requirement for you to connect your email address or personal identification with a wallet. However, the Bitcoin blockchain is transparent, which means that your Bitcoin addresses are publicly viewable on the internet. For example, you can search for it at Blockcypher and see all current transactions and values. Here is an example link: [https://anita.link/explorer](https://anita.link/explorer)
+Bitcoin is pseudonymous, meaning there is no requirement for you to connect your email address or personal identification with a wallet. However, the Bitcoin blockchain is transparent, which means that your Bitcoin addresses are publicly viewable on the internet. For example, you can search for it at Blockcypher and see all current transactions and values. Here is an example link: [https://anita.link/explorer](https://anita.link/explorer) https://anita.link/explorer
 
 Therefore, for privacy reasons, do not share your Bitcoin addresses in connection with your identity on the internet. Privacy is also the reason why you should not re-use addresses. Most Bitcoin wallets automatically provide you with fresh addresses for each transaction.
 

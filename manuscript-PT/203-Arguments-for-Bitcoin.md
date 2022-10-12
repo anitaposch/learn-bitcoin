@@ -29,6 +29,7 @@ São pessoas em regiões como África e América do Sul que impulsionarão a ado
 Esta tabela do Fundo Monetário Internacional mostra a variação anual dos preços ao consumidor em porcentagem.
 
 *Representação* [^58]
+{height: "70%"}
 ![Taxa de inflação, preços médios ao consumidor, variação anual em %](resources/_inflation-2021.png)
 
 * A Venezuela teve aumentos de preços de 5.500%. O sofrimento do povo é simplesmente incompreensível.
@@ -81,13 +82,13 @@ Os serviços financeiros também podem ajudar as pessoas a acumular economias e 
 
 O Bitcoin pode reduzir o custo de recebimento de pagamentos, deixando as pessoas com mais dinheiro. Embora os instrumentos financeiros tradicionais exijam um documento de identidade e um comprovante de endereço, o uso do Bitcoin está aberto a todos. Portanto, o Bitcoin pode apoiar as mulheres na conquista de mais liberdade e auto-soberania.
 
-Para mais informações sobre as condições de vida das pessoas no Zimbábue e seu uso real do Bitcoin na Venezuela, Argentina, Afeganistão, Nigéria e muito mais, [ouça minhas entrevistas em podcast](https://anita.link/show). Em relação às vantagens para as mulheres que usam Bitcoin, consulte a seção "Mulheres no Bitcoin".
+Para mais informações sobre as condições de vida das pessoas no Zimbábue e seu uso real do Bitcoin na Venezuela, Argentina, Afeganistão, Nigéria e muito mais, [ouça minhas entrevistas em podcast](https://anita.link/show) https://anita.link/show. Em relação às vantagens para as mulheres que usam Bitcoin, consulte a seção "Mulheres no Bitcoin".
 
 ### Lento, mas seguro
-Uma crítica ao Bitcoin é que seu desenvolvimento é lento e desajeitado. Na verdade, a realidade mostra que o Bitcoin é a blockchain mais antiga e tecnicamente mais segura. Nunca foi hackeado ou alterado. A razão para isso é uma comunidade de desenvolvedores independentes de código aberto cujo primeiro interesse é contribuir para o bem social mais amplo. Ouça [Adam Back](https://anita.link/12), [Gloria Zhao](https://anita.link/82), [Tim Akinbo](https://anita.link/63), [Amiti Uttawar](https://anita.link/62) ou [Matt Corrallo](https://anita.link/19) para entender como eles são atenciosos e motivados por sua missão. Em segundo lugar, o ritmo de desenvolvimento é deliberadamente lento. O mantra do Vale do Silício "se mova rápido e quebre as coisas" é o oposto do que você deseja para um ativo digital de 600 bilhões de dólares que é, ao mesmo tempo, um software vivo.
+Uma crítica ao Bitcoin é que seu desenvolvimento é lento e desajeitado. Na verdade, a realidade mostra que o Bitcoin é a blockchain mais antiga e tecnicamente mais segura. Nunca foi hackeado ou alterado. A razão para isso é uma comunidade de desenvolvedores independentes de código aberto cujo primeiro interesse é contribuir para o bem social mais amplo. Ouça [Adam Back](https://anita.link/12) anita.link/12, [Gloria Zhao](https://anita.link/82) anita.link/82, [Tim Akinbo](https://anita.link/63) anita.link/63, [Amiti Uttawar](https://anita.link/62) anita.link/62 ou [Matt Corrallo](https://anita.link/19) anita.link/19 para entender como eles são atenciosos e motivados por sua missão. Em segundo lugar, o ritmo de desenvolvimento é deliberadamente lento. O mantra do Vale do Silício "se mova rápido e quebre as coisas" é o oposto do que você deseja para um ativo digital de 600 bilhões de dólares que é, ao mesmo tempo, um software vivo.
 
 ### Internet das Coisas
-Um dinheiro nativo da internet como o bitcoin também pode ser usado por máquinas. Carros elétricos autônomos, como táxis automáticos, poderão se recarregar em estações de carregamento e pagar automaticamente com bitcoin. Isso não é ficção científica, isso é um futuro próximo. Andy Schroder, de Kentucky, já está [carregando seu Tesla com micropagamentos máquina a máquina em tempo real pela Bitcoin Lightning Network](http://andyschroder.com/DistributedCharge/). Esta não será a única inovação que virá das interseções de novas tecnologias, dinheiro e comunicação.
+Um dinheiro nativo da internet como o bitcoin também pode ser usado por máquinas. Carros elétricos autônomos, como táxis automáticos, poderão se recarregar em estações de carregamento e pagar automaticamente com bitcoin. Isso não é ficção científica, isso é um futuro próximo. Andy Schroder, de Kentucky, já está [carregando seu Tesla com micropagamentos máquina a máquina em tempo real pela Bitcoin Lightning Network](http://andyschroder.com/DistributedCharge/) http://andyschroder.com/DistributedCharge/. Esta não será a única inovação que virá das interseções de novas tecnologias, dinheiro e comunicação.
 
 ### Bitcoin, o barco salva-vidas
 Como expus no capítulo 1, não é uma questão de saber se o atual sistema financeiro cairá, mas quando. Mesmo antes da pandemia do COVID-19 se espalhar globalmente na primavera de 2020, as nações estavam endividadas; os efeitos devastadores foram evidentes nas diferenças de riqueza global e regional. Por muitos anos, os especialistas alertaram o público sobre isso. Simon Dixon já havia chamado a Grande Depressão da década de 2020 já em 2011. Nomi Prins explicou o conluio dos bancos centrais em seu livro de 2018 com o mesmo nome. Satoshi Nakamoto referiu-se aos perigos de um sistema monetário baseado em dívidas e na crise financeira no white paper.
@@ -108,11 +109,10 @@ Você não precisa comprar um bitcoin inteiro. Um bitcoin é divisível por cem 
 ### Bitcoin e as funções do dinheiro
 Muitos economistas de livros didáticos estão insistindo no fato de que o Bitcoin não é dinheiro porque não atende aos três critérios funcionais que o dinheiro deve ter. Essas funções foram definidas por William Stanley Jevons[^66] em 1875, e sua análise tornou-se amplamente popular nos livros de macroeconomia desde então.
 
-De acordo com Jevons, o Bitcoin só é dinheiro se cumprir essas funções:
+De acordo com Jevons, o Bitcoin só é dinheiro se cumprir essas funções: [^66a]
 1. Reserva de valor - o valor deve permanecer estável ao longo do tempo
 2. Meio de troca - é amplamente aceito em troca de bens e serviços
 3. Meio de conta - é usado como medida de preços, custos e lucros
-Fonte: https://en.wikipedia.org/wiki/Money
 
 **1. Reserva de valor**
 
@@ -142,15 +142,16 @@ Isso mostra o grau em que o ouro, a moeda fiduciária e as moedas criptográfica
 
 Como você pode ver, o Bitcoin vai além da estrutura tradicional do que é dinheiro. Está evoluindo para uma dimensão completamente nova do que o dinheiro pode fazer e de quais aplicativos serão construídos no futuro.
 
-[^56]: [Clifford Stoll](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
-[^57]: [Wikipedia, Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index)
-[^58]: [Fundo Monetário Internacional, Taxa de inflação](https://www.imf.org/external/datamapper/PCPIPCH@WEO/OEMDC/ADVEC/WEOWORLD), solicitado em 26 de abril de 2021
-[^59]: [Volume de negociação em trocas de Bitcoin P2P em países subsaarianos de maio de 2020 a abril de 2021](https://www.usefultulips.org/combined_Sub%20Saharan%20Africa_Page.html), solicitado em 26 de abril de 2021
-[^60]: [Banco Mundial, Enviando dinheiro da África do Sul para o Zimbábue](https://remittanceprices.worldbank.org/en/corridor/South-Africa/Zimbabwe), solicitado em 26 de abril de 2021
-[^61]: [BNY Mellon apoia o impulso global pela igualdade financeira de gênero](https://www.bnymellon.com/us/en/about-us/newsroom/company-news/bny_mellon_supports_a_global_push_for_financial_gender_equality.html)
-[^62]:[Jornal de Direito Internacional de Georgetown](https://www.law.georgetown.edu/international-law-journal/wp-content/uploads/sites/21/2018/08/4-Kenya-Report -508.pdf)
-[^63]: [Banco Mundial, Cobertura de ID Global, Barreiras e Uso pelos Números: Uma Análise Aprofundada da Pesquisa ID4D-Findex de 2017](https://globalfindex.worldbank.org/sites/globalfindex/files /chapters/2017%20Findex%20full%20report_chapter2.pdf)
-[^64]: [Banco Mundial, The Little Data Book on Financial Inclusion 2018](https://openknowledge.worldbank.org/bitstream/handle/10986/29654/LDB-FinInclusion2018.pdf)
-[^65]: [Banco Mundial, The Global Findex Database Measuring Financial Inclusion and the Fintech Revolution 2017](https://www.notion.so/Financial-Inclusion-feb3e3913cb042b9bc0ef525ad0f8272#f24c9e8d868e49fe9052c61ead55e080)
-[^66]: [William Stanley Jevons](https://en.wikipedia.org/wiki/William_Stanley_Jevons)
-[^67]: [Ryan Walker](https://www.coindesk.com/origins-money-darwin-evolution-cryptocurrency)
+[^56]: [Clifford Stoll](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306) https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306    
+[^57]: [Wikipedia, Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index) https://en.wikipedia.org/wiki/Democracy_Index  
+[^58]: [Fundo Monetário Internacional, Taxa de inflação](https://www.imf.org/external/datamapper/PCPIPCH@WEO/OEMDC/ADVEC/WEOWORLD) https://www.imf.org/external/datamapper/ PCPIPCH@WEO/OEMDC/ADVEC/WEOWORLD, solicitado em 26 de abril de 2021
+[^59]: [Volume de negociação em trocas de Bitcoin P2P em países subsaarianos de maio de 2020 a abril de 2021](https://www.usefultulips.org/combined_Sub%20Saharan%20Africa_Page.html) https://www.usefultulips.org/combined_Sub%20Saharan%20Africa_Page.html, solicitado em 26 de abril de 2021
+[^60]: [Banco Mundial, Enviando dinheiro da África do Sul para o Zimbábue](https://remittanceprices.worldbank.org/en/corridor/South-Africa/Zimbabwe) https://remittanceprices.worldbank.org/en/corridor/South-Africa/Zimbabwe, solicitado em 26 de abril de 2021
+[^61]: [BNY Mellon apoia o impulso global pela igualdade financeira de gênero](https://www.bnymellon.com/us/en/about-us/newsroom/company-news/bny_mellon_supports_a_global_push_for_financial_gender_equality.html) https://www.bnymellon.com/ us/en/about-us/newsroom/company-news/bny_mellon_supports_a_global_push_for_financial_gender_equality.html    
+[^62]:[Jornal de Direito Internacional de Georgetown](https://www.law.georgetown.edu/international-law-journal/wp-content/uploads/sites/21/2018/08/4-Kenya-Report-508.pdf) https://www.law.georgetown.edu/international-law-journal/wp-content/uploads/sites/21/2018/08/4-Kenya-Report-508.pdf    
+[^63]: [Banco Mundial, Cobertura de ID Global, Barreiras e Uso pelos Números: Uma Análise Aprofundada da Pesquisa ID4D-Findex de 2017](https://globalfindex.worldbank.org/sites/globalfindex/files /chapters/2017%20Findex%20full%20report_chapter2.pdf) https://globalfindex.worldbank.org/sites/globalfindex/ files/chapters/2017%20Findex%20full%20report_chapter2.pdf 
+[^64]: [Banco Mundial, The Little Data Book on Financial Inclusion 2018](https://openknowledge.worldbank.org/bitstream/handle/10986/29654/LDB-FinInclusion2018.pdf) https://openknowledge. worldbank.org/bitstream/handle/10986/29654/LDB-FinInclusion2018.pdf    
+[^65]: [Banco Mundial, The Global Findex Database Measuring Financial Inclusion and the Fintech Revolution 2017](https://www.notion.so/Financial-Inclusion-feb3e3913cb042b9bc0ef525ad0f8272#f24c9e8d868e49fe9052c61ead55e080) https://www.notion.so/Financial-Inclusion-feb3e3913cb042b9bc0ef525ad0f8272#f24c9e8d868e49fe9052c61ead55e080    
+[^66]: [William Stanley Jevons](https://en.wikipedia.org/wiki/William_Stanley_Jevons) https://en.wikipedia.org/wiki/William_Stanley_Jevons    
+[^66a]: [Source](https://en.wikipedia.org/wiki/Money) https://en.wikipedia.org/wiki/Money  
+[^67]: [Ryan Walker](https://www.coindesk.com/origins-money-darwin-evolution-cryptocurrency) https://www.coindesk.com/origins-money-darwin-evolution-cryptocurrency    

@@ -48,6 +48,7 @@ Em 2020, o banco de dados de marketing do fabricante francês de hardware Ledger
 Os ataques de phishing são tentativas de assustá-lo ou manipulá-lo para que você insira suas palavras iniciais no site do invasor. Por exemplo, você pode receber um e-mail dizendo: "Seu dispositivo foi corrompido ou desativado, visite este link e insira suas 12 palavras iniciais para salvar seus fundos". ou "Detectamos uma grande retirada da sua Ledger. Você tem 24 horas para responder para tornar esta transação válida. Lamentamos, mas não conseguimos entrar em contato com sua Ledger, parece estar corrompida. Vamos autorizar a retirada a menos que você comece o processo de recuperação, dê-nos suas 24 palavras-seed." ou "você recebeu um airdrop. O dinheiro está entrando em sua conta, tudo o que precisamos é de uma verificação, por favor, inicie seu processo de recuperação e nos dê suas 24 palavras iniciais."
 
 *Representação* [^70]
+{height: "70%"}
 ![E-mail de phishing](resources/_phishing-mail-ledger.png)
 Os atacantes tentam fazer você agir rápido sem pensar. Se você receber tal e-mail. Pare. Não faça nada. Como ninguém pode confiscar seu dinheiro, ninguém pode desativar remotamente sua carteira de hardware. Esse é o objetivo de uma moeda descentralizada como o bitcoin.
 
@@ -70,6 +71,7 @@ Se você configurar uma carteira de hardware, deverá enviar uma pequena quantid
 Depois disso, é aconselhável tomar as seguintes medidas de segurança para evitar que você perca sua seed. Quando as pessoas perdem o acesso aos seus fundos, é mais frequente porque perderam a sua seed ou cometeram um erro ao escrevê-la e não porque os seus dispositivos foram invadidos.
 
 **3**: Anote a semente três vezes
+
 **2**: Em pelo menos dois suportes diferentes (papel laminado, gravado ou estampado em aço) e guarde-o em local seguro para proteção contra incêndio, perda e roubo.
 
 **1**: além disso, armazene um backup em um local diferente, de preferência a pelo menos 100 quilômetros de distância.
@@ -105,7 +107,7 @@ Algumas carteiras usam mecanismos diferentes para o backup. Por exemplo, a carte
 ## Aprendendo fazendo
 Pode ser intimidante começar a usar Bitcoin porque é dinheiro real. É por isso que é uma boa prática começar com quantidades muito pequenas.
 
-Para suas primeiras tentativas, instale uma carteira em seu telefone, procure um [Bitcoin ATM](https://anita.link/atm) perto de você ou participe de um encontro local de Bitcoin e troque uma pequena quantia. Obtenha uma carteira para o seu computador e envie bitcoins entre suas duas carteiras para endereços diferentes.
+Para suas primeiras tentativas, instale uma carteira em seu telefone, procure um [Bitcoin ATM](https://anita.link/atm) https://anita.link/atm perto de você ou participe de um encontro local de Bitcoin e troque uma pequena quantia. Obtenha uma carteira para o seu computador e envie bitcoins entre suas duas carteiras para endereços diferentes.
 
 A melhor hora para fazer isso geralmente é no fim de semana, quando o Mempool não está lotado de transações e as taxas são mais baixas.
 
@@ -118,16 +120,14 @@ Antes de enviar uma grande quantia pela primeira vez, certifique-se de que o end
 
 Antes de guardar grandes quantias em uma nova carteira de hardware, você deve verificar a funcionalidade e a seed.
 
-Quando você configura o dispositivo inicialmente, ele cria a seed pra você e você anota à mão (além do fornecedor, modelo e versão do software). Depois, você usa o software do fornecedor (ou outro software como o Electrum) e cria o primeiro endereço Bitcoin em sua carteira de hardware clicando em "Receber". Em seguida, envie uma pequena quantia para ele da carteira do smartphone instalada anteriormente. Se a quantia na carteira de hardware chegou -status "confirmado" - o primeiro teste foi bem-sucedido.
+Quando você configura o dispositivo inicialmente, ele cria a seed pra você e você anota à mão (além do fornecedor, modelo e versão do software). Depois, você usa o software do fornecedor (ou outro software como o Electrum) e cria o primeiro endereço Bitcoin em sua carteira de hardware clicando em "Receber". Em seguida, envie uma pequena quantia para ele da carteira do smartphone instalada anteriormente. Se a quantia na carteira de hardware chegou - status "confirmado" - o primeiro teste foi bem-sucedido.
 
 Além disso, tente enviar da sua carteira de hardware para outra carteira. Por exemplo, você pode enviar uma pequena quantia para sua carteira de smartphone ou outro endereço de sua carteira de hardware. Não importa particularmente. O principal é que você também está testando um pagamento da carteira de hardware. Para fazer isso, você deve verificar o endereço de recebimento na carteira de hardware e confirmar o envio com um ou mais cliques diretamente na carteira de hardware. Essa confirmação manual no dispositivo torna as carteiras de hardware seguras, pois somente você pode pressionar os botões e ninguém pode pressionar os botões virtualmente pela Internet.
 
 **Restaure sua carteira**
-
 Em seguida, certifique-se de ter seu backup/seed! Depois, exclua todos os dados da sua carteira de hardware. Alguns fornecedores chamam isso de "redefinição de fábrica", "limpar" ou "redefinir o dispositivo". Sua carteira está vazia. Agora restaure seus fundos e carteira com a seed. Isso é chamado de "Restaurar da palavra de recuperação", "Restaurar carteira" ou "Importar seed". Em seguida, insira sua frase inicial no dispositivo de hardware. Se tudo estiver correto, a carteira é restaurada e você pode ver suas transações e saldo anteriores.
 
 **Atualizar firmware e software**
-
 Não basta bloquear o dispositivo. Você deve procurar atualizações para o software ou atualizações de firmware pelo menos a cada 6 meses. O espaço criptográfico está se movendo rapidamente e novos desenvolvimentos são integrados ao software de carteira regularmente.
 
 ## Smartphone perdido? Computador roubado?
@@ -140,5 +140,5 @@ Você deve instalar imediatamente uma nova carteira e importar a semente que man
 
 Se o seu dispositivo for corrompido, você segue os mesmos passos, mas não há necessidade de correr para mover as moedas. Basta restaurar a carteira de software e pronto.
 
-[^70]: Anita Posch
-[^71]: [Fonte @ElectrumWallet](https://twitter.com/ElectrumWallet/status/1144678604523147265?s=20)
+[^70]: Anita Posch  
+[^71]: [Fonte @ElectrumWallet](https://twitter.com/ElectrumWallet/status/1144678604523147265?s=20) https://twitter.com/ElectrumWallet/status/ 1144678604523147265?s=20  

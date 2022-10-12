@@ -17,6 +17,6 @@ In early 2017 she attended a talk about Bitcoin and open blockchain technology a
 
 Anita translated two volumes of "The Internet of Money" by Andreas M. Antonopoulos into German. Her research and activities around Bitcoin are discussed in media all over the world: Bitcoin Magazine, CoinDesk, What Bitcoin Did, Bayern2, Deutschlandfunk, Radio FM4, and ARD television, among others.
 
-Anita Posch regularly tweets on [https://twitter.com/anitaposch](https://twitter.com/anitaposch).
+Anita Posch regularly tweets on [https://twitter.com/anitaposch](https://twitter.com/anitaposch) https://twitter.com/anitaposch.
 
-You can find more about Anita on her website on [https://anitaposch.com](https://anitaposch.com), the Anita Posch show on [https://anita.link/show](https://anita.link/show), Anita's YouTube channel at [https://www.youtube.com/anitaposch](https://www.youtube.com/anitaposch), and information about this book on [https://learnbitcoin.link](https://learnbitcoin.link).
+You can find more about Anita on her website on [https://anitaposch.com](https://anitaposch.com)https://anitaposch.com, the Anita Posch show on [https://anita.link/show](https://anita.link/show)https://anita.link/show, Anita's YouTube channel at [https://www.youtube.com/anitaposch](https://www.youtube.com/anitaposch)https://www.youtube.com/anitaposch, and information about this book on [https://learnbitcoin.link](https://learnbitcoin.link)https://learnbitcoin.link.

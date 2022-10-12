@@ -29,5 +29,5 @@
 ***
 "Hoje, comprar bitcoin é mais fácil do que nunca. Armazenar seu próprio bitcoin a longo prazo e com segurança requer um mínimo de conhecimento técnico e econômico. Este livro fornece os fundamentos necessários para mantê-lo no controle de seu dinheiro. Onde quer que a jornada do Bitcoin nos leve, investir neste livro é uma vitória certa."
 **Johannes Grill, Presidente Bitcoin Áustria**  
-
+{pagebreak}
 

@@ -84,7 +84,7 @@ As pessoas dizem, por exemplo, que “toda transação polui” ou “a poluiç�
 
 Os mineradores de Bitcoin são movidos pelo lucro, então eles sempre procurarão a energia mais barata, que é renovável. Carvão e petróleo sempre serão mais caros do que energia hidrelétrica, geotérmica, gás encalhado, eólica e solar. Sem esquecer a nuclear, que também é uma opção que muitos contam como energia verde.
 
-Indiscutivelmente, os mineradores de Bitcoin estão usando energia desperdiçada. Falei com [Sébastien Gouspillou](https://anita.link/103) e [Philippe Bekhazi](https://anita.link/101) dois mineradores que usam energia hidrelétrica, que confirmaram as declarações acima.
+Indiscutivelmente, os mineradores de Bitcoin estão usando energia desperdiçada. Falei com [Sébastien Gouspillou](https://anita.link/103) https://anita.link/103 e [Philippe Bekhazi](https://anita.link/101) https://anita.link/101 dois mineradores que usam energia hidrelétrica, que confirmaram as declarações acima.
 
 **Mix de Energia da Produção de Eletricidade**
 
@@ -133,24 +133,24 @@ A rede Bitcoin protege ativos para cerca de 100 milhões de usuários globalment
 
 Aqui está uma conclusão, conforme colocado pela ARK Invest: "Ao contrário do pensamento consensual, acreditamos que o impacto ambiental da mineração de bitcoin é minimo. As energias renováveis, particularmente a energia hidrelétrica, representam uma grande porcentagem do mix de energia do bitcoin. Nic Carter, observou que, em sua busca pela forma mais barata de eletricidade, os mineradores continuarão a migrar para regiões que oferecem excesso de eletricidade renovável, desbloqueando ativos de energia ociosos como 'compradores de eletricidade de último recurso, criando uma demanda base altamente móvel para quaisquer fontes de eletricidade capazes de produzir a preços inferiores aos dos produtores atuais, independentemente da localização.». Como resultado, do ponto de vista climático, a mineração de bitcoin pode ser um resultado líquido positivo." [^55]
 
-[^35]: [Fonte Newsweek, 11/12/2017](https://www.newsweek.com/bitcoin-mining-track-consume-worlds-energy-2020-744036)
-[^36]: [Fonte Cambridge Center for Alternative Finance, março de 2021](https://cbeci.org/cbeci/comparisons/)
-[^37]: [Cambridge Center for Alternative Finance](https://cbeci.org/cbeci/comparisons/)
-[^38]: [Fonte de fluxograma de energia, Lawrence Livermore National Laboratory](https://flowcharts.llnl.gov/)
-[^39]: [Conner Brown, Bitcoin: a bold american future](https://journal.bitcoinreserve.com/bitcoin-a-bold-american-future/)
-[^40]: [Cambridge Center for Alternative Finance, março de 2021](https://cbeci.org/cbeci/comparisons/)
-[^41]: [Fonte, ARK Invest, mitos Bitcoin](https://ark-invest.com/articles/analyst-research/bitcoin-myths/)
-[^42]: [ARK Invest Bitcoin mitos](https://ark-invest.com/articles/analyst-research/bitcoin-myths/)
-[^43]: [Fonte Statista](https://www.statista.com/statistics/881541/bitcoin-energy-consumption-transaction-comparison-visa/)
-[^44]: [Fonte Statista](https://www.statista.com/statistics/279308/average-credit-card-transaction-value-worldwide/)
-[^45]: [Fonte BitInfoCharts](https://bitinfocharts.com/comparison/bitcoin-transactionvalue.html#1y)
-[^46]: [Fonte do Federal Reserve Services](https://frbservices.org/resources/financial-services/wires/volume-value-stats/monthly-stats.html)
-[^47]: Anita Posch
-[^48]: [Caitlin Long](https://twitter.com/CaitlinLong\_/status/1384925713648734212?s=20)
-[^49]:[CoinShares, Bitcoin Mining Whitepaper 2019](https://coinshares.com/research/bitcoin-mining-network-december-2019)
-[^50]: [Fonte: Hass McCook](https://bitcoinmagazine.com/business/what-elon-musk-gets-wrong-about-bitcoin)
-[^51]: [Comunicação da natureza](https://www.nature.com/articles/s41467-021-22256-3)
-[^52]: [Nic Carter, On Bitcoin, the Grey Lady Embraces Climate Lysenkoism](https://medium.com/@nic__carter/on-bitcoin-the-gray-lady-embraces-climate-lysenkoism-a2d31e465ec0)
-[^53]: [Fonte de emissões anuais de gases de efeito estufa, Hass McCook, junho de 2021](https://bitcoinmagazine.com/culture/bitcoin-vs-world-military-emissions)
-[^54]: [Fonte Statista](https://www.statista.com/chart/18359/estimated-military-carbon-dioxide-emissions/)
-[^55]: [ARK Invest Bitcoin mitos](https://ark-invest.com/articles/analyst-research/bitcoin-myths/)
+[^35]: [Source Newsweek, 12/11/2017](https://www.newsweek.com/bitcoin-mining-track-consume-worlds-energy-2020-744036) https://www.newsweek.com/bitcoin-mining-track-consume-worlds-energy-2020-744036    
+[^36]: [Cambridge Center for Alternative Finance, March 2021](https://cbeci.org/cbeci/comparisons/) https://cbeci.org/cbeci/ comparisons   
+[^37]: [Cambridge Center for Alternative Finance](https://cbeci.org/cbeci/comparisons/) https://cbeci.org/cbeci/comparisons/    
+[^38]: [Source Energy Flow Chart, Lawrence Livermore National Laboratory](https://flowcharts.llnl.gov/)  https://flowcharts.llnl.gov/  
+[^39]: [Conner Brown, Bitcoin: a bold american future](https://journal.bitcoinreserve.com/bitcoin-a-bold-american-future/) https://journal.bitcoinreserve.com/bitcoin-a-bold-american-future/    
+[^40]: [Cambridge Center for Alternative Finance, March 2021](https://cbeci.org/cbeci/comparisons/)  https://cbeci.org/cbeci/comparisons/    
+[^41]: [Source, ARK Invest, Bitcoin myths](https://ark-invest.com/articles/analyst-research/bitcoin-myths/) https://ark-invest.com/articles/analyst-research/bitcoin-myths/    
+[^42]: [ARK Invest Bitcoin myths](https://ark-invest.com/articles/analyst-research/bitcoin-myths/) https://ark-invest.com/articles/analyst-research/bitcoin-myths/    
+[^43]: [Source Statista](https://www.statista.com/statistics/881541/bitcoin-energy-consumption-transaction-comparison-visa/) https://www.statista.com/statistics/881541/bitcoin-energy-consumption-transaction-comparison-visa/    
+[^44]: [Source Statista](https://www.statista.com/statistics/279308/average-credit-card-transaction-value-worldwide/) https://www.statista.com/statistics/279308/average-credit-card-transaction-value-worldwide/    
+[^45]: [Source BitInfoCharts](https://bitinfocharts.com/comparison/bitcoin-transactionvalue.html#1y) https://bitinfocharts.com/comparison/bitcoin-transactionvalue.html#1y    
+[^46]: [Source The Federal Reserve Services](https://frbservices.org/resources/financial-services/wires/volume-value-stats/monthly-stats.html) https://frbservices.org/resources/financial-services/wires/volume-value-stats/monthly-stats.html    
+[^47]: Anita Posch  
+[^48]: [Caitlin Long](https://twitter.com/CaitlinLong\_/status/1384925713648734212?s=20) https://twitter.com/CaitlinLong\_/status/1384925713648734212?s=20    
+[^49]:[CoinShares, Bitcoin Mining Whitepaper 2019](https://coinshares.com/research/bitcoin-mining-network-december-2019) https://coinshares.com/research/bitcoin-mining-network-december-2019    
+[^50]: [Source: Hass McCook](https://bitcoinmagazine.com/business/what-elon-musk-gets-wrong-about-bitcoin) https://bitcoinmagazine.com/business/what-elon-musk-gets-wrong-about-bitcoin    
+[^51]: [Nature communications](https://www.nature.com/articles/s41467-021-22256-3) https://www.nature.com/articles/s41467-021-22256-3    
+[^52]: [Nic Carter, On Bitcoin, the Gray Lady Embraces Climate Lysenkoism](https://medium.com/@nic__carter/on-bitcoin-the-gray-lady-embraces-climate-lysenkoism-a2d31e465ec0) https://medium.com/@nic__carter/on-bitcoin-the-gray-lady-embraces-climate-lysenkoism-a2d31e465ec0    
+[^53]: [Source Annual Greenhouse Gas Emissions, Hass McCook, June 2021](https://bitcoinmagazine.com/culture/bitcoin-vs-world-military-emissions) https://bitcoinmagazine.com/culture/bitcoin-vs-world-military-emissions    
+[^54]: [Source Statista](https://www.statista.com/chart/18359/estimated-military-carbon-dioxide-emissions/) https://www.statista.com/chart/18359/estimated-military-carbon-dioxide-emissions/  
+[^55]: [ARK Invest Bitcoin myths](https://ark-invest.com/articles/analyst-research/bitcoin-myths/) https://ark-invest.com/articles/analyst-research/bitcoin-myths/    

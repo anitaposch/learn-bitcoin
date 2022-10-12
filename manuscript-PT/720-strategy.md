@@ -6,18 +6,18 @@ Existe uma maneira muito boa de evitar a volatilidade do bitcoin ao usá-lo como
 ### Crie um Plano de Aportes
 Adquira uma pequena quantia de bitcoin periodicamente - todos os dias/semanas/mês. Isso também é conhecido como preço médio em dólar (dollar cost averaging - DCA) - ou preço médio fiduciário (fiat cost averaging - FCA). Ao espaçar suas compras, você equilibra a volatilidade do preço do bitcoin por um longo período de tempo.
 
-Em sites como o [Bitcoin Dollar Cost Average](https://www.bitcoindollarcostaverage.com/) você pode calcular as diferenças de retornos para várias estratégias de compra.
+Em sites como o [Bitcoin Dollar Cost Average](https://www.bitcoindollarcostaverage.com/) você pode calcular as diferenças de retornos para várias estratégias de compra (https://www.bitcoindollarcostaverage.com/).
 
 **Serviços FCA somente Bitcoin**
 
-Áustria, Alemanha: [Coinfinity](https://coinfinity.co/sparplan/?ref=6716)
-França: [SackinSat](https://www.stackinsat.com/)
-Europa: [Relai](https://relai.ch/)
-Reino Unido: [Coincorner](https://www.coincorner.com/), [xsats](https://xsats.com/)
-Austrália: [Bitaroo](https://support.bitaroo.com.au/hc/en-au/articles/360042838874-Recurring-Buy-DCA-), [Amber App](https://amber.app/)
-Canadá: [Bull Bitcoin](https://bullbitcoin.com/)
-Nigéria: [Bitnob](https://bitnob.com/)
-EUA: [Swan Bitcoin](https://www.swanbitcoin.com/), [River](https://river.com/)
+Áustria, Alemanha: [Coinfinity](https://coinfinity.co/sparplan/?ref=6716) https://coinfinity.co/sparplan/?ref=6716
+França:  [StackinSat](https://www.stackinsat.com/) https://www.stackinsat.com
+Europa: [Relai](https://relai.ch/) https://relai.ch
+Reino Unido: [Coincorner](https://www.coincorner.com/) https://www.coincorner.com, [xsats](https://xsats.com/) https://xsats.com
+Austrália: [Bitaroo](https://support.bitaroo.com.au/hc/en-au/articles/360042838874-Recurring-Buy-DCA-) https://bitaroo.com, [Amber App](https://amber.app/) https://amber.app
+Canadá: [Bull Bitcoin](https://bullbitcoin.com/) https://bullbitcoin.com
+Nigéria: [Bitnob](https://bitnob.com/) https://bitnob.com
+EUA: [Swan Bitcoin](https://www.swanbitcoin.com/) https://swanbitcoin.com, [River](https://river.com/) https://river.com
 
 ### Negociação
 Existem inúmeros especialistas em negociação on-line que dizem aos iniciantes como "ler o mercado" e prever o movimento do preço do bitcoin. Eles tentam vendê-lo software de negociação e seminários. Pare. Não gaste seu tempo e dinheiro tentando fazer isso. Você não pode cronometrar o mercado. Os grandes jogadores vão te liquidar. Além disso, você pagará muitas taxas de negociação e lembre-se de que talvez seja necessário rastrear todos os movimentos de negociação por motivos fiscais. Em alguns países, seus ganhos em bitcoin são isentos de impostos se você não trocar as moedas por 12 meses. Cada negociação pode ser um novo evento tributável.
@@ -34,4 +34,4 @@ Se você comprou Bitcoin em 2011 e guardou você está muito rico agora. Isso é
 ### Impostos
 Não sou consultor fiscal, mas o que posso dizer é que conheça os regulamentos e os requisitos fiscais da sua jurisdição. A blockchain do Bitcoin é transparente e cada vez mais autoridades fiscais exigirão que as exchanges entreguem seus dados comerciais. Guarde os comprovantes de suas compras caso as autoridades comecem a investigar.
 
-[^73]: [Fonte BitcoinTalk](https://bitcointalk.org/index.php?topic=170725.0)
+[^73]: [Fonte BitcoinTalk](https://bitcointalk.org/index.php?topic=170725.0) https://bitcointalk.org/index.php?topic=170725.0  

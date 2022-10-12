@@ -29,20 +29,21 @@ Como alternativa, você pode usar uma empresa chamada Casa e suas soluções mul
 
 **Carteiras móveis**
 Para iOS e Android
-* [Blockstream Green](https://blockstream.com/green/) (Bitcoin sem custódia, Liquid)
-* [Breez Wallet](https://breez.technology/) (Lightning sem custódia)
-* Se você quiser usar Bitcoin e micropagamentos na Lightning Network:
-* [Muun Wallet](https://muun.com/) (Bitcoin e Lightning sem custódia)
-* [Blue Wallet](https://bluewallet.io/) (Bitcoin sem custódia e custódia da Lightning)
-* [Electrum](https://electrum.org) (Bitcoin e Lightning sem custódia, para usuários mais experientes em tecnologia)
+* [Blockstream Green](https://blockstream.com/green/) (Bitcoin sem custódia, Liquid) https://blockstream.com/green
+* [Breez Wallet](https://breez.technology/) (Lightning sem custódia) https://breez.technology
+
+Se você quiser usar Bitcoin e micropagamentos na Lightning Network:
+* [Muun Wallet](https://muun.com/) (Bitcoin e Lightning sem custódia) https://muun.com
+* [Blue Wallet](https://bluewallet.io/) (Bitcoin sem custódia e custódia da Lightning) https://bluewallet.io
+* [Electrum](https://electrum.org) (Bitcoin e Lightning sem custódia, para usuários mais experientes em tecnologia) https://electrum.org
 
 **Carteiras de computador**
 Devido aos riscos de segurança mencionados acima, não uso carteiras de software em meu computador, exceto quando as uso em combinação com carteiras de hardware. Para isso, utilizo a Sparrow ou o software nativo do fabricante do hardware.
 
-* [Blockstream Green](https://blockstream.com/green/) (Bitcoin sem custódia, Liquid)
-* [Blue Wallet](https://bluewallet.io/) (Bitcoin sem custódia e custódia da Lightning)
-* [Sparrow](https://sparrowwallet.com/) (Bitcoin sem custódia)
-* [Electrum](https://electrum.org) (Bitcoin e Lightning sem custódia, para usuários mais experientes em tecnologia)
+* [Blockstream Green](https://blockstream.com/green/) (Bitcoin sem custódia, Liquid) https://blockstream.com/green
+* [Blue Wallet](https://bluewallet.io/) (Bitcoin sem custódia e custódia da Lightning) https://bluewallet.io
+* [Sparrow](https://sparrowwallet.com/) (Bitcoin sem custódia) https://sparrowwallet.com
+* [Electrum](https://electrum.org) (Bitcoin e Lightning sem custódia, para usuários mais experientes em tecnologia) https://electrum.org
 
 ### Armazenamento Frio (Cold Wallets)
 
@@ -52,10 +53,10 @@ As carteiras de hardware gerenciam suas moedas, endereços bitcoin e chaves priv
 
 Os seguintes fabricantes e dispositivos se estabeleceram recentemente no mercado de carteiras de hardware nos últimos anos. A SatoshiLabs de Praga produz carteiras de hardware desde 2012. A empresa Ledger de Paris foi fundada em 2014. SHIFT Cryptosecurity de Zurique está no mercado desde 2015 e a empresa canadense Coinkite está no espaço Bitcoin desde 2012.
 
-* Edição somente bitcoin BitBox02 https://anita.link/bitbox02 (meus leitores ganham 5% de desconto) - SHIFT Cryptosecurity
-* Trezor One, Modelo T https://anita.link/trezor - SatoshiLabs
-* Ledger Nano S, Nano X https://anita.link/ledger - Ledger
-* Coldcard (para usuários experientes em tecnologia) https://anita.link/coldcard - Coinkite
+* [Edição somente bitcoin BitBox02](https://anita.link/bitbox02) (meus leitores ganham 5% de desconto) - SHIFT Cryptosecurity https://anita.link/bitbox02
+* [Trezor One, Modelo T](https://anita.link/trezor) - SatoshiLabs https://anita.link/trezor
+* [Ledger Nano S, Nano X](https://anita.link/ledger) - Ledger https://anita.link/ledger
+* [Coldcard (para usuários experientes em tecnologia)](https://anita.link/coldcard) - Coinkite https://anita.link/coldcard
 
 O Coldcard é diferente dos outros modelos porque é um dispositivo air-gapped - pode ser usado sem nunca estar conectado a um computador. É por isso que algumas pessoas se referem a ele como armazenamento a frio, sendo ainda mais seguro. Para iniciantes, recomendo um dos três primeiros dispositivos.
 
@@ -64,7 +65,6 @@ Nunca compre uma carteira de hardware de estranhos no eBay ou Amazon e, claro, n
 Além do dispositivo, o fornecedor fornece software de carteira para gerenciar suas moedas. Por questões de privacidade, muitos usuários pegam a carteira do fornecedor apenas para fazer a inicialização e backup do dispositivo (anotar a seed) e para atualizações de firmware. Depois disso, eles usam uma carteira como a Electrum para gerenciar as moedas.
 
 **Carteiras off-line**
-
 **Carteira de papel**
 
 Na internet, você encontrará recomendações para usar carteiras de papel. Eles são endereços bitcoin autogerados com suas chaves privadas e públicas que você pode imprimir em papel. Como você mesmo os gera e imprime, não precisa gastar dinheiro com eles. Mas, eles são difíceis de gerar com segurança. As medidas de segurança que você precisa tomar são extremamente altas. **Aconselho não usá-los**.

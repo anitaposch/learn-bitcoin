@@ -13,15 +13,16 @@ Não? Então, novamente, a Card Wallet é a escolha certa para você. Você não
 
 *Semelhante à sua conta bancária*: use uma carteira de hardware. As carteiras de hardware são muito procuradas nas altas do Bitcoin e muitas vezes esgotadas (lembre-se disso em sua organização).
 
-Existe um [ajudante estendido no site Bitcoin.org](https://bitcoin.org/en/choose-your-wallet), que você também pode usar. Ele o guiará pela seleção com base no sistema operacional (móvel, desktop, carteira de hardware) que você escolher.
+Existe um [ajudante estendido no site Bitcoin.org](https://bitcoin.org/en/choose-your-wallet) https://bitcoin.org/en/choose-your-wallet, que você também pode usar. Ele o guiará pela seleção com base no sistema operacional (móvel, desktop, carteira de hardware) que você escolher.
 
 ### Etapa 2 - Faça um backup de suas chaves
-Anote a seed mnemônica - 12 a 24 palavras em inglês, o nome, tipo e versão do software de sua carteira e guarde-os em um local seguro (capítulo 5.3).
+Anote a seed mnemônica - 12 a 24 palavras em inglês, o nome, tipo e versão do software de sua carteira e guarde-os em um local seguro.
 
 ### Passo 3 - Compre Bitcoin
-A maioria das carteiras inclui a capacidade de comprar bitcoin diretamente em sua interface. Os fabricantes de carteiras estão cooperando com as exchanges, que em troca pagam uma comissão. Se eu precisar usar uma exchange, prefiro selecionar uma anterior e externamente da carteira. Dessa forma, fico independente do tipo de carteira, posso usar essa exchange para enviar bitcoin para todas as minhas diferentes carteiras e só tenho que deixar meus dados KYC nessa troca, reduzindo o risco de violações de dados. Usar métodos não custodiais e sem KYC (capítulo 7.3) é ainda melhor.
+A maioria das carteiras inclui a capacidade de comprar bitcoin diretamente em sua interface. Os fabricantes de carteiras estão cooperando com as exchanges, que em troca pagam uma comissão. Se eu precisar usar uma exchange, prefiro selecionar uma anterior e externamente da carteira. Dessa forma, fico independente do tipo de carteira, posso usar essa exchange para enviar bitcoin para todas as minhas diferentes carteiras e só tenho que deixar meus dados KYC nessa troca, reduzindo o risco de violações de dados. Usar métodos não custodiais e sem KYC é ainda melhor.
 
 *Representação* [^72]
+{height: "70%"}
 ![Como obter bitcoin](resources/_Buying-methods.png)
 
 [^72]: Anita Posch

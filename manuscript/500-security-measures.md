@@ -107,7 +107,7 @@ Some wallets use different mechanisms for the backup. For instance, the Muun wal
 ## Learning by Doing
 It can be intimidating to start using Bitcoin because it's real money. That is why it is a good practice to start with very small amounts.
 
-For your first attempts, install a wallet on your phone, search for a [Bitcoin ATM](https://anita.link/atm) anita.link/atm close to you or attend a local Bitcoin meet-up and exchange a small amount. Get a wallet for your computer and send bitcoin in between your two wallets to different addresses.
+For your first attempts, install a wallet on your phone, search for a [Bitcoin ATM](https://anita.link/atm) https://anita.link/atm close to you or attend a local Bitcoin meet-up and exchange a small amount. Get a wallet for your computer and send bitcoin in between your two wallets to different addresses.
 
 The best time to do this is usually on the weekend when the Mempool is not packed with transactions and the fees are lower.
 
@@ -120,7 +120,7 @@ Before you send a large amount for the first time, make sure that the address is
 
 Before you save large amounts on a new hardware wallet, you should check the functionality and the seed.
 
-When you set up the device initially, it creates the seed for you that you write down by hand (additionally the vendor, model and software version). Afterwards, you use the vendor software (or another software such as Electrum) and create the first Bitcoin address in your hardware wallet by clicking on "Receive". Then send a small amount to it from your previously installed smartphone wallet. If the amount on the hardware wallet has arrived -status "confirmed" - the first test was successful.
+When you set up the device initially, it creates the seed for you that you write down by hand (additionally the vendor, model and software version). Afterwards, you use the vendor software (or another software such as Electrum) and create the first Bitcoin address in your hardware wallet by clicking on "Receive". Then send a small amount to it from your previously installed smartphone wallet. If the amount on the hardware wallet has arrived - status "confirmed" - the first test was successful.
 
 Also, try sending from your hardware wallet to another wallet. For example, you can send a small amount to your smartphone wallet or another address of your hardware wallet. It doesn't particularly matter. The main thing is that you are testing a payment from the hardware wallet too. To do this you must check the receiving address on the hardware wallet and confirm sending with one or more clicks directly on the hardware wallet. This manual confirmation on the device makes hardware wallets secure as only you can press the buttons and no one can hit the buttons virtually over the internet.
 
