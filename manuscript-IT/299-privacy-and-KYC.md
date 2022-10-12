@@ -1,6 +1,6 @@
 ### Privacy nell’Era Digitale
 
-Bitcoin è pseudonimo. Ciò significa che il tuo wallet e i tuoi indirizzi Bitcoin non sono legati alla tua identità dato che non vengono conservati né il tuo nome, né il tuo indirizzo di residenza né il tuo indirizzo IP.
+Bitcoin è pseudoanonimo. Ciò significa che il tuo wallet e i tuoi indirizzi Bitcoin non sono legati alla tua identità dato che non vengono conservati né il tuo nome, né il tuo indirizzo di residenza né il tuo indirizzo IP.
 
 Un’eccezione a questa regola avviene nel caso della creazione di un conto presso un exchange centralizzato che permette scambi da fiat a bitcoin. In questo caso viene normalmente richiesta una prova di identità ai fini della registrazione, come per le banche tradizionali. In certe circostanze, gli uffici di riscossione fiscale e le agenzie governative possono obbligare gli exchange a consegnare i tuoi dati identificativi e i contestuali indirizzi Bitcoin.
 

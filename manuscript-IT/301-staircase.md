@@ -35,7 +35,7 @@ Idealmente, sorpassi il primo piano e procedi al secondo il più velocemente pos
 
 Da qui in avanti, i prossimi step si rivolgono agli utenti con esperienza. Ti garantiscono ancor più sovranità, privacy e controllo sui tuoi bitcoin.
 
-**Terzo piano**: mantieni totale sovranità sui tuoi fondi connettendo il tuo wallet hardware col tuo nodo pieno. Con questo setup, non solo puoi visionare e ricevere informazioni in merito alle tue transazioni, ma anche verificare i blocchi minati e le transazioni senza affidarti a parti terze. Non necessiti più di fidarti di nessuno, e hai un alto livello di privacy e controllo. **"You are your own bank"**, sei la tua banca, e hai ora raggiunto il livello **"Don't trust, verify"**.
+**Terzo piano**: mantieni totale sovranità sui tuoi fondi connettendo il tuo wallet hardware col tuo nodo Bitcoin. Con questo setup, non solo puoi visionare e ricevere informazioni in merito alle tue transazioni, ma anche verificare i blocchi minati e le transazioni senza affidarti a parti terze. Non necessiti più di fidarti di nessuno, e hai un alto livello di privacy e controllo. **"You are your own bank"**, sei la tua banca, e hai ora raggiunto il livello **"Don't trust, verify"**.
 
 Puoi eventualmente aumentare maggiormente le misure di sicurezza e d’indipendenza rimanendo disconnesso dalla rete Internet, con setup multi-firma, ed altro ancora.
 
