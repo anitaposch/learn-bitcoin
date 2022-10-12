@@ -1,4 +1,4 @@
-1ª edição, 30 de Junho 2022
+1ª edição, 15 de Outubro 2022
 
 Autora: Anita Posch
 
