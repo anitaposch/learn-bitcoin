@@ -29,7 +29,7 @@ São pessoas em regiões como África e América do Sul que impulsionarão a ado
 Esta tabela do Fundo Monetário Internacional mostra a variação anual dos preços ao consumidor em porcentagem.
 
 *Representação* [^58]
-{height: "70%"}
+{height: "50%"}
 ![Taxa de inflação, preços médios ao consumidor, variação anual em %](resources/_inflation-2021.png)
 
 * A Venezuela teve aumentos de preços de 5.500%. O sofrimento do povo é simplesmente incompreensível.
@@ -115,15 +115,12 @@ De acordo com Jevons, o Bitcoin só é dinheiro se cumprir essas funções: [^66
 3. Meio de conta - é usado como medida de preços, custos e lucros
 
 **1. Reserva de valor**
-
 Os críticos dizem que o bitcoin não é uma reserva de valor devido à sua volatilidade e potencial para perdas de curto prazo. Bem, como expus no capítulo 3.1, a longo prazo esse não é realmente o caso. Além disso, questiono a definição de "estável ao longo do tempo". Qual é o período de tempo? A inflação em moeda fiduciária na Áustria foi de 20% na última década. Todas as outras moedas fiduciárias, como o Euro, são reservas de valor igualmente não confiáveis por esse motivo.
 
 **2. Meio de troca**
-
 Você pode usar bitcoin como meio de troca, se quiser. Sim, há apenas um pequeno número de empresas, serviços e restaurantes que aceitam bitcoin como pagamento no momento da redação. Mas, para fazer isso, você pode usar diferentes ferramentas e serviços que você pode preencher com bitcoin e gastar em moeda fiduciária. Além disso, existem muitas empresas dentro do espaço que já aceitam e pagam salários em bitcoin também.
 
 **3. Meio da conta**
-
 O dinheiro fiduciário é obrigado a ser o meio de conta por lei. Simplesmente não temos escolha. Bitcoin é baseado em uso voluntário, é opt-in; se especularmos que o valor está subindo, não vamos gastá-lo. Como a volatilidade do bitcoin se torna menor ao longo do tempo, um dia o valor atingirá um patamar e as pessoas começarão a gastar bitcoin. Ainda antes disso, mais e mais empresas começarão a aceitar o bitcoin, pois confiarão que ele não perde valor, mas valoriza.
 
 Uma nova forma de dinheiro que não é imposta a nós, mas é um opt-in, tem que passar por certas etapas nessa ordem: primeiro, tem que se tornar uma reserva de valor, então a confiança tem que ser construída, então as pessoas vão usá-lo como meio de troca. Só então será usado como meio de conta.
@@ -142,7 +139,7 @@ Isso mostra o grau em que o ouro, a moeda fiduciária e as moedas criptográfica
 
 Como você pode ver, o Bitcoin vai além da estrutura tradicional do que é dinheiro. Está evoluindo para uma dimensão completamente nova do que o dinheiro pode fazer e de quais aplicativos serão construídos no futuro.
 
-[^56]: [Clifford Stoll](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306) https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306    
+[^56]: [Clifford Stoll](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306) https://www.newsweek.com/ clifford-stoll-why-web-wont-be-nirvana-185306    
 [^57]: [Wikipedia, Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index) https://en.wikipedia.org/wiki/Democracy_Index  
 [^58]: [Fundo Monetário Internacional, Taxa de inflação](https://www.imf.org/external/datamapper/PCPIPCH@WEO/OEMDC/ADVEC/WEOWORLD) https://www.imf.org/external/datamapper/ PCPIPCH@WEO/OEMDC/ADVEC/WEOWORLD, solicitado em 26 de abril de 2021
 [^59]: [Volume de negociação em trocas de Bitcoin P2P em países subsaarianos de maio de 2020 a abril de 2021](https://www.usefultulips.org/combined_Sub%20Saharan%20Africa_Page.html) https://www.usefultulips.org/combined_Sub%20Saharan%20Africa_Page.html, solicitado em 26 de abril de 2021
@@ -150,8 +147,8 @@ Como você pode ver, o Bitcoin vai além da estrutura tradicional do que é dinh
 [^61]: [BNY Mellon apoia o impulso global pela igualdade financeira de gênero](https://www.bnymellon.com/us/en/about-us/newsroom/company-news/bny_mellon_supports_a_global_push_for_financial_gender_equality.html) https://www.bnymellon.com/ us/en/about-us/newsroom/company-news/bny_mellon_supports_a_global_push_for_financial_gender_equality.html    
 [^62]:[Jornal de Direito Internacional de Georgetown](https://www.law.georgetown.edu/international-law-journal/wp-content/uploads/sites/21/2018/08/4-Kenya-Report-508.pdf) https://www.law.georgetown.edu/international-law-journal/wp-content/uploads/sites/21/2018/08/4-Kenya-Report-508.pdf    
 [^63]: [Banco Mundial, Cobertura de ID Global, Barreiras e Uso pelos Números: Uma Análise Aprofundada da Pesquisa ID4D-Findex de 2017](https://globalfindex.worldbank.org/sites/globalfindex/files /chapters/2017%20Findex%20full%20report_chapter2.pdf) https://globalfindex.worldbank.org/sites/globalfindex/ files/chapters/2017%20Findex%20full%20report_chapter2.pdf 
-[^64]: [Banco Mundial, The Little Data Book on Financial Inclusion 2018](https://openknowledge.worldbank.org/bitstream/handle/10986/29654/LDB-FinInclusion2018.pdf) https://openknowledge. worldbank.org/bitstream/handle/10986/29654/LDB-FinInclusion2018.pdf    
-[^65]: [Banco Mundial, The Global Findex Database Measuring Financial Inclusion and the Fintech Revolution 2017](https://www.notion.so/Financial-Inclusion-feb3e3913cb042b9bc0ef525ad0f8272#f24c9e8d868e49fe9052c61ead55e080) https://www.notion.so/Financial-Inclusion-feb3e3913cb042b9bc0ef525ad0f8272#f24c9e8d868e49fe9052c61ead55e080    
+[^64]: [Banco Mundial, The Little Data Book on Financial Inclusion 2018](https://openknowledge.worldbank.org/bitstream/handle/10986/29654/LDB-FinInclusion2018.pdf) https://openknowledge.  worldbank.org/bitstream/handle/10986/29654/LDB-FinInclusion2018.pdf    
+[^65]: [Banco Mundial, The Global Findex Database Measuring Financial Inclusion and the Fintech Revolution 2017](https://www.notion.so/Financial-Inclusion-feb3e3913cb042b9bc0ef525ad0f8272#f24c9e8d868e49fe9052c61ead55e080) https://www.notion.so/ Financial-Inclusion-feb3e3913cb042b9bc0ef525ad0f8272#f24c9e8d868e49fe9052c61ead55e080    
 [^66]: [William Stanley Jevons](https://en.wikipedia.org/wiki/William_Stanley_Jevons) https://en.wikipedia.org/wiki/William_Stanley_Jevons    
 [^66a]: [Source](https://en.wikipedia.org/wiki/Money) https://en.wikipedia.org/wiki/Money  
 [^67]: [Ryan Walker](https://www.coindesk.com/origins-money-darwin-evolution-cryptocurrency) https://www.coindesk.com/origins-money-darwin-evolution-cryptocurrency    

@@ -16,6 +16,6 @@ No início de 2017, ela participou de uma palestra sobre Bitcoin e tecnologia bl
 
 Anita traduziu dois volumes de "A Internet do Dinheiro" de Andreas M. Antonopoulos para o alemão. Suas pesquisas e atividades em torno do Bitcoin são discutidas na mídia de todo o mundo: Bitcoin Magazine, CoinDesk, What Bitcoin Did, Bayern2, Deutschlandfunk, Radio FM4 e ARD television, entre outros.
 
-Anita Posch tuíta regularmente em [https://twitter.com/anitaposch](https://twitter.com/anitaposch) https://twitter.com/anitaposch.
+Anita Posch tuíta regularmente em [https://twitter.com/anitaposch](https://twitter.com/anitaposch).
 
-Você pode encontrar mais sobre Anita em seu site em [https://anitaposch.com](https://anitaposch.com)https://anitaposch.com, o programa Anita Posch em [https://anita.link/show](https://anita.link/show)https://anita.link/show, o canal de Anita no YouTube em [https://www.youtube.com/anitaposch](https://www.youtube.com/anitaposch)https://www.youtube.com/anitaposch e informações sobre este livro em [https://learnbitcoin.link](https://learnbitcoin.link)https://learnbitcoin.link.
+Você pode encontrar mais sobre Anita em seu site em [https://anitaposch.com](https://anitaposch.com), o programa Anita Posch em [https://anita.link/show](https://anita.link/show), o canal de Anita no YouTube em [https://www.youtube.com/anitaposch](https://www.youtube.com/anitaposch) e informações sobre este livro em [https://learnbitcoin.link](https://learnbitcoin.link).

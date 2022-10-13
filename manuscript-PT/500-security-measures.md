@@ -48,7 +48,7 @@ Em 2020, o banco de dados de marketing do fabricante francês de hardware Ledger
 Os ataques de phishing são tentativas de assustá-lo ou manipulá-lo para que você insira suas palavras iniciais no site do invasor. Por exemplo, você pode receber um e-mail dizendo: "Seu dispositivo foi corrompido ou desativado, visite este link e insira suas 12 palavras iniciais para salvar seus fundos". ou "Detectamos uma grande retirada da sua Ledger. Você tem 24 horas para responder para tornar esta transação válida. Lamentamos, mas não conseguimos entrar em contato com sua Ledger, parece estar corrompida. Vamos autorizar a retirada a menos que você comece o processo de recuperação, dê-nos suas 24 palavras-seed." ou "você recebeu um airdrop. O dinheiro está entrando em sua conta, tudo o que precisamos é de uma verificação, por favor, inicie seu processo de recuperação e nos dê suas 24 palavras iniciais."
 
 *Representação* [^70]
-{height: "70%"}
+{height: "50%"}
 ![E-mail de phishing](resources/_phishing-mail-ledger.png)
 Os atacantes tentam fazer você agir rápido sem pensar. Se você receber tal e-mail. Pare. Não faça nada. Como ninguém pode confiscar seu dinheiro, ninguém pode desativar remotamente sua carteira de hardware. Esse é o objetivo de uma moeda descentralizada como o bitcoin.
 
@@ -141,4 +141,4 @@ Você deve instalar imediatamente uma nova carteira e importar a semente que man
 Se o seu dispositivo for corrompido, você segue os mesmos passos, mas não há necessidade de correr para mover as moedas. Basta restaurar a carteira de software e pronto.
 
 [^70]: Anita Posch  
-[^71]: [Fonte @ElectrumWallet](https://twitter.com/ElectrumWallet/status/1144678604523147265?s=20) https://twitter.com/ElectrumWallet/status/ 1144678604523147265?s=20  
+[^71]: [Fonte @ElectrumWallet](https://twitter.com/ElectrumWallet/status/1144678604523147265?s=20) https://twitter.com/ElectrumWallet/status/  1144678604523147265?s=20  

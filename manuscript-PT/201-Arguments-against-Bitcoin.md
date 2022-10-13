@@ -113,7 +113,7 @@ Embora seja verdade que os pools de mineração possam se concentrar em áreas o
 
 A ramificação, o hard-fork de 2017, entre Bitcoin e Bitcoin Cash é um segundo exemplo de como o Bitcoin é autorregulado. Mineradores e grandes exchanges queriam aumentar o tamanho do bloco de cada bloco Bitcoin para obter um maior número de transação por bloco. A comunidade de operadores de nós e usuários de Bitcoin não queria alterar o tamanho do bloco porque pessoas com menor largura de banda seriam prejudicadas. Em vez disso, eles optaram por soluções de 2ª camada, como a Lightning Network, para resolver esse problema. Isso resultou na "guerra dos blocos", onde mineradores e grandes empresas tentaram forçar as mudanças na rede. Isso resultou em um hard-fork: Bitcoin dividido em Bitcoin e Bitcoin Cash. Quatro anos depois, o Bitcoin Cash está quase esquecido, enquanto o Bitcoin é a maior criptomoeda. Isso mostra que os mineradores não têm mais poder do que outros usuários.
 
-[^27]: [Source Charlie Bilello](https://twitter.com/charliebilello/status/1370722188739891202/photo/1) https://twitter.com/charliebilello/status/1370722188739891202/photo/1  
+[^27]: [Source Charlie Bilello](https://twitter.com/charliebilello/status/1370722188739891202/photo/1) https://twitter.com/charliebilello/status/ 1370722188739891202/photo/1  
 [^28]: [Source CoinGecko](https://www.coingecko.com/en/coins/bitcoin/usd) https://www.coingecko.com/en/coins/bitcoin/usd, June 7, 2021  
 [^29]: [Source Pladizow](https://twitter.com/Pladizow/status/1358545292782497792/photo/1) https://twitter.com/Pladizow/status/1358545292782497792/photo/1  
 [^30]: [Source CoinGecko](https://www.coingecko.com/en/coins/bitcoin/usd) https://www.coingecko.com/en/coins/bitcoin/usd, June 7, 2021  
