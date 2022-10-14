@@ -22,8 +22,7 @@ Anote a seed mnemônica - 12 a 24 palavras em inglês, o nome, tipo e versão do
 A maioria das carteiras inclui a capacidade de comprar bitcoin diretamente em sua interface. Os fabricantes de carteiras estão cooperando com as exchanges, que em troca pagam uma comissão. Se eu precisar usar uma exchange, prefiro selecionar uma anterior e externamente da carteira. Dessa forma, fico independente do tipo de carteira, posso usar essa exchange para enviar bitcoin para todas as minhas diferentes carteiras e só tenho que deixar meus dados KYC nessa troca, reduzindo o risco de violações de dados. Usar métodos não custodiais e sem KYC é ainda melhor.
 
 *Representação* [^72]
-
-{height: "70%"}
+{height: "40%"}
 ![Como obter bitcoin](resources/_Buying-methods.png)
 
 [^72]: Anita Posch

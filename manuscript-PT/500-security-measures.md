@@ -141,4 +141,4 @@ Você deve instalar imediatamente uma nova carteira e importar a semente que man
 Se o seu dispositivo for corrompido, você segue os mesmos passos, mas não há necessidade de correr para mover as moedas. Basta restaurar a carteira de software e pronto.
 
 [^70]: Anita Posch  
-[^71]: [Fonte @ElectrumWallet](https://twitter.com/ElectrumWallet/status/1144678604523147265?s=20) https://twitter.com/ElectrumWallet/status/  1144678604523147265?s=20  
+[^71]: [Fonte @ElectrumWallet](https://twitter.com/ElectrumWallet/status/1144678604523147265?s=20) https://twitter.com/   ElectrumWallet/status/  1144678604523147265?s=20  
