@@ -29,6 +29,7 @@ A oferta total de bitcoin é limitada a 21 milhões, dos quais 18,7 milhões já
 Em maio de 2021, cerca de 36 milhões de dólares (número de bitcoins cunhados diariamente * preço) devem fluir para o mercado de Bitcoin todos os dias para manter o preço atual de 40.000 dólares estável. Sempre que o preço cai, menos bitcoins foram trocados do que estavam disponíveis naquele dia e vice-versa.
 
 As datas dessas reduções estão anotadas no gráfico abaixo. O preço segue padrões semelhantes antes e depois de cada halving. Neste gráfico, o topo do bitcoin está previsto para setembro de 2021, após o qual o preço deve cair novamente, como você pode ver nas linhas de grade marcadas "Low". Claro, esta é apenas uma previsão baseada em alguns eventos e números históricos. Não podemos tomar isso como uma ocorrência certa no futuro.
+{pagebreak}
 
 *Representação* [^29]
 ![Ciclos de preço do Halving](resources/_Halving-Price-cycles-by-Pladizow.png)
