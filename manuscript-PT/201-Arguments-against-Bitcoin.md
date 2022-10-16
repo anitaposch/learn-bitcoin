@@ -64,14 +64,14 @@ _Não consigo comprar um bitcoin, é muito caro._
 
 Tudo bem, você não precisa. Não há orçamento mínimo necessário para usar bitcoin. Um bitcoin é divisível em unidades extremamente pequenas, muito menores que um centavo. Você pode comprar uma fração de bitcoin e começar a brincar com 20 dólares ou menos.
 
-Você também pode ganhar bitcoin, mas vou falar mais sobre isso no capítulo 9 "Ganhar Bitcoin".
+Você também pode ganhar bitcoin, mas vou falar mais sobre isso no capítulo "Ganhar Bitcoin".
 
 ### Bitcoin falhará como as primeiras empresas da Internet
 
 _Bitcoin é uma nova tecnologia. É o primeiro de seu tipo. Quando comparamos isso com as primeiras empresas de computadores na década de 1980 ou com as plataformas de internet do boom das pontocom, quase nenhuma sobreviveu. Bitcoin foi o primeiro blockchain do mercado, pode seguir o mesmo caminho._
     
 Bitcoin tem sido a criptomoeda mais usada no mundo desde que se originou em 2009. Concordo, não há garantias de que continuará assim. O domínio de mercado do Bitcoin era superior a 80% até 2017. O que significa que, de todos os milhares de criptomoedas no mercado, mais de 80% de todos os investimentos foram realizados em Bitcoin. Isso mudou em 2017-18, quando houve uma "guerra" entre diferentes ideias sobre como o Bitcoin como tecnologia deveria avançar. O debate sobre o tamanho do bloco terminou com um hard fork, onde o blockchain do Bitcoin se dividiu em dois forks: Bitcoin (BTC) e Bitcoin Cash (BCH). Naquela época, outros projetos de criptomoedas como o Ethereum ganharam importância. Quatro anos depois, o BCH caiu constantemente em insignificância em comparação com o BTC. O Bitcoin manteve seu domínio com mais de 60% até a atual corrida de touros, onde caiu para 40% no momento da redação. Uma corrida de touros resulta em mais atenção do mainstream, o que leva a muitos artigos de mídia desinformados e, quando certos bilionários adicionam rumores e especulações à mistura, as altcoins são colocadas em foco.
-
+{pagebreak}
 *Representação* [^31]
 ![Porcentagem da capitalização de mercado total](resources/_Market-dominance.png)
 
@@ -91,7 +91,7 @@ Essas exchanges centralizadas precisam verificar sua identidade antes que você 
 Cerca de 1,3% da população mundial tinha conta em uma exchange de criptomoedas no final de 2020, um crescimento de quase 190% entre 2018 e 2020. Ainda assim, pode-se argumentar que isso não é muito. No entanto, para uma classe de ativos completamente nova e dinheiro que se originou como um movimento de base sem uma empresa ou marketing por trás dele, o Bitcoin se desenvolveu a ponto de ser amplamente conhecido, discutido e usado por mais de 100 milhões de pessoas em todo o mundo.
 
 *Representação* [^33]
-{height: "50%"}
+{height: "40%"}
 ![Respondentes que disseram que usaram ou possuíam criptomoedas em 2020](resources/_users_around-world.png)
 
 Este é o resultado de uma pesquisa em países selecionados mostrando que 32% da população nigeriana usou ou possui criptomoeda. Lembre-se de que a população nigeriana tem, em média, 19 anos, em comparação com os 38 dos EUA e a idade média da Alemanha de 44 anos. Eles são jovens, querem trabalhar, são conhecedores de tecnologia e valorizam as criptomoedas, apesar de sua volatilidade, porque sua própria moeda nacional Naira está perdendo 25% de seu valor por ano.

@@ -29,7 +29,7 @@ São pessoas em regiões como África e América do Sul que impulsionarão a ado
 Esta tabela do Fundo Monetário Internacional mostra a variação anual dos preços ao consumidor em porcentagem.
 
 *Representação* [^58]
-{height: "50%"}
+{height: "30%"}
 ![Taxa de inflação, preços médios ao consumidor, variação anual em %](resources/_inflation-2021.png)
 
 * A Venezuela teve aumentos de preços de 5.500%. O sofrimento do povo é simplesmente incompreensível.
