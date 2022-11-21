@@ -1,3 +1,18 @@
+Page Title
+Learn Bitcoin with Anita Posch
+
+SEO Description:
+(L)earn Bitcoin is a concise and understandable book. It enables you to safely use, store and save bitcoin. 
+
+ebook woocommerce: Short description
+
+A concise and approachable Bitcoin book for beginners introducing the why and how of bitcoin investing and using the leading cryptocurrency. This Bitcoin standard book provides the knowledge and tools to safely navigate the internet of money. The masterful organization and flow from one subject area to the next actually make Bitcoin simple to understand. The book breaks down what has taken most Bitcoiners years to learn into a quick read.
+
+Delivery: This ebook is delivered in two open and accessible formats: EPUB and MOBI (Kindle). Each file can be downloaded after your purchase and re-downloaded whenever you want. Importantly all two files are free of any encumbrances such as Digital Rights Management (DRM) so you can fully own the book you buy.
+Return policy: Given the nature of downloadable digital items, we do not generally offer a refund or credit on a purchase of digital items.
+
+
+
 -   [Author](https://learnbitcoin.link/#author)  
  -   [Introduction](https://learnbitcoin.link/#intro)  
  -   [Testimonials](https://learnbitcoin.link/#recommendation)  
@@ -24,7 +39,8 @@ This is neither financial advice, nor a trading guide to the thousands of Altcoi
 
 ## Recommended by
 
-[Anita Posch](https://anitaposch.com/) is a Bitcoin advocate, author and host of the Anita Posch show. She is the executive director of Bitcoin for Fairness - an educational non-profit initiative.  
+[Anita Posch](https://anitaposch.com/) is a 
+
 
 Bitcoin is money from the people, for the people. Its mathematical rules can't be corrupted - neither by governments nor by billionaires. This guarantees a level of fairness which cannot be achieved in traditional human driven systems. It gives underprivileged individuals, such as people from developing nations, women, and oppressed minority groups, the chance to participate globally in a free and private manner with each other. This freedom to exchange value, unleashing people's creativity and innovation, is what drives Anita Posch.
 
