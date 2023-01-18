@@ -1,0 +1,13 @@
+# Intshayelelo
+> "Ukubhala intshayelelo yencwadi elungiselwe uwonke-wonke kunzima kakhulu. Akukho mizekelo ndinokuyisebenzisa."-**Satoshi Nakamoto**
+
+I-(L)earn Bitcoin yincwadi esisikhokelo engenantanga enokunceda xa ufuna ukwazi nzulu nge-Bitcoin. Inika iinkcaza egcweleyo nge-Bitcoin, ukusuka kubuchwepheshe obufunekayo, utshintsho elwenzayo kuqoqosho, kwezopolitiko nakwintlalo yabantu kunye nendlela eyitshintsha ngayo indlela esetyenziswa ngayo imali kule mihla. Inika isicwangciso esinamanqanaba ngamanqanaba okusebenzisa olu hlobo lutsha lwemali ize ikunike neengcebiso ngeendlela zokufumana, ukwenza kunye nokuzigcinela i-bitcoin. Ukuzinza ngokwezimali kukwenza ukuba ungaxhomekeki mntwini kwaye ukwazi ukuzilawulela imali yakho. 
+
+Le ncwadi ikunika inkcaza evakalayo ngokuba yintoni na imali, ivela phi, yaqala nini, ubuxhaka-xhaka be-blockchain kunye ne-Bitcoin uqobo. Ikunika ingcaciso ngokuba kutheni kufuneka usebenzise i-Bitcoin nokuba isetyenziswa njani na, ngeli thuba icacisa nezinye izinto ezingoyonyani ezithe ndi-i malunga neemali eziyi-crypto. Ndikwakunika nengcaciso ngendlela ekhule ngayo i-Bitcoin ukususela oko yaqala ngo-2008 ndize ndikuxelele nangobuchwepheshe obusezayo obuza kusetyenziswa kwimali esekelwe kwi-Bitcoin.
+
+Nangona nje amajelo eendaba amakhulu kunye noosoqoqosho baseNtshona becinga ukuba i-Bitcoin yimali engenakuthenjwa, injongo zam kukufundisa abantu nge-Bitcoin ndibacacisele ukuba ibangela ukuba icandelo lezimali lingabinabantu libadlela indlala futhi nangotshintsho eluzisayo eluntwini. Into ekungathethwayo ngayo yindlela eluncedo ngayo into yokuba kubekho imali engafuni mvume yamntu, engalawulwa mntu, eyimali eku-intanethi engenzeli dolo bani futhi nehlala ikho.
+
+Kweza zahluko zokugqibela, ndiza kugxininisa kubuxhaka-xhaka obusetyenziswayo bokunaniselana nge-Bitcoin (BTC) kunye nendlela onokuyifumana wakugqiba uyigcine ngayo. Nawe uza kufunda ukukwazi ukuzisebenzisela ngomzimba ongenaxhala uqale ngemalana encinci, nokuba ungakuthintela njani ukuba ube lixhoba loonqevu baka-intanethi ndize ndigqithe apho, kodwa ndingashiyelelanga nto futhi ndingashiyanga mntu ngasemva, ndinyathele umba wokuzibekela imali ozenzela yona elugcinweni, ihlale ixesha elide. 
+
+Le ncwadi ayikuniki zingcebiso ngezimali okanye isikhokelo sokurhweba ngezabelo usebenzisa ezi ntlobo zemali zika-intanethi zikhoyo zigcwele indawo yonke. Ukuba wena ufuna indlela yokuzenzela imali ngokukhawuleza, wakugqiba uyitye uyiqwele ngomzuzwana, ndiyakucebisa, ungazihluphi ngokufunda le ncwadi. Le ncwadi yeyabantu abafuna ukuxhamla nokufunda baze bayiqonde imigaqo esisiseko ye-Bitcoin baze bakwazi ukuzilawulela imali yabo ngokwabo njengabantu abanamagunya namalungelo agcweleyo.
+
