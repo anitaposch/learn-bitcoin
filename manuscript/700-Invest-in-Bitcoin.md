@@ -88,8 +88,6 @@ To buy bitcoin without user identification you can:
 * use decentralized exchanges like
 * [Hodlhodl](https://hodlhodl.com) https://hodlhodl.com
 * [Bisq](https://bisq.network/) https://bisq.network/
-* [LocalCoinSwap](https://localcoinswap.com/buy-sell/BTC) https://localcoinswap.com/buy-sell/BTC
-* [LocalCryptos](https://localcryptos.com/Bitcoin) https://localcryptos.com/Bitcoin
 * [Sovryn](https://live.sovryn.app) https://live.sovryn.app
 
 Exchange sources: https://kycnot.me/,  

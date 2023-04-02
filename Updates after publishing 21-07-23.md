@@ -1,3 +1,8 @@
+----
+230402
+
+700-Invest-in-Bitcoin
+deleted Localcoinswap, Localcryptos
 
 ----
 in 100-evolution-money.md last paragraph changed defence to defense
