@@ -29,14 +29,12 @@ Just to name a few examples of Bitcoin brokers:
 You can visit one of the many Bitcoin meet-ups around the world, connect with fellow Bitcoiners and ask them to sell you some bitcoin for cash. In many countries, people meet in Telegram or Facebook groups to find peers to exchange in person.
 
 ### Peer-to-Peer Online Purchase
-The world's leading P2P exchanges
-* [LocalBitcoins](https://localbitcoins.com) https://localbitcoins.com
+The world's leading P2P exchange
 * [Paxful](https://paxful.com/) https://paxful.com
 
 ### Bitcoin ATMs
 A Bitcoin ATM is a machine similar to an ATM, where you can buy bitcoin and other cryptocurrencies with cash. The advantage of Bitcoin ATMs is that you get your bitcoin instantly and in many places, up to a certain threshold, without KYC/AML identification. But be careful as many ATM operators charge above average fees.
 
-* [Bitcoin ATM Map](https://bitcoinatmmap.com/) https://bitcoinatmmap.com
 * [Bitrawr ATMs](https://www.bitrawr.com/bitcoin-atms) https://bitrawr.com/bitcoin-atms
 * [CoinATM Radar](https://coinatmradar.com/) https://coinatmradar.com
 
@@ -45,7 +43,6 @@ In Austria for example, it is possible to buy ‘Bitcoinbon’ gift cards at pet
 
 * [Azteco](https://azte.co/) https://azte.co
 * [Bitcoinbon](http://www.bitcoinbon.at/) https://bitcoinbon.at
-* [Bitpanda to go](https://www.bitpanda.com/de/togo) https://bitpanda.com/de/togo
 * [Coincola](https://www.coincola.com/buy-bitcoin/gift-cards) https://www.coincola.com/buy-bitcoin/gift-cards
 * [Paxful](https://paxful.com/buy-bitcoin?group=gift-cards&hasScroll=true) https://paxful.com
 

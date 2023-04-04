@@ -1,8 +1,14 @@
+
 ----
 230402
 
 700-Invest-in-Bitcoin
-deleted Localcoinswap, Localcryptos
+deleted 
+Localcoinswap
+Localcryptos
+LocalBitcoins
+BitcoinAtmmap
+Bitpanda to go
 
 ----
 in 100-evolution-money.md last paragraph changed defence to defense
