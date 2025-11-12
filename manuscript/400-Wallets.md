@@ -37,6 +37,10 @@ If you want to use both - Bitcoin and micro-payments on the Lightning Network - 
 * [Blue Wallet](https://bluewallet.io/) (Bitcoin non-custodial and Lightning custodial) https://bluewallet.io
 * [Electrum](https://electrum.org) (Bitcoin and Lightning non-custodial, for more tech-savvy users) https://electrum.org
 
+**Browser Wallets**
+For Chrome and Firefox
+* [Alby](https://getalby.com/) (Lightning non-custodial/ custodial) https://getalby.com/ Alby brings Bitcoin payments to the web with in-browser payments and identity. You can connect the Alby custodial wallet or your private Lightning wallet and use the Alby extension in a non-custodial way.
+
 **Desktop Wallets**
 Because of the security risks stated above, I don't use software wallets on my computer, except for when I use them in combination with hardware wallets. For this, I use Sparrow or the hardware manufacturer's native software.
 
@@ -56,7 +60,7 @@ The following manufacturers and devices have recently established themselves in 
 * [Trezor One, Model T](https://anita.link/trezor) - SatoshiLabs https://anita.link/trezor
 * [Ledger Nano S, Nano X](https://anita.link/ledger) - Ledger https://anita.link/ledger
 * [Coldcard (for tech-savvy users)](https://anita.link/coldcard) - Coinkite https://anita.link/coldcard
- 
+
 The Coldcard is different to the other models because it is an air-gapped device - it can be used without ever being connected to a computer. That's why some people refer to it as cold-cold storage, being even more secure. For novices, I recommend one of the first three company's devices.
 
 Never buy a hardware wallet from strangers on eBay or Amazon, and of course, don't buy it second hand. Always purchase it directly from the manufacturer's website, the manufacturer's Amazon page or a dealer you trust. Make sure that the device is sealed as stated on the manufacturer's website. Most of the recommended devices above have tamper-evident packaging to make sure that the device is used for the first time and has not been manipulated. Ledger deliberately chooses not to use anti-tamper seals on its packaging because they can potentially be counterfeited. Genuine Ledger devices contain a secure chip that prevents physical tampering and allows users to verify the software and hardware integrity using Ledger's guides. In any case: no manufacturer is sending the seed with the device!
