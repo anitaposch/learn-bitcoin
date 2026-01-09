@@ -45,7 +45,7 @@ Because of the security risks stated above, I don't use software wallets on my c
 * [Sparrow](https://sparrowwallet.com/) (Bitcoin non-custodial) https://sparrowwallet.com
 * [Electrum](https://electrum.org) (Bitcoin and Lightning non-custodial, for more tech-savvy users) https://electrum.org
 
-NOTE: Update Jan 2026 Start
+--NOTE: Update Jan 2026 Start--
 
 ### Cold Storage
 **Hardware Devices**
@@ -75,7 +75,7 @@ When purchasing online, your payment data will be associated with the supplier. 
 
 In addition to the device, the vendors provide wallet software to manage your coins on your computer or mobile. For privacy reasons, some users prefer to use the vendor's wallet only for initial setup and maintenance, such as recording their seed phrase (your wallet's recovery words) and updating firmware, and then use a more secure wallet like Sparrow or Electrum to manage their transactions. 
 
-NOTE: Update Jan 2026 End
+--NOTE: Update Jan 2026 End--
 
 **Offline wallets**
 
